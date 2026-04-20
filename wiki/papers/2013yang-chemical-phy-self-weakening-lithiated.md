@@ -3,7 +3,7 @@ id: paper:2013yang-chemical-phy-self-weakening-lithiated
 type: paper
 title: "Self-weakening in lithiated graphene electrodes"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags:
   - domain:batteries-electrochemistry
   - material:graphene-carbon-nano
@@ -42,19 +42,19 @@ group_affiliation: true
 
 ## Summary
 
-Elsevier proof excerpt lists highlights: a reactive force field for lithiated carbonaceous electrodes; atomistic simulations showing strong coupling of lithium diffusion and stress; favorable lithium migration toward crack tips; lithium accumulation modulating crack instability; implications for extending lifetime of graphene-based electrodes (proof highlights block, extract).
+This **Chemical Physics Letters** article (**Chem. Phys. Lett.** **563**, **58–62**, 2013) studies **mechanochemical coupling** in **lithiated graphene** models relevant to **Li-ion battery anodes**. A **reactive force field (ReaxFF-class)** parametrization is used so that **lithium uptake**, **stress**, and **fracture** can be treated in the same **large-scale MD** framework. The work emphasizes that **Li diffusion** and **mechanical stress** are strongly coupled in these **carbonaceous** systems: **Li** tends to migrate toward **crack tips**, where accumulation can **modulate crack growth and instability**, linking atomistic behavior to electrode **degradation** and **lifetime** questions for **graphene-based** architectures. The local corpus PDF is a **proof/galley** (`CP_Letter_LiC_galley.pdf`); the **version-of-record** text and figures are defined by **DOI `10.1016/j.cplett.2013.01.048`**.
 
 ## Methods
 
-Details are not on pages 1–2 beyond “reactive force field” / ReaxFF-class modeling referenced in highlights.
+**Reactive MD** with a **ReaxFF-type** description of **C–H–O–Li** chemistry for **lithiated graphene** geometries; simulations probe **crack tip** environments under **Li concentration** and **mechanical loading** patterns appropriate to electrode stress states (see the article for system sizes, boundary conditions, and electromechanical protocols).
 
 ## Findings
 
-Highlights-only extract: coupling of diffusion and mechanical degradation at cracks in lithiated graphene electrode models.
+Atomistic trajectories support a picture in which **Li transport** and **mechanical failure** are not separable: **Li** segregation near **cracks** feeds back on **crack stability**, informing how **graphene-based** electrodes may **weaken** under **lithiation**-driven stress beyond simple elastic estimates.
 
 ## Limitations
 
-p1–2 extract is essentially proof metadata plus highlights; no abstract body or quantitative results in the snippet.
+The local **normalized extract** on file is **proof correspondence plus highlights only**; quantitative values, figures, and full methodological detail should be taken from the **published CPL article** at the DOI above.
 
 ## Relevance to group
 

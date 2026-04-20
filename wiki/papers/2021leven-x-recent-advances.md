@@ -48,27 +48,27 @@ group_affiliation: true
 
 ## Summary
 
-Accepted-manuscript / proof PDF of the JCTC **Perspective** surveying accuracy, transferability, and efficiency improvements for **ReaxFF-class** reactive models—covering charge-equilibration fixes, explicit-electron extensions, energy-conservation concerns, hybrid reactive/nonreactive strategies, and HPC-oriented accelerations (extended Lagrangian charge dynamics, preconditioning, LAMMPS integration).
+**Corpus note:** this slug registers the **accepted proof PDF** (`papers/Leven_JCTC_2021_proof.pdf`). The **same JCTC Perspective** is summarized on **`[[2021itai-leven-j-chem-theor-recent-advances]]`** (`papers/Leven_JCTC_2021.pdf`). That review surveys improvements to **reactive force fields** with emphasis on **ReaxFF**: **charge-equilibration** reformulations to curb unphysical long-range charge transfer, **explicit-electron (eReaxFF)** directions, **energy-conservation** fixes, **hybrid reactive/nonreactive** embeddings for large systems and electrochemical-like setups, and **algorithmic acceleration** (extended Lagrangian charge dynamics, preconditioners, **LAMMPS** integration). It is a **citation-rich overview** rather than a single new benchmark study.
 
 ## Methods
 
-Review article; same scope as [[2021itai-leven-j-chem-theor-recent-advances]].
+**Literature synthesis** with conceptual explanation of modeling families; not one experimental or simulation campaign—mirrors **`[[2021itai-leven-j-chem-theor-recent-advances]]`**.
 
 ## Findings
 
-Editorial content matches the published article; minor formatting differences vs the publisher PDF possible.
+Frames weaknesses of classical **EEM/QEq** within **ReaxFF** and summarizes mitigations from collaborating groups; text should match the VOR aside from **pagination** and **layout**.
 
 ## Limitations
 
-Prefer the official `Leven_JCTC_2021.pdf` or the DOI landing page for authoritative pagination.
+Use **`[[2021itai-leven-j-chem-theor-recent-advances]]`** or the **DOI** for authoritative **page numbers**.
 
 ## Relevance to group
 
-Reference copy of the perspective alongside the journal-formatted file.
+Reference copy of the **Head-Gordon / van Duin** perspective alongside the journal-formatted PDF.
 
 ## Citations and evidence anchors
 
-Primary entry: [[2021itai-leven-j-chem-theor-recent-advances]]. https://doi.org/10.1021/acs.jctc.1c00118
+Primary entry: **`[[2021itai-leven-j-chem-theor-recent-advances]]`**. https://doi.org/10.1021/acs.jctc.1c00118
 
 ## Related topics
 

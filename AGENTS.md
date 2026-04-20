@@ -87,6 +87,8 @@ The same markdown is published via **MkDocs** (see `mkdocs.yml`). Conventions:
 
 **Website vs `normalized/` (MAS spine):** Standalone reader prose for each publication belongs in **`wiki/papers/*.md`** only. Files under **`normalized/papers/*.json`** carry **bibliography, manifest hashes, extraction pointers, optional `claims`, and `entities_mentioned`** for pipelines and retrieval. **Do not** mirror long wiki narratives into JSON or treat JSON as the public-facing article summary. When improving website text, edit the wiki; update normalized records for **metadata corrections** or **structured fields** the MAS layer actually consumes.
 
+**Corpus PDF roles:** Some manifests register **SI PDFs**, **galley/proof duplicates**, or **workflow fragments** alongside a **version-of-record article** PDF. Maintainer catalog: [`docs/corpus/NON_PRIMARY_ARTICLE_PAPER_SLUGS.md`](docs/corpus/NON_PRIMARY_ARTICLE_PAPER_SLUGS.md). Wiki pages for those slugs should still carry **standalone explanatory prose** (what the file is, and where the canonical science lives).
+
 ### Scientific claims must trace to publications (`paper` pages)
 
 - Prose in **`## Summary`**, **`## Methods`**, **`## Findings`**, and related sections must be **faithful summaries of the cited work** identified by `doi`, `title`, and `pdf_path` in front matter (and optional text in `normalized/extracts/` / `normalized/papers/` when those sources were used to draft the note).

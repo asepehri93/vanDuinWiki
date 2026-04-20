@@ -48,28 +48,29 @@ group_affiliation: true
 
 ## Summary
 
-**Galley proof** PDF for **Yoon et al.** (**ACS Nano**, **ReaxFF** **graphene** **ion irradiation**). Content mirrors the published study: **ReaxFF** captures **dynamic** defect production and **post-anneal** **coalescence** into **nanopores**, with experimental **STEM** comparisons for **He\(^+\)** and **Ne\(^+\)** campaigns. Proof watermarking appears in extraction but **scientific substance** aligns with the **final** article.
+**Corpus note:** this slug registers the **ACS Nano galley / proof PDF** (`papers/Yoon_ACSNano_galley_proof.pdf`). The **same article** is summarized from the **final PDF** on **`[[2016yoon-venue-nn6b03036]]`** (`papers/Yoon_ACSNano_2016.pdf`). **ReaxFF MD** simulates **noble gas ion** bombardment of **graphene** followed by **annealing**, linking **dose**, **ion species**, and **energy** to **defect** populations and **nanopore** formation. Post-irradiation **relaxation** allows **vacancy-like** defects to **coalesce**; heavier ions and higher doses produce larger pores, consistent with **aberration-corrected STEM** and **helium ion microscopy** trends from **ORNL** collaborators. Defect statistics distinguish **Stone–Thrower–Wales** dominance under **He\(^+\)** vs **monovacancies** for heavier ions.
 
 ## Methods
 
-- **Reactive MD** protocols as described in the **methods** section of this proof—cross-check figure/table numbering against **final** layout.
+**Reactive MD** with **ReaxFF** including dynamical **collision** cascades and subsequent **thermal** treatment; correlative **electron microscopy** benchmarks as described in the published article—see **`[[2016yoon-venue-nn6b03036]]`** for figure-stable references.
 
 ## Findings
 
-- **Dose** and **ion mass** trends for **defect density**/**pore size** summarized in the **abstract**.
+**Simulation** and **experiment** broadly agree on **dose-dependent** damage evolution and **amorphization** at high dose; mechanistic vignettes include **Frenkel** pair evolution into **STW** defects and competing **healing** pathways.
 
 ## Limitations
 
-- **Proof** may include placeholder **dates**/pagination; cite the **version of record** for archival references.
+**Proof** PDFs may show **placeholder pagination**; cite **`[[2016yoon-venue-nn6b03036]]`** for the **version of record**.
 
 ## Relevance to group
 
-Alternate **manifest** hash for the same **van Duin**/**ORNL** **graphene** irradiation publication track.
+Alternate **manifest** path for the **van Duin** / **ORNL** **graphene ion irradiation** article.
 
 ## Citations and evidence anchors
 
-- **DOI:** `https://doi.org/10.1021/acsnano.6b03036` (`papers/Yoon_ACSNano_galley_proof.pdf`).
+- **DOI:** `https://doi.org/10.1021/acsnano.6b03036` — galley: `papers/Yoon_ACSNano_galley_proof.pdf`; VOR: `papers/Yoon_ACSNano_2016.pdf`.
 
 ## Related topics
 
+- [[2016yoon-venue-nn6b03036]]
 - [[reaxff-family]]

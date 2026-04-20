@@ -3,7 +3,7 @@ id: paper:2014islam-venue-rsc-cp
 type: paper
 title: "ReaxFF molecular dynamics simulations on lithiated sulfur cathode materials"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags:
   - domain:batteries-electrochemistry
   - material:sulfur-cathode
@@ -44,30 +44,31 @@ group_affiliation: true
 
 ## Summary
 
-Royal Society of Chemistry author proof for the PCCP article also ingested as `paper:2014islam-physical-che-reaxff-molecular`. Opening pages are dominated by proof queries; the visible title and partial abstract confirm the lithiated sulfur cathode ReaxFF MD study with the same author team and DOI `10.1039/c4cp04532g` (proof header, extract).
+**Corpus note:** this slug registers the **RSC author-proof PDF** (`papers/Islam_PCCP_LiS_proof.pdf`). The **same scientific article** is summarized in full on **`[[2014islam-physical-che-reaxff-molecular]]`**, which uses the **journal article PDF** (`papers/Islam_PCCP_LiS_2014.pdf`). The work develops a **ReaxFF** parametrization for **Li–S** chemistry to run **MD** of **amorphous lithiated sulfur** (**a-LiₓS**) and relate **lithiation** to **mechanical moduli** (ultimate stress, yield, Young’s modulus) and **ionic transport**. It combines **diffusion** data for **Li** and **S**, **GCMC**-based **open-circuit voltage** trends, and **genetic-algorithm**-assisted **binary phase diagram** construction to frame **Li–S cathode** thermodynamics and mechanics.
 
 ## Methods
 
-See the published PCCP entry for methodology; not reprinted in the proof-first pages of this extract.
+**New ReaxFF potential** for **Li–S** interactions; **MD** sampling of mechanical properties and diffusion; **GCMC** for **OCV**; **GA** tools for **phase diagram** assembly—aligned with the published PCCP article (see **`[[2014islam-physical-che-reaxff-molecular]]`** for file-level detail).
 
 ## Findings
 
-See sibling paper page for scientific results; proof extract lacks abstract body beyond short fragments.
+The study reports **nonlinear strengthening** with lithiation, **computed diffusivities** across Li loading, a constructed **OCV discharge profile**, and a compiled **phase diagram** that organizes sulfur cathode design trade-offs—again mirroring the VOR page above.
 
 ## Limitations
 
-p1–2 extract is editorial queries plus abbreviated article start—low confidence for standalone reading.
+This proof PDF is useful for **version control** in the corpus; **pagination, figures, and editorial fixes** follow the **final PCCP** issue. Prefer **`[[2014islam-physical-che-reaxff-molecular]]`** for primary curation.
 
 ## Relevance to group
 
-Duplicate proof bundle for the Li–S ReaxFF parameterization paper co-led by van Duin.
+Duplicate proof bundle for the **Li–S ReaxFF** parameterization paper co-led by **van Duin**.
 
 ## Citations and evidence anchors
 
-- Proof metadata: PCCP paper `c4cp04532g`, DOI `10.1039/c4cp04532g` (extract).
-- Cross-reference: `paper:2014islam-physical-che-reaxff-molecular` full text PDF.
+- DOI **10.1039/c4cp04532g** — same as **`[[2014islam-physical-che-reaxff-molecular]]`**.
+- Proof path: `papers/Islam_PCCP_LiS_proof.pdf`; VOR path: `papers/Islam_PCCP_LiS_2014.pdf`.
 
 ## Related topics
 
+- [[2014islam-physical-che-reaxff-molecular]]
 - [[reaxff-family]]
 - [[batteries-interfaces-reaxff]]

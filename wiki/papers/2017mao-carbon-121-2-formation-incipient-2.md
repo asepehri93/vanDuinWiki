@@ -38,28 +38,29 @@ group_affiliation: true
 
 ## Summary
 
-This entry registers a second **PDF** byte match for the **Carbon** **2017** **ReaxFF** soot **nucleation** study (**Mao**, **van Duin**, **Luo**) under `papers/QianMao_Carbon_Soot_2017.pdf`. Scientific content duplicates the parallel manifest line: **PAH**-dependent **physical** vs **chemical** clustering, **high-temperature** **C/H** growth, and **bridged**/**fullerene-like** particle morphologies described in the **abstract**.
+**Corpus note:** this slug registers a second **PDF** path (`papers/QianMao_Carbon_Soot_2017.pdf`) for the same **Carbon (2017)** **ReaxFF** study as **`[[2017mao-carbon-121-2-formation-incipient]]`** (`papers/Mao_Qian_Carbon_soot_2017.pdf`). **ReaxFF MD** follows **incipient soot** formation from **PAH** monomers (**naphthalene** through **circumcoronene**) across **400–2500 K**. At **low temperature**, **stacked** clusters form by **physical** association; **intermediate** temperatures narrow which **large PAHs** remain productive; at **2500 K**, **chemical** growth yields **graphitizing** particles with rising **C/H** and morphologies spanning **fullerene-like** cages to **bridge-linked** stacks for the heaviest aromatics. The work targets **soot inception** debates in combustion modeling (**Tsinghua** / **UCL** / **van Duin** collaboration).
 
 ## Methods
 
-- Identical **ReaxFF MD** temperature sweep protocol as sibling ingest.
+**Reactive MD** with combustion-oriented **ReaxFF** parametrization for **PAH** systems at multiple **temperatures**—identical scientific protocol to the sibling ingest (see **`[[2017mao-carbon-121-2-formation-incipient]]`**).
 
 ## Findings
 
-- Same mechanistic taxonomy (**temperature**/**mass**-dependent pathways) summarized in the **published** article.
+Mechanistic regimes (**physical vs chemical nucleation**) partition strongly with **temperature** and **PAH mass**; **carbon bridges** between stacked **large PAHs** appear alongside **fullerene-like** motifs at **high T**.
 
 ## Limitations
 
-- Maintain **one citation** practice to the **DOI**; keep both **SHA-256** rows only if **binary** duplicates must be tracked.
+Keep **one DOI** for citations; retain both PDF hashes only for **binary provenance** tracking.
 
 ## Relevance to group
 
-Duplicate **corpus** proof for **van Duin**/**Luo** **soot** collaboration.
+Duplicate corpus registration for the **van Duin** / **Luo** soot nucleation paper.
 
 ## Citations and evidence anchors
 
-- **DOI:** `https://doi.org/10.1016/j.carbon.2017.06.009` (`papers/QianMao_Carbon_Soot_2017.pdf`).
+- **DOI:** `https://doi.org/10.1016/j.carbon.2017.06.009` — `papers/QianMao_Carbon_Soot_2017.pdf` (duplicate of `papers/Mao_Qian_Carbon_soot_2017.pdf` entry).
 
 ## Related topics
 
+- [[2017mao-carbon-121-2-formation-incipient]]
 - [[reaxff-family]]

@@ -3,7 +3,7 @@ id: paper:2012jeon-venue-rsc-cp
 type: paper
 title: "Nanoscale oxidation and complex oxide growth on single crystal iron surfaces and external electric field effects"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags: [domain:oxides-ceramics, domain:alloys-metallurgy, method:reaxff, task:application, scale:atomistic]
 candidate_tags: []
 source_refs: []
@@ -29,27 +29,27 @@ group_affiliation: true
 
 ## Summary
 
-The ingested extract for this slug is a **journal proof** (typesetter queries) with only the **title, authors, and one-sentence galley abstract** visible on pages 1–2; it does not contain the full scientific text. The corresponding PCCP article is the same work as `paper:2012jeon-venue-rsc-cp-2` (see that page for substantive summary). **DOI:** 10.1039/c2cp43490c.
+**Corpus note:** this slug points at the **galley / proof PDF** (`papers/Jeon_PCCP_2012_galley.pdf`). The **same PCCP article** is fully curated on **`[[2012jeon-venue-rsc-cp-2]]`** using the **final article PDF** (`papers/Jeon_PCCP_Iron_Efield_2013.pdf`). The study applies **ReaxFF reactive MD** to **early-stage oxidation** and **nanoscale oxide growth** on **Fe(100), Fe(110), and Fe(111)** with and without an **external electric field (~10 MV/cm)**. At **300 K** over **~1 ns**, oxidation rates order roughly **(110) > (111) > (100)**; raising temperature accelerates oxidation. The mechanism discussion highlights **oxygen interstitial transport** forming **non-stoichiometric wüstite-like** regions that evolve toward more stoichiometric **wüstite/hematite**-like films as oxygen uptake proceeds, with increasing **cation outward transport**. Post-growth **relaxation** between **600–1500 K** yields **Arrhenius** estimates for **oxygen diffusion activation energies** near **0.32, 0.26, and 0.28 eV** on **(100), (110), (111)** respectively. The field **accelerates early oxidation** via interstitial oxygen transport but the oxide approaches a **self-limiting thickness**; effects on **barriers** are modest while **cation outward migration** is slightly promoted.
 
 ## Methods
 
-- See **`2012jeon-venue-rsc-cp-2`** for methods detail (ReaxFF iron oxidation, Fe(100)/(110)/(111), optional electric field).
+**ReaxFF** trajectories for **Fe–O** oxidation with optional **electric field** protocol as defined in the article; detailed timestep, system sizes, and field coupling follow **`[[2012jeon-venue-rsc-cp-2]]`**.
 
 ## Findings
 
-- Not available in this proof extract; defer to **`2012jeon-venue-rsc-cp-2`** or the full PDF.
+**Orientation-dependent** oxidation kinetics, a **two-stage** growth picture (fast initial uptake vs slower thickening), **O diffusion** barriers from high-temperature fits (values above), and **field-assisted** early kinetics with limited change to final thermochemistry—consistent with the VOR summary page.
 
 ## Limitations
 
-- **Low wiki confidence** because the normalized extract is **proof boilerplate**, not the article body.
+Prefer **`[[2012jeon-venue-rsc-cp-2]]`** for figure references and any post-proof corrections; this galley file exists for **corpus provenance** tracking.
 
 ## Relevance to group
 
-Use the **non-proof PDF** or the companion slug page for citable technical content.
+Canonical technical narrative: **`[[2012jeon-venue-rsc-cp-2]]`**.
 
 ## Citations and evidence anchors
 
-- Proof pages only; prefer PCCP **15**, **1821–1830** (2013) final version for locators.
+- **DOI:** 10.1039/c2cp43490c — **Phys. Chem. Chem. Phys., 2013, 15, 1821–1830** (final pagination on VOR PDF).
 
 ## Related topics
 

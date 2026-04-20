@@ -37,19 +37,19 @@ group_affiliation: true
 
 ## Summary
 
-Supporting information for [[2019nayir-j-phys-chem-development-reaxff-2]]: extra figures comparing QM and ReaxFF equations of state for Si and silica polymorphs, tabulated reaction energies for Si–O–H training reactions, and notes on using the developed parameters in standalone ReaxFF, LAMMPS, or ADF.
+**Corpus note:** this slug indexes the **J. Phys. Chem. A supporting-information PDF** (`papers/Nayir_JPC_C_SiOx_2019_SI.pdf`) for the Si/silica defect ReaxFF article **`[[2019nayir-j-phys-chem-development-reaxff-2]]`**. The SI adds **extra figures** comparing **QM** and **ReaxFF** equations of state for **Si** and **silica** polymorphs, **tabulated reaction energies** for **Si–O–H** training sets, and **implementation notes** for **ReaxFF**, **LAMMPS**, or **ADF**. The **main article** redevelops **Si/O/H** parameters so that **oxygen interstitials**, **migration in bulk Si**, and **a-SiO₂/Si** interface oxidation treat **point-defect** physics omitted by earlier fits; the revised field (**“ReaxFFpresent”**) targets **bond-centered** **O** hopping with a barrier near **~65 kcal/mol**, correcting **SiOH(2010)** behavior that had allowed **spurious deep O diffusion** near room temperature.
 
 ## Methods
 
-Supplemental validation plots and parameter documentation accompanying the main ReaxFF development paper.
+The SI documents **supplemental validation** plots, **parameter tables**, and **software usage** pointers; the **training protocols**, **bulk Si**, **amorphous silica**, and **interface annealing** simulations are described in **`[[2019nayir-j-phys-chem-development-reaxff-2]]`**.
 
 ## Findings
 
-Provides extended numerical comparisons and implementation pointers; all scientific claims should be cited through the main article.
+Extended **QM vs ReaxFF** numerical agreement plots and **tabular** training targets support reproducibility; substantive mechanistic conclusions (**O** migration pathways, **interface** transport) belong with the **main text** at the same **DOI**.
 
 ## Limitations
 
-SI-only files omit main-text discussion; use the primary paper for interpretation.
+**SI-only** packaging does not replace the **main article** narrative; cite **`[[2019nayir-j-phys-chem-development-reaxff-2]]`** for interpretation.
 
 ## Relevance to group
 

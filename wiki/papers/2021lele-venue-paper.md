@@ -40,27 +40,27 @@ group_affiliation: true
 
 ## Summary
 
-Galley-stage PDF of the Fuel article summarized under [[2021lele-fuel-297-202-reaxff-molecular]]: ReaxFF pyrolysis of bicyclic aviation-fuel candidates, Arrhenius-style kinetics, and comparison to JP-10 decomposition rates.
+**Corpus note:** this slug registers the **pre-publication / galley** PDF (`papers/Lele_Fuel_2021_galley.pdf`). The **same Fuel article** is curated on **`[[2021lele-fuel-297-202-reaxff-molecular]]`** (`papers/Lele_Fuel_2021.pdf`). The work uses **ReaxFF MD** to study **initial pyrolysis** of **bicyclic** molecules proposed as **aviation fuel** candidates, grouped by whether rings are linked through a **four-membered ring** or a **single C–C bond**. **Global Arrhenius** parameters summarize apparent decomposition kinetics; reported rates are **competitive with or faster than JP-10** on the metrics quoted. Mechanistically, **cleavage of the central linkage** to **cyclic radicals** competes with **ring-opening** to small **alkenes**, with branching that shifts strongly with **temperature**—supporting data-driven kinetic modeling without prespecified detailed mechanisms.
 
 ## Methods
 
-Same scientific content as the version-of-record file (`Lele_Fuel_2021.pdf`).
+Systematic **ReaxFF pyrolysis** trajectories; extraction of **activation energies** and **pre-exponential** factors; comparison to literature **JP-10** kinetics—identical scientific content to **`[[2021lele-fuel-297-202-reaxff-molecular]]`**.
 
 ## Findings
 
-Matches the published abstract in the extract; prefer the finalized PDF for pagination and editorial corrections.
+Two dominant **reaction classes** with strong **temperature dependence**; **bicyclic** candidates show **competitive or faster decomposition** versus the **JP-10** baseline in the quoted analysis.
 
 ## Limitations
 
-Placeholder journal metadata in header (“Fuel xxx (xxxx)”)—use DOI for canonical citation.
+Galley header may show **placeholder volume/page** metadata; cite the **DOI** and use **`[[2021lele-fuel-297-202-reaxff-molecular]]`** for the **version-of-record** pagination.
 
 ## Relevance to group
 
-Duplicate proof in corpus alongside the final Fuel issue PDF.
+Duplicate galley in corpus alongside the **final Fuel** PDF.
 
 ## Citations and evidence anchors
 
-Canonical article: [[2021lele-fuel-297-202-reaxff-molecular]]. https://doi.org/10.1016/j.fuel.2021.120724
+Canonical article: **`[[2021lele-fuel-297-202-reaxff-molecular]]`**. https://doi.org/10.1016/j.fuel.2021.120724
 
 ## Related topics
 

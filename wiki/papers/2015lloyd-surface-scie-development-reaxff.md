@@ -44,17 +44,15 @@ group_affiliation: true
 
 ## Summary
 
-Lloyd *et al.* extend an existing **ZnO ReaxFF** parameterization with **Ag–Zn–O** terms fit to **DFT (SIESTA)** equations of state and **surface binding/work-of-separation** data for **Ag on ZnO**. The abstract reports good reproduction of **Ag**, **Ag–Zn alloy**, and **silver oxide** crystal EOS targets and reasonable agreement for **Ag adsorption energetics** on ZnO surfaces. The fitted potential is then applied to **single-impact Ag deposition** on **polar (0001)** and **nonpolar (10\(\bar{1}\)0)** **wurtzite ZnO** substrates across **0.1–30 eV** impact energies (motivated by **magnetron sputtering**-like conditions), concluding that **maximum adsorption** is achieved for **≤10 eV** deposition energies in the summarized simulation campaign.
+Lloyd *et al.* derive **Ag–Zn–O** interactions for **ReaxFF** by extending an established **ZnO** parameter set, fitting new terms to **density functional theory (DFT)** data from **SIESTA** for **bulk** references (elemental **silver**, **Ag–Zn** alloy, **silver oxides**) and for **Ag on ZnO** **surface** configurations, including **equations of state**, **binding energies**, and **works of separation**. The reported fits reproduce the DFT bulk benchmarks and track **Ag–ZnO** surface energetics with useful accuracy for the training scope. The work is motivated by **low-emissivity (Low-E)** glazing, where **Ag** films are sputtered onto **ZnO seed layers** but the **Ag/ZnO** junction is mechanically weak (**large lattice mismatch**, order **10%**). The parametrized field is exercised in **reactive MD** using **single-atom Ag deposition** onto **wurtzite ZnO**, comparing **O-terminated polar (0001)** and **nonpolar (1010)** orientations for impact energies from **0.1 eV to 30 eV**, bracketing **magnetron sputtering**-like conditions. Over that campaign, **adsorption is strongest when deposition energies stay at or below ~10 eV**, whereas higher energies favor reflection or subsurface behavior (per the article’s summarized trajectories).
 
 ## Methods
 
-- **DFT** training via **SIESTA** for bulk + surface references.
-- **ReaxFF** reparameterization constrained to prior ZnO functional form where possible.
-- **MD** deposition trajectories at variable impact energy.
+**DFT (SIESTA)** supplies energies and structures for bulk and surface training sets. The **ReaxFF** functional form follows the standard bond-order formulation used in prior ZnO work (total energy as sums of bonded, van der Waals, Coulomb, over/undercoordination, and related terms—see the article’s methodology section). **Ag–Zn–O** parameters augment the existing oxide description. **Molecular dynamics** uses **single-point Ag impacts** with controlled kinetic energy on the selected **ZnO** facets across the stated energy window to compare **polar** versus **nonpolar** growth contexts relevant to collaborators’ experiments.
 
 ## Findings
 
-- Demonstrates a pathway to model **Ag thin-film nucleation** on **ZnO seed layers** relevant to **low-emissivity** glazing stacks, with explicit attention to **interface adhesion** weaknesses noted in the introduction.
+The **ReaxFF** parametrization **matches DFT equations of state** for the **Ag**, **Ag–Zn**, and **silver oxide** crystals used in training and **reproduces the intended trends** for **Ag adsorption** on **ZnO** slabs versus DFT. **Deposition simulations** link **impact energy** to **Ag retention**: the study reports that **maximum Ag adsorption on ZnO** occurs for **deposition energies ≤ ~10 eV**, with higher energies reducing sticking in the summarized runs—giving a practical processing-energy window for seed-layer **Ag** nucleation relative to **sputtering**-like conditions.
 
 ## Limitations
 

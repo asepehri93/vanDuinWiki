@@ -39,27 +39,27 @@ group_affiliation: true
 
 ## Summary
 
-This PDF is an **uncorrected proof** of the same Fuel article described in [[2019kwon-fuel-correct-numerical-simulations]]: ReaxFF molecular dynamics for Yield Sooting Index (YSI) of aromatic fuels, demonstrated on toluene and phenol with quantitative comparison to experimental YSI.
+**Corpus note:** this slug registers an **uncorrected proof** (`papers/Kwon_Fuel_2019_proof.pdf`). The **same Fuel article** is curated on **`[[2019kwon-fuel-correct-numerical-simulations]]`** (`papers/Kwon_Fuel_2019_online.pdf`). The work develops a **ReaxFF MD** workflow to estimate **Yield Sooting Index (YSI)**-style sooting propensity for **aromatic** fuels using a **multi-stage** procedure intended to mirror experimental and continuum **YSI** definitions. **Toluene** and **phenol** serve as proof-of-concept aromatics with well-studied chemistry: simulations recover **ring-retaining vs carbon-loss** pathways (including **CO** release motifs for **phenol**) and assemble a quantitative **YSI** construction from trajectory chemistry with **reasonable agreement** to measured **YSI** for those cases.
 
 ## Methods
 
-Same as the published article: ReaxFF MD, multi-stage YSI-style workflow, toluene and phenol benchmarks.
+**Reactive MD** with **ReaxFF**; **multi-stage** protocol aligned with the **YSI** concept; benchmarks on **toluene** and **phenol** with comparison of **ReaxFF-derived** indices to **experimental YSI**—identical scientific content to **`[[2019kwon-fuel-correct-numerical-simulations]]`**.
 
 ## Findings
 
-Content aligns with the corrected-proof / final article; use the primary paper entry for bibliographic preference unless collation against this proof is required.
+**ReaxFF** captures **qualitative** soot-relevant chemistry consistent with known pathways for the chosen fuels; the **YSI mapping** yields values in **reasonable agreement** with experiment for the demonstration set, supporting **relative ranking** of sooting tendency when detailed mechanisms are unavailable.
 
 ## Limitations
 
-Proof-stage layout and pagination differ from the version of record; cite the DOI and the primary online article file when possible.
+**Proof** layout and pagination differ from the **version of record**; cite **`[[2019kwon-fuel-correct-numerical-simulations]]`** for stable figure/table references.
 
 ## Relevance to group
 
-Duplicate source in the corpus for versioning/traceability alongside `Kwon_Fuel_2019_online.pdf`.
+Duplicate corpus path for **Penn State** / **van Duin** **sooting** workflow traceability.
 
 ## Citations and evidence anchors
 
-Prefer [[2019kwon-fuel-correct-numerical-simulations]] for curation. DOI: https://doi.org/10.1016/j.fuel.2019.116545
+Prefer **`[[2019kwon-fuel-correct-numerical-simulations]]`**. DOI: https://doi.org/10.1016/j.fuel.2019.116545
 
 ## Related topics
 
