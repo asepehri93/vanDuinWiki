@@ -22,7 +22,7 @@ authors:
 venue: "J. Phys. Chem. C"
 pdf_sha256: "6e0752a4a6d93bb5499e066bed9be06841fc5cc41c2be8684bf988588927e8dd"
 pdf_path: "papers/Hahn_JPC_leaching_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

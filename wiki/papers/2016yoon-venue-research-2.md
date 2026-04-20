@@ -32,7 +32,7 @@ authors:
 venue: "ACS Nano"
 pdf_sha256: "bd28b64be84347e141cbecbc50ac4dc3a3ed6b980f030175e4280add25ad26a3"
 pdf_path: "papers/Yoon_ACSNano_online.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/CP_Letter_LiC_galley.pdf",
     "sha256": "da9fdabd46aa7af125dcb75d8d3ac66f81405f3d61dce4fa8ba086abd4f96985",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013yang-chemical-phy-self-weakening-lithiated_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 1865
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013yang-chemical-phy-self-weakening-lithiated.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

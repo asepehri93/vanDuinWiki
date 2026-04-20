@@ -26,7 +26,7 @@ authors:
 venue: "Phys. Chem. Chem. Phys. 2019, 21, 18240–18249"
 pdf_sha256: "4e189e8d7a502e133c6b71b0515a1f32eb49a9ad3ed94883212e916fe53ebc6e"
 pdf_path: "papers/Akbarian_PCCP_BaTiO3_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

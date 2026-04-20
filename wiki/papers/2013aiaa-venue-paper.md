@@ -13,7 +13,7 @@ authors: ["Mehta, Neil", "Levin, Deborah A.", "van Duin, Adri C. T."]
 venue: "AIAA conference abstract / manuscript"
 pdf_sha256: "9376825fba2c4db26837f13007552b05f281f87e03df6b0cb7d61f07c64923f8"
 pdf_path: "papers/AIAA_Abstract_NeillMehta.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

@@ -26,7 +26,7 @@ authors:
 venue: "J. Phys. Chem. C"
 pdf_sha256: "9c51c72f55e9e6045c41d4461e819f9a8615a5e21cd1ec876ac962f1bcd3ed26"
 pdf_path: "papers/Gai_PtHO_JPC_2016_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

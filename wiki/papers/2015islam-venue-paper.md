@@ -20,7 +20,7 @@ authors:
 venue: "Journal of Applied Physics 118, 124305 (2015)"
 pdf_sha256: "4bf00387d9f3c0628b14877aad4550c9ff8e8250511e2139f3b986f873d201cc"
 pdf_path: "papers/Islam_Stanene_APL2015.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: false
 ---
 

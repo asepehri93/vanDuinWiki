@@ -21,7 +21,7 @@ authors:
 venue: "Carbon 82 (2015) 314–326"
 pdf_sha256: "7c0fdcb52e1dc825f335d17a1ecba286ba0507e0958eb0137c9f6fe9cb0ae464"
 pdf_path: "papers/Srinivasan_Carbon_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

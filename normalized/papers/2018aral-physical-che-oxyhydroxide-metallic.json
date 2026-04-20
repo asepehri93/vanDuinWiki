@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Aral_PCCP_FeO_OH_2018.pdf",
     "sha256": "95ddbda87a3e52094e92b1bedd1f666880d37664092ea9784fe80c7e154f49b8",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018aral-physical-che-oxyhydroxide-metallic_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018aral-physical-che-oxyhydroxide-metallic.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

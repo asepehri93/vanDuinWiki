@@ -27,7 +27,7 @@ authors:
 venue: "Phys. Chem. Chem. Phys."
 pdf_sha256: "2488af5d342f16b0454b5963f66e3b234357643ae98b9a61d280d53371f5c552"
 pdf_path: "papers/Shin_LATP_PCCP_2018_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

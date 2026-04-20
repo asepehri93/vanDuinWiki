@@ -13,7 +13,7 @@ authors: ["Huang, Xu", "Yang, Hui", "Liang, Wentao", "Raju, Muralikrishna", "Ter
 venue: "Applied Physics Letters"
 pdf_sha256: "8fdf462fbe6178ea940a2f7ef78d2f09bba5bd68e195b4e5d8816740a050325d"
 pdf_path: "papers/Huang_APL_2013_LiCNT.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

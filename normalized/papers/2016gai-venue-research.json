@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Gai_PtHO_JPC_2016_proof.pdf",
     "sha256": "9c51c72f55e9e6045c41d4461e819f9a8615a5e21cd1ec876ac962f1bcd3ed26",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2016gai-venue-research_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2016gai-venue-research.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

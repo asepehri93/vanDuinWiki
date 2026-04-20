@@ -20,7 +20,7 @@ authors:
 venue: "J. Phys. Chem. Lett."
 pdf_sha256: "42a78b311ad96dfef6f4c5780a74930ffe54559ba8a15c1825335d72bf1cbad4"
 pdf_path: "papers/Others/Mg_Kumar.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

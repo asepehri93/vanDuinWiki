@@ -26,7 +26,7 @@ authors:
 venue: "Chemical Physics Letters"
 pdf_sha256: "da9fdabd46aa7af125dcb75d8d3ac66f81405f3d61dce4fa8ba086abd4f96985"
 pdf_path: "papers/CP_Letter_LiC_galley.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

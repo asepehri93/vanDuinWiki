@@ -22,7 +22,7 @@ authors:
 venue: "Journal of The Electrochemical Society"
 pdf_sha256: "f8b9540a699a7d9411fcd69a077ad33af8549c9bff91e9c6d68cf599bd34b05c"
 pdf_path: "papers/Islam_JES_2014_proof.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

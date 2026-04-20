@@ -25,7 +25,7 @@ authors:
 venue: "J. Phys. Chem. C"
 pdf_sha256: "4d9add9bb494ff97e3c8d1dd7678bc66bc7708db8cf1bd2d6c24abc55f3cddb1"
 pdf_path: "papers/Lotfi_JPC_C_2018_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Castro_JAAP_3246_2014.pdf",
     "sha256": "bfcc61364bbeb8c3fd66c2504a560a29c305dae5ea4842ff988aa838fef56eaa",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,16 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2014castro-marcano-journal-of-a-pyrolysis-large-scale_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "coal",
-    "pyrolysis",
-    "ReaxFF",
-    "Illinois No. 6"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2014castro-marcano-journal-of-a-pyrolysis-large-scale.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

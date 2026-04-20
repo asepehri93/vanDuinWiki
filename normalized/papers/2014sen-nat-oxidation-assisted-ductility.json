@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Sen_Nature_Comm_2014.pdf",
     "sha256": "c7b5990da8e42e29f42ca4cb75fcf5ab8313e3bd581718a541b08bd06afdc19b",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1038/ncomms4959",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2014sen-nat-oxidation-assisted-ductility_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2014sen-nat-oxidation-assisted-ductility.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

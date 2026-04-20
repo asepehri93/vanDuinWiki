@@ -22,7 +22,7 @@ authors:
 venue: "Carbon"
 pdf_sha256: "a2b84fd4d5c2a30f28325de6e2b897b06245a6ef0c68d77937989012dea150ab"
 pdf_path: "papers/QianMao_Carbon_Soot_2017.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

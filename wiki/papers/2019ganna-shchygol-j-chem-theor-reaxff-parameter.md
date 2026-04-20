@@ -25,7 +25,7 @@ authors:
 venue: "J. Chem. Theory Comput."
 pdf_sha256: "18acd9bfa94d26e0924b0a4777ff8c4d7a5b4295b343422f66905110bb49090f"
 pdf_path: "papers/Shchygol_JCTC_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Physical Chemistry A"
 pdf_sha256: "604b4ccd14967c07a850dfd7bdd29d87a1cdf343123b9e62af8da80e53bc3059"
 pdf_path: "papers/Russo_DNB_HNO3_JPCA_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

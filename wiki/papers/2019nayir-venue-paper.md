@@ -21,7 +21,7 @@ authors:
 venue: "Supporting information (J. Phys. Chem. A)"
 pdf_sha256: "b5c90c6d5eb7897ae8df5cddb65d5b6677e00ea1d3a8ac5fe8352816d12b3de8"
 pdf_path: "papers/Nayir_JPC_C_SiOx_2019_SI.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

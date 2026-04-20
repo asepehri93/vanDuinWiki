@@ -13,7 +13,7 @@ authors: ["Joshi, Kaushik L.", "Raman, Sumathy", "van Duin, Adri C. T."]
 venue: "The Journal of Physical Chemistry Letters"
 pdf_sha256: "548b25f15a12b90ad445d0e0d8dae0e61bd822f87e64e58e5167fa603ff88689"
 pdf_path: "papers/Joshi_PRD_JPC_Letter_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

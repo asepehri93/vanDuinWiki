@@ -22,7 +22,7 @@ authors:
 venue: "Carbon, 99 (2016) 58–64"
 pdf_sha256: "1bdb01e1fb2e05795b21499c8d4ef9451b37c4528178d902d0340806cfbf1f88"
 pdf_path: "papers/Yoon_Carbon_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 
@@ -48,9 +48,22 @@ The study uses ReaxFF to simulate supersonic impact of nanoscale silica and nick
 
 Reactive impact simulations treat bond formation and rupture explicitly across the projectile–graphene interface; supersonic silica and nickel projectiles are compared under the protocols described in the primary article.
 
+<!-- enrich-from-extract:v2 -->
+
+- Then we analyzed the impact by using ReaxFF reactive force ﬁeld method, which is capable of describing the entire system.
+- Here, we simulated the impact of silica and nickel projectiles with a supersonic initial velocity on graphene.
+
+
 ## Findings
 
 ReaxFF reproduces chemomechanical coupling between Ni or silica projectiles and graphene, including fracture patterns that nonreactive carbon potentials omit. Simulated \(E_p^*\) magnitudes align with experimental trends; maximum deformation diameter before crack initiation correlates with \(E_p^*\). Defect content and projectile composition modulate crack morphology and energy uptake. Quantitative \(E_p^*\) from the simulations agrees in order of magnitude with Lee et al. (Science 2014) for multilayer graphene. During penetration, pentagon–heptagon pairs appear at crack edges, and edge reactivity depends on pre-crack deformation of graphene; defects and projectile identity shift the specific penetration energy \(E_p^*\).
+
+### Additional results (article abstract)
+
+- The values of Ep * obtained in our simulations were in general agreement with the recent experimental values reported by Lee et al. [Science 2014, 346, (6213), 1092 e1096].
+- During the process of projectile penetration, we identi ﬁed various atomistic features, such as the formation of pentagon/heptagon pairs at the edges of the cracks, and the preferential crack edges that are affected by the deformability of graphene before crack initiation.
+- Effects of defects in graphene and the material type of the projectile on speci ﬁc penetration energy ( E p * ) also were addressed.
+
 
 ## Limitations
 

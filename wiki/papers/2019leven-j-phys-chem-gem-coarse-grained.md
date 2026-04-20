@@ -20,7 +20,7 @@ authors:
 venue: "J. Phys. Chem. Lett. 10:6820-6826 (2019)"
 pdf_sha256: "4fefc06bacfadd178f054e476e321fc47185090e51dd9086ee8531c8a66c2b7c"
 pdf_path: "papers/Others/C-GeM_Leven_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

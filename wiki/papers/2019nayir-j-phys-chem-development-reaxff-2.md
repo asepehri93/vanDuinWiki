@@ -22,7 +22,7 @@ authors:
 venue: "J. Phys. Chem. A 123:4303-4313 (2019)"
 pdf_sha256: "e83be92a076307cb250a2862abfbcfc690943f4398b88fd38eab3318eec84ad8"
 pdf_path: "papers/Nayir_JPC_C_SiOx_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

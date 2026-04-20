@@ -33,7 +33,7 @@ authors:
 venue: "Nature Communications 6, 6539 (2015)"
 pdf_sha256: "e5a780b4bd544becd590d49cc325be4b0d1053e9300186f01df68379d493dd26"
 pdf_path: "papers/Achtyl_NatureComm_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

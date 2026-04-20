@@ -13,7 +13,7 @@ authors: ["Su, Julius T.", "Goddard, William A., III"]
 venue: "Proceedings of the National Academy of Sciences"
 pdf_sha256: "9ad920f4eaabb8e5544142cb63b323f4e46ded2711aa32eaf47a6b49f54bb96e"
 pdf_path: "papers/Others/Auger_eFF_Su_PNAS.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: false
 ---
 
@@ -35,9 +35,37 @@ This PNAS contribution uses the **electron force field (eFF)**—a dynamics mode
 
 The electron force field (eFF) treats valence and core electrons as spherical Gaussian wave packets coupled to classical nuclei; a Pauli term enforces exclusion between wave packets. Parameters reproduce small-molecule ground-state data in the source article. Simulations focus on a hydrogen-terminated diamond nanoparticle C\(_{197}\)H\(_{112}\), with selective core ionization at the surface and at subsurface depths to separate distance-dependent relaxation and desorption behavior.
 
+<!-- enrich-from-extract:v2 -->
+
+- In our simple model, we account for the possible variation ofm elec by performing simulations for multiple ﬁxed melec .
+- The Pauli potential is a function of the overlap between electrons, as well as their respec- tive sizes, and contains three parameters set to reproduce the ground-state geometries of small molecules such as CH 4,C 2H6, LiH, and B 2H6.
+- For diamond and hydrocarbons, the eFF Pauli potential causes the electrons to segregate naturally into core and valence shells, with electron density proﬁles similar to density functional theory (Fig. 1 B).
+- (B) Comparison of electron densities between eFF and density functional theory (B3LYP/6-311g**) along a carbon–hydrogen bond in methane, and along a carbon–carbon bond in ethane. electrons, only one (green) wins; the others bounce away from the now-ﬁlled core.
+- We report now the application of eFF to study Auger processes in a hydrogenated diamond nanoparticle C 197H112 (Fig. 1A).
+- In the Auger process, ionization of a core electron leads to the collapse of a valence electron into the core hole, together with the ejection of another valence electron, all over several femtoseconds (5).
+- Dur- ing and after this time, secondary processes occur, causing protons, hydrides, and other species to desorb from hydrogen-terminated surfaces (1).
+- We study the coupled electron-nuclear dynamics of both the primary Auger and accompanying secondary processes, ionizing core electrons both at the diamondoid surface and at dif- ferent depths below the surface.
+- In this way, we determine how the distance over which an Auger excitation relaxes and propa- gates affects the energies of electrons and composition of atomic species desorbed from the surface.
+- In eFF , all electrons, valence and core, are modeled as spherical Gaussian wave packets: /Psi1(r) ∝ ∏ i exp [ − ( 1 s2 i − 2ps,i si i ) (r − xi)2 ] · exp[ipx,i · r], while nuclei are modeled as classical charged particles moving in the mean ﬁeld of the electrons.
+
+
 ## Findings
 
 Surface versus subsurface core ionization produces qualitatively different desorption channels: direct Auger-related emission versus heating-driven emission of hydrides and related species, discussed in relation to photon-stimulated desorption experiments. Illustrative trajectories show femtosecond-scale core-hole filling, secondary electron ejection, and subsequent bond rearrangement leading to chemical desorption.
+
+### Additional results (article abstract)
+
+- The positions xi and sizes si of the electrons are continuously variable, giving them the ﬂexibility to participate in covalent, ionic, multicenter, and even metallic bond- ing; p x,i and ps,i are the corresponding conjugate momenta.
+- The parameters are the same for all electrons, and for all systems studied (4). eFF may be viewed as an elaboration of fermionic molecu- lar dynamics methods (7, 8), using a Pauli potential accurate enough that condensed systems with Z > 1 can be described; or as an approximate and time-dependent version of ab initio ﬂoat- ing spherical Gaussian orbital (FSGO) theory (9), with exchange energy estimated as a pairwise sum.
+- Fig. 2 shows for a C 196H112 nanoparticle the dynamics of a core hole state evolving continuously into a two valence hole state.
+- One electron (red) feels the strongest repulsion, causing it to break free as an Auger electron, only to be trapped 20 fs later in the particle ∼ 3 Å away, with its energy dissipated among the other electrons of the solid (not shown in the ﬁgure).
+- Results Ground states may be obtained from damped electron dynamics, or more efﬁciently by minimizing the overall energy with respect to the electron parameters.
+- Potential energies of eFF electrons may be compared with the energies of Hartree–Fock (HF) Boys-localized orbitals: for the 1 s, CH, and CC electrons of ethane, we have from eFF 237, 13.8, and 17.7 eV and from HF 305, 17.5, and 18.5 eV .
+- Hence, CC electrons are properly bound, but CH and core electrons are underbound by ∼ 20%, probably from the limited ability of single Gaussian functions to form cusps at nuclear centers (for H atom this leads to an error of 15%).
+- At time zero, a 1s electron with down spin is removed from the central carbon of the nanoparticle, which induces the down-spin electrons in the surrounding bonds to race inward to ﬁll the hole.
+- Of the four Author contributions: J.T.S. and W.A.G. designed research; J.T.S. performed research; and J.T.S. and W.A.G. wrote the paper.
+- The authors declare no conﬂict of interest. 1 To whom correspondence should be addressed.
+
 
 ## Limitations
 

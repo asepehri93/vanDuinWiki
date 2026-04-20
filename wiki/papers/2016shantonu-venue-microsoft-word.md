@@ -21,7 +21,7 @@ authors:
 venue: null
 pdf_sha256: "5ca1cf271ae520c7566483281e77a7b1f9388235f12ad638bb77bb0c3e97dde2"
 pdf_path: "papers/Ashraf_CHO_2017_JPCA_SI.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

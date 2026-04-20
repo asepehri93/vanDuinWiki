@@ -13,7 +13,7 @@ authors: ["Gouissema, Afif", "Fan, Wu", "van Duin, Adri C. T.", "Sharma, Pradeep
 venue: "Computational Materials Science"
 pdf_sha256: "59d399dccb15b4ae30ba5837c0941dd352c391e36fa86fb72de1a46c7cefe895"
 pdf_path: "papers/Afif_CompMatSci_2013.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

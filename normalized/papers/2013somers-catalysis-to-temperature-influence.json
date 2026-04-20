@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Somers_CatalysisToday_2013.pdf",
     "sha256": "a90d719d4b7bf345ad05c532837a39b58929cb45e24d671d9fff7dbc7b5299c5",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,17 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013somers-catalysis-to-temperature-influence_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "nickel",
-    "Ni(111)",
-    "CHx",
-    "ReaxFF",
-    "catalysis"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013somers-catalysis-to-temperature-influence.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

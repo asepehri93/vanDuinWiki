@@ -15,7 +15,7 @@ authors: []
 venue: "Elsevier author proof PDF (`papers/Zou_ActaMater_2014_proof.pdf`)"
 pdf_sha256: "0ee9d3295e02079e7ea7ea26fee55140f2e01ac4ee7ba4de6b83430556d8cb82"
 pdf_path: "papers/Zou_ActaMater_2014_proof.pdf"
-extraction_quality: poor
+extraction_quality: "partial"
 group_affiliation: false
 ---
 

@@ -27,7 +27,7 @@ authors:
 venue: "Phys. Chem. Chem. Phys."
 pdf_sha256: "45dffebb6a2b4e1ce48bfe6cb9ecef5336866a14006f717dd9fb441c74d3bf9f"
 pdf_path: "papers/Jonayat_PCCP_2018_galley.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

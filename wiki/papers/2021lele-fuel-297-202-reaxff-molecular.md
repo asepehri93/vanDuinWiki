@@ -24,7 +24,7 @@ authors:
 venue: "Fuel 297:120724 (2021)"
 pdf_sha256: "aeb707b4d10d8e5eed09c5d2cbb594b3ee08d60caceb904c43f4e9b33d4ae468"
 pdf_path: "papers/Lele_Fuel_2021.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

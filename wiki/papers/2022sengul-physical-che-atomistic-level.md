@@ -30,7 +30,7 @@ authors:
 venue: "Phys. Chem. Chem. Phys. 24, 4125–4130 (2022)"
 pdf_sha256: "865dc85389a4fb64fc2eb2b2f310baa4c6f9d17cb7ed33e8931f1557a32ee62f"
 pdf_path: "papers/Sengul_NASICON_PCCP_2022.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

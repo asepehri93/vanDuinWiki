@@ -19,7 +19,7 @@ authors:
 venue: "Chapter in: 21st Century Nanoscience – A Handbook: Nanophysics Sourcebook (CRC, ed. Klaus D. Sattler)"
 pdf_sha256: "c31d28e10acd71fd388f0c3b3d2072bab583fb582733d8a775bf8d7f09704afb"
 pdf_path: "papers/Others/chapter-TCT_Bauchy.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

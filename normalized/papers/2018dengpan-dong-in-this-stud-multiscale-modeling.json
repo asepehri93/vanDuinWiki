@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Dong_Polymers_2018.pdf",
     "sha256": "41070f46fe1677dbba14643c0055c2bdd320d8ec57a47b833c89712b43f2f74e",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.3390/polym10111289",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018dengpan-dong-in-this-stud-multiscale-modeling_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018dengpan-dong-in-this-stud-multiscale-modeling.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

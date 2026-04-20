@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Akbarian_Polymer_2019.pdf",
     "sha256": "5a2f6955f45b24df2928c0caded395bf66985f1ea7ab21a5521178610ede86cf",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019akbarian-polymer-183-atomistic-scale-insights_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019akbarian-polymer-183-atomistic-scale-insights.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

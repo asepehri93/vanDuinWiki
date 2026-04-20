@@ -28,7 +28,7 @@ authors:
 venue: "Appl. Surf. Sci."
 pdf_sha256: "53e9ccead3abec2a8148296eda7f6f61325dca8c947d0e20f6540403c9550dd6"
 pdf_path: "papers/Wen_App_Surf_Sci_2016.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

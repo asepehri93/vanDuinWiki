@@ -21,7 +21,7 @@ authors:
 venue: "Modelling Simul. Mater. Eng. Sci."
 pdf_sha256: "89b92dfd300d2dd0ee3824ef710f01eefbad00a8630b7629024c531a9976096c"
 pdf_path: "papers/Weismiller_DCA_MSME_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

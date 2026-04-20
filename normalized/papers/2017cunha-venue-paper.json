@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Cunha_Carbon_2017_proof.pdf",
     "sha256": "eb76096047283c2495c2eb29d3440a854bf0b304cd4158d1b4bc9817486e5600",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2017cunha-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2017cunha-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

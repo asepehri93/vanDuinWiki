@@ -3,29 +3,24 @@
   "manifest": {
     "source_path": "papers/IFFR_archived_2021.pdf",
     "sha256": "d79c0ed9a9b94d0cb7943b28a1877fbc576369bb6a75decb4aaab3b9e37dda27",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
-    "title": "Implementing Reactivity in Molecular Dynamics Simulations with the Interface Force Field (IFF-R) and Other Harmonic Force Fields",
+    "title": null,
     "year": 2021,
-    "authors": "Jordan J. Winetrout; Krishan Kanhaiya; Geeta Sachdeva; Ravindra Pandey; Behzad Damirchi; Adri van Duin; Gregory Odegard; Hendrik Heinz",
-    "venue": "Archived manuscript (IFFR_archived_2021.pdf)"
+    "authors": "jwinetrout",
+    "venue": null
   },
   "pdf_path": "papers/IFFR_archived_2021.pdf",
   "extraction": {
     "text_path": "normalized/extracts/2021jwinetrout-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 2751
   },
-  "entities_mentioned": [
-    "IFF-R",
-    "Interface Force Field",
-    "Morse bond",
-    "reactive MD"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2021jwinetrout-venue-paper.md",
-  "updated": "2026-04-20T18:00:00Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

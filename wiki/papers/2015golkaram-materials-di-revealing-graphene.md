@@ -18,7 +18,7 @@ authors:
 venue: "Materials Discovery (uncorrected proof; DOI as in bibliography stub)"
 pdf_sha256: "7f36b5663a237084bb0ccc31f2b9c2c7b7b485fbf3fda5e449977d981dc19755"
 pdf_path: "papers/Golkaram_MD_2016_proof.pdf"
-extraction_quality: poor
+extraction_quality: "good"
 group_affiliation: true
 ---
 

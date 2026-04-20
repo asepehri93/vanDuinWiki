@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/CARBON_9458_edit_report.pdf",
     "sha256": "97e040a9a5c93ba8edc71afba2c3e54c9121903b5123d6f5a94e5063e27e91c4",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2014carbon-venue-online-proofing_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2014carbon-venue-online-proofing.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

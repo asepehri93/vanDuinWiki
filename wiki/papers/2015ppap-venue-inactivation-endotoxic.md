@@ -24,7 +24,7 @@ authors:
 venue: "Plasma Processes and Polymers 2015, 12, 162–171"
 pdf_sha256: "f0e09561531dd7a348592a5469855314c62f4062b0e79705004477cfecbdef59"
 pdf_path: "papers/PPaP_2015_Yusupov-Lipid A.PDF"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 
@@ -47,10 +47,22 @@ Yusupov *et al.* perform **ReaxFF reactive MD** to study impacts of **oxygen pla
 - **Reactive MD** with **ReaxFF** for ROS–biomolecule collisions/reactions (protocol details in full paper).
 - Comparison narrative anchored to experimental **XPS**/**activity** studies referenced in the introduction.
 
+<!-- enrich-from-extract:v2 -->
+
+- Reactive molecular dynamics simulations are performed to study the interaction of reactive oxygen species, such as OH, HO2 and H2O2, with the endotoxic biomolecule lipid A of the gram- negative bacterium Escherichia coli .
+- A clear difference is observed in the bond breaking mechanisms upon impact of HO 2 radicals and H 2O2 molecules on one hand and OH radicals on the other hand.
+
+
 ## Findings
 
 - Mechanistic differentiation between **radical classes** is a headline result in the abstract-level summary.
 - Contextualizes plasma medicine motivation: **nonthermal** plasmas for **heat-sensitive** materials.
+
+### Additional results (article abstract)
+
+- It is found that the aforementioned plasma species can destroy the lipid A, which consequently results in reducing its toxic activity.
+- Our simulation results are in good agreement with experimental observations.
+
 
 ## Limitations
 

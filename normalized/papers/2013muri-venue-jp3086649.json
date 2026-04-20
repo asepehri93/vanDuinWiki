@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/MURI_team_SiOx_JPCC_2013.pdf",
     "sha256": "c4f31213db668251aac4f1354ac4097c3dbb4d0860b0174bd978d9ed9f95a1d6",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1021/jp3086649",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013muri-venue-jp3086649_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013muri-venue-jp3086649.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

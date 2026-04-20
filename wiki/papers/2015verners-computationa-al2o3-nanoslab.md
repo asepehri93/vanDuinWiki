@@ -23,7 +23,7 @@ authors:
 venue: "Comput. Mater. Sci."
 pdf_sha256: "b19713853cce68af6cd13b9dfa8dfa6542b795cf3c0f0e20f0f94a8bc1c7ce12"
 pdf_path: "papers/Verners_CompMatSci_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -24,7 +24,7 @@ authors:
 venue: "J. Phys. Chem. A"
 pdf_sha256: "569e2b7af7a89199373ea7a177827802b6180d0013ee77060800d1a692dcdbec"
 pdf_path: "papers/Others/2018_Liang_JPCA.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

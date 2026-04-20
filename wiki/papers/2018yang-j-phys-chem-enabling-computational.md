@@ -24,7 +24,7 @@ authors:
 venue: "J. Phys. Chem. B 2018, 122, 9616–9624"
 pdf_sha256: "19f06853f13174da01e0dad19f8f1da2975be5428325fa389bb1e9ad13428435"
 pdf_path: "papers/Yang_ZIF_JPC_B_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

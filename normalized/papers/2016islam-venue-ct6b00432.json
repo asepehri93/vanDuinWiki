@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Islam_JCTC_eReaxFF_2016.pdf",
     "sha256": "785eb9c8dcbbf11351c7d9a2752ab2578ebc90aafd32285836069df87d45b0c8",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2016islam-venue-ct6b00432_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2016islam-venue-ct6b00432.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

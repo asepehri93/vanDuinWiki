@@ -21,7 +21,7 @@ authors:
 venue: "J. Phys. Chem. A"
 pdf_sha256: "fe1467aed0c35b8887920ebee84765b86c64dd6afa5badeea0753b2c9365c125"
 pdf_path: "papers/Chowdhury_CHO_2017_JPCA.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

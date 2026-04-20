@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Aktulga_MSU-CSE-15-16.pdf",
     "sha256": "b758618f9cac9decc1e98b4acd3492852bed3bbe071d00597a730c5bc2bf6432",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015aktulga-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 6332
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015aktulga-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

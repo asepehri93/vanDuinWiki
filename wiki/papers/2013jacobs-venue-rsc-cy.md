@@ -13,7 +13,7 @@ authors: ["Jacobs, Ivo", "van Duin, Adri C. T.", "Kleij, Arjan W.", "Kuil, Mark"
 venue: "Catalysis Science & Technology"
 pdf_sha256: "2a50644ddc6a9ff93517ea28bfce0dc152c36861b59a9aaf3e2099eca223a265"
 pdf_path: "papers/Jacobs_CST_2013_proofs.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

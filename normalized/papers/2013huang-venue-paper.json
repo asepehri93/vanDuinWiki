@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Huang_APL_2013_LiCNT.pdf",
     "sha256": "8fdf462fbe6178ea940a2f7ef78d2f09bba5bd68e195b4e5d8816740a050325d",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1063/1.4824418",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013huang-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 6277
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013huang-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

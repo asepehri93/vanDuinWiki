@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Baksa_Adv_Elec_Mat_2024.pdf",
     "sha256": "51810029d298a3f3d46d20cf328303cd69904f174818a6f34bbd4114708de54d",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1002/aelm.202400567",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2024baksa-adv-elect-ma-strain-fluctuations_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2024baksa-adv-elect-ma-strain-fluctuations.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

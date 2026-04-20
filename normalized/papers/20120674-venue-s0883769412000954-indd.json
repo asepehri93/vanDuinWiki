@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Shin_MRSBulletin_2012.pdf",
     "sha256": "82ba7c1fdc5df4dcbb0732567f8672143639707212d129f580e9c211c10c5909",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/20120674-venue-s0883769412000954-indd_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/20120674-venue-s0883769412000954-indd.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

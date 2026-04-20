@@ -13,7 +13,7 @@ authors: ["Liu, Lianchi", "Liu, Yi", "Zybin, Sergey V.", "Sun, Huai", "Goddard, 
 venue: "The Journal of Physical Chemistry A"
 pdf_sha256: "0579728040a35c9179732c67cd3d3db782f39103bc70c15f2f132a22ccb26cfd"
 pdf_path: "papers/ReaxFF_others/ReaxFF_lg.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 
@@ -36,10 +36,28 @@ The paper introduces **ReaxFF-lg**, adding a **low-gradient (lg) long-range disp
 - **Energy partition:** \(E_{\text{Reax-lg}} = E_{\text{Reax}} + E_{\text{lg}}\), with \(E_{\text{lg}}\) as pairwise **\(1/r^6\)**-like corrections built to minimally perturb valence distances.
 - **Fitting:** Dispersion coefficients with **UFF-based equilibrium vdW radii** as described; training on experimental crystal structures and sublimation-related targets.
 
+<!-- enrich-from-extract:v2 -->
+
+- In this work, we report dispersion corrections for ReaxFF, based on this low-gradient model (ReaxFF-lg), for the energetic materials RDX, PETN, TATB, and NM plus graphite, polyethylene, solid carbon dioxide, and solid N 2, using the low temperature crystal structures to determine the lg correction parameters.
+- Here we consider densities and heats of sublimation of these materials in the training sets.
+- Then the ﬁtted parameters are extended to energetic materials and reﬁned to obtain the ﬁnal parameters.
+- METHOD AND COMPUTATIONAL DETAILS In ReaxFF-lg, the total energy of the system can be expressed as EReax-lg ¼ EReax þ Elg ð2.1Þ where EReax is the energy evaluated from the previous ReaxFF force ﬁeld: EReax ¼ Ebond þ Elp þ Eover þ Eunder þ Eval þ Epen þ Ecoa þ Etors þ Econj þ EH-bond þ EvdW þ ECoulomb ð2.2Þ and Elg is the long-range-correction terms using the low-gradient model: Elg ¼/C0 ∑ N ij, i<j Clg, ij rij6 þ dReij6 ð2.3Þ Here rij is the distance between atom i and atom j, Reij is the equilibrium vdW distance between atoms i and j, and Clg,ij is the dispersion energy correction parameter.
+- For each atomic pair ij, we use the geometric combination rules for both Reij and Clg,ij, unless the o ﬀ-diagonal parameters are listed speci ﬁcally for a particular pair.
+- Low temperature crystal structures of graphite ( P63mc),19 polyethylene (PE, Pnam),20 carbon dioxide ( Pa3),21 and solid nitrogen22 (Pa3) were selected to determine the dispersion correction parameters for ordinary organic materials.
+
+
 ## Findings
 
 - Substantially improved **equilibrium volumes** and **equations of state** for selected molecular crystals and energetic materials after lg correction.
 - Detailed validation example for **RDX** phase transition pressure/density compared to experiment (per abstract).
+
+### Additional results (article abstract)
+
+- To validate the ReaxFF- lg method, we calculated the equations of state of these materials and compared the results with results from experiments at room temperature. 2.
+- Here d is a scaling factor, but we set d = 1.0 since we found no need for scaling in this work.
+- Re is taken as the vdW radii in the Universal force ﬁeld (UFF)18 (convenient since these values are de ﬁned in UFF up to element 103, Lr), as shown in Table 1, and only the Clg parameters are ﬁtted.
+- Graphite and polyethylene are prototypes for determining the dispersion corrections for C/C0 C, C/C0 H, H/C0 H and were used previously for studying or testing the vdW interactions.23,24 Carbon dioxide and solid nitrogen are molecular c
+
 
 ## Limitations
 

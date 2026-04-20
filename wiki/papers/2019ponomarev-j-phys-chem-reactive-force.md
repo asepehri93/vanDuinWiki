@@ -22,7 +22,7 @@ authors:
 venue: "J. Phys. Chem. C 123:16804-16812 (2019)"
 pdf_sha256: "e6af92d9a7287a5e59ef1a77131bdc5b2e70694769246e4b9e89baaa81788599"
 pdf_path: "papers/Ponomarev_JPCC_SiCO_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

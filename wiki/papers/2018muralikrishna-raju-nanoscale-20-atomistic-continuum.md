@@ -23,7 +23,7 @@ authors:
 venue: "Nanoscale"
 pdf_sha256: "9dd462ce05d18bbde5d613ca28d9d6b74376f7bf9367f70f1d73905c52dc3c4d"
 pdf_path: "papers/Raju_Nanoscale_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

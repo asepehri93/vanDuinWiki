@@ -26,7 +26,7 @@ authors:
 venue: "J. Anal. Appl. Pyrolysis"
 pdf_sha256: "199ace13e1bce743988e34fad7d85b2f1903300ec85f6669fcc63c5eac7f8992"
 pdf_path: "papers/Zhong_PetCoke_JAAP_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

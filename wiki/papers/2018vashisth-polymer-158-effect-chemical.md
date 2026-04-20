@@ -25,7 +25,7 @@ authors:
 venue: "Polymer"
 pdf_sha256: "1e523d319a9ee43282c071af159e307f727f4d78bf2f2ade50d74598c7b503be"
 pdf_path: "papers/Vashisth_Polymer_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

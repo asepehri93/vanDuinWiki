@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Lloyd_AgZnO_SurfSci2015.pdf",
     "sha256": "abdd27650d9ba7f3773556390efc78066c5a7656376ecbbe0a54613d65fcb8dc",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015lloyd-surface-scie-development-reaxff_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015lloyd-surface-scie-development-reaxff.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

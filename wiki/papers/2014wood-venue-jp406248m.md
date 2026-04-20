@@ -20,7 +20,7 @@ authors:
 venue: "Journal of Physical Chemistry A 2014, 118, 885–895"
 pdf_sha256: "4e5c3ea0d176293776252e8d2caef7e7009088aa1a7c69555413075ef9a91bc0"
 pdf_path: "papers/Wood_HMX_JPCA_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

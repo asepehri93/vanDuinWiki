@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Lotfi_JPC_C_2018_proof.pdf",
     "sha256": "4d9add9bb494ff97e3c8d1dd7678bc66bc7708db8cf1bd2d6c24abc55f3cddb1",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018lotfi-venue-research_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018lotfi-venue-research.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

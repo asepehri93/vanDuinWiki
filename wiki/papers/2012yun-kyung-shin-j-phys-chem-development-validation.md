@@ -23,7 +23,7 @@ authors:
 venue: "J. Phys. Chem. A 2012, 116, 12163–12174"
 pdf_sha256: "ebcbf5fb6790677f20d471f9fae766ef65284e359d1b18578f1d0310d0cb274a"
 pdf_path: "papers/Shin_FeAlNi_JPCA_2012.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

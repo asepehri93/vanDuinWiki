@@ -29,7 +29,7 @@ authors:
 venue: "Chem. Rev."
 pdf_sha256: "6fc812873486e810b6a394dff8a129f47c028b71425d16ca509093efefe098a8"
 pdf_path: "papers/Others/ChemRev_water_2016.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

@@ -24,7 +24,7 @@ authors:
 venue: "J. Phys. Chem. C"
 pdf_sha256: "5bb03f8337b93824d8a3106ce81c56ac06144a0005f7c11ffd061af1ef417a5c"
 pdf_path: "papers/Lotfi_2016_DLC_paper.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

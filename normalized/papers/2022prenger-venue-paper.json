@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Prenger_ACS_AEM_2022_SI.pdf",
     "sha256": "3b963944f30860f18aa59d5a32e217508853709c38a2bdef8fbe12fa21497d3f",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2022prenger-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 2171
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2022prenger-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

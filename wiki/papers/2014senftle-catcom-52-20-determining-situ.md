@@ -22,7 +22,7 @@ authors:
 venue: "Catalysis Communications 52 (2014) 72–77"
 pdf_sha256: "2ffc6cdbbaa6382d53ef97f17ea71ecc10eed9764fb1329221c58dd133c64406"
 pdf_path: "papers/Senftle_CatComm2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

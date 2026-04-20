@@ -27,7 +27,7 @@ authors:
 venue: "J. Phys. Chem. C 128, 1075–1086 (2024)"
 pdf_sha256: "b14124f29f7821562d223f0153fa2cf17a621b9e2abb2f772d19ac84d08f13e3"
 pdf_path: "papers/Uene_2024_BN_BCl3_JPC.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

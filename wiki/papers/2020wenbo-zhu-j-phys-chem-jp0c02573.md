@@ -24,7 +24,7 @@ authors:
 venue: "J. Phys. Chem. C 124:12512-12520 (2020)"
 pdf_sha256: "3d54d6d748d38086a04d431078447f5f8f50aef3dc77d262844c333c58c83afd"
 pdf_path: "papers/Zhu_JPCC_CuCHO_2020.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

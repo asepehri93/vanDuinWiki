@@ -21,7 +21,7 @@ authors:
 venue: "Journal of Physical Chemistry A 2014, 118, 1469–1478"
 pdf_sha256: "9b9c494a43d290eff4af24e4ce0d3e41b1ca2ecf67350d9bff8982c2b32eb5cd"
 pdf_path: "papers/Shan_Thompson_AN_JPCA_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

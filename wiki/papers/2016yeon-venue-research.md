@@ -22,7 +22,7 @@ authors:
 venue: "Langmuir"
 pdf_sha256: "6aa4134fd17775c8e6e41266f6cdb1159f82a0fde5aed255f71614da68ce9292"
 pdf_path: "papers/Yeon_Langmuir_2016_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

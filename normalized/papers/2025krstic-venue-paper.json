@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Krstic_JCP_LiOH_2023.pdf",
     "sha256": "dca6fdfc6e299b1cc71f7af10ec95f338f1737aa0226d74736f8205aaa2a1ef9",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1063/5.0177460",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2025krstic-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 4820
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2025krstic-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

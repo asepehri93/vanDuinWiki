@@ -25,7 +25,7 @@ authors:
 venue: "Nat. Commun. 14, 579 (2023)"
 pdf_sha256: "c20c1c4fb543ce9994d45c2ef56059508c9f8d95289f3c00f01e73459518e2ab"
 pdf_path: "papers/Others/Allegro_ML_2023.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

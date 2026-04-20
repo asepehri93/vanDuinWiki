@@ -13,7 +13,7 @@ authors: ["Jeon, Byoung Seon", "Van Overmeere, Quentin", "van Duin, Adri C. T.",
 venue: "Physical Chemistry Chemical Physics"
 pdf_sha256: "a640cbe9ae6642389a8d87ae02dcb44eec0e913f3d744875508cceb612143ba6"
 pdf_path: "papers/Jeon_PCCP_2012_galley.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -1,6 +1,6 @@
 # Corpus profile (2026-04)
 
-- Generated: `2026-04-20T16:38:20Z`
+- Generated: `2026-04-20T21:46:34Z`
 - Papers registered: **190**
 - PDF files scanned: **190**
 - Duplicate content hashes: **0** groups (see ingest_exceptions)

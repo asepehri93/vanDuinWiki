@@ -51,6 +51,15 @@ Slugs can look like `venue-paper` when metadata is thin (e.g. proofs); that is e
 - Re-running **overwrites** `MANIFEST.jsonl`, all `normalized/papers/*.json`, extracts, and aggregate outputs.
 - Commit `MANIFEST.jsonl` and normalized JSON; **do not commit** `normalized/extracts/` (see [`.gitignore`](../.gitignore)).
 
+## After copying many PDFs into `papers/`
+
+1. Remove macOS **AppleDouble** sidecars if present: `find papers normalized wiki -name '._*' -type f -delete` (they break parsing and inflate file counts).
+2. `python3 scripts/corpus_profile.py` — registers **every** `*.pdf` under `papers/` (excluding `._*`).
+3. `python3 scripts/phase4_mechanical_paper_stubs.py` — creates **`wiki/papers/{slug}.md`** only for **new** `paper_id`s.
+4. `python3 scripts/sync_wiki_paper_frontmatter.py` — refreshes **`pdf_sha256`**, **`pdf_path`**, **`extraction_quality`** (and fills **doi/year** when still empty) from `normalized/papers/*.json`.
+5. `python3 scripts/paper_page_refresh.py` — optional extract-based enrichment of Methods/Findings where extracts exist.
+6. `python3 scripts/generate_papers_indexes.py` — refresh by-year / by-domain listings.
+
 ## Handoff to Phase 4
 
 - Stable `paper_id` and bibliography JSON feed wiki page generation and linking.

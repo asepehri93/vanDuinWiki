@@ -24,7 +24,7 @@ authors:
 venue: "Acta Materialia 83 (2015) 102–112"
 pdf_sha256: "1f4c14bcf7a3c837c08435870afd2f2de142c1d147cc2a7700641a3a73466596"
 pdf_path: "papers/Zou_ActaMater_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

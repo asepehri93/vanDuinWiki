@@ -21,7 +21,7 @@ authors:
 venue: "Journal of Membrane Science"
 pdf_sha256: "ab24968fe6d08ad62c2b817f9ea91103abfd671167c21cded18f08c9ea22833a"
 pdf_path: "papers/Others/QAPS_OH_JMS-2013.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: false
 ---
 

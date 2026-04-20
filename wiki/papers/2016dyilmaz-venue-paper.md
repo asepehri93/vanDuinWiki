@@ -21,7 +21,7 @@ authors:
 venue: "Preprint / institutional manuscript (see PDF)"
 pdf_sha256: "e1ee05134713e2eaf6b0e3040833fdc1603fab0c945f1d96568533436b809fa2"
 pdf_path: "papers/ReaxFF_others/dyilmaz.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: false
 ---
 

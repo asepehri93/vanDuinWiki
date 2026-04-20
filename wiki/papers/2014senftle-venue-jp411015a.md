@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Physical Chemistry C 2014, 118, 4967–4981"
 pdf_sha256: "6d34e358a2852ca044810c0f835d8cdb5b5fa25587a44302b20f64fb4bc1118b"
 pdf_path: "papers/Senftle_PdH_JPCC_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

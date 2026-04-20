@@ -25,7 +25,7 @@ authors:
 venue: "Supporting information PDF (corpus: Roshan_JPCC_CuSiO_2023_SI.pdf)"
 pdf_sha256: "2143b19e62e9e29cb669413e8af52f5393b41ee8a9139a9319f7f9ed4d20975f"
 pdf_path: "papers/Roshan_JPCC_CuSiO_2023_SI.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

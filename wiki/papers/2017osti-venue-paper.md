@@ -30,7 +30,7 @@ authors:
 venue: "Phys. Rev. Mater."
 pdf_sha256: "ac3c800f9e3657c9bf13a8469ed13eb21980cbe3856a33c5728903acb13c1045"
 pdf_path: "papers/Osti_PhysicsMat_2017.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

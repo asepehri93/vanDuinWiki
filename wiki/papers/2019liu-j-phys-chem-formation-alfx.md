@@ -23,7 +23,7 @@ authors:
 venue: "J. Phys. Chem. C 123:16823-16835 (2019)"
 pdf_sha256: "bf9a5e02f4dd35b3e74d1360d81465ab696811f32921e1092cbe255e977f654f"
 pdf_path: "papers/Liu_AlF_etching_JPCC_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

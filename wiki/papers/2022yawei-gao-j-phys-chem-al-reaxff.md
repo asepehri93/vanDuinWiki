@@ -26,7 +26,7 @@ authors:
 venue: "J. Phys. Chem. C 126, 11058–11074 (2022)"
 pdf_sha256: "699d3ae0c158c43c2f4c27d851ccbf42be36c0272168b2a05c96be2bc7751d7b"
 pdf_path: "papers/Gao_Zhu_PVDF_Al_JPC_2022.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

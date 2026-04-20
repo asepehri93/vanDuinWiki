@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Mortazavi_MoS2_PCCP_2016.pdf",
     "sha256": "caed4a000ddfea887de9455f7b3955885b5eb37abd6210f76e93a87088a14d66",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1039/c6cp03612k",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2016mortazavi-physical-che-mechanical-response_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2016mortazavi-physical-che-mechanical-response.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

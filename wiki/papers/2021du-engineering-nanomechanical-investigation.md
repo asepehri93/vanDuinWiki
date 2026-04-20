@@ -25,7 +25,7 @@ authors:
 venue: "Eng. Fract. Mech. 250:107749 (2021)"
 pdf_sha256: "06669df4d0af41ecbfa04d7456128f4ba7568d2306e2e611e002a6dede4ba2bf"
 pdf_path: "papers/Du_EngFracMech_2021_crack.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

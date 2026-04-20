@@ -30,7 +30,7 @@ authors:
 venue: "Carbon"
 pdf_sha256: "8c4b1d74453819bfc1cfcf1b039d42483d6eefe04e333da83d66c3598bc0bf8b"
 pdf_path: "papers/Cunha_Carbon_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

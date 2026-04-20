@@ -13,7 +13,7 @@ authors: ["Kim, Sung-Yup", "van Duin, Adri C. T.", "Kubicki, James D."]
 venue: "Journal of Materials Research"
 pdf_sha256: "716cba7fb22a1e9e5ab76a44ade927da66576717551217132508eaca4a699339"
 pdf_path: "papers/Kim_TiO2_clusters_JMR_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

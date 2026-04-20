@@ -24,7 +24,7 @@ authors:
 venue: "Phys. Chem. Chem. Phys."
 pdf_sha256: "caed4a000ddfea887de9455f7b3955885b5eb37abd6210f76e93a87088a14d66"
 pdf_path: "papers/Mortazavi_MoS2_PCCP_2016.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Shin_ACS_Catalysis_2015.pdf",
     "sha256": "18e2ffbb2b57550408f9326be26c56501d9f1dc14f81ce8fcb6ffd7d8d2df7b2",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1021/acscatal.5b01766",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015shin-venue-research_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015shin-venue-research.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

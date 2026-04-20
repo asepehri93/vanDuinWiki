@@ -13,7 +13,7 @@ authors: []
 venue: "RSC Publishing (book proof)"
 pdf_sha256: "5463c86f5c674dbf3a310e43d02b3ab9d3533ab6b11e2f1af40ca8e209c4739a"
 pdf_path: "papers/Chapter6_water_annotated.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

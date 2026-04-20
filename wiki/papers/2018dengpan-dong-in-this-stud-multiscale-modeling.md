@@ -28,7 +28,7 @@ authors:
 venue: "Polymers"
 pdf_sha256: "41070f46fe1677dbba14643c0055c2bdd320d8ec57a47b833c89712b43f2f74e"
 pdf_path: "papers/Dong_Polymers_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

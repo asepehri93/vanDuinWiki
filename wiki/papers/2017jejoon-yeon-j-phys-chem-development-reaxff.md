@@ -25,7 +25,7 @@ authors:
 venue: "J. Phys. Chem. B"
 pdf_sha256: "f8a35a32ee421caa2984debab920e39166a271254889a2d8bdec735468e7e84c"
 pdf_path: "papers/Yeon_CuSCH_JPCB_2017.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

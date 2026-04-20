@@ -22,7 +22,7 @@ authors:
 venue: "Journal of Applied Physics"
 pdf_sha256: "fbdf7986903d464be7451f648bb5a156f58bdc34cb594f78494089348911586c"
 pdf_path: "papers/Verners_J_App_Phys_2013.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

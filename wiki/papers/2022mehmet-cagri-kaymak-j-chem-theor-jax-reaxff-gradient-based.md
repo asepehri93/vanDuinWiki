@@ -26,7 +26,7 @@ authors:
 venue: "J. Chem. Theory Comput. 18, 5181–5194 (2022)"
 pdf_sha256: "b88485f0e074898eed5df2acca339046a27e660593fe7cfdae585048954813e9"
 pdf_path: "papers/Kaymak_JAX_JCTC_2022.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

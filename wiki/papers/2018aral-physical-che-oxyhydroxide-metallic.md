@@ -27,7 +27,7 @@ authors:
 venue: "Phys. Chem. Chem. Phys."
 pdf_sha256: "95ddbda87a3e52094e92b1bedd1f666880d37664092ea9784fe80c7e154f49b8"
 pdf_path: "papers/Aral_PCCP_FeO_OH_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

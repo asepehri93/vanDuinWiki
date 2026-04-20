@@ -24,7 +24,7 @@ authors:
 venue: "Catalysis Today 211 (2013) 131–136"
 pdf_sha256: "a90d719d4b7bf345ad05c532837a39b58929cb45e24d671d9fff7dbc7b5299c5"
 pdf_path: "papers/Somers_CatalysisToday_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

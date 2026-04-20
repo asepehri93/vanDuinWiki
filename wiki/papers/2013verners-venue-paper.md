@@ -22,7 +22,7 @@ authors:
 venue: "Journal of Applied Physics"
 pdf_sha256: "46e38bdbda03b9b89e33ebdbce2f84c83ad8c83c3470b5bd48e85ccd67ee13ab"
 pdf_path: "papers/Verners_JAP_galley.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

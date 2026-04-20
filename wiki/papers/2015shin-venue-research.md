@@ -26,7 +26,7 @@ authors:
 venue: "ACS Catal."
 pdf_sha256: "18e2ffbb2b57550408f9326be26c56501d9f1dc14f81ce8fcb6ffd7d8d2df7b2"
 pdf_path: "papers/Shin_ACS_Catalysis_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 
@@ -49,11 +49,30 @@ A **Fe/Cr/O/S ReaxFF** is parameterized from **QM data** and applied to **high-t
 - **ReaxFF development** with QM training on **Fe/Cr/O/S** chemistry.
 - **Reactive MD** at **1600 K** on model catalyst slabs with and without **FeS2** patches.
 
+<!-- enrich-from-extract:v2 -->
+
+- We developed a ReaxFF force ﬁeld for Fe/Cr/O/S, which is parametrized against data from quantum mechanical (QM) calculations.
+- Using this force ﬁeld, we studied the Cr-oxide catalyzed oxidation reaction of butane at 1600 K.
+- Our simulation results demonstrate that the active oxygen species on the oxide surface play an important role in the conversion of butane.
+- The radical intermediates are associated with the oxygen atoms to form C−O bonds or make double bonds when neighboring carbon atoms are dehydrogenated, forming light alkenes.
+- On the clean Cr- oxide, the major oxidation product is CH 2O.
+
+
 ## Findings
 
 - **Cr-oxide** catalyzes **dehydrogenation** and oxygen insertion, with **CH2O** emphasized as a major product on **clean** surfaces under the simulated conditions reported in the abstract.
 - **FeS2** on chromia **accelerates complete oxidation** to **CO2/CO** and is associated with **surface restructuring** and altered **oxygen speciation**.
 - **Reoxidation** pathways differ between **clean** and **pyrite-modified** surfaces; **SOH**-related desorption appears on the modified oxide.
+
+### Additional results (article abstract)
+
+- Dehydrogenation of butane, which is found to be catalyzed by oxygen species on the oxide surface, initiates the reaction and generates butane radicals and surface OH groups.
+- On the other hand, on the modi ﬁed Cr-oxide, it is found that a considerable amount of SOH molecules are released from the surface.
+- The presence of iron pyrite (FeS 2), a common inorganic component in coal-derived fuels and a major slagging component, on Cr-oxide accelerates the complete oxidation of butane forming CO 2 and CO.
+- Surface reconstruction by iron pyrite is probably responsible for the change of the catalytic behavior.
+- Reoxidation of the reduced oxide surface can occur through removal of surface H 2O and adsorption of gaseous molecular oxygen at the vacancy sites on the clean Cr-oxide.
+- These results can provide the detailed mechanisms for the catalytic oxidation of alkane and product distributions in Cr-oxide catalyst and give, for the ﬁrst time, atomistic-scale insight in the complex surface chemistry of these catalysts under realistic operating conditions.
+
 
 ## Limitations
 

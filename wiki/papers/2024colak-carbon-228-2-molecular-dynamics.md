@@ -24,7 +24,7 @@ authors:
 venue: "Carbon 228, 119332 (2024)"
 pdf_sha256: "abf88f5a72c1d45b5e345fb46cac740ebe73c07d5f1117ca1aa85b213249b7b6"
 pdf_path: "papers/Others/Colak_carbon_2024.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

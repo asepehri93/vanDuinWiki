@@ -27,7 +27,7 @@ authors:
 venue: "New J. Phys."
 pdf_sha256: "6ef38a20f390e494e1218c7d79b95f941e2597d3370307c9bfc207cc3351fb35"
 pdf_path: "papers/Verlackt_njp_DNA_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

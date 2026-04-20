@@ -28,7 +28,7 @@ authors:
 venue: "Appl. Phys. Lett."
 pdf_sha256: "e70b96302b011f09ad8c4f006da1002a2dced9180459489638c101ecdad14f82"
 pdf_path: "papers/Kiwi_APL_2016_proof.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

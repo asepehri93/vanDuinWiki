@@ -29,7 +29,7 @@ authors:
 venue: "Polymer"
 pdf_sha256: "5a2f6955f45b24df2928c0caded395bf66985f1ea7ab21a5521178610ede86cf"
 pdf_path: "papers/Akbarian_Polymer_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

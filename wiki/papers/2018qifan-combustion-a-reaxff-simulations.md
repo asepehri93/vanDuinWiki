@@ -25,7 +25,7 @@ authors:
 venue: "Combust. Flame"
 pdf_sha256: "b5a319b4d56e0c8b2d9fdba93ebaedc8e17f44b5b5d73426a8a6a16afadd73cb"
 pdf_path: "papers/Zhong_CombFlame_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

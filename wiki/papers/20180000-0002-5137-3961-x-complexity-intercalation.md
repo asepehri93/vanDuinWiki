@@ -29,7 +29,7 @@ authors:
 venue: "J. Am. Chem. Soc."
 pdf_sha256: "5c684258b036f1d88a0b0bc2c32e44101fda2cbf3c251b761911259a052ad66a"
 pdf_path: "papers/Overbury_JACS_2018_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

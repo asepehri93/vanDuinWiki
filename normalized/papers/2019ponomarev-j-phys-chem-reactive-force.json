@@ -3,10 +3,10 @@
   "manifest": {
     "source_path": "papers/Ponomarev_JPCC_SiCO_2019.pdf",
     "sha256": "e6af92d9a7287a5e59ef1a77131bdc5b2e70694769246e4b9e89baaa81788599",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
-    "doi": "10.1021/acs.jpcc.9b03810",
+    "doi": null,
     "title": "Reactive Force Field for Simulations of the Pyrolysis of Polysiloxanes into Silicon Oxycarbide Ceramics",
     "year": 2019,
     "authors": "Ilia Ponomarev; Adri C. T. van Duin; Peter Kroll",
@@ -16,17 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019ponomarev-j-phys-chem-reactive-force_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "ReaxFF",
-    "silicon oxycarbide",
-    "polysiloxane",
-    "pyrolysis",
-    "Si-C-O-H"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019ponomarev-j-phys-chem-reactive-force.md",
-  "updated": "2026-04-20T18:00:00Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

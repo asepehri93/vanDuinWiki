@@ -13,7 +13,7 @@ authors: ["Yusupov, M.", "Neyts, E. C.", "Simon, P.", "Berdiyorov, G.", "Snoeckx
 venue: "Journal of Physics D: Applied Physics"
 pdf_sha256: "5bc2241aadaaeee20dd7883c7173dbe0312f11b75a81ee6126a0dc43f21b4729"
 pdf_path: "papers/Yusupov_JPhysD_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 
@@ -35,9 +35,25 @@ The study uses **ReaxFF reactive MD** (C/H/O/N **glycine/water** parameter set c
 
 - **ReaxFF MD** with explicit **ROS** insertion/impact into water films; comparison framed against reaction–diffusion modeling limitations.
 
+<!-- enrich-from-extract:v2 -->
+
+- It is known that most bio-organisms, including bacteria, are coated by a liquid ﬁlm surrounding them, and there might be many interactions between plasma species and the liquid layer before the plasma species reach the surface of the bio-organisms.
+- Therefore, it is essential to study the behaviour of the reactive species in a liquid ﬁlm, in order to determine whether these species can travel through this layer and reach the biomolecules, or whether new species are formed along the way.
+- In this work, we investigate the interaction of reactive oxygen species (i.e.
+
+
 ## Findings
 
 - Depth penetration of selected species and qualitative reaction channels (H-abstraction) differentiated by species.
+
+### Additional results (article abstract)
+
+- Our computational investigations show that OH, HO 2 and H2O2 can travel deep into the liquid layer and are hence in principle able to reach the bio-organism.
+- O, OH, HO 2 and H2O2) with water, which is assumed as a simple model system for the liquid layer surrounding biomolecules.
+- Furthermore, O, OH and HO 2 radicals react with water molecules through hydrogen-abstraction reactions, whereas no H-abstraction reaction takes place in the case of H 2O2.
+- This study is important to gain insight into the fundamental operating mechanisms in plasma medicine, in general, and the interaction mechanisms of plasma species with a liquid ﬁlm, in particular.
+- (Some ﬁgures may appear in colour only in the online journal)
+
 
 ## Limitations
 

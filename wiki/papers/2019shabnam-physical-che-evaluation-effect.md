@@ -23,7 +23,7 @@ authors:
 venue: "Phys. Chem. Chem. Phys. 21:9865-9875 (2019)"
 pdf_sha256: "7329f8a1300deec0579b23731e09b8e154eb42f162a25d3d1dbf5dd3587c7b78"
 pdf_path: "papers/Shabnam_PCCP_Ni_soot_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

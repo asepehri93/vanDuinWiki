@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Yue_Langmuir_Asperity_2015.pdf",
     "sha256": "8b6e92cb68779d352dae45abb81ed71db909b1978fd9c9a93b646a148ace9ebb",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015yue-venue-la5042663_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015yue-venue-la5042663.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

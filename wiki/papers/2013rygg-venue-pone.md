@@ -20,7 +20,7 @@ authors:
 venue: "PLoS ONE"
 pdf_sha256: "46ad69e287bdebb6c54184165391ac59f21a333f0e19b0d7341e31ba7932b657"
 pdf_path: "papers/Rygg_PLOSone_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

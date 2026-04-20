@@ -3,29 +3,24 @@
   "manifest": {
     "source_path": "papers/Others/chapter-TCT_Bauchy.pdf",
     "sha256": "c31d28e10acd71fd388f0c3b3d2072bab583fb582733d8a775bf8d7f09704afb",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
-    "title": "Topological Constraint Theory and Rigidity of Glasses (chapter)",
+    "title": "21st Century Nanoscience – A Handbook: Nanophysics Sourcebook (Volume One)",
     "year": 2019,
-    "authors": "Mathieu Bauchy",
-    "venue": "In: 21st Century Nanoscience – A Handbook: Nanophysics Sourcebook (CRC), ed. Klaus D. Sattler"
+    "authors": "Klaus D. Sattler",
+    "venue": null
   },
   "pdf_path": "papers/Others/chapter-TCT_Bauchy.pdf",
   "extraction": {
     "text_path": "normalized/extracts/2019sattler-venue-st-century_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "topological constraint theory",
-    "glass rigidity",
-    "network glasses",
-    "silicate"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019sattler-venue-st-century.md",
-  "updated": "2026-04-20T18:00:00Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

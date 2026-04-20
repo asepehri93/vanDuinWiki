@@ -23,7 +23,7 @@ authors:
 venue: "Fuel (uncorrected proof PDF in corpus)"
 pdf_sha256: "b1287861455fc265637f719bb1545bd6eade01ad36580bb6a61a5df345b58acc"
 pdf_path: "papers/Kwon_Fuel_2019_proof.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

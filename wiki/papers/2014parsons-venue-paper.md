@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Chemical Physics"
 pdf_sha256: "603e82b2bc83b8196b1a85514b17d0b32d16434f3b15fa6f4253fa4ccce4e5b8"
 pdf_path: "papers/Parsons_N2_N2_JCP_2014.PDF"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

@@ -22,7 +22,7 @@ authors:
 venue: "Journal of Analytical and Applied Pyrolysis 109 (2014) 79–89"
 pdf_sha256: "bfcc61364bbeb8c3fd66c2504a560a29c305dae5ea4842ff988aa838fef56eaa"
 pdf_path: "papers/Castro_JAAP_3246_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

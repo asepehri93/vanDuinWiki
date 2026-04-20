@@ -20,7 +20,7 @@ authors:
 venue: "Supporting information (revised)"
 pdf_sha256: "9528c4fed888d897a3f20fce194828d8feaed89ce9f66b9d6e0d2f1dc3327618"
 pdf_path: "papers/Zhang_ChemMat_2020_SI.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -26,7 +26,7 @@ authors:
 venue: "arXiv:2305.06925v2 (22 May 2023); corpus PDF Others/Li_metal_NN_2023.pdf"
 pdf_sha256: "e2839bb59367e3945b8edf83e8b03693275e249a5bb75b54b6e1b58f0cc5b646"
 pdf_path: "papers/Others/Li_metal_NN_2023.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: false
 ---
 

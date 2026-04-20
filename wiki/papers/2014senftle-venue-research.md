@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Physical Chemistry C (ACS proof PDF; same DOI as jp411015a)"
 pdf_sha256: "aa5ba5d5af9a3ac4bce74aae4e29bbc718b640a3f806f6826a37a289e24dfb4a"
 pdf_path: "papers/Senftle_PdH_JPCCproof_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

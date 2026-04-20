@@ -24,7 +24,7 @@ authors:
 venue: "Organic Geochemistry"
 pdf_sha256: "7bbdd1f2619e5483c3d50a4d78e47e0fe6e2041452c3fb3c6f32c1f69cb53611"
 pdf_path: "papers/vanBree_OrgGeoChem_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -26,7 +26,7 @@ authors:
 venue: "J. Am. Ceram. Soc. 103:1600-1614 (2020)"
 pdf_sha256: "017a658b425b660f93f5bd87e28e363fcf49a776d90d86921b161f81f9728889"
 pdf_path: "papers/Deng_NaSiOx_JaCERS_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

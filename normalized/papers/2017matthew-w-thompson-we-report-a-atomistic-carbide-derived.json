@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Thompson_C_2017-proof.pdf",
     "sha256": "3bbd9403704262f731450826a68a6d6fea098a44d5276db30166b38d0bd3be17",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2017matthew-w-thompson-we-report-a-atomistic-carbide-derived_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2017matthew-w-thompson-we-report-a-atomistic-carbide-derived.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

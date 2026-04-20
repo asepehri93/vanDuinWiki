@@ -3,10 +3,10 @@
   "manifest": {
     "source_path": "papers/Zhu_JPCC_CuCHO_2020.pdf",
     "sha256": "3d54d6d748d38086a04d431078447f5f8f50aef3dc77d262844c333c58c83afd",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
-    "doi": "10.1021/acs.jpcc.0c02573",
+    "doi": null,
     "title": "jp0c02573 1..9",
     "year": 2020,
     "authors": "Wenbo Zhu, Hao Gong, You Han, Minhua Zhang, and Adri C. T. van Duin",
@@ -16,17 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2020wenbo-zhu-j-phys-chem-jp0c02573_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "ReaxFF",
-    "copper",
-    "CuO",
-    "chemical looping",
-    "C/H/O surface chemistry"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2020wenbo-zhu-j-phys-chem-jp0c02573.md",
-  "updated": "2026-04-20T18:00:00Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

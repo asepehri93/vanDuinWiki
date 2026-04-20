@@ -22,7 +22,7 @@ authors:
 venue: "Nano Letters"
 pdf_sha256: "b90c3e1dde40cc93525aed6f237f9c6deacd3641187616ad262edaf753574219"
 pdf_path: "papers/Raju_Nano_Letters_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

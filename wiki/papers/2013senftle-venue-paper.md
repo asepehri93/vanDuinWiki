@@ -24,7 +24,7 @@ authors:
 venue: "Journal of Chemical Physics"
 pdf_sha256: "186a1dde056640a25d5bdb25272f773f3be8455b86d4e4c73c59dac852da3e9d"
 pdf_path: "papers/Senftle_JCP_PdO_2013_proof.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

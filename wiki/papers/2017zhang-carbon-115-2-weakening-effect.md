@@ -24,7 +24,7 @@ authors:
 venue: "Carbon"
 pdf_sha256: "5527fdaac2b077cbc0e460ee18d059fc61d354207ffff5216a35de15c507febd"
 pdf_path: "papers/Zhang_Seveno_Carbon_2017.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

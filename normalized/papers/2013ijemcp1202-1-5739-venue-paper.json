@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/IJEMCP1202(1)-5739.pdf",
     "sha256": "5ab96e9b22843af8a4daba817fab7d2b01ae1c43bad47d75732d705518c14c0c",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013ijemcp1202-1-5739-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 5035
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013ijemcp1202-1-5739-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

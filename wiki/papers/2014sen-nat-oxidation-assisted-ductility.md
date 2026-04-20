@@ -22,7 +22,7 @@ authors:
 venue: "Nature Communications 5, 3959 (2014)"
 pdf_sha256: "c7b5990da8e42e29f42ca4cb75fcf5ab8313e3bd581718a541b08bd06afdc19b"
 pdf_path: "papers/Sen_Nature_Comm_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

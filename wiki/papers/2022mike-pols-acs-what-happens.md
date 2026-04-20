@@ -26,7 +26,7 @@ authors:
 venue: "ACS Appl. Mater. Interfaces 14, 40841–40850 (2022)"
 pdf_sha256: "4e0e54fed3c25412da77fa2c0185d06ca01bc4874dafa1d54c8d2bfd154fa7f8"
 pdf_path: "papers/Pols_ACS_AMI_CsPbI3_2022.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/vanBree_OrgGeoChem_2018.pdf",
     "sha256": "7bbdd1f2619e5483c3d50a4d78e47e0fe6e2041452c3fb3c6f32c1f69cb53611",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018bree-organic-geoc-origin-formation_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018bree-organic-geoc-origin-formation.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

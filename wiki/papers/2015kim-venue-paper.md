@@ -21,7 +21,7 @@ authors:
 venue: "Supporting information PDF (`papers/Yeon_Langmuir_2016_SI.pdf` in corpus)"
 pdf_sha256: "5a239334ee85058aa07a42859d2be4721e977ece928f3b5a1a5e4402c21c6236"
 pdf_path: "papers/Yeon_Langmuir_2016_SI.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

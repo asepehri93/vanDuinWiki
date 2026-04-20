@@ -32,7 +32,7 @@ authors:
 venue: "npj Comput. Mater."
 pdf_sha256: "11c70284ea984b327048cb49e17b1eed5ce41582e579a3178c5b13092226076d"
 pdf_path: "papers/NPJCOMPUMATS201511.pdf"
-extraction_quality: partial
+extraction_quality: "good"
 group_affiliation: true
 ---
 

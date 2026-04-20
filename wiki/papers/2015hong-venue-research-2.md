@@ -20,8 +20,8 @@ authors:
   - "Adri C.T. van Duin"
 venue: "Journal of Physical Chemistry C (ACS proof PDF in corpus)"
 pdf_sha256: "4bb92ac3034563c946d182205499a61321d54c81d14932a180c6fdc552f1c9e1"
-pdf_path: "papers/Hong_AlOx_JPCC_2015_proof.pdf"
-extraction_quality: good
+pdf_path: "papers/Hong_AlOx_JPCA_2015_proof.pdf"
+extraction_quality: "good"
 group_affiliation: true
 ---
 

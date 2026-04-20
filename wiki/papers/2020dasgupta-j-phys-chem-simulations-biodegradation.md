@@ -22,7 +22,7 @@ authors:
 venue: "J. Phys. Chem. B 124:5311-5322 (2020)"
 pdf_sha256: "d836bd4e827e526cd18607a93907661ed8bf9c5cc7997cea178e3d1aec1ec6b5"
 pdf_path: "papers/Dasgupta_Citrate_JPC_2020.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 
@@ -44,9 +44,26 @@ ReaxFF MD studies poly(1,6-hexanediol-co-citric acid) hydrolysis with an **accel
 
 ReaxFF; accelerated reactive MD; mechanical tensile tests on partially hydrolyzed bundles.
 
+<!-- enrich-from-extract:v2 -->
+
+- atomistic-scale simulations have also been carried out using nonreactive interatomic potentials such as CHARMM 26 and OPLSAA27 enabling larger time scale simulations up to microsecond- and nanoscale level sizes are possible using these methods.
+- These nonreactive simulations can describe bond stretching, angle bending, dihedral rotations, and nonbonded interactions but not bond breaking or bond formation.
+- There have been MD studies on the thermal 28,29 and mechanical degradation30,31 of polymers.
+- However, studies on hydrolytic cleavage of di ﬀerent functional groups in order to understand the chemistry of polymer biodegradation in solvents using atomistic MD techniques have been scarce.
+
+
 ## Findings
 
 Ester vs ether selectivity consistent with barrier arguments; strain-rate sensitivity of modulus; qualitative ranking of ductility between polyester and polyester–ether constructs.
+
+### Additional results (article abstract)
+
+- Ester can be readily hydrolyzed in the presence of water as the activation energy barriers of ester hydrolysis is generally within the range of 20 −30 kcal/mol. 32−36 Ether hydrolysis refers to the substitution reactions that lead to the cleavage of ether bond and resulting in the formation of alcohols.
+- However, in the presence of nucleophiles, ethers can be hydrolyzed by the nucleophilic substitution reaction. 37 The classical energy barrier of acid-catalyzed ether hydrolysis is around
+- Carboxylic esters are one of the most important functional groups in organic chemistry.
+- Hydrolysis of esters are mainly addition−elimination reactions which can be acid-catalyzed, base-catalyzed, or neutral in nature. 32 The transition state in each of these products di ﬀer; however, the end product is the same.
+- Because of high chemical stability of ethers, they are diﬃ cult to hydrolyze in neutral environment.
+
 
 ## Limitations
 

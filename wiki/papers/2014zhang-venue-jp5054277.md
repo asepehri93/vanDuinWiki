@@ -21,7 +21,7 @@ authors:
 venue: "Journal of Physical Chemistry B 2014, 118, 12008–12016"
 pdf_sha256: "afa01e785856fd907e673d7b40880bb3b4691aefae16f11dfa55a82e1354eb5f"
 pdf_path: "papers/Zhang_JPC_B_IL_CO2_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

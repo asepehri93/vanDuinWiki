@@ -13,7 +13,7 @@ authors: ["van Duin, Adri", "Verners, Osvalds", "Shin, Yun-Kyung"]
 venue: "International Journal of Energetic Materials and Chemical Propulsion"
 pdf_sha256: "5ab96e9b22843af8a4daba817fab7d2b01ae1c43bad47d75732d705518c14c0c"
 pdf_path: "papers/IJEMCP1202(1)-5739.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

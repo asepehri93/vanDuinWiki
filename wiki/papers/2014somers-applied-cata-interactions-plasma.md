@@ -23,7 +23,7 @@ authors:
 venue: "Applied Catalysis B: Environmental 154–155 (2014) 1–8"
 pdf_sha256: "73441b32cbe253d2eceb5ffa2b3d30f13dfb9af40de64dc861851304918879ab"
 pdf_path: "papers/Somers-2014-ACBE-154-1.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

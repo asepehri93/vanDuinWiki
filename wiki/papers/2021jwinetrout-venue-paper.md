@@ -26,7 +26,7 @@ authors:
 venue: "Archived preprint / conference manuscript in corpus (IFFR_archived_2021.pdf)"
 pdf_sha256: "d79c0ed9a9b94d0cb7943b28a1877fbc576369bb6a75decb4aaab3b9e37dda27"
 pdf_path: "papers/IFFR_archived_2021.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

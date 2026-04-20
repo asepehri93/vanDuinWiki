@@ -21,7 +21,7 @@ authors:
 venue: "Journal of Physical Chemistry A"
 pdf_sha256: "93cc87a97c87e24e54e52e12848c934fa661ccf1620434cbd45f07e2e2a13193"
 pdf_path: "papers/Rahnamoun_Kapton_JPCA_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

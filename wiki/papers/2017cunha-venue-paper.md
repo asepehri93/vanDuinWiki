@@ -25,7 +25,7 @@ authors:
 venue: "Carbon"
 pdf_sha256: "eb76096047283c2495c2eb29d3440a854bf0b304cd4158d1b4bc9817486e5600"
 pdf_path: "papers/Cunha_Carbon_2017_proof.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

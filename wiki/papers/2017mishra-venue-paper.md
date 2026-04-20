@@ -33,7 +33,7 @@ authors:
 venue: "Cem. Concr. Res."
 pdf_sha256: "1ffdcf7f36ca57fd7ed4657e8bf90ec9c6893c9ae64d9c0fec82b91bdee979e1"
 pdf_path: "papers/Mishra_CEMFF_proof_2017.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

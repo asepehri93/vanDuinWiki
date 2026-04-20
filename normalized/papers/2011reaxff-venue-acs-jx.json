@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/ReaxFF_others/ReaxFF_lg.pdf",
     "sha256": "0579728040a35c9179732c67cd3d3db782f39103bc70c15f2f132a22ccb26cfd",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1021/jp201599t",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2011reaxff-venue-acs-jx_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2011reaxff-venue-acs-jx.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

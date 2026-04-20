@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Akbarian_PCCP_BaTiO3_2019.pdf",
     "sha256": "4e189e8d7a502e133c6b71b0515a1f32eb49a9ad3ed94883212e916fe53ebc6e",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,16 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019akbarian-physical-che-understanding-influence_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "BaTiO3",
-    "ferroelectric",
-    "oxygen vacancy",
-    "ReaxFF"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019akbarian-physical-che-understanding-influence.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

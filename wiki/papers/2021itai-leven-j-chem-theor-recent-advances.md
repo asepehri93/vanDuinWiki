@@ -32,7 +32,7 @@ authors:
 venue: "J. Chem. Theory Comput. 17:3237-3251 (2021)"
 pdf_sha256: "90c26d661109de5d945af3318146c7f02306148742cc6aa1550afd86465f94a9"
 pdf_path: "papers/Leven_JCTC_2021.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

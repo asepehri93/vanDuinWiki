@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Physical Chemistry C"
 pdf_sha256: "a794e37e8e48bca3182364ad0f9a84af35d75324f2c2fb28c97b1ce290917790"
 pdf_path: "papers/Newsome_JPCC_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Chowdhury_CHO_2017_JPCA.pdf",
     "sha256": "fe1467aed0c35b8887920ebee84765b86c64dd6afa5badeea0753b2c9365c125",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2017chowdhury-venue-jp6b12429_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2017chowdhury-venue-jp6b12429.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

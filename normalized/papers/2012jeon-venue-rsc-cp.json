@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Jeon_PCCP_2012_galley.pdf",
     "sha256": "a640cbe9ae6642389a8d87ae02dcb44eec0e913f3d744875508cceb612143ba6",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1039/c2cp43490c",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2012jeon-venue-rsc-cp_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 2834
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2012jeon-venue-rsc-cp.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

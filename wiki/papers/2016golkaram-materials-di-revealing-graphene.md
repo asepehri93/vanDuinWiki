@@ -22,7 +22,7 @@ authors:
 venue: "Mater. Discov."
 pdf_sha256: "da50f2c92e47de28e96ee2f4a638f96be75f72b64311c866e2bf346586ec53ef"
 pdf_path: "papers/Golkaram_MD_2016.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

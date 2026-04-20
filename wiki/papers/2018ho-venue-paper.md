@@ -30,7 +30,7 @@ authors:
 venue: "J. Phys. Chem. C (Supporting Information PDF in corpus)"
 pdf_sha256: "4f729f601bd851419c83d1c153fdb43a83feaefb481b74760abd1973e3fd9c3d"
 pdf_path: "papers/Hahn_NaSiOx_JPCC_2018_SI.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

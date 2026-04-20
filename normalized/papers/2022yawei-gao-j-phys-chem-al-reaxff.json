@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Gao_Zhu_PVDF_Al_JPC_2022.pdf",
     "sha256": "699d3ae0c158c43c2f4c27d851ccbf42be36c0272168b2a05c96be2bc7751d7b",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2022yawei-gao-j-phys-chem-al-reaxff_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2022yawei-gao-j-phys-chem-al-reaxff.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

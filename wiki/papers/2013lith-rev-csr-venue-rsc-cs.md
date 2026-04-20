@@ -13,7 +13,7 @@ authors: ["Islam, M. Saiful", "Fisher, Craig A. J."]
 venue: "Chemical Society Reviews"
 pdf_sha256: "0b01c7d87c5014faebf1aef8d8b13b7b90e37bf37bdef2233a3954418f42028d"
 pdf_path: "papers/Others/Lith-Rev-CSR_jan14.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

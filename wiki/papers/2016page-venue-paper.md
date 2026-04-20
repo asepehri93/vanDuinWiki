@@ -16,7 +16,7 @@ authors: []
 venue: "ACS (publisher workflow artifact)"
 pdf_sha256: "d171f64cbd21c0aaf21b7e610a9f0f753ed9f74963636452e5c8de41df05d4d2"
 pdf_path: "papers/Page proof- TOC.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: false
 ---
 

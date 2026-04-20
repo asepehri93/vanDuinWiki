@@ -25,7 +25,7 @@ authors:
 venue: "Environmental Science & Technology"
 pdf_sha256: "aa45c8bf97532946cd2e1e42745b98291d68be2f6db4ffdb2773ef8f54e2b3d9"
 pdf_path: "papers/Hatzelletal_ES&T_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

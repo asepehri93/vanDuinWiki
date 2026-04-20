@@ -28,7 +28,7 @@ authors:
 venue: "Physical Chemistry Chemical Physics"
 pdf_sha256: "2d41456bb91442675e451b81a994f8366567f12421c47c845e1bdd7ce2a09cb7"
 pdf_path: "papers/Islam_PCCP_LiS_2014.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

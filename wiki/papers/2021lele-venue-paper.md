@@ -24,7 +24,7 @@ authors:
 venue: "Fuel (pre-publication / placeholder volume PDF in corpus)"
 pdf_sha256: "2cf05e3467b965c4d5b91f199c2c3c133ea260cc806afa792d51c9a1e4bc1ded"
 pdf_path: "papers/Lele_Fuel_2021_galley.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

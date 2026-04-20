@@ -23,7 +23,7 @@ authors:
 venue: "Fuel (2019), corrected proof, article 116545"
 pdf_sha256: "8c7353e44798d865ca22090ecbec03d6cfa40a400f308afc2fede75c1ecb5662"
 pdf_path: "papers/Kwon_Fuel_2019_online.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

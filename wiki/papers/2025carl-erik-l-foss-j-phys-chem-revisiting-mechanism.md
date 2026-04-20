@@ -27,7 +27,7 @@ authors:
 venue: "J. Phys. Chem. Lett. 2025, 16, 2238–2244"
 pdf_sha256: "788d1647367c38c65d2ef3109e1f40f275699c461cabed3fe5544d70b24d393d"
 pdf_path: "papers/Foss_JPCL_2025_Si_battery.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

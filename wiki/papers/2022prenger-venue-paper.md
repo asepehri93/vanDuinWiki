@@ -29,7 +29,7 @@ authors:
 venue: "ACS Appl. Energy Mater. (2022), Supporting Information"
 pdf_sha256: "3b963944f30860f18aa59d5a32e217508853709c38a2bdef8fbe12fa21497d3f"
 pdf_path: "papers/Prenger_ACS_AEM_2022_SI.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

@@ -23,7 +23,7 @@ authors:
 venue: "MSU / ALCF technical report MSU-CSE-15-16 (PDF in corpus)"
 pdf_sha256: "b758618f9cac9decc1e98b4acd3492852bed3bbe071d00597a730c5bc2bf6432"
 pdf_path: "papers/Aktulga_MSU-CSE-15-16.pdf"
-extraction_quality: good
+extraction_quality: "partial"
 group_affiliation: false
 ---
 
@@ -46,10 +46,36 @@ Aktulga *et al.* describe **hybrid MPI/OpenMP** optimizations for **LAMMPS/ReaxC
 - **OpenMP** parallelization of hot loops in **ReaxC** tied to LAMMPS integration.
 - **Performance engineering** study on BG/Q including QEq solver variants.
 
+<!-- enrich-from-extract:v2 -->
+
+- Reactive Molecular Dynamics, ReaxFF , LAMMPS-ReaxC-OMP , Multi-core architectures, Hybrid parallelism ! 1 I NTRODUCTION Molecular Dynamics (MD) simulation has become an increasingly important computa- tional tool for a range of scientiﬁc disciplines including, but certainly not limited to, chemistry, biology, and materials science.
+- In order to examine the microscopic properties of atomistic systems for many nanoseconds (and possibly microseconds) and distances spanning several nanometers, it is crucial to have a computationally cheap, yet suf- ﬁciently accurate interatomic potential to facilitate the required simulations.
+- Instead of resorting to computationally expensive quantum mechanical al- ternatives, which explicitly treat the electronic degrees of freedom and thereby are appropriate to model chemical reactions, one can employ simulation methods that include some degree of variable bond topology (e.g. multistate methods [4], [5]) or force ﬁelds that do not deﬁne a bonding topology.
+- ReaxFF is a bond order potential that has been widely used to study chemical re- activity in a wide-range of systems.
+- The PuReMD software [10], [11], [12] and the LAMMPS/ReaxC package [13], which is also based on PuReMD, provide efﬁcient, open- source implementations of the ReaxFF model that have been beneﬁcial to large commu- nities of researchers.
+- The ability for a large community of researchers to efﬁciently carry out such simulations is becoming even more important as algorithms for the efﬁcient ﬁtting of ReaxFF models are made available [14], [15], [16], [17].
+- In this paper, we present hybrid parallel algorithms and their implementation for ReaxFF, where the construction of bonded and nonbonded lists and evaluation of complex interactions are implemented efﬁciently with a suitable choice of data structures and using thread parallelism provided by the OpenMP library.
+- Sustained performance improvements have been observed for up to 1,048,576 processes in larger simulations.
+- Knight is with the Argonne Leadership Computing Facility, Argonne National Laboratory, Argonne, IL 60439.
+- Coffman is with the Argonne Leadership Computing Facility, Argonne National Laboratory, Argonne, IL 60439.
+
+
 ## Findings
 
 - Thread-level parallelism recovers on-node performance lost to **MPI-only** decompositions at moderate core counts.
 - Large-scale reactive MD campaigns become more feasible when list builds and QEq are not serial bottlenecks.
+
+### Additional results (article abstract)
+
+- The goal of all such reactive methodologies and force ﬁelds is to model reactive systems at time and length scales that far surpass those currently impractical for exploration with electronic structure methods, but at the same time complementing these more accurate quantum mechanical methods.
+- It is thus important to ensure that efﬁcient implementations of a method are available in order to best address challenging scientiﬁc questions and best utilize available computational resources.
+- PuReMD and LAMMPS/ReaxC incorporate novel algorithms and data structures to achieve high performance in force computations while retaining a small memory footprint.
+- Just like strategies to accurately and efﬁciently model a challenging problem have evolved over time, so too has the translation of algorithms from paper to software matured to make optimal use of high-performance computing (HPC) resources.
+- As a result of the physical limitations of the current chip technology, we have witnessed the emergence of multi-core architectures over the past decade.
+- Hybrid parallelism (typically in the form of MPI/OpenMP) allows HPC applications to better leverage the increasing on-node parallelism.
+- We present detailed performance analysis of the resulting LAMMPS/ReaxC-OMP pack- age on a state-of-the-art multi-core system Mira, an IBM BlueGene/Q supercomputer.
+- For system sizes ranging from 32 thousand to 16.6 million particles, speedups in the range of 1.5-4.5× are observed using the new hybrid parallel implementation.
+
 
 ## Limitations
 

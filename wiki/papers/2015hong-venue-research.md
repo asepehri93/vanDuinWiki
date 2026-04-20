@@ -21,7 +21,7 @@ authors:
 venue: "Journal of Physical Chemistry C (ASAP PDF in corpus; see DOI)"
 pdf_sha256: "6974038ec96656cf9e22642917f384bd696f2822abb69a6d6626a0a0612ad676"
 pdf_path: "papers/Hong_AlOx_JPCA_2015_ASAP.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

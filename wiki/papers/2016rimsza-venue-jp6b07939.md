@@ -23,7 +23,7 @@ authors:
 venue: "J. Phys. Chem. C"
 pdf_sha256: "d3170c8e85355d7001264f6cc194620e9920ad3ca974f3d482096e052e1d931a"
 pdf_path: "papers/Rimsza_JPC_2016.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

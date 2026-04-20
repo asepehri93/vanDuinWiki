@@ -13,7 +13,7 @@ authors: ["Jeon, Byoungseon", "Van Overmeere, Quentin", "van Duin, Adri C. T.", 
 venue: "Physical Chemistry Chemical Physics"
 pdf_sha256: "7ef19c15c7329975b7bc6b70f26bffc88538178d5d05dc084d54350b0ba214d2"
 pdf_path: "papers/Jeon_PCCP_Iron_Efield_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

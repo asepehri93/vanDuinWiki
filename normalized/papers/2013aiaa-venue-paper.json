@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/AIAA_Abstract_NeillMehta.pdf",
     "sha256": "9376825fba2c4db26837f13007552b05f281f87e03df6b0cb7d61f07c64923f8",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013aiaa-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 4047
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013aiaa-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

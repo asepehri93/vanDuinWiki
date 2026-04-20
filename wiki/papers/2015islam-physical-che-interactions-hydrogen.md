@@ -23,7 +23,7 @@ authors:
 venue: "Physical Chemistry Chemical Physics 2016, 18, 761–771"
 pdf_sha256: "916b398c5c01518367cdc80093961e6de634edbff50304efec4645548ae86b1e"
 pdf_path: "papers/Islam_FeC_PCCP_2016.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

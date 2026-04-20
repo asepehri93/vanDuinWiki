@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Du_EngFracMech_2021_crack.pdf",
     "sha256": "06669df4d0af41ecbfa04d7456128f4ba7568d2306e2e611e002a6dede4ba2bf",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": "10.1016/j.engfracmech.2021.107749",
@@ -16,16 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2021du-engineering-nanomechanical-investigation_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "ReaxFF",
-    "amorphous silica",
-    "fracture",
-    "nanopores"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2021du-engineering-nanomechanical-investigation.md",
-  "updated": "2026-04-20T18:00:00Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

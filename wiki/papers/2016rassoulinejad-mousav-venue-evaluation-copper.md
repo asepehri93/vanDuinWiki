@@ -22,7 +22,7 @@ authors:
 venue: "J. Appl. Phys."
 pdf_sha256: "b6ae7c5b4b19a1be8fa68071c41052abdb7bea921532021cceef71d643c49e79"
 pdf_path: "papers/Others/NiAl_review.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

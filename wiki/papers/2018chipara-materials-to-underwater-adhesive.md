@@ -40,7 +40,7 @@ authors:
 venue: "Materials Today Chemistry"
 pdf_sha256: "79ddef353e082fd724973756114f6c50c3fcb91a01ed6c9f8c85ed1d32816ffc"
 pdf_path: "papers/Chipara_MatTodayChem_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

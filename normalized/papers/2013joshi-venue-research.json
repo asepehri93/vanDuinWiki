@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Joshi_PRD_JPC_Letter_2013.pdf",
     "sha256": "548b25f15a12b90ad445d0e0d8dae0e61bd822f87e64e58e5167fa603ff88689",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013joshi-venue-research_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013joshi-venue-research.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

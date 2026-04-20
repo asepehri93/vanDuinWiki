@@ -19,7 +19,7 @@ authors:
 venue: "ACS Catalysis"
 pdf_sha256: "4b24f4280ca0558090990c255cc79b8669013f65ac72e93f8877c65320a793d2"
 pdf_path: "papers/Senftle_ACS Catalysis_2015.pdf"
-extraction_quality: poor
+extraction_quality: "poor"
 group_affiliation: true
 ---
 

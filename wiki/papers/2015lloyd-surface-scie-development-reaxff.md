@@ -28,7 +28,7 @@ authors:
 venue: "Surface Science 645 (2016) 67–73"
 pdf_sha256: "abdd27650d9ba7f3773556390efc78066c5a7656376ecbbe0a54613d65fcb8dc"
 pdf_path: "papers/Lloyd_AgZnO_SurfSci2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

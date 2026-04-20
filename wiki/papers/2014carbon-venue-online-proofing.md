@@ -21,7 +21,7 @@ authors:
 venue: "Carbon"
 pdf_sha256: "97e040a9a5c93ba8edc71afba2c3e54c9121903b5123d6f5a94e5063e27e91c4"
 pdf_path: "papers/CARBON_9458_edit_report.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

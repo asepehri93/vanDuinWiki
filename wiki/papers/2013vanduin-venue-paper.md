@@ -22,7 +22,7 @@ authors:
 venue: "International Journal of Energetic Materials and Chemical Propulsion"
 pdf_sha256: "fa4277dfa5e1ce5a7705c3a0446f3ef98c1095d7731c720c20e51441d3fe96f0"
 pdf_path: "papers/vanDuin_IJEMCP_2013_galley.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

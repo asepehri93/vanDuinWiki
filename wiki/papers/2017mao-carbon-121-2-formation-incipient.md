@@ -22,7 +22,7 @@ authors:
 venue: "Carbon"
 pdf_sha256: "1bf68ef7c2957ddd76e3481b5fe47b538a692d6f0eb1e425397e67cd97a574d7"
 pdf_path: "papers/Mao_Qian_Carbon_soot_2017.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

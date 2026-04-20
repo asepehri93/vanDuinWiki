@@ -26,7 +26,7 @@ authors:
 venue: "Energy Fuels 34:1537-1547 (2020)"
 pdf_sha256: "674ecf2e14ba2eaa0b2fb16b062171ea44fe9b25dac962344857b603b93cf9b2"
 pdf_path: "papers/Atmani_Energy_Fuels_2020.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

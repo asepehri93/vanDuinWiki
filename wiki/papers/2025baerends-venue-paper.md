@@ -53,7 +53,7 @@ authors:
 venue: "J. Chem. Phys. 162, 162501 (2025)"
 pdf_sha256: "12b451c67ea14e862cd30b7b9feefb895db2bf83cd1fb56883b7ff5602d690a1"
 pdf_path: "papers/Baerends_ADF_JCP_2025.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

@@ -23,7 +23,7 @@ authors:
 venue: "Fuel 235 (2018) 194–207"
 pdf_sha256: "f6e0cac3c7eb0cf6be258ea4e3431cf6f2b7fd1eb924ee23c9c11525e954c89d"
 pdf_path: "papers/Ashraf_Shabnam_Fuel_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

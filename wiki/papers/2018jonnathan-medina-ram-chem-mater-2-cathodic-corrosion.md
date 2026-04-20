@@ -35,7 +35,7 @@ authors:
 venue: "Chem. Mater."
 pdf_sha256: "2f06941fb0d800186e940881ae40a5df8ef3a28444c7a9db780b319793bfec71"
 pdf_path: "papers/MedinaRamon_ChemMat_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

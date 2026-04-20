@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Ashraf_Shabnam_Fuel_2018.pdf",
     "sha256": "f6e0cac3c7eb0cf6be258ea4e3431cf6f2b7fd1eb924ee23c9c11525e954c89d",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,17 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018ashraf-fuel-235-201-pyrolysis-binary_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "JP-10",
-    "toluene",
-    "n-dodecane",
-    "supercritical pyrolysis",
-    "ReaxFF"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018ashraf-fuel-235-201-pyrolysis-binary.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

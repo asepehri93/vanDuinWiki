@@ -13,7 +13,7 @@ authors: ["Assowe, O.", "Politano, O.", "Vignal, V.", "Arnoux, P.", "Diawara, B.
 venue: "The Journal of Physical Chemistry A"
 pdf_sha256: "96cbf53e6749b343efdfc44c0dc05077578aa756e14b69539b0bdb2118e620e5"
 pdf_path: "papers/Assowe_JPCA_2012.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

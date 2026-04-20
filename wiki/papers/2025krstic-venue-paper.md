@@ -27,7 +27,7 @@ authors:
 venue: "J. Chem. Phys. 159, 244703 (2023)"
 pdf_sha256: "dca6fdfc6e299b1cc71f7af10ec95f338f1737aa0226d74736f8205aaa2a1ef9"
 pdf_path: "papers/Krstic_JCP_LiOH_2023.pdf"
-extraction_quality: partial
+extraction_quality: "partial"
 group_affiliation: true
 ---
 

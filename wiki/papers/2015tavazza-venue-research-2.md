@@ -25,7 +25,7 @@ authors:
 venue: "J. Phys. Chem. C"
 pdf_sha256: "67b72665dd39c9af4e71ac1b74ffdc72113d2b12fbaf3d15e2ba2408d939f2a4"
 pdf_path: "papers/Tavazza_JPC_2015_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

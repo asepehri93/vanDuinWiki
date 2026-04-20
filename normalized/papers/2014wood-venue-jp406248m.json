@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Wood_HMX_JPCA_2014.pdf",
     "sha256": "4e5c3ea0d176293776252e8d2caef7e7009088aa1a7c69555413075ef9a91bc0",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2014wood-venue-jp406248m_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2014wood-venue-jp406248m.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Uene_2024_BN_BCl3_JPC_SI.pdf",
     "sha256": "28a9050601e3978b83a8d2f58df5f5bd7a1b9a7229993e72f8b84d1e26d85afd",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2023uene-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 3854
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2023uene-venue-paper.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/MedinaRamon_ChemMat_2018.pdf",
     "sha256": "2f06941fb0d800186e940881ae40a5df8ef3a28444c7a9db780b319793bfec71",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion.md",
-  "updated": "2026-04-20T16:38:20Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

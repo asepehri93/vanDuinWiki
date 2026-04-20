@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Physical Chemistry C"
 pdf_sha256: "d83481ec63778cddf80bfd11c3468c8738525b0d04cf43387d57ffd59383f8f9"
 pdf_path: "papers/Raju_TiO2_water_JPC_C_2013.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

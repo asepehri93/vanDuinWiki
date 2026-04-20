@@ -32,7 +32,7 @@ authors:
 venue: "Adv. Electron. Mater. 2400567 (2024)"
 pdf_sha256: "51810029d298a3f3d46d20cf328303cd69904f174818a6f34bbd4114708de54d"
 pdf_path: "papers/Baksa_Adv_Elec_Mat_2024.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

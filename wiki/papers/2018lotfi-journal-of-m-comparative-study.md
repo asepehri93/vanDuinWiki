@@ -26,7 +26,7 @@ authors:
 venue: "J. Mater. Chem. A"
 pdf_sha256: "914c69bf385f9349479f617b3409bba40406584d3f462e790f2b071848e7bf8d"
 pdf_path: "papers/Lotfi_Materials_A_2018.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

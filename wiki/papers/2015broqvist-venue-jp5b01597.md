@@ -26,7 +26,7 @@ authors:
 venue: "Journal of Physical Chemistry C 2015, 119, 13598–13609"
 pdf_sha256: "f47c87db7068a1d0d403e819f072d9267d392a7103a197374904810083b05744"
 pdf_path: "papers/Broqvist_Ceria_JPC_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

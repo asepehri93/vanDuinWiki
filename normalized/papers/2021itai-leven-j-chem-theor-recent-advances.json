@@ -3,10 +3,10 @@
   "manifest": {
     "source_path": "papers/Leven_JCTC_2021.pdf",
     "sha256": "90c26d661109de5d945af3318146c7f02306148742cc6aa1550afd86465f94a9",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
-    "doi": "10.1021/acs.jctc.1c00118",
+    "doi": null,
     "title": "Recent Advances for Improving the Accuracy, Transferability, and Efficiency of Reactive Force Fields",
     "year": 2021,
     "authors": "Itai Leven, Hongxia Hao, Songchen Tan, Xingyi Guan, Katheryn A. Penrod, Dooman Akbarian, Benjamin Evangelisti, Md Jamil Hossain, Md Mahbubul Islam, Jason P. Koski, Stan Moore, Hasan Metin Aktulga, Adri C. T. van Duin, and Teresa Head-Gordon",
@@ -16,17 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2021itai-leven-j-chem-theor-recent-advances_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "ReaxFF",
-    "eReaxFF",
-    "reactive force fields",
-    "charge equilibration",
-    "LAMMPS"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2021itai-leven-j-chem-theor-recent-advances.md",
-  "updated": "2026-04-20T18:00:00Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

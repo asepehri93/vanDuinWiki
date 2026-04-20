@@ -30,7 +30,7 @@ authors:
 venue: "J. Phys. Chem. A 124:4290-4304 (2020)"
 pdf_sha256: "c63e9df678f8aec7347345bbd4ca7942cc3f0a2f1d70033b96fe7c83bdfbd7e9"
 pdf_path: "papers/Kwon_JPC_2020_Soot_growth.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

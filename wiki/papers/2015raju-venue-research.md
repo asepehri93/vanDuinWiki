@@ -25,7 +25,7 @@ authors:
 venue: "J. Chem. Theory Comput."
 pdf_sha256: "e2e058a05b7d68a246043bb9faa73b9d5147a2dcf46cca40728639dccdb031f6"
 pdf_path: "papers/Raju_LiC_2015_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

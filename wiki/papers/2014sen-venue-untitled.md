@@ -22,7 +22,7 @@ authors:
 venue: "Nature Communications (proof PDF; same DOI as published article)"
 pdf_sha256: "8200699412a1f23215d94cf35dc1ac590214ca110c45b23aae50f5d57065c892"
 pdf_path: "papers/Sen_Nature_Comm_2014_proof.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

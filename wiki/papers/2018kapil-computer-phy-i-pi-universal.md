@@ -45,7 +45,7 @@ authors:
 venue: "Comput. Phys. Commun."
 pdf_sha256: "413940892ee3e27869b7546f945d41ed61c160bf0321e0a0c3aa93eb441e8d2b"
 pdf_path: "papers/Others/Kapil_PIMD_2019.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

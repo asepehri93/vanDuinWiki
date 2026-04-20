@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Chemical Theory and Computation (see DOI; ASAP header in extract)"
 pdf_sha256: "660d367b29ad38918cbf1afd9bf0533552ee1a069f8c19c7fc7fa976650c734c"
 pdf_path: "papers/Kroes_JCTC_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

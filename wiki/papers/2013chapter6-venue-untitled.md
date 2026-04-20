@@ -13,7 +13,7 @@ authors: []
 venue: "RSC Publishing (book proof)"
 pdf_sha256: "9a42571c5fadaccebcf23c1a33c42622361cb4ce4f6e329fda867584755d7a17"
 pdf_path: "papers/Chapter6_water.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: false
 ---
 

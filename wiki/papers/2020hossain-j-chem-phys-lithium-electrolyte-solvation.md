@@ -24,7 +24,7 @@ authors:
 venue: "J. Chem. Phys. 152, 184301 (2020)"
 pdf_sha256: "231221cee087887ad21069d25969689ef4e9868cd8d1eaa27af75711e788734b"
 pdf_path: "papers/Hossain_JCP_2020_EC_Li.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

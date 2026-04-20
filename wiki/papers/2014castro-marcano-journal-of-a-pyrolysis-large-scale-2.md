@@ -23,7 +23,7 @@ authors:
 venue: "Journal of Analytical and Applied Pyrolysis"
 pdf_sha256: "4c03f50a358cf49794bdedf63e99766e95e64fe7d52ebfe2941c10b0fe04a45b"
 pdf_path: "papers/Castro_JAAP_3246_proofs.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 

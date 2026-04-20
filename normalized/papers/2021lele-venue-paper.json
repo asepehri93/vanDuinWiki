@@ -3,27 +3,24 @@
   "manifest": {
     "source_path": "papers/Lele_Fuel_2021_galley.pdf",
     "sha256": "2cf05e3467b965c4d5b91f199c2c3c133ea260cc806afa792d51c9a1e4bc1ded",
-    "ingested_at": "2026-04-20T16:38:20Z"
+    "ingested_at": "2026-04-20T21:46:34Z"
   },
   "bibliography": {
-    "doi": "10.1016/j.fuel.2021.120724",
-    "title": "ReaxFF molecular dynamics study on pyrolysis of bicyclic compounds for aviation fuel",
+    "doi": null,
+    "title": null,
     "year": 2021,
-    "authors": "Aditya Lele; Hyunguk Kwon; Karthik Ganeshan; Yuan Xuan; Adri C. T. van Duin",
-    "venue": "Fuel (pre-publication PDF); same DOI as issue of record"
+    "authors": null,
+    "venue": null
   },
   "pdf_path": "papers/Lele_Fuel_2021_galley.pdf",
   "extraction": {
     "text_path": "normalized/extracts/2021lele-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T16:38:20Z",
+    "extracted_at": "2026-04-20T21:46:34Z",
     "text_preview_chars": 8000
   },
-  "entities_mentioned": [
-    "ReaxFF",
-    "Fuel galley proof"
-  ],
+  "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2021lele-venue-paper.md",
-  "updated": "2026-04-20T18:00:00Z"
+  "updated": "2026-04-20T21:46:34Z"
 }

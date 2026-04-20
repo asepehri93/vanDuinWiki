@@ -24,7 +24,7 @@ authors:
 venue: "J. Phys. Chem. C"
 pdf_sha256: "18feeef1f056fe0036c3209080ba474780c732df7289a731b4575f231b600d2c"
 pdf_path: "papers/Psofogiannakis_JPCC_2015.pdf"
-extraction_quality: good
+extraction_quality: "good"
 group_affiliation: true
 ---
 
