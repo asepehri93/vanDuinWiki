@@ -36,6 +36,16 @@ group_affiliation: true
 
 <!-- id:paper:2020hyunguk-kwon-j-phys-chem-jp0c03355 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Building on experimental YSI measurements for nitrogen-containing hydrocarbons, this work studies three C6H15N isomeric amines—dipropylamine (DPA), diisopropylamine (DIPA), and 3,3-dimethylbutylamine (DMBA)—with ReaxFF MD at 1400–1800 K (sooting-relevant window) plus QM refinement of reaction networks. ReaxFF ranks reactivity DIPA > DPA > DMBA across temperatures. Major nonaromatic soot precursors differ by isomer (C2H4, C3H6, C4H8 families); combined ReaxFF and QM sooting tendency order matches experimental YSI trends.

@@ -19,6 +19,16 @@ group_affiliation: true
 
 <!-- id:paper:2012jeon-venue-rsc-cp-2 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This PCCP study uses **ReaxFF reactive MD** to investigate **early-stage oxidation** and **nanoscale oxide growth** on **Fe(100), Fe(110), and Fe(111)** across temperature and with an optional **external electric field (~10 MV/cm)**. At **300 K** over **~1 ns**, oxidation kinetics decreases **(110) > (111) > (100)**; higher temperature accelerates oxidation. The mechanism narrative in the excerpt emphasizes early **oxygen interstitial transport** producing **non-stoichiometric wüstite-like** regions, evolving toward more stoichiometric **wüstite/hematite** character as the film thickens, with increasing **cation outward transport**. Post-growth **relaxation** between **600–1500 K** yields **Arrhenius** estimates for **oxygen diffusion activation energies** ~**0.32, 0.26, 0.28 eV** on (100), (110), (111), respectively. The field **accelerates early oxidation** via interstitial oxygen transport but approaches a **self-limiting thickness**; effects on **activation energy** are described as **minimal** while slightly promoting **cation outward migration**.

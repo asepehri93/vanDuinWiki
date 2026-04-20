@@ -19,6 +19,16 @@ group_affiliation: false
 
 <!-- id:paper:2009auger-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This PNAS contribution uses the **electron force field (eFF)**—a dynamics model in which electrons are represented as floating Gaussian wave packets and nuclei move classically—to follow Auger-related relaxation after core ionization in a hydrogen-terminated diamond nanoparticle **C₁₉₇H₁₁₂**. The work distinguishes **surface** core ionizations (leading toward fragment and proton emission via a direct Auger picture) from **deeper** ionizations (hydrides emitted via “remote heating”), and discusses consistency with photon-stimulated desorption literature. The opening pages also summarize the eFF equations of motion and show ground-state electron density comparisons to DFT for simple hydrocarbons.

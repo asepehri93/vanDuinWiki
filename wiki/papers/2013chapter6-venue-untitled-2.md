@@ -19,6 +19,16 @@ group_affiliation: false
 
 <!-- id:paper:2013chapter6-venue-untitled-2 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This file is an **annotated proof** variant corresponding to the same **RSC “Computational Catalysis” Chapter 6** proof package as `paper:2013chapter6-venue-untitled`. The ingested extract is still **production instructions and author queries** (references, figure permissions, acronym expansions), not the underlying chapter scientific text.

@@ -59,6 +59,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Papers:
+      - Overview: papers/index.md
+      - All papers by year: concepts/paper-index-by-year.md
+      - All papers by domain: concepts/paper-index-by-domain.md
   - Browse themes:
       - Themes overview: concepts/themes-index.md
       - Oxides & silica: concepts/theme-oxides-silica-ceramics.md
@@ -68,7 +72,7 @@ nav:
       - Ferroelectrics: concepts/theme-ferroelectrics-polar-oxides.md
       - Porous MOF & zeolite: concepts/theme-porous-mof-zeolite.md
       - Water & geo interfaces: concepts/theme-water-silica-geo.md
-  - Core synthesis:
+  - Cross-cutting entry points:
       - ReaxFF family: forcefields/reaxff-family.md
       - Batteries & interfaces: concepts/batteries-interfaces-reaxff.md
       - Graphene & nanocarbon: materials/graphene-nanocarbon.md
@@ -77,7 +81,6 @@ nav:
       - ReaxFF vs MLIPs: debates/reaxff-vs-mlip-accuracy.md
   - Protocols:
       - ReaxFF parameterization trail: protocols/reaxff-parameterization-workflow.md
-  - Papers: papers/index.md
 
 extra:
   social:

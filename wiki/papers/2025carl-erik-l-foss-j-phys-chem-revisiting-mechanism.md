@@ -33,6 +33,16 @@ group_affiliation: true
 
 <!-- id:paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Combining electron microscopy of cycled Si electrodes with ReaxFF modeling, this Letter argues that **delithiation**—not only lithiation-driven fracture—plays a major role in Si anode degradation. Micrographs show substantial morphological evolution and Si redistribution, including Si-rich features within the SEI, interpreted as Si migration during cycling. Reactive MD supports a picture in which delithiation steps drive much of this reorganization, so particle cracking is not the sole degradation mode; prolonged cycling dramatically alters Si surfaces and can produce Si dendrite-like structures embedded in SEI.

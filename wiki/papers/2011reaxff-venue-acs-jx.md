@@ -19,6 +19,16 @@ group_affiliation: false
 
 <!-- id:paper:2011reaxff-venue-acs-jx -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The paper introduces **ReaxFF-lg**, adding a **low-gradient (lg) long-range dispersion** correction on top of standard ReaxFF so that **molecular crystal densities** are not systematically too low—addressing the known limitation that practical DFT training data for solids underbinds **London dispersion**, which propagates into ReaxFF’s **Morse-like vdW** terms when those terms were not trained for long-range attraction. Parameters are fit using **low-temperature crystal structures** for benchmarks including **graphite, polyethylene, CO₂(s), N₂(s)**, and energetic crystals (**RDX, PETN, TATB, NM**). The abstract reports the average volume error dropping from **18.5% to 4.2%** for those systems, and highlights improved **α–γ RDX** transition pressure/volume compared to experiment.

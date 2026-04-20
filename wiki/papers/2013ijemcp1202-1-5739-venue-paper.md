@@ -19,6 +19,16 @@ group_affiliation: true
 
 <!-- id:paper:2013ijemcp1202-1-5739-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This review-style article (Begell House journal) explains how **nonreactive force fields** are extended toward **bond formation/dissociation** via **bond order vs distance** concepts, framed specifically around **ReaxFF** and its use for **energetic materials** (keywords: **ReaxFF, molecular dynamics, nitramine, metals**). The introduction lays out the **QM vs FF cost gap** (~million×) and a **multiscale hierarchy** figure concept: QM on ~100 atoms trains an FF usable for MD on **~10⁹ atoms**, enabling pathways toward mesoscale models. It previews applications to **nitramines, binders, and metallic high-energy materials**.

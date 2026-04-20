@@ -39,6 +39,16 @@ group_affiliation: true
 
 <!-- id:paper:2017mishra-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **review** introduces **CEMFF**, a web database cataloging **atomistic force fields** used for **cementitious minerals** (**C-S-H**, **portlandite**, **C\(_3\)S**, etc.), spanning **Born–Mayer–Huggins**, **ClayFF**, **IFF**, **ReaxFF**, **UFF**, and specialized **cement** parameterizations. For each entry, operators summarize **functional forms**, **benchmarks**, and **validation** against **experiment**/**QM**. **Adri C. T. van Duin** coauthors alongside a broad **international** consortium (**ETH**, **EPFL**, **Rice**, **MIT**, etc.).

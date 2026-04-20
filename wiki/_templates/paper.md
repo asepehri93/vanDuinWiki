@@ -20,6 +20,14 @@ group_affiliation: false
 
 <!-- id:paper:<slug> -->
 
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) must be **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter. They are **not** independent research claims.
+
+    For definitive numerical values and interpretations, use the **peer-reviewed article** and optional `normalized/papers/` records.
+
 ## One-paragraph summary
 
 <!-- LLM/human: concise summary of the contribution and relevance. -->

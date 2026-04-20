@@ -12,28 +12,37 @@ supported_by: []
 
 <!-- id:index:root -->
 
-!!! abstract "Welcome"
+!!! abstract "Explore the corpus"
 
-    **vanDuinWiki** is a structured research memory built from ~**190** registered PDFs in this repository. Use the left **navigation** for **theme clusters** (batteries, oxides, catalysis, ML potentials, and more), open **[all paper notes](papers/index.md)** for per-publication detail, or press **`/`** to **search** any title, tag, or author string.
+    This site mirrors the **van DuinWiki** markdown knowledge base (~**190** paper notes plus themes, debates, and protocols). **Start with themes** for a topic-first tour, use **search** (`/` or the magnifying glass) to jump to any author, year, or keyword, or open the **full paper lists** (by year or domain tag) when you want every entry in one table.
 
-## Corpus snapshot
+## Fast paths
 
-**Phase 3:** papers registered in [`raw/MANIFEST.jsonl`](https://github.com/asepehri93/vanDuinWiki/blob/main/raw/MANIFEST.jsonl) with machine records under [`normalized/papers/`](https://github.com/asepehri93/vanDuinWiki/tree/main/normalized/papers) — see [`outputs/corpus_profile_2026-04.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/outputs/corpus_profile_2026-04.md). **Phase 4:** each slug has a curated page under [`papers/index.md`](papers/index.md) with `canonical_tags` and prose grounded in extracts; gaps are logged in [`outputs/phase4_gaps.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/outputs/phase4_gaps.md).
+| I want to… | Go to |
+|------------|--------|
+| **Skim by research area** | [Themes overview](concepts/themes-index.md) (oxides, catalysis, batteries, MLIPs, …) |
+| **See every paper in one place** | [By year](concepts/paper-index-by-year.md) · [By domain tag](concepts/paper-index-by-domain.md) |
+| **Read the papers gateway** | [Papers overview](papers/index.md) |
+| **Search the whole site** | Press **`/`** then type (author, slug fragment, “ReaxFF”, etc.) |
 
-## Start here
+## Cross-cutting entry points (short syntheses)
 
-| Goal | Page |
-|------|------|
-| **Map the corpus by theme** | [Themes overview](concepts/themes-index.md) |
-| **ReaxFF scope in this KB** | [ReaxFF family](forcefields/reaxff-family.md) |
-| **Batteries & electrolytes** | [Batteries & interfaces](concepts/batteries-interfaces-reaxff.md) |
-| **Graphene / nanocarbon** | [Graphene & nanocarbon](materials/graphene-nanocarbon.md) |
-| **Parameterization checklist** | [ReaxFF parameterization workflow](protocols/reaxff-parameterization-workflow.md) |
-| **Transferability discussion** | [Transferability debate](debates/transferability-reactive-ff.md) |
+These three pages are **not** the whole wiki—they are **short cross-links** that sit beside the theme hubs:
+
+- [ReaxFF family](forcefields/reaxff-family.md) — reactive FF scope in this corpus  
+- [Batteries & interfaces](concepts/batteries-interfaces-reaxff.md) — electrochemistry cluster  
+- [Graphene & nanocarbon](materials/graphene-nanocarbon.md) — 2D carbon threads  
+
+For deeper synthesis, use the **theme** pages above; for a single publication, open its row in [by-year](concepts/paper-index-by-year.md) or search its title.
+
+## Debates, protocols, corpus provenance
+
+- [Transferability of reactive FF](debates/transferability-reactive-ff.md) · [ReaxFF vs MLIPs](debates/reaxff-vs-mlip-accuracy.md)  
+- [ReaxFF parameterization workflow](protocols/reaxff-parameterization-workflow.md) (checklist shaped by cited papers)  
+- **Manifests / machine layer:** [`raw/MANIFEST.jsonl`](https://github.com/asepehri93/vanDuinWiki/blob/main/raw/MANIFEST.jsonl), [`outputs/corpus_profile_2026-04.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/outputs/corpus_profile_2026-04.md), [`outputs/phase4_gaps.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/outputs/phase4_gaps.md)  
 
 ## Browse by type
 
-- **Papers:** [`papers/index.md`](papers/index.md) — one file per slug.  
-- **Theme hubs:** [`concepts/themes-index.md`](concepts/themes-index.md).  
-- **Debates:** [`debates/transferability-reactive-ff.md`](debates/transferability-reactive-ff.md), [`debates/reaxff-vs-mlip-accuracy.md`](debates/reaxff-vs-mlip-accuracy.md).  
-- **Protocols:** [`protocols/reaxff-parameterization-workflow.md`](protocols/reaxff-parameterization-workflow.md).  
+- **All paper notes:** [Papers overview](papers/index.md) — one Markdown file per registered PDF.  
+- **Theme hubs:** [concepts/themes-index.md](concepts/themes-index.md).  
+- **Debates / protocols:** links in the section above.  

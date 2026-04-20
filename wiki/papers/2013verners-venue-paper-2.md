@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2013verners-venue-paper-2 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Published J. Appl. Phys. article (114, 023501; 8 July 2013 online) presenting the same ReaxFF study as `paper:2013verners-venue-paper`: Al grain mixing in Ni and Fe matrices under staged heating, comparative alloy stability, grain-size-dependent mixing favorability, cooling-induced disorder, and preliminary oxidation trends where elemental Al/Ni remain more reactive than alloyed or Fe-rich regions (abstract; introduction, extract pages 1–2).

@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2018yang-j-phys-chem-enabling-computational-2 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **J. Phys. Chem. B** article lays out a **ReaxFF-first modeling strategy** aimed at **computationally assisted design** of **zeolitic imidazolate frameworks (ZIFs)**, emphasizing **bond-making/breaking** events that matter during **processing**, **mechanical loading**, or **guest–framework** interactions that **fixed-bond** MOF-FFs may mishandle. **Coauthors** span **Penn State reactive simulation** (**Yang**, **Shin**, **van Duin**) and **glass / disordered framework** expertise (**Mauro**, **Bennett**), reflecting the paper’s **materials-informatics** angle on **ZIF** chemistry. The ingested file is an **ACS proof** PDF for the **JPCB** article.

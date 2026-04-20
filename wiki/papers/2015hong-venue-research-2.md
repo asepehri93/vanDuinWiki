@@ -27,6 +27,16 @@ group_affiliation: true
 
 <!-- id:paper:2015hong-venue-research-2 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This slug points at an **ACS proof** PDF variant of the Hong–van Duin **J. Phys. Chem. C** study on **ReaxFF MD** of **aluminium nanoparticle oxidation** (DOI **10.1021/acs.jpcc.5b04650**, same scientific content family as `paper:2015hong-venue-research`). The extract reproduces the same abstract narrative: **hot spots** from oxygen adsorption/dissociation, **void-assisted** lowering of **O diffusion** barriers (up to **~92%** claimed), **exothermic** diffusion, and joint dependence of oxide microstructure on **temperature** and **oxygen density**, with comparisons to experimental oxidation kinetics literature.

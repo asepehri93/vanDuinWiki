@@ -27,6 +27,16 @@ group_affiliation: false
 
 <!-- id:paper:2016rahnamoun-venue-study-ice -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **ReaxFF MD** is used to simulate **high-velocity impacts of ice clusters** onto **amorphous silica** substrates, targeting **mechanochemical damage** and **hydrogen-bond-mediated contact mechanics** relevant to **icy-body impacts**, **cryogenic engineering**, or **tribological** scenarios involving **water ice + silica**. The publication analyzes **energy dissipation**, **substrate disruption**, and **reactive events** enabled by the **reactive force field** that would be invisible to **fixed-bond silica models**.

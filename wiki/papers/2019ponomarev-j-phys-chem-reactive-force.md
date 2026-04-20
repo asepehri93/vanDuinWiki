@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2019ponomarev-j-phys-chem-reactive-force -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A ReaxFF parameterization for Si–C–O–H is reported for silicon oxycarbide (SiCO) ceramics and polymer-pyrolysis routes to them. The force field is tested against thermochemical reference data and AIMD checks at elevated temperature, then applied to simulated polymer pyrolysis forming amorphous SiCO. Simulations align with experimental observations and provide structural insight into carbon-rich regions and graphene-like segregations embedded in an oxycarbide matrix.

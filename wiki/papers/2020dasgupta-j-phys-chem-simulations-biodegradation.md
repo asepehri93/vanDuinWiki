@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2020dasgupta-j-phys-chem-simulations-biodegradation -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 ReaxFF MD studies poly(1,6-hexanediol-co-citric acid) hydrolysis with an **accelerated (bond-boost style)** scheme after pre-transition-state preparation. Barriers for ester vs ether hydrolysis are checked against literature DFT. At 300 K, chemical degradation shows faster ester cleavage than ether due to lower barriers; lowering boost parameters suppresses ether hydrolysis selectively. Bundles are also strained longitudinally at two rates: modulus rises with strain rate; polyester–ether is stiffer but yields sooner than polyester alone (polyester more ductile in this comparison).

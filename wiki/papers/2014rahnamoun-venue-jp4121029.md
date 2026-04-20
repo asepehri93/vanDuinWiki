@@ -27,6 +27,16 @@ group_affiliation: true
 
 <!-- id:paper:2014rahnamoun-venue-jp4121029 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 ReaxFF MD compares low-Earth-orbit-relevant atomic oxygen impacts on Kapton, POSS–polyimide, amorphous silica, and Teflon under similar simulation conditions. Kapton shows lower resistance than Teflon, consistent with experiment; silica is most stable until strongly exothermic silicon oxidation begins. Silicon incorporation into Kapton is reported to improve AO resistance; heating/heat-transfer effects modulate damage, especially for silica (abstract; introduction, extract pages 1–2).

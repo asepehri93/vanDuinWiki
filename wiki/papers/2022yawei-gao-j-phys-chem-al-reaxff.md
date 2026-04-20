@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2022yawei-gao-j-phys-chem-al-reaxff -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Develops a **C/H/O/F/Al ReaxFF** for **poly(vinylidene fluoride) (PVDF)** spanning **nonreactive** (polymorph / phase transformation) and **reactive** (pyrolysis and metal oxide surface chemistry) regimes. Low-temperature work explores **α → β** transitions under **electric poling** and **mechanical deformation**, reporting orientation-dependent **field thresholds** (e.g., ~**5** vs **7.5 GV/m** in excerpted directions) and showing how **stretch** can produce **all-trans** chains with **antiparallel packing** (zero net polarity) unless combined poling strategies are used. High-temperature chemistry treats **surface-oxidized Al nanoparticles**, emphasizing **HF** generation routes, **alumina fluorination/hydroxylation**, **water** evolution, and **AlC\(_x\)** side products—supporting analysis of **Al–PVDF energetic composites**.

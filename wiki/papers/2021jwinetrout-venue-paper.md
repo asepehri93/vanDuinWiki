@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2021jwinetrout-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Introduces **IFF-R**, a reactive extension of the Interface Force Field where harmonic bond terms are replaced by **Morse** potentials so bonds can break with prescribed dissociation energies—aiming at fracture and chemistry-aware MD without full ReaxFF expense. The manuscript claims ~50× speed over ReaxFF in their comparisons while retaining IFF-compatible nonreactive properties, and illustrates metals (Fe), ceramics (carbon nanotubes), and polymers (PAN, cellulose Iβ) with parameters anchored to experiment or MP2.

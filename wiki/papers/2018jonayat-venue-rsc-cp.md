@@ -33,6 +33,16 @@ group_affiliation: true
 
 <!-- id:paper:2018jonayat-venue-rsc-cp -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **PCCP** study uses **first-principles (DFT)** methods to examine **stability** of **surface-confined mixed oxides** with **corundum-related** structure, focusing on **Fe₂O₃**, **Cr₂O₃**, and **V₂O₃** combinations as **ultrathin films** on a **support** (details in the article). The motivation is that **two-dimensional / surface-confined oxides** can have **chemistry** distinct from bulk-like oxides—relevant to **catalysis** and **surface science**. **Adri C. T. van Duin** is included among coauthors, connecting the work to the group’s broader **oxide interface** interests even though the primary engine here is **DFT**, not **ReaxFF MD**. The ingested file is an **RSC galley/proof** (`c8cp00154e` header).

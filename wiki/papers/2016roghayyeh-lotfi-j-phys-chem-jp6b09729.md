@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2016roghayyeh-lotfi-j-phys-chem-jp6b09729 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **ReaxFF MD** is applied to **perfluoropolyether** lubricant **D4OH** interacting with **diamond-like carbon (DLC)** films relevant to **hard-disk** interfaces. The paper describes **DLC**, **hydrogenated DLC**, and **N-functionalized DLC** formation protocols and compares **sp\(^2\)/sp\(^3\)** content and composition to targets, then examines **droplet spreading** and **degradation chemistry** on **DLC** vs **DLC:H:N**. **Western Digital** coauthors anchor the **storage technology** motivation; **van Duin** leads the **reactive FF** effort.

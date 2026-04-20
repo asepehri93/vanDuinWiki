@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2017mao-carbon-121-2-formation-incipient -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **ReaxFF MD** tracks **incipient soot** formation from **PAH** monomers (**naphthalene** through **circumcoronene**) across **400–2500 K**. At **low T**, **stacked** clusters nucleate via **physical interactions**; **moderate** temperatures narrow which **large PAHs** remain productive; at **2500 K**, **chemical reactivity** drives **graphitizing** particles with rising **C/H** and structures ranging from **fullerene-like** motifs to **bridge-linked** stacks for the largest aromatics. **Tsinghua**/**UCL**/**van Duin** collaboration addresses **soot inception** ambiguity highlighted in combustion modeling discussions.

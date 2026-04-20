@@ -34,6 +34,16 @@ group_affiliation: true
 
 <!-- id:paper:2015lloyd-surface-scie-development-reaxff -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Lloyd *et al.* extend an existing **ZnO ReaxFF** parameterization with **Ag–Zn–O** terms fit to **DFT (SIESTA)** equations of state and **surface binding/work-of-separation** data for **Ag on ZnO**. The abstract reports good reproduction of **Ag**, **Ag–Zn alloy**, and **silver oxide** crystal EOS targets and reasonable agreement for **Ag adsorption energetics** on ZnO surfaces. The fitted potential is then applied to **single-impact Ag deposition** on **polar (0001)** and **nonpolar (10\(\bar{1}\)0)** **wurtzite ZnO** substrates across **0.1–30 eV** impact energies (motivated by **magnetron sputtering**-like conditions), concluding that **maximum adsorption** is achieved for **≤10 eV** deposition energies in the summarized simulation campaign.

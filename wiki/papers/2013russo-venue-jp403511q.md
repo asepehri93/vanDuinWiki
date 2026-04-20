@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2013russo-venue-jp403511q -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 ReaxFF reactive MD explores DNB/nitric acid mixtures at 0.5 and 1.0 g/mL to connect atomistic pathways to hypergolic ignition chemistry. Additional QM-driven reparameterization targets DNB dissociation channels and the DCA→DNB formation sequence; certain compositions show a sharp exothermic runaway interpreted as spontaneous ignition (abstract; Introduction; computational methods opening, extract).

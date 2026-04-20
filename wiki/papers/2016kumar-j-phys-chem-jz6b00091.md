@@ -26,6 +26,16 @@ group_affiliation: false
 
 <!-- id:paper:2016kumar-j-phys-chem-jz6b00091 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **JPCL** study uses **many-body perturbation theory (G0W0)** to quantify how **electrode–electrolyte interfaces** shift **HOMO/LUMO levels** of **common organic solvents** on **model Mg-battery-relevant electrodes**, arguing that **interfacial electrostatics** can **narrow HOMO–LUMO gaps** by up to **~25%** for **high-dipole** molecules relative to gas-phase references. The central implication is that **high-throughput electrolyte screening** based on **isolated-molecule windows** may **overestimate stability**, because **electrode-induced renormalization** accelerates **reductive/oxidative decomposition** pathways when gaps shrink.

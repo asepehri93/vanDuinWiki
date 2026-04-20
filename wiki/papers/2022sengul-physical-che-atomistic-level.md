@@ -36,6 +36,16 @@ group_affiliation: true
 
 <!-- id:paper:2022sengul-physical-che-atomistic-level -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Combined **ReaxFF MD** and **experiment** study of **aqueous dissolution** at the **LATP (NASICON-type Li\(_{1+x}\)Al\(_x\)Ti\(_{2-x}\)(PO\(_4\))\(_3\)) / water** interface, motivated by **cold sintering** and other **solution-adjacent processing** routes where **incongruent dissolution** complicates densification. Atomistic trajectories support a **sequential** process: rapid **Li leaching**, phosphate-linked rearrangements, and evolution toward **Ti-rich secondary products** as dissolution advances—framed as a template mechanism class for **multicomponent ceramic electrolytes** exposed to water.

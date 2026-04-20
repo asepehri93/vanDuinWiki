@@ -24,6 +24,16 @@ group_affiliation: true
 
 <!-- id:paper:2015golkaram-materials-di-revealing-graphene -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The corpus registers an **Elsevier *Materials Discovery* proof PDF** for a reactive MD study titled **“Revealing graphene oxide toxicity mechanisms: A reactive molecular dynamics study”** by **Golkaram** and **van Duin** (see graphical abstract line in the extract). However, the normalized **p1–2 extract** contains **only author-query boilerplate** and does **not** include abstract, methods, or results text, so **scientific claims cannot be excerpt-grounded** beyond the title/authorship metadata already present in `normalized/papers/2015golkaram-materials-di-revealing-graphene.json`.

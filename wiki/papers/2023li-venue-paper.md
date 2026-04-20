@@ -32,6 +32,16 @@ group_affiliation: false
 
 <!-- id:paper:2023li-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This manuscript trains **machine learning interatomic potentials (MLIPs)** for **elemental lithium** on **DFT** labels and uses them to reach **large-scale** MD covering **thermodynamics**, **phonons**, **temperature-dependent elastic constants**, and **surface** properties argued to be cumbersome for direct **AIMD** at comparable cost. A highlighted empirical observation in the abstract is a **Bell–Evans–Polanyi-style relation** linking **self-adsorption energies** to **minimum surface diffusion barriers** on **high Miller-index** facets—motivated by **lithium metal anode** morphology and dendrite debates where **surface transport** coefficients matter.

@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2014senftle-venue-research -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This manifest row registers an **ACS author-proof** PDF variant of the **J. Phys. Chem. C** Pd/H **ReaxFF** + **GC-MC/MD** study (DOI **10.1021/jp411015a**, see `paper:2014senftle-venue-jp411015a`). The extract contains the same scientific abstract and introduction framing: **Pd/H ReaxFF** development, **hydrogen absorption isotherms** for **bulk and nanoclusters**, analysis of **α–β**-like regimes and **miscibility gap** trends with cluster size, and **MD** investigations of **adsorption kinetics** and **H diffusion** in bulk Pd, with explicit statement that thermodynamic and kinetic results align with experimental references.

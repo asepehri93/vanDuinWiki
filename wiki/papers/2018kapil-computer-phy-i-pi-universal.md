@@ -51,6 +51,16 @@ group_affiliation: false
 
 <!-- id:paper:2018kapil-computer-phy-i-pi-universal -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **i-PI 2.0** is presented as a **modular, Python-driven client** that drives **ab initio** and **empirical** “**forces engines**” (external codes such as **DFT packages** or **MD engines**) to implement **path-integral MD**, **advanced thermostats**, **ring-polymer contraction schemes**, and other **enhanced sampling / nuclear quantum** workflows. The article is a **methods/software** contribution to the **molecular simulation ecosystem**, not a **ReaxFF parameterization** paper; it is included in the corpus as a **general tooling** reference. **Note:** the repository `paper_id` slug uses **2018** while the **journal volume (236, 2019)** reflects **publication timing**—frontmatter **`year`** follows the **bibliographic** year in the normalized record’s venue string.

@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2020atmani-energy-fuels-simulating-geological -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Replica-exchange molecular dynamics compares the simulated geological conversion of **lignin** vs **cellulose** precursors into kerogen-like material and methane. Pyrolysis-relevant behavior is aligned with experiment in broad strokes: lignin yields roughly twice as much kerogen and about five times more methane than cellulose under their protocol. Ex-lignin kerogen is much more compliant and microporous than ex-cellulose kerogen despite similar composition/bonding statistics, informing nanoscale bricks for shale gas models.

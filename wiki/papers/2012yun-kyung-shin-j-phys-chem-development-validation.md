@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2012yun-kyung-shin-j-phys-chem-development-validation -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A ReaxFF parameterization for **Fe–Al–Ni** alloys is derived from QM data on bulk phases and low-index surface energies and adatom binding. Validation MD computes temperature-dependent elastic constants for FeAl, FeNi3, and Ni3Al (300–1100 K), matching experimental trends of softening with temperature; diffusion simulations in compositionally graded Al/Ni layers show strong composition dependence of Al diffusivity near 1000 K; high-temperature surface segregation in L12-ordered clusters reveals composition-dependent segregation strengths (e.g., Al enriches most on Fe3Al surfaces among the cases studied), qualitatively consistent with older experimental reports.

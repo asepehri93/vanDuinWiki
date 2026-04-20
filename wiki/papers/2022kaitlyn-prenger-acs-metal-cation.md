@@ -37,6 +37,16 @@ group_affiliation: true
 
 <!-- id:paper:2022kaitlyn-prenger-acs-metal-cation -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Experimental and modeling study of **multilayer Ti\(_3\)C\(_2\)T\(_x\)** MXene electrodes for **aqueous supercapacitors**, comparing **Na\(^+\)**, **K\(^+\)**, and **Mg\(^{2+}\)** **pre-intercalation**. Electrodes support practical **areal loadings** (reported up to ~20 mg/cm\(^2\)); **K-intercalated** material delivers standout rate performance and **areal capacitance** (up to ~**5.7 F/cm\(^2\)** in the headline results), with **gravimetric** values competing with delaminated MXene while greatly improving areal metrics. **Ab initio MD** (noted in the article text) supports interpretation of intercalant effects alongside electrochemical characterization.

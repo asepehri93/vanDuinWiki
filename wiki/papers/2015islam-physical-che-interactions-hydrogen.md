@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2015islam-physical-che-interactions-hydrogen -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Islam *et al.* study **hydrogen embrittlement (HE)** phenomena in **α-iron**, **cementite (Fe\(_3\)C)**, and **ferrite–cementite** interfaces using a **merged ReaxFF Fe/C/H** description: they combine an **Fe/C/H** parameterization originally aimed at **Fischer–Tropsch** surface chemistry with updated **carbon parameters** from a specified Srinivasan–van Duin–Ganesh **J. Phys. Chem. A** line, refitting **Fe/C** interactions on the same training manifold. Simulations include **hydrogen diffusion** in ferrite and cementite, **hydrogen-induced decohesion** metrics (work of separation vs hydrogen content at the interface), **MD**-observed **hydrogen accumulation** at interfaces, and **grand canonical Monte Carlo (GCMC)**-style exploration of **nanovoid** growth in α-iron framed in the extract as part of the mechanistic portfolio.

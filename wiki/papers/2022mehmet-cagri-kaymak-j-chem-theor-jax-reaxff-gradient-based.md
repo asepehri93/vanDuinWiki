@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2022mehmet-cagri-kaymak-j-chem-theor-jax-reaxff-gradient-based -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **JAX-ReaxFF** replaces slow, heavily stochastic ReaxFF parameter searches (genetic algorithms / Monte Carlo style workflows that can require millions of error evaluations) with **differentiable loss landscapes**: gradients of the training objective are computed via **JAX**, enabling **local optimizers** launched from **multiple initial guesses** in high-dimensional parameter space. The implementation targets **CPU/GPU/TPU** execution and reports dramatic wall-clock reductions for complex fits—positioned as enabling rapid iteration when both **training data** and **functional forms** must be refined jointly. The paper also frames the stack as a **sandbox** to explore ReaxFF functional customization guided by fast, gradient-based search.

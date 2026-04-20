@@ -35,6 +35,16 @@ group_affiliation: true
 
 <!-- id:paper:2017matthew-w-thompson-we-report-a-atomistic-carbide-derived -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The authors introduce **quenched MD** with **ReaxFF** to build **three-dimensional carbide-derived carbon (CDC)** models capturing **heterogeneous porosity** and **short-range graphitic order** beyond idealized **slit pore** geometries. **Radial distribution functions**, **pore size distributions**, and **adsorption** metrics are compared to **experiment**; **post-quench compression** adjusts **pore statistics** toward targets, and **ring statistics** emphasize abundant **non-hexagonal** rings in **CDC** vs conventional **activated carbon** scenarios. **Vanderbilt**/**Drexel**/**ORNL**/**van Duin** collaboration targets **supercapacitor** and **adsorption** modeling needs.

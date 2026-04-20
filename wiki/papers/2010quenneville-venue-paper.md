@@ -19,6 +19,16 @@ group_affiliation: true
 
 <!-- id:paper:2010quenneville-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The authors use **ReaxFF molecular dynamics** to study **dimethyl methylphosphonate (DMMP)** interacting with **amorphous silica** as a function of surface hydroxylation (reported modeled densities 2.0–4.5 OH/nm²). The introduction frames DMMP as a **nerve-agent simulant** relevant to environmental fate on silica-rich materials. Key qualitative results in the excerpt include: at higher OH coverage, binding involves **vdW + hydrogen bonding**; at lower coverages, **covalent** interaction between the phosphonyl oxygen and **3-coordinate Si defects**; at very low coverage, **fragmentation** is observed. A stated binding energy example is **−4.7 kcal/mol** at **4.5 OH/nm²**, and added water can **displace/hydrolyze** adsorbed DMMP. MP2/DFT cluster calculations are reported as supporting selected ReaxFF predictions.

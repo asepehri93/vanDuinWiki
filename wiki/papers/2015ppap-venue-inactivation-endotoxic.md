@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2015ppap-venue-inactivation-endotoxic -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Yusupov *et al.* perform **ReaxFF reactive MD** to study impacts of **oxygen plasma-derived species** (**OH**, **HO\(_2\)**, **H\(_2\)O\(_2\)**) on **lipid A**, the endotoxic anchor of *E. coli* lipopolysaccharide. The abstract claims these species can **destroy lipid A** and thereby **reduce toxic activity**, with **distinct bond-breaking mechanisms** for **HO\(_2\)**/**H\(_2\)O\(_2\)** versus **OH** impacts, and states qualitative agreement with experimental observations cited in the introduction framing. The introduction surveys **cold atmospheric plasma (CAP)** sterilization motivations and summarizes prior experimental work on **LPS/lipid A** modifications by plasma-generated **radicals** and **VUV**.

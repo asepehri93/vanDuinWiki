@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2019liu-j-phys-chem-formation-alfx -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The authors develop a ReaxFF parameterization for Al–F interactions fitted to QM-derived training data for gaseous AlFx species and Al–F crystal phases, then apply it to reactive MD of high-temperature etching. Simulations scan fluorine source strength (F/Al = 1–6) and temperature (1000–1500 K), resolving how gaseous AlFx products emerge in a multi-step sequence. A critical F/Al ratio near 3 separates regimes where clustered AlFx remains largely nonvolatile from a “fifth step” regime producing isolated gas-phase species such as AlF4, AlF5, and AlF6 with more favorable formation energies.

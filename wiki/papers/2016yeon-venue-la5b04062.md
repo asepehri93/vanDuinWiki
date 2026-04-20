@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2016yeon-venue-la5b04062 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **ReaxFF MD** explores **tribochemical** reactions at sliding **hydroxylated amorphous silica** vs **oxidized Si(100)** interfaces as a function of **interfacial water** coverage. Without water, **dehydroxylation** and **Si–O–Si bridging** initiate **interfacial mixing**; **submonolayer** water adds **dissociative** pathways; a **full monolayer** suppresses transfer by **passivating** interfacial **Si** with **hydroxyls** rather than bridge bonds—offering a mechanistic lens on **humidity-dependent wear** seen in **AFM** experiments. **Jejoon Yeon**, **van Duin**, and **Seong H. Kim** combine **tribology** experiment context with **reactive simulation**.

@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2021verma-physical-che-reaxff-reactive -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The authors develop a B/N/O/H **ReaxFF** description to study **vacancy-defective hexagonal boron nitride (h-BN)** in contact with **water**: interfacial structure, water dissociation near vacancies, layered water under confinement, fracture initiation at defects, temperature-dependent droplet behavior (including contact angle trends vs. temperature and pore size), and hydrogen-bond-driven water organization near functionalized pores. The work positions defective h-BN/water interfaces as relevant to filtration, desalination, and nanofluidic device contexts where both chemistry and mechanical failure matter.

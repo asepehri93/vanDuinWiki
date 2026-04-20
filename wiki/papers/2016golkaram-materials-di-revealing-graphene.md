@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2016golkaram-materials-di-revealing-graphene -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **ReaxFF reactive MD** is used to simulate **graphene oxide (GO)** interacting with a **model lipid bilayer membrane**, aiming to clarify **toxicity-relevant chemical mechanisms** at the **atomistic** level. The study emphasizes how **GO functional groups** and **reactive events** (as resolved by the force field) couple to **membrane disruption** pathways discussed in the article. The work sits at the interface of **2D nanomaterials**, **biophysical interfaces**, and **reactive simulation**.

@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2014zou-acta-materia-molecular-dynamics -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A Ni–O ReaxFF description is developed from QM training data spanning Ni and NiO equations of state, Ni vacancy formation and self-diffusion, and O insertion and diffusion barriers in Ni. MD validation shows agreement with published Ni self-diffusivity and O interstitial diffusivity/activation energy. The work then examines how vacancies alter O transport and internal oxidation: a **vacancy-pair** oxygen migration mechanism is proposed, and simulations suggest voids at grain boundaries can promote local O segregation via strong O–vacancy binding, nucleating NiO in voids—linking atomistic transport to early oxidation microstructures.

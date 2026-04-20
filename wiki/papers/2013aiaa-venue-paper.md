@@ -19,6 +19,16 @@ group_affiliation: true
 
 <!-- id:paper:2013aiaa-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This manuscript (AIAA-associated) models **thermal accommodation** of a **nitrogen** gas environment with a **graphene** surface as a stand-in for high-temperature gas interactions relevant to **spore thermal inactivation** modeling. **ReaxFF MD** is used for **gas–surface collisions**, and a **thermal accommodation coefficient** is estimated from simulation (Baule theory is introduced as a classical reference with closed-form limits). The excerpt details **NVE vs NVT** ensembles and a **Berendsen thermostat** formulation for temperature control in broader MD context.

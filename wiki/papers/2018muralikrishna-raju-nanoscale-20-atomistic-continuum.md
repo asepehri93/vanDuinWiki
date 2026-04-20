@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2018muralikrishna-raju-nanoscale-20-atomistic-continuum -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **Nanoscale** article evaluates **α-** and **γ-graphyne** membranes—bare and **hydrogenated**, with varied **pore chemistry** and **geometry**—as **desalination** candidates using **classical MD** for **atomistic transport** metrics and **continuum-scale** analysis for **cross-flow reverse-osmosis** device context. **MD** predicts extremely high **intrinsic water permeability** and strong **ion rejection** for certain **pore sizes**, while the **continuum upscaling** argues that **module-level transport limitations** partially blunt the **MD-only** advantage—yet still project **meaningful energy / recovery** improvements versus **thin-film composite** benchmarks under stated assumptions. **Adri C. T. van Duin** is a coauthor on the **atomistic** modeling thread.

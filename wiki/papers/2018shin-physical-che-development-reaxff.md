@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2018shin-physical-che-development-reaxff -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This work develops and benchmarks a ReaxFF parameterization for NASICON-type Li1+xAlxTi2−x(PO4)3 (LATP), a solid electrolyte candidate for all-solid-state Li-ion batteries. Parameters are trained against DFT data on equations of state, heats of formation for relevant oxides and phosphates, and Li diffusion barriers in TiO2 and LiTi2(PO4)3 (LTP). ReaxFF reproduces structural trends with composition—including site preference of Li near Al versus Ti and lattice contraction with Al substitution—and explores Li transport and ionic conductivity from 300–1100 K. Hybrid MC/MD is used to sample disordered LATP configurations; at x = 0.5 the model yields conductivity in closer agreement with experiment than lower-x structures, illustrating composition-sensitive transport and the utility of reactive MD for solid electrolyte screening.

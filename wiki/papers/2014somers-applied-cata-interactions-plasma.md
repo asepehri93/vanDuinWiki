@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2014somers-applied-cata-interactions-plasma -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Somers *et al.* use **ReaxFF-based reactive MD** to study impacts of **CH\(_x\)** radicals (\(x=1{-}3\)) from plasma-relevant methane chemistry onto **Ni catalyst surfaces** over **400–1600 K**, motivated by **plasma-assisted methane reforming**. They report that **H\(_2\)** formation becomes substantial at **≥1400 K**, while early-stage **C–H bond breaking** after adsorption can depend on **surface structure**; at longer times, **carbon diffusion into Ni** erodes crystallinity and **reduces** the lasting influence of surface facet identity on **H\(_2\)** formation probability. The paper frames these simulations as building blocks toward understanding **plasma–catalyst** coupling in reforming, beyond single-temperature DBD-relevant conditions.

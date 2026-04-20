@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2019nayir-j-phys-chem-development-reaxff -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A Ge/O/H ReaxFF is extended from prior work with additional QM training on O interstitial energies and migration in diamond Ge and on bulk GeO/GeO2 condensed-phase data. The refined FF reproduces equations of state and heats of formation and ranks O-interstitial sites (bond-centered, split, tetrahedral, hexagonal) consistently with DFT. Oxygen diffusion between bond-centered sites and through the split-like transition state matches the intended DFT picture; ReaxFF predicts an effective barrier near 50 kcal/mol over 800–2000 K. GeO2/Ge interface oxidation simulations show oxide thickening and Ge consumption with temperature and time, unlike Tersoff-based runs that miss this behavior.

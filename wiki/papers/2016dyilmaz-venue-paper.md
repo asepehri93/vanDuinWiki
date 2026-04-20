@@ -27,6 +27,16 @@ group_affiliation: false
 
 <!-- id:paper:2016dyilmaz-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **Reactive MD with ReaxFF** is applied to **poly(p-phenylene terephthalamide) (PPTA, Kevlar-class)** fiber models with varying **radius**, **crystallinity**, and **core–shell** arrangements. **Quasi-static tensile deformation** up to **~15% strain** is used to extract **Young’s moduli** and to follow how **crystalline vs. disordered** fractions and **domain boundaries** control **failure initiation**. The authors introduce an **order parameter** based on the **cross-sectional area fraction** of crystalline domains to rationalize modulus trends in **core–shell** geometries.

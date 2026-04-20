@@ -27,6 +27,16 @@ group_affiliation: false
 
 <!-- id:paper:2013qaps-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Classical molecular dynamics predicts microstructure and hydroxide transport in quaternary ammonium polysulfone hydroxide (QAPS-OH) alkaline membranes, dry and with ~14 wt% water. The model describes hydrophobic backbone with interconnected hydrophilic channels hosting mobile OH⁻; computed diffusion coefficients and activation energies are compared to experiment, with discussion of diffusion mechanisms (abstract; introduction; journal header, extract).

@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2023roshan-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Supporting information for a **J. Phys. Chem. C**-class contribution on **data-driven optimization of Cu/Si/O ReaxFF parameters** via **neural network inversion**, applied to **copper oxide ↔ silicon** interfacial chemistry. The local extract chiefly tabulates **parameter sensitivity**, allowed ranges, and structured **Cu–O**/**O–Cu–O** term blocks—material typically accompanying the primary article’s force-field optimization narrative.

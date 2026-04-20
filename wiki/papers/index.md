@@ -12,19 +12,33 @@ supported_by: []
 
 # Paper pages
 
-There are **190** curated paper notes under this folder (one markdown file per registered paper slug). Use the **search bar** (keyboard `/`) to jump by author, year, venue, or topic.
+There are **190** curated notes in this folder—**one file per registered publication** (`wiki/papers/<slug>.md`). Each note’s **scientific content** is a **summary of that paper** (see the **Evidence and attribution** section on each page and the DOI in the YAML header). Nothing here replaces reading the **original article** for definitive numbers and figures.
 
-!!! tip "Prefer themes first?"
+## Find a paper
 
-    If you are exploring **by research area** (batteries, oxides, catalysis, pyrolysis, ML potentials, etc.), start from the **[Themes overview](../concepts/themes-index.md)**—each theme page links **many** paper slugs before you open individual PDF notes.
+| Route | Best when… |
+|-------|------------|
+| [**By publication year**](../concepts/paper-index-by-year.md) | You want a **complete sortable list** (metadata from front matter only). |
+| [**By primary domain tag**](../concepts/paper-index-by-domain.md) | You want to browse by **taxonomy** (`domain:*` from each note). |
+| **Search** (`/` on the site) | You know an **author**, **keyword**, or **slug fragment**. |
+| [**Themes overview**](../concepts/themes-index.md) | You want **topic essays** that link to many papers. |
 
-For corpus-level metadata and manifests, see the repository root: [`raw/MANIFEST.jsonl`](https://github.com/asepehri93/vanDuinWiki/blob/main/raw/MANIFEST.jsonl) and [`outputs/corpus_profile_2026-04.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/outputs/corpus_profile_2026-04.md).
+## Corpus metadata (repository)
 
-## Featured synthesis (related)
+- [`raw/MANIFEST.jsonl`](https://github.com/asepehri93/vanDuinWiki/blob/main/raw/MANIFEST.jsonl) — ingest manifest  
+- [`outputs/corpus_profile_2026-04.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/outputs/corpus_profile_2026-04.md) — profile snapshot  
 
-- [Themes overview (all clusters)](../concepts/themes-index.md)
-- [ReaxFF family overview](../forcefields/reaxff-family.md)
-- [Batteries & interfaces](../concepts/batteries-interfaces-reaxff.md)
-- [Graphene / nanocarbon](../materials/graphene-nanocarbon.md)
-- [Debates](../debates/transferability-reactive-ff.md) — [ReaxFF vs MLIPs](../debates/reaxff-vs-mlip-accuracy.md)
-- [Parameterization workflow](../protocols/reaxff-parameterization-workflow.md)
+## Featured synthesis (entry points, not exhaustive)
+
+- [Themes overview (all clusters)](../concepts/themes-index.md)  
+- [ReaxFF family overview](../forcefields/reaxff-family.md)  
+- [Batteries & interfaces](../concepts/batteries-interfaces-reaxff.md)  
+- [Graphene / nanocarbon](../materials/graphene-nanocarbon.md)  
+- [Debates](../debates/transferability-reactive-ff.md) — [ReaxFF vs MLIPs](../debates/reaxff-vs-mlip-accuracy.md)  
+- [Parameterization workflow](../protocols/reaxff-parameterization-workflow.md)  
+
+## Maintainer note
+
+Regenerate the **by-year** and **by-domain** listing pages after bulk metadata edits:
+
+`python3 scripts/generate_papers_indexes.py`

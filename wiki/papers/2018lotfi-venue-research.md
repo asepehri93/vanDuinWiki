@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2018lotfi-venue-research -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **ReaxFF MD** at **high temperature** is used to study **degradation** of a **Demnum-class PFPE lubricant (D4OH)** in **hard-disk-drive–relevant** environments containing **O₂**, **H₂O**, and **oxide nanoparticles** (**SiO₂**, **goethite**, **Fe₂O₃**) with several **pretreatment states** (untreated vs **dry/wet air** exposure). The simulations emphasize that **water** strongly **accelerates** strand **scission chemistry**, while **O₂** plays a comparatively **minor** role under the modeled conditions, and that **nanoparticles** generally **catalyze / accelerate** degradation—with **material-specific** rankings across **oxide** types and **pretreatments**. **Adri C. T. van Duin** is corresponding-group coauthor with **Lotfi** and **Biswas** (Western Digital affiliation on the experimental/industry side).

@@ -43,6 +43,9 @@ Large binaries may be **gitignored**; always regenerate in CI or locally.
 From repo root (**Python 3.10+**; default path uses **stdlib only** — no `pip install` required):
 
 ```bash
+# 0) Refresh paper listing pages (by year / by domain) after metadata bulk edits
+python3 scripts/generate_papers_indexes.py
+
 # 1) Build chunk manifest (wiki + optional extracts)
 python3 scripts/build_chunks.py
 python3 scripts/build_chunks.py --include-extracts   # if extracts exist locally

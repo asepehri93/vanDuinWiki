@@ -27,6 +27,16 @@ group_affiliation: true
 
 <!-- id:paper:2015kim-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This corpus PDF is **Supporting Information** for a **ReaxFF molecular dynamics** study on **water effects in tribochemical wear of silicon oxide interfaces** (authors **Yeon**, **van Duin**, **Kim** in the extract). The excerpted pages document **Si(100) oxidation** with **400 O\(_2\)** molecules between slabs at **300 K** for **400 ps**, reporting **~5–6 Å** oxide growth consistent with prior MD, and summarize **amorphous SiO\(_2\)** density/RDF/angle benchmarks via **Table S1** comparing **ReaxFF** to QM/experiment references. Additional **NVT** hydroxylation runs with **400 water molecules** on oxidized Si(001) and amorphous silica slabs reach **hydroxyl coverage steady state** by **~750 ps** according to the SI text.

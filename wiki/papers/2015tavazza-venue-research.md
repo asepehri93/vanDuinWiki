@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2015tavazza-venue-research -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The paper compares **atomistic nanoindentation** models that differ in how the **indenter interacts** with a **Ni substrate**, moving beyond purely **repulsive spherical indenters** toward **chemically explicit tips** (including **hydrogenated diamond** and **oxidized Ni** scenarios). Reactive and non-reactive treatments are contrasted with **AFM tip-blunting observations** and selected **DFT** references. A central reported trend is **Ni transfer to the tip** under **clean or oxidized** conditions, while **hydrogen termination of the diamond tip** can **suppress or eliminate** transfer—an effect framed as larger than a simple **surface oxide contaminant** story.

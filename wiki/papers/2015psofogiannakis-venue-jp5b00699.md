@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2015psofogiannakis-venue-jp5b00699 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This study develops a **Cu/Si/Al/O/H ReaxFF** parameterization and applies it in reactive MD to follow **hydration and speciation of Cu in Cu-SSZ-13**, a zeolite central to selective catalytic reduction (SCR) of NOx. Simulations report that near-room-temperature water drives **framework-detached, fully hydrated Cu** that can migrate through pore windows, while at higher temperature the work highlights **OH-bridged Cu dimers** (for example Cu2OH and Cu2(OH)2) whose stability and pore-blocking placement are tied to framework composition (Cu/Al loading and stabilization of [CuOH]+). The discussion connects these atomistic pathways to **SCR and NO oxidation** phenomenology where extra-framework Cu speciation and transport matter.

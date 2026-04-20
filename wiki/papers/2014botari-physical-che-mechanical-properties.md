@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2014botari-physical-che-mechanical-properties -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Suspended single-layer silicene is studied with DFTB and ReaxFF reactive MD alongside higher-level DFT for equilibrium properties. The work reports elastic constants, fracture patterns, edge reconstructions, stress distributions, unbuckling under strain, temperature effects, and zigzag versus armchair edge differences, motivated by silicene’s buckled structure versus graphene (abstract; introduction, extract).

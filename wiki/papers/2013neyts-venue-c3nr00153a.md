@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2013neyts-venue-c3nr00153a -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Hybrid reactive MD with uniform acceptance force-bias Monte Carlo (MD/UFMC) is used to study graphene formation on ultrathin Ni(100) under high effective precursor flux. The authors argue that under these strongly driven conditions a combined deposition–segregation pathway can yield near-continuous graphene-like films by 900 K and above, complementing literature focused on equilibrium segregation (abstract; introduction, extract pages 1–2).

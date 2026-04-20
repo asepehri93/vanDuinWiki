@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2016gai-venue-research -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The authors combine **hybrid grand canonical Monte Carlo with reactive MD (GCMC/RMD)** and a **Pt/O/H ReaxFF** to predict **coverage-dependent adsorption** of **oxygen and hydrogen** on **Pt facets**, **reconstructed Pt(110)**, and **Pt nanoparticles** across **pressure–temperature** conditions relevant to **operando catalysis**. The study reports **isotherm-style** behavior, **subsurface/bulk penetration** at aggressive chemical potentials, and **spot validation** of **O binding on Pt(321)** outside the primary training set. Industrial coauthorship (**ExxonMobil**) signals application targeting **reactor-relevant adsorbate structure preparation** for follow-on reaction MD.

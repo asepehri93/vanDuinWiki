@@ -29,6 +29,16 @@ group_affiliation: false
 
 <!-- id:paper:2015aktulga-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Aktulga *et al.* describe **hybrid MPI/OpenMP** optimizations for **LAMMPS/ReaxC**, focusing on accelerating **bonded/nonbonded list builds** and **ReaxFF interaction evaluation** on modern **multi-core** nodes. They also examine **QEq charge equilibration** performance and introduce a **dual-solver** strategy. Benchmarks on **IBM BlueGene/Q (Mira)** report **~1.5–4.5×** speedups for systems from **tens of thousands** to **millions of particles**, with sustained improvements up to **262,144 cores (1,048,576 processes)** and **~91.5%** weak-scaling efficiency quoted for their largest **16.6M-particle** case.

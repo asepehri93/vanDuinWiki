@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2013yang-chemical-phy-self-weakening-lithiated -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Elsevier proof excerpt lists highlights: a reactive force field for lithiated carbonaceous electrodes; atomistic simulations showing strong coupling of lithium diffusion and stress; favorable lithium migration toward crack tips; lithium accumulation modulating crack instability; implications for extending lifetime of graphene-based electrodes (proof highlights block, extract).

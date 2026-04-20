@@ -33,6 +33,16 @@ group_affiliation: true
 
 <!-- id:paper:2018yang-j-phys-chem-prediction-glass -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 For **agZIF-62** glasses of composition **Zn(Im₂₋ₓbImₓ)**, the authors build a **topological constraint model** for **glass transition temperature (Tg)** that combines **experimental** data with **ReaxFF molecular dynamics** to define a **hierarchy of bond constraints**. The model reproduces **Tg** versus **benzimidazolate** content with reported **~3.5 K** error and is extended to **5-methylbenzimidazolate**, yielding a **ternary Tg diagram** for a **hypothetical** three-ligand framework. **Yang**, **Shin**, and **van Duin** anchor the **reactive MD** contribution; **Mauro** and collaborators provide the **constraint-theory** framework for **MOF glasses**.

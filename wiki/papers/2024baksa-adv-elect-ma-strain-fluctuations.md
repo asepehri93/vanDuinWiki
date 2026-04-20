@@ -38,6 +38,16 @@ group_affiliation: true
 
 <!-- id:paper:2024baksa-adv-elect-ma-strain-fluctuations -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Explains how **wurtzite (Zn,Mg)O**-class films can exhibit **switchable polarization** aided by **large local strain fluctuations** that **lower ferroelectric switching barriers** (claimed reductions **>40%** in the abstract narrative) and provides **joint experimental + computational** evidence using **ZnO/(Zn,Mg)O/ZnO** heterostructures with **interfacial strain gradients**. The study frames **strain heterogeneity** as a design knob for **scalable ferroelectrics** outside traditional perovskite or fluorite channels—relevant to **thin-film nonvolatile memory** where thickness scaling has been limiting.

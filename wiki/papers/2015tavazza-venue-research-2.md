@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2015tavazza-venue-research-2 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This ingest is a **publisher proof PDF** for the **same J. Phys. Chem. C nanoindentation article** as `paper:2015tavazza-venue-research` (**DOI `10.1021/acs.jpcc.5b01275`**). The scientific narrative covers **chemically explicit indenter models**, **Ni transfer to tips** under clean/oxidized conditions, and **suppression of transfer** with **hydrogen-terminated diamond** tips, relative to simplified repulsive-sphere workflows.

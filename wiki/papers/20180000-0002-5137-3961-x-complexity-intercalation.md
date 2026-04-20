@@ -35,6 +35,16 @@ group_affiliation: true
 
 <!-- id:paper:20180000-0002-5137-3961-x-complexity-intercalation -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **Journal of the American Chemical Society** study probes **urea intercalation** in **Ti₃C₂Tₓ MXene** using **inelastic neutron scattering (INS)**, **infrared spectroscopy**, and **ReaxFF reactive molecular dynamics**. Experiments indicate that urea is not stable as intact intercalant under intercalation-relevant conditions: **decomposition** leads to species such as **ammonium** in the gallery, with **CO₂** evolution detectable spectroscopically. **ReaxFF MD** supplies **atomistic reaction pathways and energetics** consistent with the experimental picture, with implications for how **small-molecule intercalants** behave in **layered carbide MXenes** used in **energy storage** and related applications. The corpus PDF here is an **ACS author proof** variant of the same article also archived as `papers/Overbury_JACS_2018.pdf` (`paper:2018overbury-j-am-chem-so-complexity-intercalation`).

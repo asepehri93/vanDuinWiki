@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2023uene-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Publisher **Supporting Information** for the **BN ALD** study using **BCl\(_3\)** and **NH\(_3\)**: the extract includes the **tabulated ReaxFF parameter file** (global + element/block entries) accompanying **[[2024naoya-uene-j-phys-chem-reactive-force]]**. This file enables reproducing the reactive MD setup and parameter provenance described in the main article.

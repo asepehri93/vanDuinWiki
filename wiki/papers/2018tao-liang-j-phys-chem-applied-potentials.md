@@ -30,6 +30,16 @@ group_affiliation: false
 
 <!-- id:paper:2018tao-liang-j-phys-chem-applied-potentials -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **J. Phys. Chem. A** article uses **molecular dynamics** with the **third-generation charge-optimized many-body (COMB3)** potential—a **variable-charge**, **reactive** framework distinct from **ReaxFF**—to treat **Cu electrode / aqueous electrolyte** cells with tunable **OH⁻** and **H⁺** concentrations. **Applied electrochemical bias** is represented by an **electronegativity offset** on **metal** atoms, embedded in COMB3’s **charge equilibration** scheme; the authors compare this **offset** approach with **QEq-style** equilibration and propose a **charge-neutral electrolyte** protocol suited to **electrochemical** boundary conditions. The paper is **Penn State**–authored (**Liang**, **Sinnott**, **Janik**, **Akhade**, **Antony**) and is a **methods** reference for **biased metal–water interfaces** adjacent to **ReaxFF / eReaxFF** electrochemistry workflows.

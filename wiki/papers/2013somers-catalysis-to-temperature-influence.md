@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2013somers-catalysis-to-temperature-influence -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Reactive MD with ReaxFF studies **CHx impacts on Ni(111)** from 400–1600 K to understand hydrogen evolution pathways relevant to Ni-catalyzed methane reforming. H2 formation is limited at lower temperatures but becomes substantial at **≥1400 K**, with H2 as a dominant product channel at 1600 K in the simulations. The temperature dependence is linked to surface reaction kinetics following plasma-like energetic carbon/hydrogen species impacts, motivating atomic-scale interpretation of high-temperature catalytic hydrogen formation.

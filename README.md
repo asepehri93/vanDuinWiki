@@ -4,6 +4,8 @@ Private-first research memory and future MAS retrieval substrate, built from a P
 
 **Browse online (GitHub Pages):** after pushing to `main` and enabling Actions → Pages, the MkDocs site is served at [https://asepehri93.github.io/vanDuinWiki/](https://asepehri93.github.io/vanDuinWiki/) (see [`mkdocs.yml`](mkdocs.yml) and [`.github/workflows/mkdocs-gh-pages.yml`](.github/workflows/mkdocs-gh-pages.yml)).
 
+**Navigation:** the sidebar lists **every paper** via auto-generated tables ([`wiki/concepts/paper-index-by-year.md`](wiki/concepts/paper-index-by-year.md), [`wiki/concepts/paper-index-by-domain.md`](wiki/concepts/paper-index-by-domain.md)) plus **theme** cluster pages. Regenerate those tables after bulk `year` / tag edits: `python3 scripts/generate_papers_indexes.py`.
+
 ## Layout
 
 | Path | Role |

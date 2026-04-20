@@ -27,6 +27,16 @@ group_affiliation: true
 
 <!-- id:paper:2017chowdhury-venue-jp6b12429 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This work **retrains** the **Chenoweth et al. CHO-2008** **ReaxFF combustion** description into **CHO-2016**, targeting **syngas-relevant C\(_1\)** oxidation (**CO**/**CO\(_2\)** chemistry) and correcting **too-fast H abstraction by O\(_2\)** that underestimated **oxidation initiation temperature**. Expanded **DFT** training includes **transition states** along **syngas** and **initiation** pathways; **high-temperature MD** validates **methane**, **syngas**, **JP-10**, and **n-butylbenzene** scenarios while preserving **large-hydrocarbon** behavior from **CHO-2008**. **Chowdhury Ashraf** and **Adri C. T. van Duin** author the article.

@@ -25,6 +25,16 @@ group_affiliation: true
 
 <!-- id:paper:2015senftle-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The corpus registers **`papers/Senftle_ACS Catalysis_2015.pdf`** as a **2015 ACS Catalysis** article with **Thomas P. Senftle** as the lead archival name in metadata. The **normalized text extract is empty** (`extraction_quality: poor`), and automated PDF text extraction failed in this environment, so **this page intentionally avoids inventing a paper-specific abstract**. Operators should open the PDF to capture the **exact title, coauthor list, DOI, and scientific claims** before raising `confidence` above `low`.

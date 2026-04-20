@@ -37,6 +37,8 @@ Theme pages are **curated cross-paper views**: they do not replace individual pa
 - [[batteries-interfaces-reaxff]] — batteries & electrolytes  
 - [[graphene-nanocarbon]] — 2D carbon & impact mechanics  
 
-## All paper entries
+## Every paper (full lists)
 
-- [Papers index](../papers/index.md) — one note per registered PDF slug.
+- [Papers overview](../papers/index.md) — how to browse.  
+- [All papers by year](paper-index-by-year.md) — complete table from front-matter `year`.  
+- [All papers by domain tag](paper-index-by-domain.md) — grouped by first `domain:*` tag.

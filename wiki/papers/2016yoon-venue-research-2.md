@@ -38,6 +38,16 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-research-2 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **Online** distribution PDF of **Yoon et al.**’s **ACS Nano** article on **ReaxFF** simulations of **noble gas** irradiation **damage** and **annealing** in **graphene**, with experimental imaging validation. Multiple **corpus** paths (**online**, **galley**, **ASAP**) share one **DOI** but differ in **SHA-256**; this page tracks `papers/Yoon_ACSNano_online.pdf`.

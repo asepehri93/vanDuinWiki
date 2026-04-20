@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2013newsome-venue-jp307680t -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Part II of a two-part study uses ReaxFF reactive molecular dynamics trajectories to build rate models for thermal protection system (TPS) chemistry: oxidation of silicon carbide by O₂ and H₂O and combustion/pyrolysis of an EPDM polymer model. The work connects atomistic transport and reaction events to Arrhenius parameters for comparison with experiment and with phenomenological multiscale models (abstract and introduction, pages 1–2 of the extract).

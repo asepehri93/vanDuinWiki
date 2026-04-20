@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2016hong-venue-jp6b00786 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 An **Al/C ReaxFF** is developed against **QM training sets** and exercised in **ReaxFF MD** to study **hydrocarbon-derived carbon coatings** on **aluminum nanoparticles (ANPs)** and their influence on **subsequent oxidation**. Simulations report **hydrogen transfer to Al sites**, **C–C bond-preserving** binding modes for some precursors, and **precursor-dependent carbon layer growth**. **Oxidation** of **coated** particles is compared to **bare** ANPs, highlighting **reduced reactivity at low temperature** but **high susceptibility once the coating is disrupted at elevated temperature**, consistent with the **experimental literature** cited in the article.

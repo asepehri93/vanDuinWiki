@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2016shin-venue-jp6b06770 -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This paper develops a **ReaxFF** description of **Pt/Ni/C/H/O** aimed at **heterogeneous catalysis**, fitting to **DFT** data on **Pt–Ni alloy** equations of state, **surface energies** of **Pt\(_x\)Ni\(_{1-x}\)** facets, and **adsorption** of **O**, **H**, **C**, **hydrocarbon fragments**, **CO**, **OH**, and **H\(_2\)O**. **GCMC** and **MD** on **slabs** and **nanoparticles** probe **Pt** vs **Ni segregation** under **vacuum**, **H\(_2\)**, and **O\(_2\)**, matching trends for **Pt-rich** compositions while noting weaker behavior for **Ni-rich** alloys. **ExxonMobil** coauthorship reflects **industrial catalysis** context.

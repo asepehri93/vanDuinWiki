@@ -31,6 +31,16 @@ group_affiliation: false
 
 <!-- id:paper:2023musaelian-nat-learning-local -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Introduces **Allegro**, a **strictly local**, **equivariant** deep interatomic potential architecture aimed at **accuracy without atom-centered message passing**—targeting **scalable parallelization** and very large systems. The model composes **iterated tensor products** of learned equivariant features (no MPNN-style propagation beyond locality). Reported benchmarks include strong performance on **QM9** and **rMD17**, claims of **out-of-distribution generalization**, and MD of an **amorphous electrolyte** matching **ab initio** behavior; a headline scalability demo reaches **~100 million atoms** (per abstract).

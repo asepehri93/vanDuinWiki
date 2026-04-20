@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2015raju-venue-research -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This PDF is a **proof / editorial variant** in the corpus for the same **JCTC 2015 Li/C ReaxFF + GCMC** study as `paper:2015raju-venue-ct-2014-01027v`. Scientifically, the work documents **Li–C ReaxFF parameterization** (against vdW-corrected DFT) and applies it to **graphite intercalation**, **defective graphite** (vacancy-linked plating trends), and **model nanocarbons** relevant to anode kinetics.

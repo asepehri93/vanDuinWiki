@@ -19,6 +19,16 @@ group_affiliation: true
 
 <!-- id:paper:2013al-venue-reactive-molecular -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The study uses **ReaxFF reactive MD** (C/H/O/N **glycine/water** parameter set cited as **Rahaman et al.**) to probe **ROS** (**O, OH, HO₂, H₂O₂**) impinging on a **liquid water** film as a surrogate for the aqueous layer around **bacteria** in **cold atmospheric plasma (CAP)** applications. The abstract reports **OH, HO₂, and H₂O₂** can penetrate deeply into the liquid, while **O, OH, and HO₂** undergo **H-abstraction** from water; **H₂O₂** does **not** show H-abstraction in the stated simulations. The motivation is to clarify whether plasma species reach biomolecules directly or react en route through the biofilm water.

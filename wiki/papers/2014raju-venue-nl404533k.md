@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2014raju-venue-nl404533k -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 ReaxFF MD compares aggregation of Wulff-shaped anatase nanocrystals in vacuum versus water vapor. Vacuum collisions coalesce along approach directions into polycrystalline agglomerates, whereas humid conditions enable reorientation into oriented attachment (OA) pathways mediated by dynamic hydrogen-bond networks between surface hydroxyls and oxygens, yielding single or twinned crystals. OA is argued to dominate on facets with the greatest water-dissociation propensity, matching experimentally observed aqueous OA and underscoring solvent control for oxide nanoparticle synthesis (abstract; introduction, extract pages 1–2).

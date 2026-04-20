@@ -19,6 +19,16 @@ group_affiliation: true
 
 <!-- id:paper:2013kim-venue-title -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The study simulates **~1 nm rutile and anatase TiO₂ nanoparticles** interacting with **water** (with **Na⁺/Cl⁻**), **methanol**, and **formic acid** using **ReaxFF**. Validation cites comparisons of **water dissociative adsorption fraction** and **Na–O bond lengths** against **DFT** and experiment. Reported trends include **rutile being more reactive than anatase** for the observables discussed, and **formic acid** causing **greater nanoparticle distortion** than water or methanol; time evolution of **attached hydroxyl counts** is highlighted as a metric.

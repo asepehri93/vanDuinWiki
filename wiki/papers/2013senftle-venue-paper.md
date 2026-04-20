@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2013senftle-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A new Pd/O ReaxFF description is fitted to quantum data for bulk and surface properties, then applied to high-temperature MD of oxide formation on Pd(111), Pd(110), and Pd(100). A hybrid grand canonical Monte Carlo / MD (GC-MC/MD) workflow is introduced to map a theoretical oxidation phase diagram for Pd₉₃₅ clusters from 300–1300 K and very low to 1 atm O₂ pressure, reporting faster subsurface oxygen transport on (110) versus other facets consistent with literature trends (abstract; introduction opening, extract).

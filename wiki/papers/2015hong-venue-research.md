@@ -27,6 +27,16 @@ group_affiliation: true
 
 <!-- id:paper:2015hong-venue-research -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Hong and van Duin report **ReaxFF MD** of **aluminium nanoparticle (ANP) oxidation** at **300, 500, and 900 K** with two **initial oxygen densities** (0.13 and 0.26 g/cm\(^3\)). The abstract lays out a mechanistic picture where **O\(_2\)** adsorption/dissociation creates **hot spots** and **voids**; voids are claimed to **lower oxygen diffusion barriers** dramatically (up to **~92%**) and make diffusion **exothermic**, accelerating **oxide shell** growth. Oxidation extent and **oxide density/thickness** are reported to depend jointly on **temperature** and **oxygen pressure**, with overall kinetics said to align with selected experimental literature on aluminium oxidation.

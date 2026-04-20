@@ -34,6 +34,16 @@ group_affiliation: true
 
 <!-- id:paper:2016wen-applied-surf-atomic-insight -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **ReaxFF MD** simulates **tribochemical wear** of **silicon** against **silica** in **water**, motivated by **MEMS** reliability and **CMP** planarization. Two **Si removal** pathways are highlighted: rupture of stressed **Si–O–Si** bridges assisted by **H** attachment to **bridging oxygen**, and cleavage of **Si–Si** bonds within **Si–Si–O–Si** chains at the interface. Simulations relate **applied pressure** on the **silica** counterbody to **bridge-bond** formation and **wear** extent, emphasizing **water**’s dual role in **oxidation** and **surface separation**.

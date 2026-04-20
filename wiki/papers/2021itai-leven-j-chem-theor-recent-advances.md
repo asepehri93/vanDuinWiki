@@ -38,6 +38,16 @@ group_affiliation: true
 
 <!-- id:paper:2021itai-leven-j-chem-theor-recent-advances -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **JCTC Perspective** surveys improvements to reactive force fields with emphasis on **ReaxFF**: charge-equilibration reformulations to reduce unphysical long-range charge transfer, explicit-electron (eReaxFF) directions, energy-conservation fixes, hybrid reactive/nonreactive embeddings for large systems and electrochemical-like problems, and algorithmic acceleration (extended Lagrangian charge dynamics, preconditioners, LAMMPS performance). It is a citation-rich overview rather than a single new benchmark study.

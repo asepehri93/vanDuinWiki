@@ -19,6 +19,16 @@ group_affiliation: false
 
 <!-- id:paper:2011physrevb-84-075460-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **Physical Review B** article modifies the **second-generation REBO-CHO** reactive empirical bond-order potential (carbon/hydrogen/oxygen) to better describe **graphene oxide (GO)**. Using **DFT** as reference data, the authors optimize parameters affecting **oxygen binding to graphene** and **C–O bond distances**, focusing changes on the **bond-order term** so prior REBO-CHO training for other uses is largely preserved. The introduction positions GO as technologically relevant (e.g., reduction routes to graphene, battery electrodes mentioned in context) and contrasts **REBO efficiency** with **ReaxFF/DFT** cost for large-scale GO simulations.

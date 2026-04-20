@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2015yoon-carbon-99-20-atomistic-scale-simulations -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The authors simulate supersonic impact of nanoscale silica and nickel projectiles on single-layer graphene using ReaxFF, enabling bond-breaking chemistry at the projectile–graphene interface—beyond fixed-bond carbon potentials. The study relates specific penetration energy \(E_p^*\) to pre-crack deformation, defect content (mono-vacancies, grain boundaries), and projectile chemistry, and reports crack-edge structures (e.g., pentagon/heptagon pairs) during penetration. Simulated \(E_p^*\) values are compared to recent experiments on multilayer graphene (Lee et al., Science 2014), supporting graphene’s exceptional energy absorption under extreme strain-rate loading.

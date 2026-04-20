@@ -29,6 +29,16 @@ group_affiliation: true
 
 <!-- id:paper:2021akbarian-j-chem-phys-atomistic-scale-insight -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 An **eReaxFF** (explicit electron) MD framework, checked against DFT references in the paper, probes time-dependent dielectric breakdown in polyethylene, including effects of density, voids, and XLPE-related by-products such as acetophenone. Higher PE density increases time-to-breakdown in the simulations; adding electron-affine byproducts like acetophenone can shorten TDDB. During breakdown, electron transport localizes through void channels between electrodes; the acetophenone radical anion strongly shifts secondary reaction energetics versus neutral acetophenone.

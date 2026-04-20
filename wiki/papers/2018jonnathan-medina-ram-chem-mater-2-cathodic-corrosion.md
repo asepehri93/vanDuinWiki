@@ -41,6 +41,16 @@ group_affiliation: true
 
 <!-- id:paper:2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The paper investigates **cathodic corrosion** of **bismuth** in contact with an **ionic-liquid electrolyte** under **CO₂ electroreduction**–relevant **potentials**, combining **ReaxFF molecular dynamics** and **DFT** to connect **interfacial disorder**, **charge state**, and **metal migration** into the **electric double layer**. **ReaxFF** is used to capture **large-scale ionic rearrangements** and **surface roughening** at **negative bias**, while **DFT** supports **local bonding** interpretations (e.g., **Bi migration** motifs). **Adri C. T. van Duin** is among the coauthors bridging **reactive MD** with **electrocatalysis-focused** collaborators.

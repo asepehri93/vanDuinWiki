@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2020deng-venue-structural-features -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Sodium silicate glass structures generated with ReaxFF are compared to partial-charge pairwise potentials and to experimental diffraction/NMR-style observables (pair distribution functions, coordination, Qn speciation, broadened structure factors). The study critically examines how well each potential reproduces short- and medium-range order and discusses glass-forming protocols, strengths, and remaining gaps—highlighting a refined ReaxFF parameterization in their analysis.

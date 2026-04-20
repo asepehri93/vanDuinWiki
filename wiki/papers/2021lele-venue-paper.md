@@ -30,6 +30,16 @@ group_affiliation: true
 
 <!-- id:paper:2021lele-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 Galley-stage PDF of the Fuel article summarized under [[2021lele-fuel-297-202-reaxff-molecular]]: ReaxFF pyrolysis of bicyclic aviation-fuel candidates, Arrhenius-style kinetics, and comparison to JP-10 decomposition rates.

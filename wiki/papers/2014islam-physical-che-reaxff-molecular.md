@@ -34,6 +34,16 @@ group_affiliation: true
 
 <!-- id:paper:2014islam-physical-che-reaxff-molecular -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A ReaxFF parametrization for Li–S interactions supports MD of amorphous lithiated sulfur (a-LiₓS) to connect lithiation with mechanical properties (ultimate, yield, Young’s modulus) and ionic transport. Diffusion coefficients for Li and S, GCMC-based open-circuit voltage trends, and a genetic-algorithm-assisted binary phase diagram round out the analysis for Li–S battery cathode mechanics and thermodynamics (abstract; introduction opening, extract).

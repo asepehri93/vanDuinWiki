@@ -31,6 +31,16 @@ group_affiliation: false
 
 <!-- id:paper:2015surwade-nat-water-desalination -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This experimental study demonstrates **nanoporous single-layer graphene** as a desalination membrane: oxygen-plasma etching tunes nm-scale pores in monolayer graphene, achieving nearly complete salt rejection with high water permeance. Flux under pressure-driven flow reaches up to ~10⁶ g m⁻² s⁻¹ at 40 °C in reported measurements, while osmotic-driving-force experiments yield lower permeance values. The work situates graphene membranes in the context of prior theoretical predictions of sub-nm pore selectivity and emerging experimental graphene/GO separation literature.

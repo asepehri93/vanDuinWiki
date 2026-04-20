@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2015shin-venue-research -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A **Fe/Cr/O/S ReaxFF** is parameterized from **QM data** and applied to **high-temperature butane oxidation** on **Cr oxide** surfaces, including scenarios with **iron pyrite (FeS2)** as a **coal-derived impurity**. Reactive trajectories emphasize **surface oxygen species** that drive **dehydrogenation** to radicals and **C–O coupling** pathways, contrasting **partial oxygenates (e.g., CH2O on clean chromia)** with **accelerated deep oxidation to CO/CO2** when pyrite is present. The article also discusses **surface reconstruction / sulfur-containing intermediates (e.g., SOH release)** and **reoxidation** cycles involving water desorption and O2 adsorption at vacancies.

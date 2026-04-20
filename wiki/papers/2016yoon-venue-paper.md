@@ -37,6 +37,16 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This ingest captures a **Just Accepted** **ACS Nano** manuscript version of **Yoon et al.**’s **ReaxFF** study on **noble gas ion** irradiation of **graphene**, prior to full **production editing**. The scientific claims align with the **version of record**: **dynamic irradiation** plus **annealing** yields **nanopores** and complex **defect** statistics comparable to **STEM** imaging; **He\(^+\)** vs heavier-ion trends and **STW** vs **monovacancy** prevalence are central discussion points.

@@ -46,6 +46,16 @@ group_affiliation: true
 
 <!-- id:paper:2018chipara-materials-to-underwater-adhesive -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The authors report an **amphibious adhesive** made by mixing **solid PTFE** with **liquid PDMS**, targeting **instantaneous bonding** that remains effective **under water** or **high humidity**—a regime where many **acrylate-style** adhesives fail. **Electronegativity / dipole** arguments and **molecular dynamics simulations** (including validation of **adhesive behavior** at the **interface**) complement **synthesis and mechanical testing**. The Penn State affiliation includes **A. C. T. van Duin** for **reactive force-field parameterization / simulation support** described in the article.

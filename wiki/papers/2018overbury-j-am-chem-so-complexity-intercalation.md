@@ -35,6 +35,16 @@ group_affiliation: true
 
 <!-- id:paper:2018overbury-j-am-chem-so-complexity-intercalation -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **JACS** article combines **inelastic neutron scattering**, **infrared spectroscopy**, and **ReaxFF reactive molecular dynamics** to study **urea** in **Ti₃C₂Tₓ MXene** interlayers. The central experimental conclusion is that **urea is chemically destabilized** under conditions relevant to intercalation, producing **fragments such as ammonium** (seen with INS) and **CO₂** (IR), rather than behaving as a passive intercalated molecule. **ReaxFF** simulations are used to propose **atomistic pathways and energetics** consistent with the measurements, highlighting how **guest chemistry** in **MXene galleries** can diverge from naive “insert a molecule” pictures—important for **electrochemical storage**, **sensing**, and **water-related** uses of MXenes.

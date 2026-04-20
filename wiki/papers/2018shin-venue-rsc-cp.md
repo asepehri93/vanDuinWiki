@@ -33,6 +33,16 @@ group_affiliation: true
 
 <!-- id:paper:2018shin-venue-rsc-cp -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **PCCP** article develops a **ReaxFF description** for **NASICON-type LATP** (**Li₁₊ₓAlₓTi₂₋ₓ(PO₄)₃**) to study **composition-dependent Li⁺ transport** and **local structural** response in a **solid electrolyte** relevant to **all-solid-state batteries**. **Reactive MD** enables **bond rearrangement** at **interfaces** and **defective** regions beyond harmonic **fixed-bond** models, supporting analysis of **migration mechanisms** across **x** (Al substitution) space. **Adri C. T. van Duin** is corresponding author together with the **Shin**-led parameterization effort. The corpus PDF is an **RSC proof** (`c8cp03586e`).

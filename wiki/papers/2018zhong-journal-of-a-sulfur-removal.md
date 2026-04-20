@@ -32,6 +32,16 @@ group_affiliation: true
 
 <!-- id:paper:2018zhong-journal-of-a-sulfur-removal -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 **Thermogravimetry–mass spectrometry (TG-MS)** on **petroleum coke** samples quantifies **sulfur rejection** versus **temperature**, **particle size**, and **source**, showing that **high temperature (≳1673 K)** drives large **desulfurization** extents (often **~80%**) for fine fractions, with **more variable** behavior for **large particles** in some feeds. **ReaxFF MD** on a **macromolecular coke** model with **thiophene-like** sulfur probes **atomistic** elimination pathways at **3000–4000 K** in **NVT** runs, rationalizing **volatile sulfur** species (e.g. **SO₂**, **CS₂**, **COS**) observed or inferred from **experiment**. **Adri C. T. van Duin** and **Jonathan P. Mathews** are Penn State coauthors with **Zhong** and collaborators in China.

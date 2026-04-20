@@ -31,6 +31,16 @@ group_affiliation: true
 
 <!-- id:paper:2017jejoon-yeon-j-phys-chem-development-reaxff -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 A new **Cu/S/C/H ReaxFF** parametrization is trained to study **methyl thiolate** decomposition on **Cu(100)**, motivated by **tribochemical** observations that **sliding** can accelerate **organosulfur** chemistry on **copper**. **DFT** references inform **Cu sulfide** lattice behavior, **Cu–S** bonding, **thiolate** decomposition paths, and **adsorption** energetics; **MD** demonstrates **C–S** scission initiation and subsequent **ethane-forming** chemistry consistent with **UHV** experiments. Leadership spans **UC Merced**, **UWM**, **van Duin** at **PSU**, and **Martini** group **tribology** expertise.

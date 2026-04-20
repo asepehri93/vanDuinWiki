@@ -19,6 +19,16 @@ group_affiliation: false
 
 <!-- id:paper:2013lith-rev-csr-venue-rsc-cs -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **Chem. Soc. Rev.** article reviews **computational studies of Li-ion and Na-ion battery cathodes**, emphasizing synergy between **DFT** and **interatomic potential / atomistic** methods. It surveys **layered, spinel, and polyanionic** examples (e.g., **LiCoO₂, LiMn₂O₄, LiFePO₄** named in the introduction) and organizes discussion around **voltage trends**, **ion diffusion** pathways/dimensionalities, **defect chemistry**, and **surfaces/nanostructures**. The introduction also motivates **Na-ion** systems for grid storage where gravimetric density is less critical than cost/abundance.

@@ -22,6 +22,16 @@ group_affiliation: false
 
 <!-- id:paper:2016page-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 The manifest path **`papers/Page proof- TOC.pdf`** resolves to a **short publisher proof** showing a **table-of-contents graphic** banner for **ACS Applied Materials & Interfaces** and a **manuscript identifier** (`am6b01490` in the extract). It is **not** a primary research article PDF; the wiki keeps the record to document **corpus provenance** and prevent mis-indexing as science content.

@@ -28,6 +28,16 @@ group_affiliation: true
 
 <!-- id:paper:2013verners-venue-paper -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 ReaxFF MD with stepwise 300–3000 K heating studies Al grain mixing into Ni versus Fe matrices near a 1:3 grain:matrix atom ratio. Ni hosts achieve lower chemical strain energy and complete mixing at lower temperature than Fe hosts, consistent with greater Al–Ni stability. Grain-size trends differ between matrices; cooling runs show Fe solidifying colder than Ni, both ending in chemically disordered crystals with Ni less ordered. Preliminary slab oxidation finds unmixed Al and Ni most reactive to oxygen, while Al–Ni alloy and pure Fe oxidize more slowly (abstract; introduction opening, extract).

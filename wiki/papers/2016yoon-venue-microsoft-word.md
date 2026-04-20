@@ -37,6 +37,16 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-microsoft-word -->
 
+
+
+## Evidence and attribution
+
+!!! note "Authority of statements"
+
+    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+
+    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+
 ## One-paragraph summary
 
 This **supporting information** excerpt documents **ReaxFF** fitting of **short-range nuclear repulsion** for **noble gas ion** impacts on **graphene**, using **DFT** energies for **noble gas + benzene** geometries as a **planar aromatic** proxy and comparing to **ZBL**-style references. Three impact sites (**ring center**, **bond center**, **atop C**) anchor the parameter comparison shown in **Fig. S1** references. It accompanies the **ACS Nano** study on **defect formation** under **ion irradiation** coauthored by **van Duin** and **ORNL** collaborators.
