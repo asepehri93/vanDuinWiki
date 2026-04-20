@@ -56,8 +56,14 @@ Flagship **large-system ReaxFF pyrolysis** study tying geochemical/energy engine
 - DOI: [10.1016/j.jaap.2014.07.011](https://doi.org/10.1016/j.jaap.2014.07.011)
 - Abstract: `normalized/extracts/2014castro-marcano-journal-of-a-pyrolysis-large-scale_p1-2.txt`
 
+## Reader notes (navigation)
+
+- **Cluster:** [[theme-pyrolysis-combustion-organics]]; cross-link to [[graphene-nanocarbon]] for sp² carbon themes.  
+- **Frozen eval:** PYR1 gold in [`V1_FROZEN`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/benchmarks/V1_FROZEN.md).
+
 ## Related topics
 
 - [[reaxff-family]]
+- [[theme-pyrolysis-combustion-organics]]
 - Coal devolatilization and reactive MD at mesoscale atom counts
 - ReaxFF for complex CHONS organics

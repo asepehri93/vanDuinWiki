@@ -58,8 +58,14 @@ Foundational **metal oxidation + ReaxFF** paper from the group with clear valida
 - DOI: [10.1016/j.actamat.2014.09.047](https://doi.org/10.1016/j.actamat.2014.09.047)
 - Abstract: `normalized/extracts/2014zou-acta-materia-molecular-dynamics_p1-2.txt`
 
+## Reader notes (navigation)
+
+- **Cluster:** [[theme-oxides-silica-ceramics]] (metal oxidation); compare catalytic Ni surfaces under [[theme-catalysis-surfaces]].  
+- **Frozen eval:** MET1 gold hit in [`V1_FROZEN`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/benchmarks/V1_FROZEN.md).
+
 ## Related topics
 
 - [[reaxff-family]]
+- [[theme-oxides-silica-ceramics]]
 - Nickel oxidation and short-circuit diffusion at grain boundaries
 - ReaxFF for metals and oxides (Ni–O)

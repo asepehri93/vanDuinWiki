@@ -59,10 +59,24 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Synthesis:
+  - Browse themes:
+      - Themes overview: concepts/themes-index.md
+      - Oxides & silica: concepts/theme-oxides-silica-ceramics.md
+      - Catalysis & surfaces: concepts/theme-catalysis-surfaces.md
+      - Pyrolysis & combustion: concepts/theme-pyrolysis-combustion-organics.md
+      - ML potentials: concepts/theme-ml-atomistic-potentials.md
+      - Ferroelectrics: concepts/theme-ferroelectrics-polar-oxides.md
+      - Porous MOF & zeolite: concepts/theme-porous-mof-zeolite.md
+      - Water & geo interfaces: concepts/theme-water-silica-geo.md
+  - Core synthesis:
       - ReaxFF family: forcefields/reaxff-family.md
       - Batteries & interfaces: concepts/batteries-interfaces-reaxff.md
-      - Graphene / nanocarbon: materials/graphene-nanocarbon.md
+      - Graphene & nanocarbon: materials/graphene-nanocarbon.md
+  - Debates:
+      - Transferability of reactive FF: debates/transferability-reactive-ff.md
+      - ReaxFF vs MLIPs: debates/reaxff-vs-mlip-accuracy.md
+  - Protocols:
+      - ReaxFF parameterization trail: protocols/reaxff-parameterization-workflow.md
   - Papers: papers/index.md
 
 extra:

@@ -52,6 +52,10 @@ Zeolitic imidazolate frameworks (ZIFs) increasingly require simulations that han
 
 Key **MOF/ZIF + ReaxFF** capability demonstration from the van Duin and Mauro collaboration—important for porous framework entries in the wiki.
 
+## Reader notes (navigation)
+
+- **Cluster:** [[theme-porous-mof-zeolite]] — **ZIF1** gold in [`V1_FROZEN`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/benchmarks/V1_FROZEN.md).
+
 ## Citations and evidence anchors
 
 - DOI: [10.1021/acs.jpcb.8b08094](https://doi.org/10.1021/acs.jpcb.8b08094)

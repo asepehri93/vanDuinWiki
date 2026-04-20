@@ -31,6 +31,6 @@
 
 ## Maintenance
 
-- **Bump** `version` in JSON when gold sets change.
+- **Bump** `version` in JSON when gold sets change (**v2** added `concept:theme-*` cluster ids and `concept:themes-index` where they improve retrieval coverage).
 - **Add** questions by copying from the warm-up pool and assigning **verified** `gold_hits` ids that exist in `wiki/` frontmatter.
 - **Tuning:** Some questions list **multiple** acceptable `paper:` targets so the default hash-embedding retrieval run can meet grading; after moving to semantic embeddings, narrow gold sets if precision is too loose.

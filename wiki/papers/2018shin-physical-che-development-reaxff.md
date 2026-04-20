@@ -62,6 +62,12 @@ Core example of ReaxFF parameterization for **battery-relevant ceramic electroly
 - DOI: [10.1039/c8cp03586e](https://doi.org/10.1039/c8cp03586e)
 - Primary numerical results and fitting rationale: early sections and Results in PCCP paper; see normalized extract `normalized/extracts/2018shin-physical-che-development-reaxff_p1-2.txt` for text-aligned pointers.
 
+## Reader notes (navigation)
+
+- **Theme hub:** [[batteries-interfaces-reaxff]] — how this paper fits next to liquid-electrolyte work ([[2020hossain-j-chem-phys-lithium-electrolyte-solvation]]).  
+- **Force-field overview:** [[reaxff-family]].  
+- **Benchmark:** listed as a **gold** source for ceramic electrolyte questions in [`docs/benchmarks/V1_FROZEN.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/benchmarks/V1_FROZEN.md) (FF1).
+
 ## Related topics
 
 - [[reaxff-family]]

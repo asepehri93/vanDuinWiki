@@ -55,6 +55,12 @@ Provides MLIP context adjacent to corpus work on **Li systems** and **ReaxFF**; 
 
 https://doi.org/10.1038/s41467-023-36329-y — Main text (~pp. 1–2) states architecture premise and benchmark claims.
 
+## Reader notes (navigation)
+
+- **Cluster:** [[theme-ml-atomistic-potentials]]; **debate:** [[reaxff-vs-mlip-accuracy]].  
+- **Frozen eval:** ML1 gold in [`V1_FROZEN`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/benchmarks/V1_FROZEN.md).
+
 ## Related topics
 
 - [[2023li-venue-paper]]
+- [[theme-ml-atomistic-potentials]]

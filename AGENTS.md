@@ -59,6 +59,18 @@ Operator steps, deterministic `paper_id` slug rules, and rerun policy are in [`d
 
 **Navigation-only pages** (e.g. root `wiki/index.md`) may use `type: concept` and an `id` prefix `index:` until a dedicated nav type exists; keep them free of uncited scientific claims.
 
+### Theme hub pages (corpus clusters)
+
+Large **domain** groupings live as ordinary **`concept` pages** in `wiki/concepts/` using a **`theme-`** filename prefix (example: `theme-oxides-silica-ceramics.md` → `id: concept:theme-oxides-silica-ceramics`). They exist to improve **Phase 0 connectivity** (papers linked from synthesis pages) and **MkDocs** navigation; each hub should list **representative `paper:`** slugs with `source_refs` grounding. The entry point **`wiki/concepts/themes-index.md`** (`concept:themes-index`) lists all theme hubs.
+
+### Reader-facing layer (static site / GitHub Pages)
+
+The same markdown is published via **MkDocs** (see `mkdocs.yml`). Conventions:
+
+- Put a **plain-language lead** immediately after the `<!-- id:... -->` HTML comment (or use `!!! abstract "..."` for a visible blurb).
+- Keep **YAML front matter** machine-complete; use **`??? info "Maintainers"`** or **`!!! note`** for operator-only reminders so casual readers skim the science first.
+- **Paper** pages may include **`## Reader notes (navigation)`** with wikilinks to theme hubs and docs benchmarks—avoid new scientific claims there unless cited elsewhere on the page.
+
 ## ID conventions (stable)
 
 All wiki pages carry `id` in frontmatter. Format:

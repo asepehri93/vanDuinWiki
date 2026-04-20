@@ -52,8 +52,21 @@ Reactive **ReaxFF** studies of graphene often use carbon parameters discussed in
 
 Large nonequilibrium MD for projectile impact; contrasting quasi-static tension is discussed in the same reference set.
 
+## Mechanics vs separations (two literatures)
+
+The wiki intentionally keeps **supersonic impact** simulations ([[2015yoon-carbon-99-20-atomistic-scale-simulations]]) distinct from **experimental nanoporous membranes** for **desalination** ([[2015surwade-nat-water-desalination]]): the former probes **bond-breaking** carbon mechanics; the latter documents **pore statistics** and **transport** measurements that atomistic models may only approximate.
+
+## Links to carbon chemistry at larger scale
+
+**Pyrolysis** and **coal** models ([[2014castro-marcano-journal-of-a-pyrolysis-large-scale]]) share **sp2/sp3** carbon chemistry with graphene studies but operate on **disordered** macroscopic solids—see [[theme-pyrolysis-combustion-organics]].
+
+## Broader navigation
+
+- [[themes-index]] — all theme hubs.  
+- [[theme-water-silica-geo]] — aqueous confinement adjacent to 2D pores.
+
 ## Key references
 
-- `paper:2015yoon-carbon-99-20-atomistic-scale-simulations`
-- `paper:2015surwade-nat-water-desalination`
-- `paper:2014castro-marcano-journal-of-a-pyrolysis-large-scale` (coal / carbonaceous reactivity context)
+- [[2015yoon-carbon-99-20-atomistic-scale-simulations]]
+- [[2015surwade-nat-water-desalination]]
+- [[2014castro-marcano-journal-of-a-pyrolysis-large-scale]] (coal / carbonaceous reactivity context)

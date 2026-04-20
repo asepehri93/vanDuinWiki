@@ -57,6 +57,12 @@ Central reference for **Li-ion electrolyte reactivity** with ReaxFF at PSU/INL c
 - DOI: [10.1063/5.0003333](https://doi.org/10.1063/5.0003333)
 - Abstract: `normalized/extracts/2020hossain-j-chem-phys-lithium-electrolyte-solvation_p1-2.txt`
 
+## Reader notes (navigation)
+
+- Pairs with **solid electrolyte** parameterization ([[2018shin-physical-che-development-reaxff]]) to show **two regimes**: ceramic lattice transport vs **organic** bond chemistry at the anode.  
+- **Theme:** [[batteries-interfaces-reaxff]]; **workflow:** [[reaxff-parameterization-workflow]].  
+- **Frozen eval:** FF2, BAT1 in [`V1_FROZEN`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/benchmarks/V1_FROZEN.md).
+
 ## Related topics
 
 - [[batteries-interfaces-reaxff]]

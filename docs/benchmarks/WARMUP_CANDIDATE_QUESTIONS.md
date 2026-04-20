@@ -10,6 +10,8 @@ See [`../PHASE0.md`](../PHASE0.md) for KPI thresholds and the official LLM warm-
 
 **Profile run:** 2026-04-20 — [`outputs/corpus_profile_2026-04.md`](../outputs/corpus_profile_2026-04.md) (190 PDFs registered; aggregate stats in [`normalized/corpus_summary.json`](../normalized/corpus_summary.json)). Title-keyword frequencies support the buckets below (e.g. strong **ReaxFF / reactive MD** presence; recurring **graphene**, **pyrolysis**, **nickel**, **water**, **carbon**, **oxidation**, **fuel**, **mechanical** / **plasma** themes). Taxonomy alignment notes: [`outputs/taxonomy_phase3_review.md`](../outputs/taxonomy_phase3_review.md).
 
+**Theme hubs (wiki navigation):** The live wiki now groups papers under **`concept:theme-*`** cluster pages listed from [`wiki/concepts/themes-index.md`](../wiki/concepts/themes-index.md). When promoting questions into [`V1_FROZEN.md`](V1_FROZEN.md), prefer **`gold_hits`** that include both a **`paper:`** slug and the **matching theme `concept:`** id when the question is domain-wide.
+
 ---
 
 ## High-level categories (corpus-derived)

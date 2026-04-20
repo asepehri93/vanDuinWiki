@@ -55,6 +55,24 @@ Illustrative validation hooks referenced in `source_refs`: ionic conductivity tr
 
 Group workflows commonly pair ReaxFF with **LAMMPS**-style MD and, where noted, hybrid Monte Carlo / MD schemes for electronic-state or stoichiometry sampling.
 
+## How the group uses ReaxFF (corpus-level pattern)
+
+Across the wiki, **ReaxFF** is the default when **bond topology changes** during a simulation: **solid electrolytes**, **liquid electrolytes at reducing electrodes**, **metal oxidation**, **hydrocarbon pyrolysis**, **graphene impact**, and **MOF** frameworks at high temperature. Papers rarely treat the FF as a black box—most document **which elements** are covered and **which observables** were used for sanity checks (ionic conductivity trends, qualitative barrier ordering, mechanical response).
+
+## Relationship to other methods in the KB
+
+- **Classical non-reactive** models appear where connectivity is fixed; the KB still cites ReaxFF where **reactions** gate the science question.  
+- **MLIPs** and **JAX-differentiable** variants are indexed under [[theme-ml-atomistic-potentials]] and [[reaxff-vs-mlip-accuracy]].  
+- **Parameterization discipline** is summarized in [[reaxff-parameterization-workflow]].
+
+## Cross-links (navigation)
+
+- Battery-facing work: [[batteries-interfaces-reaxff]].  
+- Oxide / silica / Ni oxidation: [[theme-oxides-silica-ceramics]].  
+- Catalysis: [[theme-catalysis-surfaces]].  
+- Pyrolysis / fuels: [[theme-pyrolysis-combustion-organics]].  
+- 2D carbon mechanics: [[graphene-nanocarbon]].
+
 ## Key references
 
-- See `source_refs` for entry points; browse `wiki/papers/` for the full parameterization bibliography.
+- See `source_refs` for entry points; browse [`papers/index.md`](../papers/index.md) for the full parameterization bibliography.

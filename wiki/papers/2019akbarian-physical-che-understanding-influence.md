@@ -59,8 +59,14 @@ Primary wiki anchor for **ferroelectric perovskites + ReaxFF** within the corpus
 - DOI: [10.1039/C9CP02955A](https://doi.org/10.1039/C9CP02955A)
 - Opening summary: `normalized/extracts/2019akbarian-physical-che-understanding-influence_p1-2.txt`
 
+## Reader notes (navigation)
+
+- **Cluster:** [[theme-ferroelectrics-polar-oxides]] — primary **FE1** anchor in frozen benchmarks.  
+- **Debate context:** coupling to [[transferability-reactive-ff]] when comparing to DFT-only studies.
+
 ## Related topics
 
 - [[reaxff-family]]
+- [[theme-ferroelectrics-polar-oxides]]
 - BaTiO3 ferroelectric switching and oxygen vacancies
 - Domain walls and surface termination in perovskites

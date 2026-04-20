@@ -47,7 +47,22 @@ Across the corpus, **ReaxFF** is used to connect atomistic detail to several **L
 
 Reactive models are most valuable when **training sets explicitly include** the reactions and phases relevant to the interface problem; otherwise, predictions should be treated as hypotheses for further DFT or experiment.
 
+## Systems and phenomena (more detail)
+
+**Solid electrolytes:** NASICON-type **LATP** appears as a flagship example where **composition–transport** relationships and **disorder** are sampled with Monte Carlo plus MD ([[2018shin-physical-che-development-reaxff]]). Readers should trace **which sublattices** are mobile and how **vacancy** concentrations enter the model.
+
+**Liquid electrolytes at Li metal:** carbonate **solvent** and **salt** chemistry can be captured reactively so that **Li0** vs **Li+** pathways differ ([[2020hossain-j-chem-phys-lithium-electrolyte-solvation]]). This matters for **SEI**-adjacent questions even when a paper does not resolve every SEI species.
+
+**Silicon anodes:** large volume change and **interfacial** chemistry motivate coupled **experimental + ReaxFF** narratives ([[2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism]]).
+
+## Where to go next
+
+- Theme-level **oxide** interfaces: [[theme-oxides-silica-ceramics]].  
+- **Transferability** of FF across chemistries: [[transferability-reactive-ff]].  
+- **Workflow** framing: [[reaxff-parameterization-workflow]].
+
 ## Related pages
 
 - [[reaxff-family]]
 - [[graphene-nanocarbon]]
+- [[themes-index]]
