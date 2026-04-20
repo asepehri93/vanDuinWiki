@@ -44,11 +44,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Accepted-manuscript / proof PDF of the JCTC **Perspective** surveying accuracy, transferability, and efficiency improvements for **ReaxFF-class** reactive models—covering charge-equilibration fixes, explicit-electron extensions, energy-conservation concerns, hybrid reactive/nonreactive strategies, and HPC-oriented accelerations (extended Lagrangian charge dynamics, preconditioning, LAMMPS integration).
 
@@ -59,6 +59,7 @@ Review article; same scope as [[2021itai-leven-j-chem-theor-recent-advances]].
 ## Findings
 
 Editorial content matches the published article; minor formatting differences vs the publisher PDF possible.
+
 
 ## Limitations
 

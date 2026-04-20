@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Reactive MD** with **ReaxFF** and comparison to **DFT-based AIMD** are used to study **water** interacting with **nanoporous silica**, comparing two **Si/O/H ReaxFF** parametrizations (**Yeon et al.** vs **Fogarty et al.**). The authors analyze **local structure**, **water dissociation**, **barriers**, **diffusion**, and **defect** chemistry (**two-membered ring** removal, **hydroxylation**), concluding that **Yeon et al.** better matches **AIMD** for **high-defect**, **strained** silica–water scenarios. **Adri C. T. van Duin** is a coauthor.
 
@@ -53,6 +53,7 @@ group_affiliation: true
 - Competing **reaction pathways** and **intermediate** structures govern **2-ring defect** removal and **hydroxylation** rates.
 - **Nanoconfinement** reduces **water diffusion**; **H** can diffuse faster than **O** via **hopping**-like behavior.
 - **Yeon et al.** parametrization aligns more closely with **AIMD** for the targeted **Si/O/H** chemistry.
+
 
 ## Limitations
 

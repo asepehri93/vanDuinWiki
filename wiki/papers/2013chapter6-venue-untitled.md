@@ -25,11 +25,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The normalized extract for this slug is an **RSC book proof instruction packet** and **author query form** for **“Computational Catalysis”, Chapter 6**, not the scientific chapter text itself. Pages 1–2 contain production queries (references, figure permissions, acronym expansions including **rdf** and **CNTs** in Chapter 6) rather than technical results.
 
@@ -40,6 +40,7 @@ The normalized extract for this slug is an **RSC book proof instruction packet**
 ## Findings
 
 - Not extractable from the ingested pages.
+
 
 ## Limitations
 

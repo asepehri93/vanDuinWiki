@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF reactive MD** is applied to **petroleum coke** models to probe **sulfur removal** chemistry during **pyrolysis** and **combustion** scenarios, connecting **atomistic pathways** to the **high-temperature** **S** release problem relevant to **emissions** and **coke utilization**. The work sits at the intersection of **fuel chemistry**, **heteroatom (S) elimination**, and **reactive simulation** of **carbonaceous** matrices. **Adri C. T. van Duin** is a coauthor alongside **Mathews** group **combustion** expertise.
 
@@ -54,6 +54,7 @@ group_affiliation: true
 
 - Identifies **mechanistic families** for **sulfur elimination** under **pyrolysis vs combustion** conditions (see paper figures for species timelines).
 - Provides **ReaxFF-based** interpretation complementary to **TG-MS**-style experimental narratives referenced in the title/abstract framing.
+
 
 ## Limitations
 

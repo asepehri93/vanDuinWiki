@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Same study as `paper:2013raju-venue-jp-2013-02139h` under the published Journal of Physical Chemistry C proof: ReaxFF MD probes water adsorption and dissociation on anatase (101), (100), (112), (001), and rutile (110) surfaces at 300 K across coverages, comparing molecular versus dissociative configurations to DFT and experiment and linking dissociation propensity to hydrogen-bonding signatures (abstract; introduction, extract).
 
@@ -50,6 +50,7 @@ Ti/O/H ReaxFF with bond-order-dependent valence and nonbonded terms as summarize
 ## Findings
 
 Abstract states agreement of ReaxFF adsorption motifs with prior theory and experiment, complex coverage-dependent water distributions, and a correlation between dissociation extent and O–H stretch red shift tied to hydrogen bonding to outer water layers.
+
 
 ## Limitations
 

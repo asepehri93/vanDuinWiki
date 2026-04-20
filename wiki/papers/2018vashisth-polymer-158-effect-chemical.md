@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The authors apply an **accelerated ReaxFF** workflow—supplying energy comparable to **reaction barriers** so that **slow epoxy crosslinking** events occur on **MD-accessible** timescales—to build **atomistic networks** from **bisphenol-A epoxide** cured with **three classes of amines** (aromatic, cycloaliphatic, aliphatic). **Simulated thermo-mechanical** properties are compared with **experiments**, highlighting how **curing-agent chemistry** shapes **local heterogeneity** (notably for **cyclic** amines) and **strain-rate sensitivity** (stronger for **aliphatic** systems). **Adri C. T. van Duin** is a corresponding author with **Penn State** engineering coauthors.
 
@@ -54,6 +54,7 @@ The authors apply an **accelerated ReaxFF** workflow—supplying energy comparab
 
 - **Good correlation** between **simulation** and **experiment** for the **thermo-mechanical** trends compared in the study.
 - **Cyclic** curing agents yield **heterogeneous** local structure that **annealing** can partly homogenize; **aliphatic** networks show more **strain-rate** dependence than **aromatic**-cured analogs in the simulations reported.
+
 
 ## Limitations
 

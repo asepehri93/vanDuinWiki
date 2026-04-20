@@ -41,11 +41,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **Chemical Reviews** article surveys **analytical potential energy functions** for **water**, organized around the **many-body expansion** of interaction energies. It contrasts **pairwise-additive** models with **implicit** and **explicit many-body** corrections, emphasizing how modern potentials that correctly encode **two- and three-body short-range terms** plus **long-ranged many-body polarization / coupling** can reproduce **gas- through condensed-phase** benchmarks from **high-level electronic structure** and **experiment**. The review is a methodological map for choosing **force fields vs. ab initio MD** when simulating **aqueous interfaces, solvation, and phase behavior**.
 
@@ -57,6 +57,7 @@ Synthetic literature review (no new ReaxFF parameterization in this reference).
 
 - **Hierarchy of models** (pairwise → polarizable → explicit many-body) is tied to **accuracy vs. cost** trade-offs documented with extensive citations in the review.
 - **Recent potentials** are argued to approach a **“universal”** water model class for broad thermodynamic and structural observables when many-body physics is treated consistently.
+
 
 ## Limitations
 

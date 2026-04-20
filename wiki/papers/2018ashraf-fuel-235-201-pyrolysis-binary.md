@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Supercritical pressures in propulsion/combustion hardware invalidate low-P Arrhenius kinetic models that neglect pressure effects on pathways. This work uses ReaxFF MD to study **binary fuel pyrolysis** at supercritical conditions for JP-10/toluene and n-dodecane/toluene mixtures, comparing to detailed continuum chemistry where the continuum model fails to capture atomistic trends. Mixing ratio and density change cooperative decomposition: a more reactive component can accelerate breakdown of a less reactive partner beyond naive “fastest reaction dominates” intuition; pyrolysis products from one species can promote chemistry in others. The study maps regimes where first-order kinetics and simple Arrhenius behavior break down.
 
@@ -52,6 +52,7 @@ Supercritical pressures in propulsion/combustion hardware invalidate low-P Arrhe
 
 - Mixture behavior is not governed only by the lowest activation-energy component; product distributions mediate cross-reactivity.
 - Highlights when continuum kinetics miss pressure-dependent pathways accessible in atomistic simulation.
+
 
 ## Limitations
 

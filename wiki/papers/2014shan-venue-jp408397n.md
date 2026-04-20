@@ -33,11 +33,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Shan, van Duin, and Thompson report a **ReaxFF** reparameterization for **ammonium nitrate (AN)** starting from an existing **nitramine/TATB** description, training against **electronic-structure** data for **barriers**, **heats of formation**, and **crystal** properties of AN phases. Applications shown in the abstract include **isothermal compression** of phase-IV AN (claimed agreement with DFT/experiment within about **10%** over the studied compression range), **unreacted principal Hugoniot** states (noted as stiffer than experiment by about **17%** in the abstract statement), and **thermal decomposition** simulations up to **2500 K** with pathways said to align with experimental findings. Simulations are executed in **LAMMPS** using the group's ReaxFF workflow.
 
@@ -50,6 +50,7 @@ Shan, van Duin, and Thompson report a **ReaxFF** reparameterization for **ammoni
 
 - AN is positioned as an **energetic ionic crystal** with multiple solid phases; phase **IV** is the room-temperature focus.
 - The manuscript contrasts multiple experimental **Hugoniot** parametrizations from the literature to motivate scatter and modeling challenges.
+
 
 ## Limitations
 

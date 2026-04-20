@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Reactive MD with ReaxFF explores how **pore shape** and **pre-crack orientation** jointly govern Young’s modulus, critical energy release rate (G_IC), and failure evolution in nanoporous amorphous silica. Ligament thickness (wall thickness between pores) correlates with higher G_IC. Von Mises stress fields show pore geometry imprint on stress hotspots; density evolution during crack growth confirms the expected interplay of voids and brittle failure.
 
@@ -52,6 +52,7 @@ ReaxFF molecular dynamics; porous a-SiO2 samples with shaped pores and oriented 
 ## Findings
 
 Pore morphology is a primary knob on E and G_IC besides crack orientation; qualitative failure maps emphasize stress localization patterns.
+
 
 ## Limitations
 

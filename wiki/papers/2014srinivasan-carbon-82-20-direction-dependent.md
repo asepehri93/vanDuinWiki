@@ -33,11 +33,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Srinivasan and van Duin report **ReaxFF reactive MD** of **hyperthermal atomic oxygen** impacts on **low-index diamond** surfaces, motivated by **low Earth orbit (LEO)**-relevant collision energies (~**5 eV**) and high O fluxes. Small oxygen-terminated slabs are used to rationalize **oxygenated functional groups** (ethers, peroxides, radicals, dioxetanes) consistent with prior experiment and higher-level modeling. Larger reconstructed surfaces show **anisotropic etching rates** among **(100), (111), and (110)** with **(110)** fastest and **(100)** slowest in the abstract’s summary, with **erosion yields** claimed to match experimental trends; an **Arrhenius-type** rate law for mass loss is extracted from the simulation campaign. The work argues **diamond films** are promising for **spacecraft** surfaces exposed to LEO atomic oxygen and positions **ReaxFF** as a screening tool for extreme oxygen environments.
 
@@ -50,6 +50,7 @@ Srinivasan and van Duin report **ReaxFF reactive MD** of **hyperthermal atomic o
 
 - **Surface orientation** strongly modulates erosion efficiency under the simulated hyperthermal O conditions.
 - Functionalization chemistry is consistent with a zoo of **C–O** moieties discussed in the LEO/diamond oxidation literature surveyed in the extract.
+
 
 ## Limitations
 

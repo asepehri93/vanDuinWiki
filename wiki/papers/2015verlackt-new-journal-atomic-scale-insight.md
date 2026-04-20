@@ -39,11 +39,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Plasma-medicine-motivated reactive MD** with **ReaxFF** is used to follow **·OH attack on DNA** in explicit **aqueous solution**, focusing on **bond-making/breaking events** that are inaccessible to non-reactive force fields. The publication frames **reactive oxygen species (ROS)** chemistry at **atomistic resolution** and connects simulation observables to **plasma–liquid interface** contexts where hydroxyl radicals are abundant. Penn State contributors (**Shin, Golkaram, van Duin**) anchor the **ReaxFF methodology** side of an international collaboration led by **Antwerp**-based groups.
 
@@ -55,6 +55,7 @@ group_affiliation: true
 ## Findings
 
 - The work documents **radical-induced bond cleavage / modification pathways** on DNA building blocks and discusses mechanistic implications for **ROS damage** scenarios (see article body for specific reaction channels and statistics).
+
 
 ## Limitations
 

@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Suspended single-layer silicene is studied with DFTB and ReaxFF reactive MD alongside higher-level DFT for equilibrium properties. The work reports elastic constants, fracture patterns, edge reconstructions, stress distributions, unbuckling under strain, temperature effects, and zigzag versus armchair edge differences, motivated by silicene’s buckled structure versus graphene (abstract; introduction, extract).
 
@@ -49,9 +49,21 @@ Suspended single-layer silicene is studied with DFTB and ReaxFF reactive MD alon
 
 Equilibrium with DFT (Dmol3), DFTB+, and ReaxFF; dynamical fracture with DFTB+ and ReaxFF for large cells (methodology opening, extract page 2).
 
+<!-- enrich-from-extract:v2 -->
+
+- reactive molecular dynamics (using Re axFF), the mechanical properties of suspended single-layer silicene.
+
+
 ## Findings
 
 Introduction positions silicene as buckled group-IV cousin to graphene with lower in-plane stiffness and possible linear-chain formation during fracture; abstract promises systematic MD comparison across edges, sizes, and temperatures.
+
+### Additional results (article abstract)
+
+- We calculated the elastic constants, analyzed the fracture patterns and edge reconstructions.
+- We also addressed the stress distributions, unbuckling mechanisms and the fracture dependence on the temperature.
+- We analysed the diﬀerences dueto distinct edge morphologies, namely zigzag and armchair.
+
 
 ## Limitations
 

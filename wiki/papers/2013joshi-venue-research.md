@@ -25,11 +25,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The paper introduces **Reactive Parallel Replica Dynamics (RPRD)**: a **connectivity-change** event detector for **ReaxFF** simulations that enables **parallel replica** acceleration of rare reactive events, pushing accessible times toward **microseconds**. **1-heptene pyrolysis** is used as a benchmark at temperatures as low as **1350 K** for up to **1 μs** with **40 heptene molecules**. The abstract reports **reasonable agreement** between the **RPRD product distribution/mechanism** and **shock tube experiments**, and positions the approach as addressing the timescale gap of standard RMD.
 
@@ -41,6 +41,7 @@ The paper introduces **Reactive Parallel Replica Dynamics (RPRD)**: a **connecti
 ## Findings
 
 - Demonstrates **long-time reactive trajectories** for a hydrocarbon pyrolysis case with experimental comparators mentioned.
+
 
 ## Limitations
 

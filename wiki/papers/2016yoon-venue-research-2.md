@@ -44,11 +44,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Online** distribution PDF of **Yoon et al.**’s **ACS Nano** article on **ReaxFF** simulations of **noble gas** irradiation **damage** and **annealing** in **graphene**, with experimental imaging validation. Multiple **corpus** paths (**online**, **galley**, **ASAP**) share one **DOI** but differ in **SHA-256**; this page tracks `papers/Yoon_ACSNano_online.pdf`.
 
@@ -59,6 +59,7 @@ group_affiliation: true
 ## Findings
 
 - Agreement between **simulated** and **STEM** morphologies for selected **He\(^+\)**/**Ne\(^+\)** dose series; **defect-type** statistics summarized in main text.
+
 
 ## Limitations
 

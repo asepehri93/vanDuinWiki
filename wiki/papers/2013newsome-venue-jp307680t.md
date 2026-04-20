@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Part II of a two-part study uses ReaxFF reactive molecular dynamics trajectories to build rate models for thermal protection system (TPS) chemistry: oxidation of silicon carbide by O₂ and H₂O and combustion/pyrolysis of an EPDM polymer model. The work connects atomistic transport and reaction events to Arrhenius parameters for comparison with experiment and with phenomenological multiscale models (abstract and introduction, pages 1–2 of the extract).
 
@@ -50,6 +50,7 @@ Reactive MD with a Si/C/H/O ReaxFF parameterization trained to quantum data (Par
 ## Findings
 
 O₂ oxidizes SiC more efficiently than H₂O in the simulations; transport activation barriers are reported roughly in the 40–70 kJ/mol range for O₂ and 125–150 kJ/mol for H₂O. Oxidizer attack produces a growing SiO₂-rich surface and carbon migration into a carbonaceous region. EPDM simulations yield activation barriers near 183 kJ/mol (combustion) and 213 kJ/mol (pyrolysis), bracketed against experimental polymer literature near ~100–250 kJ/mol (abstract).
+
 
 ## Limitations
 

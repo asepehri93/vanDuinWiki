@@ -33,11 +33,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Zhang, van Duin, and Johnson develop a **ReaxFF** description for **\[P(C\(_4\))\(_4\)\]\[Gly\]** ionic liquid interacting with **CO\(_2\)**, targeting simultaneous **physical sorption**, **complexation**, and **chemisorption** channels that fixed-bond force fields cannot represent. The training set combines **periodic DFT** reaction pathways in the condensed phase, **condensed-phase MD** configurations, and **gas-phase cluster** interactions for intra-ion and ion–CO\(_2\) contacts. The abstract reports that optimized parameters reproduce key **DFT/experiment/classical** benchmarks and that **MD** distributions of **C(CO\(_2\))–N(anion)** distances and **CO\(_2\)** bending angles broadly match **DFT-MD**. A predicted **density increase** with CO\(_2\) loading up to at least **50 mol %** is attributed partly to the compact effective volume of **chemically bound** CO\(_2\).
 
@@ -50,6 +50,7 @@ Zhang, van Duin, and Johnson develop a **ReaxFF** description for **\[P(C\(_4\))
 
 - IL/CO\(_2\) systems exhibit **multiple interaction strengths**; reactive FF enables unified sampling without ad hoc mixing of pre/post-reacted phases.
 - Demonstrates **CO\(_2\) capture** relevance for **ionic-liquid** screening workflows.
+
 
 ## Limitations
 

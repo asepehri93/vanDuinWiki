@@ -32,11 +32,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Revised **supporting information** for atomistic ReaxFF-based work on **graphene growth on SiC** via thermal decomposition and CVD-type modeling (Weiwei Zhang and Adri C. T. van Duin). The SI lists supplemental figures comparing ReaxFF to DFT, Si-terminated vs C-terminated surface processing snapshots, graphene defect/grain-boundary imagery, and media captions for growth trajectory videos.
 
@@ -47,6 +47,7 @@ Supplementary validation and visualization for the main Chem. Mater. article (ci
 ## Findings
 
 Provides extended numerical and structural evidence backing the main text; no substitute for the article’s narrative and parameter discussion.
+
 
 ## Limitations
 

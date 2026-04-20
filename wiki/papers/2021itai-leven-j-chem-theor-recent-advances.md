@@ -44,11 +44,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **JCTC Perspective** surveys improvements to reactive force fields with emphasis on **ReaxFF**: charge-equilibration reformulations to reduce unphysical long-range charge transfer, explicit-electron (eReaxFF) directions, energy-conservation fixes, hybrid reactive/nonreactive embeddings for large systems and electrochemical-like problems, and algorithmic acceleration (extended Lagrangian charge dynamics, preconditioners, LAMMPS performance). It is a citation-rich overview rather than a single new benchmark study.
 
@@ -59,6 +59,7 @@ Literature synthesis with conceptual explanation of modeling families; not a sin
 ## Findings
 
 Frames the main known weaknesses of classical EEM/QEq within ReaxFF and summarizes mitigations developed across collaborating groups.
+
 
 ## Limitations
 

@@ -33,11 +33,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Supporting information for [[2019nayir-j-phys-chem-development-reaxff-2]]: extra figures comparing QM and ReaxFF equations of state for Si and silica polymorphs, tabulated reaction energies for Si–O–H training reactions, and notes on using the developed parameters in standalone ReaxFF, LAMMPS, or ADF.
 
@@ -48,6 +48,7 @@ Supplemental validation plots and parameter documentation accompanying the main 
 ## Findings
 
 Provides extended numerical comparisons and implementation pointers; all scientific claims should be cited through the main article.
+
 
 ## Limitations
 

@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The authors simulate supersonic impact of nanoscale silica and nickel projectiles on single-layer graphene using ReaxFF, enabling bond-breaking chemistry at the projectile–graphene interface—beyond fixed-bond carbon potentials. The study relates specific penetration energy \(E_p^*\) to pre-crack deformation, defect content (mono-vacancies, grain boundaries), and projectile chemistry, and reports crack-edge structures (e.g., pentagon/heptagon pairs) during penetration. Simulated \(E_p^*\) values are compared to recent experiments on multilayer graphene (Lee et al., Science 2014), supporting graphene’s exceptional energy absorption under extreme strain-rate loading.
 
@@ -48,15 +48,28 @@ The authors simulate supersonic impact of nanoscale silica and nickel projectile
 - **Systems:** Pristine and defective graphene sheets; SiO2 and Ni projectiles at supersonic initial velocities.
 - **Analysis:** Crack topology, armchair vs zigzag edge counts, \(E_p^*\) from projectile kinetic energy loss vs mass.
 
+<!-- enrich-from-extract:v2 -->
+
+- Impact was analyzed with the ReaxFF reactive force field so bond formation and breaking in the full projectile–target system are treated explicitly.
+- Supersonic silica and nickel projectiles impinging on graphene were simulated as described in the article.
+
+
 ## Findings
 
 - ReaxFF captures chemomechanical coupling between Ni or silica projectiles and graphene, including complex fracture patterns not accessible with nonreactive carbon potentials alone.
 - \(E_p^*\) trends align with experimental magnitudes; correlation is drawn between maximum deformation diameter before crack initiation and \(E_p^*\).
 - Defects and projectile material modulate crack morphology and energy absorption.
 
+### Additional results (article abstract)
+
+- The values of Ep * obtained in our simulations were in general agreement with the recent experimental values reported by Lee et al. [Science 2014, 346, (6213), 1092 e1096].
+- During the process of projectile penetration, we identi ﬁed various atomistic features, such as the formation of pentagon/heptagon pairs at the edges of the cracks, and the preferential crack edges that are affected by the deformability of graphene before crack initiation.
+- Effects of defects in graphene and the material type of the projectile on speci ﬁc penetration energy ( E p * ) also were addressed.
+
+
 ## Limitations
 
-- Authors note tensile nonlinearity of ReaxFF C-2013 for moderate strain vs REBO families; impact simulations rely on large-strain fracture regimes where the chosen parametrization is argued to remain appropriate.
+- ReaxFF C-2013 tensile response differs from REBO families at moderate strain; the reported impact studies operate in large-strain fracture regimes where this parametrization was judged applicable in the original work.
 - Direct comparison to experiment is indirect (multilayer experimental graphene vs simulated single-layer).
 
 ## Relevance to group

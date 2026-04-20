@@ -44,11 +44,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF MD** simulates **noble gas ion** bombardment of **graphene** followed by **annealing**, linking **dose**, **ion species**, and **energy** to **defect** populations and **nanopore** formation. Post-irradiation **relaxation** allows **vacancy-like** defects to **coalesce**; heavier ions and higher doses produce larger pores, consistent with **aberration-corrected STEM** and **helium ion microscopy** trends from **ORNL** collaborators. Defect statistics distinguish **Stone–Thrower–Wales** dominance under **He\(^+\)** vs **monovacancies** for heavier ions.
 
@@ -61,6 +61,7 @@ group_affiliation: true
 
 - **Simulation** and **experiment** broadly agree on **dose-dependent** damage evolution and **amorphization** at high dose.
 - Mechanistic vignettes include **Frenkel** pair evolution into **STW** defects and competing **healing** pathways.
+
 
 ## Limitations
 

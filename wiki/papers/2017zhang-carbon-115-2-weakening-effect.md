@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF tensile simulations** evaluate **junction strength** between **SWCNT** and **graphene** layers modeling **CNT-on-carbon-fiber** attachments, comparing systems with **no nanoparticle**, **metallic Ni**, and **oxidized Ni** catalyst inclusions. The **pure Ni** particle case weakens failure stress substantially versus the **no-NP** baseline, whereas **oxidized Ni** leaves the junction comparatively strong; bond-level analysis ties differences to **Ni–C/O** bonding evolution during loading. **KU Leuven** experimental motivation meets **van Duin** reactive modeling.
 
@@ -52,6 +52,7 @@ group_affiliation: true
 
 - **Catalyst oxidation state** switches failure mechanism and **critical stress** relative to **Ni-free** interfaces.
 - Quantitative weakening up to roughly **half** the baseline strength reported for **pure Ni** scenarios (see article for measured simulation metrics).
+
 
 ## Limitations
 

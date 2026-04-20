@@ -33,11 +33,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Reactive MD with ReaxFF** is applied to **poly(p-phenylene terephthalamide) (PPTA, Kevlar-class)** fiber models with varying **radius**, **crystallinity**, and **core–shell** arrangements. **Quasi-static tensile deformation** up to **~15% strain** is used to extract **Young’s moduli** and to follow how **crystalline vs. disordered** fractions and **domain boundaries** control **failure initiation**. The authors introduce an **order parameter** based on the **cross-sectional area fraction** of crystalline domains to rationalize modulus trends in **core–shell** geometries.
 
@@ -51,6 +51,7 @@ group_affiliation: false
 - Reported moduli are **~226 GPa (disordered)** vs **~311 GPa (crystalline)** in the abstract’s numerical examples.
 - **Core–shell** moduli scale approximately **linearly** with the crystalline area fraction according to the proposed order parameter.
 - **Failure** begins at **domain boundaries** separating ordered regions.
+
 
 ## Limitations
 

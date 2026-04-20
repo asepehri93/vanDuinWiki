@@ -98,7 +98,7 @@ group_affiliation: false
 
 <!-- id:paper:{slug} -->
 
-## One-paragraph summary
+## Summary
 
 {body_summary}
 {preview_block}

@@ -25,11 +25,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The ingested extract is a **RSC journal proof** (typesetter instructions and author queries) for a **Catalysis Science & Technology** article on **ligand–template assemblies**, **rhodium encapsulation**, and **hydroformylation** (authors include **van Duin**). Pages 1–2 do **not** include the scientific body text—only **Q1–Q7** production queries (references, CCDC checks, space groups).
 
@@ -40,6 +40,7 @@ The ingested extract is a **RSC journal proof** (typesetter instructions and aut
 ## Findings
 
 - Not available from the proof extract.
+
 
 ## Limitations
 

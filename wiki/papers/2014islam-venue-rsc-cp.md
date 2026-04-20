@@ -40,11 +40,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Royal Society of Chemistry author proof for the PCCP article also ingested as `paper:2014islam-physical-che-reaxff-molecular`. Opening pages are dominated by proof queries; the visible title and partial abstract confirm the lithiated sulfur cathode ReaxFF MD study with the same author team and DOI `10.1039/c4cp04532g` (proof header, extract).
 
@@ -55,6 +55,7 @@ See the published PCCP entry for methodology; not reprinted in the proof-first p
 ## Findings
 
 See sibling paper page for scientific results; proof extract lacks abstract body beyond short fragments.
+
 
 ## Limitations
 

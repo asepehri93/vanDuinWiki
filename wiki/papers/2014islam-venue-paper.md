@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 ReaxFF MD probes the Li/SWCNT composite anode–TEGDME electrolyte interface in Li–S cells, contrasting bare versus ex situ Teflon-coated scenarios. Lithium-rich interfacial regions promote electrolyte dissociation with ethylene as a major gaseous product; discharge exothermicity creates hot spots that accelerate decomposition. A Teflon layer damps initial heat flow and suppresses Li-driven electrolyte attack (abstract; opening paragraphs, extract pages 1–2).
 
@@ -49,6 +49,7 @@ Reactive MD with explicit Li, SWCNT, TEGDME chemistry; Teflon-treated surface va
 ## Findings
 
 Abstract summarizes gas evolution, thermal localization, and mitigating effect of Teflon on reactivity.
+
 
 ## Limitations
 

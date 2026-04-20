@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **Nanoscale** article evaluates **α-** and **γ-graphyne** membranes—bare and **hydrogenated**, with varied **pore chemistry** and **geometry**—as **desalination** candidates using **classical MD** for **atomistic transport** metrics and **continuum-scale** analysis for **cross-flow reverse-osmosis** device context. **MD** predicts extremely high **intrinsic water permeability** and strong **ion rejection** for certain **pore sizes**, while the **continuum upscaling** argues that **module-level transport limitations** partially blunt the **MD-only** advantage—yet still project **meaningful energy / recovery** improvements versus **thin-film composite** benchmarks under stated assumptions. **Adri C. T. van Duin** is a coauthor on the **atomistic** modeling thread.
 
@@ -53,6 +53,7 @@ This **Nanoscale** article evaluates **α-** and **γ-graphyne** membranes—bar
 - **Pores ~20–50 Å²** (as categorized in the abstract) can reject **>90%** of ions up to **1 GPa** applied pressure in the **MD** protocol described.
 - **Permeability** trends are explained with **in-pore water velocity**, **density**, and **energy barrier** analyses.
 - **Upscale RO analysis** tempers, but does not eliminate, the **permeability benefit** vs **commercial** membranes.
+
 
 ## Limitations
 

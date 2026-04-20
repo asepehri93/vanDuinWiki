@@ -32,11 +32,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Wood, van Duin, and Strachan use **ReaxFF MD** to study **α-HMX** decomposition under **rapid heating** and under **sinusoidal electric fields** at multiple frequencies and strengths, focusing on how **insult type** and **energy input rate** change the **energy thresholds** for initial chemistry and for onset of **exothermic** reaction cascades. The abstract argues both thresholds rise with heating/input rate and plateau toward **athermal** regimes at very fast loading, with **insult-type-dependent** thresholds especially for exothermic onset. The introduction frames the work within **vibrational energy transfer**, **anharmonic coupling**, and **mode-targeted excitation** debates in energetic materials, and the methods section notes a **nitramine ReaxFF** parameterization integrated with broader **C/H/O combustion** training for improved transferability.
 
@@ -49,6 +49,7 @@ Wood, van Duin, and Strachan use **ReaxFF MD** to study **α-HMX** decomposition
 
 - **Field frequency/strength** and **thermal ramp rate** alter early decomposition timing and energy accounting in the abstract-level claims.
 - Parameter checks quoted: **NO\(_2\)** dissociation energy close to DFT; **HONO** vs **concerted ring-opening** pathways differ in exothermicity and barrier, influencing initiation pathway discussion.
+
 
 ## Limitations
 

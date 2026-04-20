@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Begell House author-proof PDF for an International Journal of Energetic Materials and Chemical Propulsion article. The p1–2 extract is mostly production correspondence; the article identity is recoverable from the embedded (font-encoded) title string and matches the parallel ingest `paper:2013ijemcp1202-1-5739-venue-paper`: a tutorial-style overview of reactive force fields, ReaxFF concepts, and applications to high-energy materials (IJEMCP galley bundle).
 
@@ -49,6 +49,7 @@ Not recoverable from the mechanical p1–2 extract; see the full PDF or sibling 
 ## Findings
 
 Not recoverable from p1–2 extract text; consult full paper for case studies and benchmarks.
+
 
 ## Limitations
 

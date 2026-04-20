@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Large-scale ReaxFF MD** is used to follow **structural and chemical evolution** at a **sodium silicate glass / water** interface, beyond the simpler **pure silica–water** case. **Water** attack **displaces Na⁺** from **nonbridging oxygen (NBO)** sites, promotes **water dissociation** to **H⁺/OH⁻**, and builds **silanol (SiOH)** through **NBO protonation**; **protons** propagate **into the glass** by **hopping** between **adjacent NBO** sites, so **silanol** populations **grow** over the **nanosecond** trajectories rather than plateauing. **Na⁺ leaching** is tracked from **surface-bound Na–OH-like** motifs through a **finite residence time** before **release** into **bulk water**. **Seung Ho Hahn** and **Adri C. T. van Duin** provide an atomistic picture of **glass corrosion** relevant to **environmental** and **biomedical** **glass** uses.
 
@@ -51,6 +51,7 @@ group_affiliation: true
 
 - **Ion exchange** and **acid–base** chemistry at **NBO** sites drive **continuous** **surface** **modification** on simulated **timescales**.
 - **Na** **mobility** and **proton** **subnetworks** rationalize **leaching** and **silanol** **front** **propagation** trends reported in the article.
+
 
 ## Limitations
 

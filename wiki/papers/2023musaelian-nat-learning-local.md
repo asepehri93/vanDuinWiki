@@ -37,11 +37,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Introduces **Allegro**, a **strictly local**, **equivariant** deep interatomic potential architecture aimed at **accuracy without atom-centered message passing**—targeting **scalable parallelization** and very large systems. The model composes **iterated tensor products** of learned equivariant features (no MPNN-style propagation beyond locality). Reported benchmarks include strong performance on **QM9** and **rMD17**, claims of **out-of-distribution generalization**, and MD of an **amorphous electrolyte** matching **ab initio** behavior; a headline scalability demo reaches **~100 million atoms** (per abstract).
 
@@ -52,6 +52,7 @@ Neural potential architecture design; training on quantum-chemistry datasets; MD
 ## Findings
 
 Local Allegro models can match or exceed prior **MPNN**/transformer baselines on standard sets while improving **scalability**; large-scale demo illustrates HPC headroom when locality is preserved by construction.
+
 
 ## Limitations
 

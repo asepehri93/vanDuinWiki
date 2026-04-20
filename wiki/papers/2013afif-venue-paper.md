@@ -25,11 +25,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The paper develops **ReaxFF potentials for ZrB₂ and HfB₂**, motivated by **ultra-high-temperature ceramic (UHTC)** applications (hypersonics, thermal protection). Parameters are fit to **QM** data on **clusters and crystal structures** (Quantumwise for periodic phases; Gaussian09 for **Zr(BH₂)₂ / Hf(BH₂)₂** PECs per excerpt). The ReaxFF energy expression is specialized (e.g., **torsions/conjugation** omitted in the reduced form shown) while retaining **bond order**, **over/under-coordination**, **vdW**, and **Coulomb** terms. The excerpt motivates future **oxidation, creep, grain boundary** modeling once reactive potentials exist.
 

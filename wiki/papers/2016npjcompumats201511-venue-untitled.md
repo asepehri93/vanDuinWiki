@@ -44,11 +44,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **npj Computational Materials** review synthesizes the **ReaxFF** formalism—**bond-order-based reactive energetics**, **charge equilibration**, and **parameterization workflows**—and surveys major **application domains** (catalysis, materials degradation, combustion-related chemistry, electrochemistry-adjacent interfaces, and software scaling). The ingested PDF in this workspace is primarily an **editorial query / proof artifact** in the extracted text layer, but the bibliographic identity matches the widely cited **community overview** of **ReaxFF** co-led by **van Duin** with a large **multi-institution** author list.
 
@@ -61,6 +61,7 @@ Narrative review with **illustrative simulation examples** and **literature inte
 - Summarizes **historical development** and **conceptual structure** of **ReaxFF** potentials.
 - Highlights **validation practices** and **representative successes/limitations** across fields.
 - Discusses **future directions** including tighter **QM coupling**, **software acceleration**, and **domain-specific parameter extensions** (e.g., polarizable variants such as **eReaxFF**).
+
 
 ## Limitations
 

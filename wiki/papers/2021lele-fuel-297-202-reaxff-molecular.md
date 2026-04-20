@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 ReaxFF MD follows **initial pyrolysis** of four **bicyclic** jet-fuel candidates, grouped as (a) Cycloalkanes linked via a four-membered ring or (b) linked by a single C–C bond. Global Arrhenius parameters summarize apparent decomposition kinetics; rates compare favorably to JP-10 in the quoted analysis. Mechanistically, cleavage of the central linkage producing cyclic radicals competes with ring-opening to small alkenes, with relative importance shifting strongly with temperature—supporting data-driven kinetic model building without prior detailed mechanisms.
 
@@ -51,6 +51,7 @@ Systematic ReaxFF pyrolysis trajectories; extraction of activation energies and 
 ## Findings
 
 Two dominant reaction classes with strong temperature dependence; bicyclic fuels show competitive or faster decomposition vs JP-10 baseline in their metrics.
+
 
 ## Limitations
 

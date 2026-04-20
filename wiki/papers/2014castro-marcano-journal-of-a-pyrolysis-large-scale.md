@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The authors run high-temperature (2000 K) ReaxFF MD on a **>50,000 atom** molecular structural model of Illinois No. 6 coal—728 molecule diversity—over 250 ps to accelerate bond-breaking chemistry. Roughly 60% of cross-links break primarily by thermolysis in the simulation window, enabling analysis of devolatilization and structural transformation pathways for a complex organic geopolymer model relevant to utilization and emissions chemistry.
 
@@ -51,6 +51,7 @@ The authors run high-temperature (2000 K) ReaxFF MD on a **>50,000 atom** molecu
 
 - Demonstrates feasibility of large-scale reactive pyrolysis with explicit molecular complexity beyond small-molecule benchmarks.
 - Provides chemically detailed trajectories of cross-link scission and early product formation under extreme heating.
+
 
 ## Limitations
 

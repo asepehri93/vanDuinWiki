@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 A Cu/C/H/O ReaxFF is assembled by reoptimizing Cu interactions on expanded cluster training data, merging with an existing C/H/O description, and fitting Cu–C/H/O cross-terms to DFT reaction and adsorption sets. The authors implement transition-state search utilities in the ReaxFF context for elementary steps. MD demonstrations show H transfer and H2/CHO-type chemistry on Cu surfaces, and two chemical-looping scenarios: oxidation of metallic Cu with glucose to form CuO, and fuel oxidation by copper oxide as oxidizer—claiming differentiation of redox performance among fuels.
 
@@ -51,6 +51,7 @@ Three-stage ReaxFF fitting; custom TS search algorithms; surface reactive MD for
 ## Findings
 
 Qualitative capture of expected elementary reactions on Cu; case-study chemical-looping trajectories illustrating fuel/oxidizer roles.
+
 
 ## Limitations
 

@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF molecular dynamics** is applied to **all-MoS2 single-layer heterostructures** to probe **mechanical response** and **failure mechanisms** under the loading protocols described in the article. The work connects **structural motifs** accessible in **2D hetero-stacking** to **stress–strain behavior**, **fracture**, and **energy dissipation** channels that differ from **homogeneous MoS2** sheets. **PCCP** framing places the study in the **atomistic materials mechanics** literature for **transition metal dichalcogenides**.
 
@@ -53,6 +53,7 @@ group_affiliation: true
 
 - The paper reports **heterostructure-dependent** elastic and failure characteristics tied to **interlayer registry** and **local bonding** (see figures for quantitative moduli and critical strains).
 - **ReaxFF** enables **bond-breaking** during failure, beyond harmonic **Tersoff-like** descriptions sometimes used for TMDs.
+
 
 ## Limitations
 

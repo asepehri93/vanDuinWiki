@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Oxidation changes the mechanics of high surface-to-volume aluminium nanowires (NWs). Using **ReaxFF** reactive molecular dynamics, Sen *et al.* argue that an amorphous oxide shell can **increase** apparent ductility of the metallic core: the shell lowers the stress needed to nucleate dislocations in aluminium by increasing activation volume and the number of nucleation sites, while the shell itself can show **superplastic**-like flow when oxygen diffusion heals broken Al–O bonds below a critical strain rate. They connect simulations to experimental hints from hot forming (oxide-rich NW debris with core–shell structure) and emphasize the coupled roles of **oxidation rate** and **mechanical strain rate** for nanoscale devices and larger-scale deformation at interfaces.
 
@@ -53,6 +53,7 @@ Oxidation changes the mechanics of high surface-to-volume aluminium nanowires (N
 - The **oxide shell** is associated with lower dislocation nucleation stress in the core via larger activation volume and more nucleation sites.
 - **Superplastic-like** response of the amorphous oxide is attributed to viscous flow enabled by **oxygen diffusion** repairing Al–O bond scission when the strain rate stays below a critical value relative to oxidation.
 - The manuscript develops a picture where **MD strain rates** and **simulated oxidation rates** are scaled to preserve ratios relevant to experiment despite orders-of-magnitude acceleration inherent to atomistic oxidation MD.
+
 
 ## Limitations
 

@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Broqvist *et al.* introduce a **ReaxFF** parametrization for **CeO\(_2\)** and **CeO\(_{2-x}\)** trained predominantly from **PBE+U** reference data, targeting **oxygen chemistry** in **bulk**, **extended surfaces**, **surface steps**, and **nanoparticles**. Validation claims in the abstract include reproduction of **bulk moduli**, **lattice parameters**, and **surface energies** for stoichiometric systems; **step energies** on **(111)**; **vacancy formation energies** and their **depth dependence** from **(110)** and **(111)** surfaces upon reduction; and **energy orderings** among stoichiometric **tetrahedral, octahedral, and cubic** nanoparticle motifs plus partially reduced **octahedra**. The authors position the model as a practical complement to costly **QM dynamics** for **redox** problems on ceria.
 
@@ -54,6 +54,7 @@ Broqvist *et al.* introduce a **ReaxFF** parametrization for **CeO\(_2\)** and *
 ## Findings
 
 - Emphasis on **oxygen vacancy** energetics and **reduction**-driven reconstructions rather than fixed-charge shell models that cannot change **oxidation state character** dynamically.
+
 
 ## Limitations
 

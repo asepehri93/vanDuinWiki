@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This JCP paper extends ReaxFF to **organic carbonate electrolyte** species (e.g., EC, EMC, VC) and LiPF6-related chemistry so that Li solvation, solvent exchange, and decomposition pathways near reducing anode conditions can be studied reactively. DFT data on Li-associated initiation reactions and solvation structures augment the training set; the parametrization introduces distinct treatments so that **Li⁺** and **neutral Li** can reproduce similar solvation energetics while differing in chemical reactivity—neutral Li drives electrolyte decomposition, modeled with a Monte Carlo-style charge/state update compatible with ReaxFF dynamics. Decomposition barriers depend on EC coordination number around neutral Li.
 
@@ -53,6 +53,7 @@ This JCP paper extends ReaxFF to **organic carbonate electrolyte** species (e.g.
 
 - Force field distinguishes Li atom vs Li⁺ behavior needed for anode-side electrolyte reduction scenarios.
 - Demonstrates sensitivity of decomposition barriers to local solvation shell structure.
+
 
 ## Limitations
 

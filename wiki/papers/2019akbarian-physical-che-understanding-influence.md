@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 An extensible atomistic ReaxFF for **BaTiO3** is constructed to capture field- and temperature-driven ferroelectric hysteresis together with modifications from **surface chemistry** and **bulk oxygen vacancies**. The authors connect simulations to several experimental observations: a critical thickness near **4.8 nm** below which ferroelectricity is suppressed; oxygen vacancy migration/clustering reducing polarization and Curie temperature; and domain-wall interactions with surfaces that alter switching pathways and polarization magnitude—positioning the model for interface-heavy ferroelectric device scenarios.
 
@@ -55,6 +55,7 @@ An extensible atomistic ReaxFF for **BaTiO3** is constructed to capture field- a
 
 - Mechanistic coupling between vacancies, domain walls, and surface termination in setting switching behavior.
 - Demonstrates ReaxFF as a practical bridge between DFT-scale insight and larger nanostructure samples for ferroelectrics.
+
 
 ## Limitations
 

@@ -45,11 +45,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Achtyl *et al.* combine **interface-specific second-harmonic generation (SHG)** on **graphene-on-fused-silica** with **atomistic modeling** to argue that **aqueous protons** can traverse **monolayer graphene** reversibly during bulk **pH cycling**, communicating with **silanol acid–base chemistry** beneath the sheet. After arguing against **macroscopic pinhole** transport via SEM and diffusion-order-of-magnitude estimates, they attribute permeation to **rare atomic defects**. **Computer simulations** (the extract’s opening pages do not name the electronic-structure or force-field engine explicitly) report comparatively **low barriers (~0.61–0.75 eV)** for water-mediated **Grotthuss-like** transfer across **hydroxyl-terminated** defect motifs, while **pyrylium-like ether** terminations are predicted to **block** exchange; helium/hydrogen transfer is argued to be disfavored, supporting **proton selectivity**.
 
@@ -63,6 +63,7 @@ Achtyl *et al.* combine **interface-specific second-harmonic generation (SHG)** 
 
 - SHG responses with graphene present match **bare silica/water** behavior within uncertainty, interpreted as evidence that **interfacial silanol speciation** evolves as if protons reach the buried silica surface.
 - Modeling distinguishes **defect motifs** that enable vs suppress proton exchange.
+
 
 ## Limitations
 

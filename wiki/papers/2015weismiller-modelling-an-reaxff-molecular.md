@@ -33,11 +33,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF MD** is used to interrogate **hypergolic ignition chemistry** between **dicyanamide (DCA−)** and **nitric acid**, focusing on **transient intermediates** and **reaction networks** that couple **proton transfer**, **NOx formation**, and **carbon/nitrogen-rich fragments** at high temperature/density conditions relevant to **ionic-liquid propellants**. The study situates simulation snapshots within the broader literature on **hypergolic pairings** where **atomistic detail** is difficult to obtain experimentally.
 
@@ -49,6 +49,7 @@ group_affiliation: true
 
 - The article traces **time-resolved populations** of key **intermediate species** linking **acid–base chemistry** to **oxidizer-rich decomposition** channels (consult PDF figures for quantitative timelines).
 - **Mechanistic narratives** emphasize how **ReaxFF** captures **bond rearrangements** absent in fixed-bond combustion models.
+
 
 ## Limitations
 

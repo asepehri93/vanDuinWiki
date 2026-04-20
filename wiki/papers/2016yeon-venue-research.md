@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This corpus entry points to an alternate **PDF** (**proof**/**galley**) of the **Langmuir** article on **ReaxFF** simulations of **tribochemical wear** at **hydroxylated silica**/**oxidized silicon** sliding contacts with variable **interfacial water**. The scientific narrative matches the published study: **bridge-bond-mediated** material transfer without water, additional pathways with **submonolayer** water, and **suppressed transfer** when a **full water monolayer** blocks close approach. Use the **final version** for **pagination** and **editorial** polish.
 
@@ -49,6 +49,7 @@ This corpus entry points to an alternate **PDF** (**proof**/**galley**) of the *
 ## Findings
 
 - **Water-dependent** **Si–O–Si** bridging and **atom transfer** trends as summarized in the **abstract** of the extract.
+
 
 ## Limitations
 

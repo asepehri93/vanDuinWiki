@@ -25,11 +25,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The authors study **chemo-mechanical fracture** of **defective zigzag (18,0) single-walled carbon nanotubes** under **uniaxial strain** at **300 K** using **ReaxFF MD**, with **Li** placed on the outer surface at varying **Li:C** ratios (**0, 1:36, 1:12, 1:6**). Two defect types are considered: a **single vacancy** and a **10-carbon hole**. The abstract/intro distinguishes **abrupt** fracture (including **Li-assisted weakening** at the crack tip or Li-absent fast failure) vs **retarded** **“wait-and-go”** propagation where the crack arrests until **Li diffusion** weakens the tip region. Motivation ties to **Li-ion battery** electrode mechanics and prior **in situ TEM** observations of **embrittlement** in multi-walled CNTs.
 
@@ -40,6 +40,7 @@ The authors study **chemo-mechanical fracture** of **defective zigzag (18,0) sin
 ## Findings
 
 - Fracture mode maps (abrupt vs retarded) as a function of **defect size** and **Li concentration** in the opening discussion; full quantitative curves may extend beyond the partial extract.
+
 
 ## Limitations
 

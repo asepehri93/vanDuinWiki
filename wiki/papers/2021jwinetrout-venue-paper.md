@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Introduces **IFF-R**, a reactive extension of the Interface Force Field where harmonic bond terms are replaced by **Morse** potentials so bonds can break with prescribed dissociation energies—aiming at fracture and chemistry-aware MD without full ReaxFF expense. The manuscript claims ~50× speed over ReaxFF in their comparisons while retaining IFF-compatible nonreactive properties, and illustrates metals (Fe), ceramics (carbon nanotubes), and polymers (PAN, cellulose Iβ) with parameters anchored to experiment or MP2.
 
@@ -53,6 +53,7 @@ Morse-bond reactive scheme on top of IFF; demonstration MD for stress–strain t
 ## Findings
 
 Reported agreement for structures, surface energies, moduli, and strengths versus available references in the document; positions IFF-R as a lighter alternative when full bond-order reactive models are unnecessary.
+
 
 ## Limitations
 

@@ -32,11 +32,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 C-GeM introduces a coarse-grained electron picture in which each atom has a positive core and a Gaussian “electron shell,” with core–shell energetics tied to elemental electronegativity. Relaxing shell positions in the field of fixed cores yields molecular electrostatic potentials and intermolecular interactions without full ab initio cost. Tests on H/C/O/Cl-containing molecules show accurate electrostatic potentials; the model also describes dissociation of HCl to ionic species in solution versus neutral fragments in the gas phase, and is positioned as a fast alternative to reactive charge-equilibration schemes in some use cases.
 
@@ -47,6 +47,7 @@ Coarse-grained electron model with Gaussian charge distributions; energy minimiz
 ## Findings
 
 High accuracy for electrostatic potential on tested sets; correct qualitative behavior for HCl dissociation in different environments. The approach limits unphysical long-range charge transfer compared with some classical charge models and can represent features such as sigma holes when charge is not strictly atom-centered.
+
 
 ## Limitations
 

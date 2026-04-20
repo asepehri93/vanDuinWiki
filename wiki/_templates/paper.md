@@ -24,11 +24,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) must be **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter. They are **not** independent research claims.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) must be **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter. They are **not** independent research claims.
 
     For definitive numerical values and interpretations, use the **peer-reviewed article** and optional `normalized/papers/` records.
 
-## One-paragraph summary
+## Summary
 
 <!-- LLM/human: concise summary of the contribution and relevance. -->
 

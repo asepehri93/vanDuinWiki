@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Uncorrected proof** PDF for the **Carbon** article coupling **cryogenic Raman** on **noble gas**–**SWCNT bundle** systems with **ReaxFF**-based modeling (**same scientific content** as the **published** issue). **Blueshifted** **RBM/G/2D** modes signal **gas condensation** in **groove** and outer **surface** regions and associated **compressive** coupling to **phonons**. Prefer the **final** **Carbon** **127** PDF for **pagination** and **editorial** corrections.
 
@@ -52,6 +52,7 @@ group_affiliation: true
 ## Findings
 
 - **Similar shifts** for **Ar**/**Xe** imply comparable **interaction** strengths; **non-doping** rationale via **linewidth**/**intensity** stability.
+
 
 ## Limitations
 

@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Author-proof variant of `paper:2014islam-venue-paper`: identical JES focus-issue article using ReaxFF to compare Li/SWCNT anodes with TEGDME electrolyte with and without a Teflon passivation layer. Key claims remain lithium-rich interfacial decomposition to ethylene, exothermic discharge hotspots accelerating chemistry, and Teflon-mediated damping of heat flow and Li reactivity (abstract block, extract pages 1–2).
 
@@ -49,6 +49,7 @@ Same ReaxFF reactive MD setup as the published JES article (abstract).
 ## Findings
 
 Matches sibling PDF abstract on gas evolution, thermal localization, and Teflon mitigation.
+
 
 ## Limitations
 

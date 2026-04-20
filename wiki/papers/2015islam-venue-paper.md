@@ -32,11 +32,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Mojumder, Al Amin, and Islam report **classical molecular dynamics** of mechanical response of **α-stanene** using a **modified embedded-atom method (MEAM)** potential (explicitly stated in the extract), not ReaxFF. They examine **uniaxial** loading along **armchair vs zigzag** directions and **biaxial** loading, including **temperature** and **strain-rate** effects. The abstract reports **lower fracture strength and strain** with increasing temperature, **higher** strength/strain for **zigzag** uniaxial loading than **armchair**, **little directional difference** under **biaxial** loading, and **higher** strength/strain at **higher loading rates**—framed as guidance for stanene in **nanoelectronics** contexts where mechanics couples to electronic property tuning.
 
@@ -48,6 +48,7 @@ Mojumder, Al Amin, and Islam report **classical molecular dynamics** of mechanic
 ## Findings
 
 - **Anisotropic** in-plane strength under uniaxial conditions; more **isotropic** response under equibiaxial conditions in the claims summarized by the abstract.
+
 
 ## Limitations
 

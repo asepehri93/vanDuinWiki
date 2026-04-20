@@ -42,11 +42,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Low-temperature Raman** (**20 K**) probes **Ar** and **Xe** **physisorption** on **SWCNT bundles**, revealing **blueshifts** in **RBM**, **G**, and **2D** bands attributed to **solidified gas** in **groove** and **external** sites imparting **hydrostatic-like compression**. **ReaxFF modeling** accompanies experiment to interpret **interactions** as weak, **non-doping** **physisorption** (linewidth/intensity largely unchanged). **van Duin** and **Yoon** contribute **computational** support within a broad **PSU**/international collaboration.
 
@@ -59,6 +59,7 @@ group_affiliation: true
 
 - **Ar** vs **Xe** produce similar **frequency shifts**, implying comparable **bundle–gas** interaction strength in the studied regime.
 - **~4 cm\(^{-1}\)** **RBM** shifts cited as evidence of **adsorption-induced** compression effects.
+
 
 ## Limitations
 

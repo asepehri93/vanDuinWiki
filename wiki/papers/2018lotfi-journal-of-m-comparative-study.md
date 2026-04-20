@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **Journal of Materials Chemistry A** article compares **oxidation** of **2D Ti₃C₂ MXene** in **different environments** (gas / humidity regimes as defined in the paper) using **ReaxFF reactive molecular dynamics**, focusing on how **surface terminations** and **local chemistry** evolve during **thermal exposure**. The study connects **simulated oxidation progression** to **experimental** expectations for **MXene stability**—a recurring bottleneck for **energy-device** processing and storage. **Adri C. T. van Duin** is a senior coauthor alongside **MXene** experimental collaborators.
 
@@ -55,6 +55,7 @@ This **Journal of Materials Chemistry A** article compares **oxidation** of **2D
 
 - **Environment-dependent** oxidation rates and **product distributions** are reported for **Ti₃C₂** models.
 - Highlights **practical sensitivity** of **MXene** samples to **O₂/H₂O** exposure consistent with community experience.
+
 
 ## Limitations
 

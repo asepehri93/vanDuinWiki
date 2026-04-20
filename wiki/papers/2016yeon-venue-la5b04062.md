@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF MD** explores **tribochemical** reactions at sliding **hydroxylated amorphous silica** vs **oxidized Si(100)** interfaces as a function of **interfacial water** coverage. Without water, **dehydroxylation** and **Si–O–Si bridging** initiate **interfacial mixing**; **submonolayer** water adds **dissociative** pathways; a **full monolayer** suppresses transfer by **passivating** interfacial **Si** with **hydroxyls** rather than bridge bonds—offering a mechanistic lens on **humidity-dependent wear** seen in **AFM** experiments. **Jejoon Yeon**, **van Duin**, and **Seong H. Kim** combine **tribology** experiment context with **reactive simulation**.
 
@@ -50,6 +50,7 @@ group_affiliation: true
 
 - **Water amount** strongly modulates **atom transfer** across the interface and **Si–O–Si** bridge formation.
 - Results rationalize non-monotonic **RH** effects on **silicon wear** discussed in experimental literature cited in the article.
+
 
 ## Limitations
 

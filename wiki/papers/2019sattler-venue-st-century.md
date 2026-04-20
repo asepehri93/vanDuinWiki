@@ -31,11 +31,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The PDF archived here is **Mathieu Bauchy’s** chapter on **Topological Constraint Theory (TCT)** and rigidity of glasses (including network-forming oxides, chalcogenides, and examples with modifiers such as sodium silicate), excerpted from a nanoscience handbook volume edited by Klaus D. Sattler. It presents rigidity as a mechanical-truss analogy for atomic networks, mean-field and constraint-counting ideas, links to glass-forming ability, and applications to property trends (hardness, fracture, viscosity, Tg, dissolution).
 
@@ -46,6 +46,7 @@ Conceptual/theoretical review with literature examples; discussion includes wher
 ## Findings
 
 Survey-style synthesis: constraint enumeration relates to stability and intermediate phases in some glass families; examples span chalcogenides, network oxides, and modified silicates.
+
 
 ## Limitations
 

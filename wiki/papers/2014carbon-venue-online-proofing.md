@@ -33,11 +33,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 ReaxFF reactive MD simulates hyperthermal atomic oxygen bombardment of low-index diamond surfaces relevant to low-Earth-orbit erosion. Small oxygen-terminated slabs explore surface functional groups (ethers, peroxides, radicals, dioxetanes) consistent with prior experiment and first-principles work; larger reconstructed surfaces show orientation-dependent etching yields with (100) slowest and (110) fastest, matching experimental erosion ordering, and the authors derive an Arrhenius-style mass-loss rate law discussion (abstract; title block mid-extract).
 
@@ -48,6 +48,7 @@ ReaxFF MD with successive oxygen impacts on diamond slabs; comparison across (10
 ## Findings
 
 Abstract claims agreement of yields with experiment and usefulness of ReaxFF for screening spacecraft materials exposed to LEO atomic oxygen.
+
 
 ## Limitations
 

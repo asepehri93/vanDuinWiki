@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Experiments on five activated carbons link strong-acid group concentration to electrode “rise potential” during capacitive mixing by double-layer expansion (CDLE) in dilute electrolyte. Nitric acid oxidation shifts rise potential and boosts whole-cell voltage. Atomistic MD and metadynamics connect the trend to EDL structure: pristine-like graphene surfaces expand the diffuse layer in low-concentration solution (positive rise), whereas oxidized graphene-oxide-like surfaces compress it (negative rise), mechanistically coupling functional chemistry to salinity-gradient energy harvesting (abstract; introduction, extract pages 1–2).
 
@@ -52,6 +52,7 @@ Macro electrochemical characterization of functionalized carbons plus molecular 
 ## Findings
 
 Abstract quantifies rise-potential range versus acid loading (59 ± 4 mV down to −31 ± 5 mV) and oxidation experiment on YP50 carbon (46 ± 2 mV to −6 ± 0.5 mV) with ~4.4× whole-cell potential gain.
+
 
 ## Limitations
 

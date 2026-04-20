@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **J. Phys. Chem. C** article develops a **ReaxFF Pd/H** interaction description fit to quantum data for **bulk and surface** properties, then applies a **hybrid grand-canonical Monte Carlo / MD (GC-MC/MD)** approach to compute **hydrogen absorption isotherms** for **Pd bulk** and **nanoclusters** (sizes about **1.0–2.0 nm**) over wide pressure and temperature ranges. Structural analysis emphasizes how **surface, subsurface, and bulk** regions contribute to the **size-dependent** transition between low-concentration **α**-like solid solution and higher-concentration **β**-like hydride regimes framed in terms of the **miscibility gap** behavior known from bulk Pd–H. Complementary **MD** studies address **dissociative adsorption kinetics**, **hydrogen diffusion coefficients**, barriers, and pre-exponentials in bulk Pd; the abstract claims **agreement with experimental literature** for both thermodynamic (GC-MC/MD) and kinetic observables.
 
@@ -53,6 +53,7 @@ This **J. Phys. Chem. C** article develops a **ReaxFF Pd/H** interaction descrip
 
 - Nanoscale clusters are discussed in the context of a **narrowed miscibility gap** versus bulk, with literature comparisons on whether the gap can close at small sizes depending on stabilization/support.
 - The Pd/H parameters are noted as **transferable** with prior **Pd/O** parameters, enabling future **Pd/O/H** and **Pd/C/O/H** extensions for catalytic oxidation/hydrogenation/combustion studies.
+
 
 ## Limitations
 

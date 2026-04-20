@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **Organic Geochemistry** paper interprets **des-A-arborene** isomers in a **~25 kyr sediment record** from **Lake Chala** (East Africa), linking **biological precursors**, **diagenetic pathways**, and **paleo-environmental** context. **Molecular mechanics**-level modeling (as described in the article alongside **spectroscopic** and **biomarker** reasoning) helps evaluate **proposed structural assignments** and **transformation routes** for these **pentacyclic triterpenoid** derivatives. **Adri C. T. van Duin** contributes as a **computational coauthor** within a predominantly **organic geochemistry** collaboration.
 
@@ -53,6 +53,7 @@ This **Organic Geochemistry** paper interprets **des-A-arborene** isomers in a *
 
 - **Des-A-arborenes** occur at **non-negligible abundance** in the Chala record; the paper argues for **specific origins** and **diagenetic** routes (details in Results/Discussion).
 - **Lake Chala** **Holocene** variability provides **environmental** framing for **triterpenoid** distributions.
+
 
 ## Limitations
 

@@ -39,11 +39,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Develops a **ReaxFF** description for **BN ALD** from **BCl\(_3\)** + **NH\(_3\)**, trains bonded/geometry-sensitive terms against **DFT**, and runs **cycle-resolved ReaxFF MD** mimicking **pulse–purge ALD** steps. The growth story is decomposed into **surface diffusion**, **BN cluster nucleation/growth**, **HCl formation/diffusion/desorption**, and temperature-sensitive **competition** between **3D cluster growth** vs **2D film growth** across five simulated cycles. **Substrate temperature** modulates **initial growth mode** and **film thickness**—too-high **T** accelerates **desorption** of gases/clusters, suppressing film thickening in the regimes explored.
 
@@ -54,6 +54,7 @@ DFT training data for gas-phase and surface reactions; ReaxFF optimization; **fo
 ## Findings
 
 Mixed **3D cluster + 2D terrace** growth emerges; **moderate T** favors cluster persistence/growth while **excessive T** encourages desorption-dominated kinetics and thinner films; HCl chemistry is a first-class kinetic participant.
+
 
 ## Limitations
 

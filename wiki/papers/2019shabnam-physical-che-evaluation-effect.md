@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 ReaxFF NVT simulations probe how a Ni13 cluster promotes growth of nascent soot from PAH monomers (naphthalene through circumcoronene) from 400–2500 K. At low temperature, PAHs stack and bind around Ni, forming larger clusters earlier than in homogeneous systems. Between roughly 1200–1600 K chemisorption on Ni appears; near 2000 K “chemical nucleation” produces stable soot-like growth facilitated by Ni-assisted dehydrogenation. At 2500 K Ni accelerates ring-opening and fullerene-like soot growth versus Ni-free runs.
 
@@ -50,6 +50,7 @@ ReaxFF molecular dynamics; single Ni13 cluster + one PAH species per study; broa
 ## Findings
 
 Metal cluster clearly alters nucleation and growth pathways across the temperature ladder; homogeneous vs Ni-catalyzed regimes are distinguished in the abstract’s qualitative mechanisms.
+
 
 ## Limitations
 

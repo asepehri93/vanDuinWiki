@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Si/O/H ReaxFF parameters are redeveloped to treat O interstitials and migration in bulk Si and oxidation chemistry at a-SiO2/Si interfaces, emphasizing point-defect behavior omitted by earlier fits. The new “ReaxFFpresent” reproduces the bond-centered hopping pathway for O in Si with a barrier near 65 kcal/mol, closer to experiment/DFT than prior SiOH(2010) behavior that spuriously allowed deep O diffusion at 300 K. Annealing simulations of prepared a-SiO2 on Si recover expected interfacial O transport relative to literature, including fixing the low-temperature spurious diffusion issue.
 
@@ -49,6 +49,7 @@ Large QM-guided training for Si/O/H; construction of amorphous silica at experim
 ## Findings
 
 O migration in bulk Si follows BC–BC hops in the (110) plane with a split-like saddle, initiation of significant diffusion above roughly 1400 K in their analysis, and temperature-dependent diffusion coefficients in broad agreement with experiment. a-SiO2 density matches experiment closely.
+
 
 ## Limitations
 

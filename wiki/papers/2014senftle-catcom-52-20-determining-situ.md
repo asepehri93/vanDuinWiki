@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Senftle, van Duin, and Janik present a **hybrid grand-canonical Monte Carlo / molecular dynamics (GC-MC/MD)** workflow that uses **ReaxFF** to predict **Pd nanoparticle** structures and **phase stability** as a function of **temperature** and **gas-phase composition**, motivated by the fact that Pd can form **oxide**, **hydride**, and **carbide**-like arrangements under operating environments. The short communication summarizes the ReaxFF formalism for reactive events, cites separately published **Pd/O** and **Pd/H** parameter origins, introduces new **Pd/C/H** training-quality statistics, and highlights two demonstration cases: **oxidation** of a ~3 nm Pd cluster versus O\(_2\) pressure and temperature, and **multi-species GC-MC/MD** exchanging **C and H** with a hydrocarbon/hydrogen reservoir to probe **carbide/hydride** competition.
 
@@ -52,6 +52,7 @@ Senftle, van Duin, and Janik present a **hybrid grand-canonical Monte Carlo / mo
 
 - The approach is positioned as a practical bridge between costly **DFT/ab initio thermodynamics** and nanoparticle-scale **environment-dependent** catalyst structure prediction.
 - Two highlighted applications: **oxygen uptake / oxidation** in a 3 nm Pd cluster across \(P,T\); and **hydrogen/hydrocarbon-ratio** dependent **carbide vs hydride** formation in GC-MC/MD.
+
 
 ## Limitations
 

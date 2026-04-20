@@ -42,11 +42,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Inelastic neutron scattering** probes **water** vibrations inside **Ti\(_3\)C\(_2\)T\(_x\)** **MXenes** with **Li**, **Na**, **K** **intercalation**, compared to **MD** simulations attributed to collaborators including **van Duin**/**PSU**. **Intercalated** samples retain less **water** than **pristine** material; confined water becomes **more ordered**, with ordering increasing with **cation size**, paralleled by reduced **mobility** in simulation. Applications span **electrochemical** energy storage and **environmental** separations where **confined electrolyte** structure matters.
 
@@ -57,6 +57,7 @@ group_affiliation: true
 ## Findings
 
 - Contrasts **disordered**, nearly **bulk-like** water signals in **pristine** MXene vs **structured** slower water when **ions** occupy interlayers.
+
 
 ## Limitations
 

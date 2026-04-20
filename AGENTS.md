@@ -85,9 +85,10 @@ The same markdown is published via **MkDocs** (see `mkdocs.yml`). Conventions:
 
 ### Scientific claims must trace to publications (`paper` pages)
 
-- Prose in **`## One-paragraph summary`**, **`## Methods`**, **`## Findings`**, and related sections must be **faithful summaries of the cited work** identified by `doi`, `title`, and `pdf_path` in front matter (and optional text in `normalized/extracts/` / `normalized/papers/` when those sources were used to draft the note).
+- Prose in **`## Summary`**, **`## Methods`**, **`## Findings`**, and related sections must be **faithful summaries of the cited work** identified by `doi`, `title`, and `pdf_path` in front matter (and optional text in `normalized/extracts/` / `normalized/papers/` when those sources were used to draft the note).
 - **Do not** invent numerical results, barriers, or mechanisms that are not stated or clearly implied in those sources. When expanding prose for readability, **paraphrase** the publication (or extraction) rather than adding new chemistry.
 - **Navigation pages** (theme hubs, `paper-index-by-year`, search indexes) may list **metadata and links** without making new scientific assertions beyond what tags and titles encode.
+- Optional bulk assist: [`scripts/paper_page_refresh.py`](scripts/paper_page_refresh.py) renames legacy `## One-paragraph summary` → `## Summary` and may append **extract-derived** bullets under **`## Methods`** / **`### Additional results (article abstract)`** when `normalized/extracts/{slug}_p1-2.txt` parses cleanly (heuristic; operator-reviewed). [`scripts/strip_extract_supplements.py`](scripts/strip_extract_supplements.py) removes those append-only blocks. After substantive paper-body edits, run `python3 scripts/build_chunks.py` so Phase 5 chunk IDs/text stay aligned (section headings participate in chunk hashing).
 - After bulk edits to `year` or `canonical_tags` across `wiki/papers/`, run `python3 scripts/generate_papers_indexes.py` to refresh [`wiki/concepts/paper-index-by-year.md`](wiki/concepts/paper-index-by-year.md) and [`wiki/concepts/paper-index-by-domain.md`](wiki/concepts/paper-index-by-domain.md).
 
 ## ID conventions (stable)

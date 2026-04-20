@@ -33,11 +33,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This file is **supporting information** for the **CHO-2016** extension of the **ReaxFF combustion** parameter set (**syngas** and **oxidation initiation** improvements), paired with the main **J. Phys. Chem. A** article by **Ashraf** and **van Duin**. The excerpted pages tabulate **QM** vs **ReaxFF (CHO-2016)** **reaction energies** for **dehydrogenation**, **bond dissociations** (C=O, C=C, O–O, C–H, H–O, C–O), used to document **training-set** quality. Corpus metadata lists a generic author string; primary authorship follows the linked **CHO-2016** manuscript.
 

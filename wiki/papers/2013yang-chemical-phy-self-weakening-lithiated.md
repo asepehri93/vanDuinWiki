@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Elsevier proof excerpt lists highlights: a reactive force field for lithiated carbonaceous electrodes; atomistic simulations showing strong coupling of lithium diffusion and stress; favorable lithium migration toward crack tips; lithium accumulation modulating crack instability; implications for extending lifetime of graphene-based electrodes (proof highlights block, extract).
 
@@ -53,6 +53,7 @@ Details are not on pages 1–2 beyond “reactive force field” / ReaxFF-class 
 ## Findings
 
 Highlights-only extract: coupling of diffusion and mechanical degradation at cracks in lithiated graphene electrode models.
+
 
 ## Limitations
 

@@ -42,11 +42,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The corpus entry points at the **ACS Supporting Information** PDF for the **J. Phys. Chem. C** article **“Development of a ReaxFF Reactive Force Field for NaSiOx/Water Systems…”** The SI documents the **Na/Si/O/H ReaxFF parameter table** and related **supporting computational details** for a parameterization aimed at **sodium silicate–water** chemistry, **Na⁺ transport**, and **proton-related** behavior in **silicate** environments. The **peer-reviewed article** (same author team, including **Adri C. T. van Duin**) is identified by **DOI `10.1021/acs.jpcc.8b05852`**; this wiki page is intentionally **SI-first** because the manifest registers **`papers/Hahn_NaSiOx_JPCC_2018_SI.pdf`**.
 

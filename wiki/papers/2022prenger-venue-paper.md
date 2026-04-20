@@ -41,11 +41,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Publisher **Supporting Information** for the ACS Appl. Energy Mater. article on **Na\(^+\)/K\(^+\)/Mg\(^{2+}\) pre-intercalated multilayer Ti\(_3\)C\(_2\)T\(_x\)** supercapacitor electrodes. The SI excerpt in the local extract includes **EDS stoichiometry tables** before/after galvanostatic cycling (10k cycles) and supplementary **CV** and **voltage profile** figures characterizing thick intercalated electrodes in **1 M H\(_2\)SO\(_4\)**—supporting the main paper’s quantitative performance and stability discussion.
 
@@ -56,6 +56,7 @@ Supplemental experimental materials: EDS composition tables; cyclic voltammetry 
 ## Findings
 
 Provides extended **electrochemical** and **compositional** datasets backing the main manuscript’s headline capacitance and cycling claims (see primary article for interpretation).
+
 
 ## Limitations
 

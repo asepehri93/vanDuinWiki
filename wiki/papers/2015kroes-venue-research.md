@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Kroes *et al.* benchmark **single- and double-vacancy** physics in a **(10,0) zigzag carbon nanotube** across **DFT** (PBE, BLYP, partial PBE0 repeats) and several **classical** potentials (**AIREBO**, **LCBOP**, **ReaxFF15**, **Tersoff**, with **REBO** mentioned for SI). Quantities compared include **formation energies**, **relaxed structures**, and **barriers** for **reconstruction**, **migration**, and **vacancy coalescence**. The abstract warns that **characterization of these processes differs markedly** across methods, motivating cautious use of classical carbon models when building **DFT-informed** parametrizations. **ReaxFF15** is highlighted as a modern reactive carbon parametrization included in the comparison suite.
 
@@ -51,6 +51,7 @@ Kroes *et al.* benchmark **single- and double-vacancy** physics in a **(10,0) zi
 ## Findings
 
 - Some **long-ranged relaxations** require large cells for both **DFT** and **ReaxFF** in specific double-vacancy configurations described in the extract.
+
 
 ## Limitations
 

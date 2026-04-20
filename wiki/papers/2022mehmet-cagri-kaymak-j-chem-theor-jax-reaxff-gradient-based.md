@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **JAX-ReaxFF** replaces slow, heavily stochastic ReaxFF parameter searches (genetic algorithms / Monte Carlo style workflows that can require millions of error evaluations) with **differentiable loss landscapes**: gradients of the training objective are computed via **JAX**, enabling **local optimizers** launched from **multiple initial guesses** in high-dimensional parameter space. The implementation targets **CPU/GPU/TPU** execution and reports dramatic wall-clock reductions for complex fits—positioned as enabling rapid iteration when both **training data** and **functional forms** must be refined jointly. The paper also frames the stack as a **sandbox** to explore ReaxFF functional customization guided by fast, gradient-based search.
 
@@ -53,6 +53,7 @@ Derivation/implementation of differentiable ReaxFF error metrics; JAX-based auto
 ## Findings
 
 Gradient-driven optimization plus accelerators reduces representative optimization runtimes from **days to minutes** in cases highlighted; multi-start strategy mitigates nonconvexity; framework supports exploratory modifications to the reactive FF formulation when paired with rapid re-optimization.
+
 
 ## Limitations
 

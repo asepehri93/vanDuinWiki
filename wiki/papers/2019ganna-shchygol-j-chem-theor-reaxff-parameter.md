@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 The paper **benchmarks three global optimization strategies** for **ReaxFF parameter fitting**—**covariance matrix adaptation evolution strategy (CMA-ES)**, **Monte Carlo force-field optimizer (MCFF)**, and a **genetic algorithm (OGOLEM)**—on **three literature training sets**, repeating runs with **different random seeds** and **initial guesses**. **Single-shot** optimizations are shown to be **unreliable**: **poor** or **premature convergence** appears **often**, motivating **multi-start** workflows and **careful** method choice (**GA** mitigates **local-minimum** traps best in their statistics; **CMA-ES** sometimes reaches **lowest** errors but **not systematically**). The authors also analyze **numerical noise** in training data—reduced by using **unambiguous geometry optimizations**—and note **many near-optimal parameter vectors**, warning against **overfitting**. **Adri C. T. van Duin** coauthors with **Ghent / SCM** colleagues.
 
@@ -54,6 +54,7 @@ The paper **benchmarks three global optimization strategies** for **ReaxFF param
 
 - **Optimization** outcomes are **seed-sensitive**; **best practices** and **default settings** per method are recommended in the article.
 - **Training-set design** and **noise control** materially affect **stability** of fitted **parameters** and **interpretability** of **error** metrics.
+
 
 ## Limitations
 

@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Yusupov *et al.* perform **ReaxFF reactive MD** to study impacts of **oxygen plasma-derived species** (**OH**, **HO\(_2\)**, **H\(_2\)O\(_2\)**) on **lipid A**, the endotoxic anchor of *E. coli* lipopolysaccharide. The abstract claims these species can **destroy lipid A** and thereby **reduce toxic activity**, with **distinct bond-breaking mechanisms** for **HO\(_2\)**/**H\(_2\)O\(_2\)** versus **OH** impacts, and states qualitative agreement with experimental observations cited in the introduction framing. The introduction surveys **cold atmospheric plasma (CAP)** sterilization motivations and summarizes prior experimental work on **LPS/lipid A** modifications by plasma-generated **radicals** and **VUV**.
 
@@ -49,10 +49,22 @@ Yusupov *et al.* perform **ReaxFF reactive MD** to study impacts of **oxygen pla
 - **Reactive MD** with **ReaxFF** for ROS–biomolecule collisions/reactions (protocol details in full paper).
 - Comparison narrative anchored to experimental **XPS**/**activity** studies referenced in the introduction.
 
+<!-- enrich-from-extract:v2 -->
+
+- Reactive molecular dynamics simulations are performed to study the interaction of reactive oxygen species, such as OH, HO2 and H2O2, with the endotoxic biomolecule lipid A of the gram- negative bacterium Escherichia coli .
+- A clear difference is observed in the bond breaking mechanisms upon impact of HO 2 radicals and H 2O2 molecules on one hand and OH radicals on the other hand.
+
+
 ## Findings
 
 - Mechanistic differentiation between **radical classes** is a headline result in the abstract-level summary.
 - Contextualizes plasma medicine motivation: **nonthermal** plasmas for **heat-sensitive** materials.
+
+### Additional results (article abstract)
+
+- It is found that the aforementioned plasma species can destroy the lipid A, which consequently results in reducing its toxic activity.
+- Our simulation results are in good agreement with experimental observations.
+
 
 ## Limitations
 

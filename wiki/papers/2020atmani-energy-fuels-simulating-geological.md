@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Replica-exchange molecular dynamics compares the simulated geological conversion of **lignin** vs **cellulose** precursors into kerogen-like material and methane. Pyrolysis-relevant behavior is aligned with experiment in broad strokes: lignin yields roughly twice as much kerogen and about five times more methane than cellulose under their protocol. Ex-lignin kerogen is much more compliant and microporous than ex-cellulose kerogen despite similar composition/bonding statistics, informing nanoscale bricks for shale gas models.
 
@@ -53,6 +53,7 @@ Replica-exchange MD (not ReaxFF-specific in the abstract) to sample conversion o
 ## Findings
 
 Clear lignin vs cellulose split on yields and methane; large mechanical and porosity contrast between derived kerogens.
+
 
 ## Limitations
 

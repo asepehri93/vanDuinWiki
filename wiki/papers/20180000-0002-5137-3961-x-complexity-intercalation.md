@@ -41,11 +41,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **Journal of the American Chemical Society** study probes **urea intercalation** in **Ti₃C₂Tₓ MXene** using **inelastic neutron scattering (INS)**, **infrared spectroscopy**, and **ReaxFF reactive molecular dynamics**. Experiments indicate that urea is not stable as intact intercalant under intercalation-relevant conditions: **decomposition** leads to species such as **ammonium** in the gallery, with **CO₂** evolution detectable spectroscopically. **ReaxFF MD** supplies **atomistic reaction pathways and energetics** consistent with the experimental picture, with implications for how **small-molecule intercalants** behave in **layered carbide MXenes** used in **energy storage** and related applications. The corpus PDF here is an **ACS author proof** variant of the same article also archived as `papers/Overbury_JACS_2018.pdf` (`paper:2018overbury-j-am-chem-so-complexity-intercalation`).
 
@@ -59,6 +59,7 @@ This **Journal of the American Chemical Society** study probes **urea intercalat
 - **Urea** under intercalation conditions **decomposes** rather than persisting as a simple molecular guest; **INS** signatures support **intercalated ammonium**-type species after transformation.
 - **CO₂** is observed **experimentally**, aligning with **oxidation / decomposition** channels discussed in the paper.
 - **ReaxFF** simulations provide **mechanistic context** (pathways and relative energetics) for how **guest–MXene** interactions drive **chemical change** in the interlayer.
+
 
 ## Limitations
 

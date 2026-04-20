@@ -42,11 +42,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Combined **ReaxFF MD** and **experiment** study of **aqueous dissolution** at the **LATP (NASICON-type Li\(_{1+x}\)Al\(_x\)Ti\(_{2-x}\)(PO\(_4\))\(_3\)) / water** interface, motivated by **cold sintering** and other **solution-adjacent processing** routes where **incongruent dissolution** complicates densification. Atomistic trajectories support a **sequential** process: rapid **Li leaching**, phosphate-linked rearrangements, and evolution toward **Ti-rich secondary products** as dissolution advances—framed as a template mechanism class for **multicomponent ceramic electrolytes** exposed to water.
 
@@ -57,6 +57,7 @@ Experimental cold-sintered **LATP** samples paired with **ReaxFF** simulations o
 ## Findings
 
 Dissolution is not a simple uniform ion release: **phosphate removal** destabilizes the NASICON framework; **Li** exits early (common to NASICON types); subsequent **polymerization/condensation** chemistry among **AlO\(_x\)** and **PO\(_4\)**-derived species gates rate and triggers **secondary phase** formation; overall picture is **sequential** and strongly pathway-dependent.
+
 
 ## Limitations
 

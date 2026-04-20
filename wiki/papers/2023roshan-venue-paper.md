@@ -37,11 +37,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Supporting information for a **J. Phys. Chem. C**-class contribution on **data-driven optimization of Cu/Si/O ReaxFF parameters** via **neural network inversion**, applied to **copper oxide ↔ silicon** interfacial chemistry. The local extract chiefly tabulates **parameter sensitivity**, allowed ranges, and structured **Cu–O**/**O–Cu–O** term blocks—material typically accompanying the primary article’s force-field optimization narrative.
 
@@ -52,6 +52,7 @@ Supplemental tables mapping ReaxFF parameter classes (bonds, off-diagonal terms,
 ## Findings
 
 Provides reproducibility detail for optimized parameter sets and sensitivity ranking—interpretation belongs with the main text’s validation against quantum or experimental reference data.
+
 
 ## Limitations
 

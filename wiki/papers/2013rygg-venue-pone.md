@@ -32,11 +32,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 All-atom molecular dynamics on a simplified mucus model estimates water/mucus partition coefficients for amino-acid feeding stimulants (alanine, glycine, cysteine, valine) in fresh versus salt water. Fresh water favors mucus partitioning for all four acids with ordering linked to hydrophobicity; salt reverses preference (except glycine) through ion-mediated interactions. Partition coefficient variation stays ~one order of magnitude, much narrower than air/mucus spans in mammals, arguing against strong spatial chromatography for fish olfaction (abstract; introduction, extract pages 1–2).
 
@@ -47,6 +47,7 @@ MD with simplified mucin representation; comparison of freshwater and saltwater 
 ## Findings
 
 Abstract summarizes mucus preference in fresh water, reversal in salt water, correlation with hydrophobicity, and the conclusion that fish underwater olfaction likely lacks large chromatographic separation compared to terrestrial nasal deposition.
+
 
 ## Limitations
 

@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF MD** is applied to **perfluoropolyether** lubricant **D4OH** interacting with **diamond-like carbon (DLC)** films relevant to **hard-disk** interfaces. The paper describes **DLC**, **hydrogenated DLC**, and **N-functionalized DLC** formation protocols and compares **sp\(^2\)/sp\(^3\)** content and composition to targets, then examines **droplet spreading** and **degradation chemistry** on **DLC** vs **DLC:H:N**. **Western Digital** coauthors anchor the **storage technology** motivation; **van Duin** leads the **reactive FF** effort.
 
@@ -53,6 +53,7 @@ group_affiliation: true
 
 - **Functionalization** affects **spreading speed** (**DLC** faster than **DLC:H:N** in the reported setup).
 - Both **substrate types** alter **lubricant degradation** pathways compared to isolated bulk behavior.
+
 
 ## Limitations
 

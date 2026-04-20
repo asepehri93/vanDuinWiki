@@ -38,11 +38,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Develops a **C/H/O/F/Al ReaxFF** for **poly(vinylidene fluoride) (PVDF)** spanning **nonreactive** (polymorph / phase transformation) and **reactive** (pyrolysis and metal oxide surface chemistry) regimes. Low-temperature work explores **α → β** transitions under **electric poling** and **mechanical deformation**, reporting orientation-dependent **field thresholds** (e.g., ~**5** vs **7.5 GV/m** in excerpted directions) and showing how **stretch** can produce **all-trans** chains with **antiparallel packing** (zero net polarity) unless combined poling strategies are used. High-temperature chemistry treats **surface-oxidized Al nanoparticles**, emphasizing **HF** generation routes, **alumina fluorination/hydroxylation**, **water** evolution, and **AlC\(_x\)** side products—supporting analysis of **Al–PVDF energetic composites**.
 
@@ -53,6 +53,7 @@ ReaxFF training against **QM** data and selected experimental constraints; MD sa
 ## Findings
 
 Demonstrates **transferability** across temperature windows; quantifies **poling/deformation** interplay for **ferroelectric β** promotion; maps multi-step **fluorination/oxidation** sequences at alumina interfaces consistent with expected pyrolysis product hierarchy.
+
 
 ## Limitations
 

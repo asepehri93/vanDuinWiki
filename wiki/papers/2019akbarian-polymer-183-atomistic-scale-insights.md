@@ -41,11 +41,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF molecular dynamics** is combined with **FTIR mapping** and **wide-angle X-ray scattering (WAXS)** to dissect **peroxide-induced crosslinking** of **polyethylene (PE)**—motivated by **dicumyl peroxide (DCP)** chemistry in **high-voltage cable** **XLPE** insulation. The study reports **non-monotonic** behavior of **crosslink extent** with **curing temperature** (moderate heating to **~500 K** helps; **excessive** temperature can hurt), **density** effects, and **peroxide loading** trade-offs between **byproduct** formation and **XLPE** yield. **Electric field** in the **MD** protocol is found to have **little effect** on crosslinking, and an **alternative peroxide** is argued to be **less efficient** than **DCP** under the modeled conditions. **Adri C. T. van Duin** is a corresponding author with **Penn State** and **Dow** collaborators.
 
@@ -58,6 +58,7 @@ group_affiliation: true
 
 - **Atomistic** models reproduce **key experimental** trends for **crosslinking** extent and **byproduct** burden across the **processing** window explored.
 - **High DCP:PE** can **increase byproducts** without proportionally increasing **XLPE** quality, informing **formulation** choices.
+
 
 ## Limitations
 

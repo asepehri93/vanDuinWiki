@@ -34,11 +34,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This entry registers a second **PDF** byte match for the **Carbon** **2017** **ReaxFF** soot **nucleation** study (**Mao**, **van Duin**, **Luo**) under `papers/QianMao_Carbon_Soot_2017.pdf`. Scientific content duplicates the parallel manifest line: **PAH**-dependent **physical** vs **chemical** clustering, **high-temperature** **C/H** growth, and **bridged**/**fullerene-like** particle morphologies described in the **abstract**.
 
@@ -49,6 +49,7 @@ This entry registers a second **PDF** byte match for the **Carbon** **2017** **R
 ## Findings
 
 - Same mechanistic taxonomy (**temperature**/**mass**-dependent pathways) summarized in the **published** article.
+
 
 ## Limitations
 

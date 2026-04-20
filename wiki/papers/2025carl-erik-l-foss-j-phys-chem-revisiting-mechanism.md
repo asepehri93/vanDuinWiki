@@ -39,11 +39,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Combining electron microscopy of cycled Si electrodes with ReaxFF modeling, this Letter argues that **delithiation**—not only lithiation-driven fracture—plays a major role in Si anode degradation. Micrographs show substantial morphological evolution and Si redistribution, including Si-rich features within the SEI, interpreted as Si migration during cycling. Reactive MD supports a picture in which delithiation steps drive much of this reorganization, so particle cracking is not the sole degradation mode; prolonged cycling dramatically alters Si surfaces and can produce Si dendrite-like structures embedded in SEI.
 
@@ -56,6 +56,7 @@ Combining electron microscopy of cycled Si electrodes with ReaxFF modeling, this
 
 - Degradation mechanisms discussed in the literature often center lithiation stress and cracking; this work highlights experimental evidence for ongoing morphological change where **delithiation** is implicated as a dominant driver of Si migration and SEI-embedded Si structures.
 - Reframes design considerations for Si anodes toward models that treat **reversed** electrochemical steps and interfacial chemistry more explicitly.
+
 
 ## Limitations
 

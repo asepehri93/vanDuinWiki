@@ -65,11 +65,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **J. Chem. Phys.** software article documenting the **Amsterdam Modeling Suite (AMS)**: the broad, SCM-maintained **computational chemistry ecosystem** spanning **DFT (ADF)** workflows, **semiempirical** methods, **ReaxFF reactive MD**, **COSMO**-style solvation, and many connected modules used across academic and industrial modeling. The paper is an **authored overview** (2025) with a large multi-institution contributor list—including **Adri C. T. van Duin** as a participating developer for the **ReaxFF-related** ecosystem inside AMS—intended as a citable reference for **methods/software** when reporting simulations performed with these tools.
 
@@ -80,6 +80,7 @@ Archival software article format: scope/organization of modules, citation etique
 ## Findings
 
 Centralizes **suite-level** description suitable for **Methods** sections of downstream application papers using ADF/AMS pipelines.
+
 
 ## Limitations
 

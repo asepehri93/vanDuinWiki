@@ -43,11 +43,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Experimental and modeling study of **multilayer Ti\(_3\)C\(_2\)T\(_x\)** MXene electrodes for **aqueous supercapacitors**, comparing **Na\(^+\)**, **K\(^+\)**, and **Mg\(^{2+}\)** **pre-intercalation**. Electrodes support practical **areal loadings** (reported up to ~20 mg/cm\(^2\)); **K-intercalated** material delivers standout rate performance and **areal capacitance** (up to ~**5.7 F/cm\(^2\)** in the headline results), with **gravimetric** values competing with delaminated MXene while greatly improving areal metrics. **Ab initio MD** (noted in the article text) supports interpretation of intercalant effects alongside electrochemical characterization.
 
@@ -55,9 +55,21 @@ Experimental and modeling study of **multilayer Ti\(_3\)C\(_2\)T\(_x\)** MXene e
 
 Material synthesis/processing of intercalated multilayer Ti\(_3\)C\(_2\)T\(_x\)); electrochemical testing in aqueous acid electrolyte; complementary **AIMD** analysis (per article) involving collaborators including **van Duin** and **Jiang**.
 
+<!-- enrich-from-extract:v2 -->
+
+- Here, we report on using metal cation (viz., Na + , K + , and Mg 2+ ) pre-intercalated multilayer Ti 3 C 2 T x as electrodes for aqueous supercapacitors.
+- These electrodes are scalable and amenable to roll- to-roll manufacturing, with adjustable areal loadings of 5.2 to 20.1 mg/cm 2 .
+
+
 ## Findings
 
 Cation choice strongly modulates capacitance vs scan rate; **K\(^+\)**-intercalated electrodes show the **highest capacitances** across rates in the comparisons highlighted. **Areal capacitance** reaches values **well above** typical delaminated MXene areal figures and competitive with microengineered electrodes (quantitative benchmarks are stated in the abstract and results).
+
+### Additional results (article abstract)
+
+- K−Ti 3 C 2 T x exhibited the highest capacitances at different scan rates.
+- A gravimetric capacitance comparable to that of delaminated MXene of up to 300 F/g was achieved for multilayer K−Ti 3 C 2 T x but with an outstanding ultra-high areal capacitance of up to 5.7 F/cm 2 , which is 10-fold higher than the 0.5 F/cm 2 of delaminated MXene and exceeds the 4.0 F/cm 2 of microengineered MXene electrodes.
+
 
 ## Limitations
 

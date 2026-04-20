@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Reactive MD (ReaxFF)** and complementary **ionic relaxation** workflows are applied to **single-crystalline α-Al2O3 nanoslabs** under **monotonic and cyclic** mechanical loading, comparing **finite-temperature dynamic** failure with **incremental static** pathways. The study emphasizes how **strain rate**, **lateral pre-strain**, and **size effects** change **failure strains**, **crack healing vs. branching**, and **amorphization** ahead of cracks, with selected comparisons to **DFT** for bulk-like responses. Conclusions are framed around **low-cycle fatigue** scenarios where **shakedown-like** elastic responses can emerge after repeated loading.
 

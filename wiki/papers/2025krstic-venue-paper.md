@@ -39,11 +39,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **Molecular dynamics** study of **H atom impacts** on **crystalline and amorphous Li\(_2\)O / LiOH** surfaces motivated by **fusion** first-wall science where **lithium coatings** manage **hydrogen recycling** and impurity retention. The project uses **DFT-trained ReaxFF + EEM-style polarization** to follow bond-making chemistry as incident **H** stalls incollision cascades and engages resident **Li–O–H** moieties; comparisons reference **DFT relaxation** and **quantum–classical TB dynamics** excerpts in the abstract framing. Take-home: **polarization/explicit charge response** is important for faithful **Li–O–H** reactivity under irradiation, and product distributions depend sharply on **local stoichiometry** and **collisional geometry**.
 
@@ -54,6 +54,7 @@ Reactive MD with **ReaxFF** potentials benchmarked against **DFT**; supplementar
 ## Findings
 
 Chain reactions producing mixed **hydroxide/oxy** species emerge from sequential H uptake; emphasizes **sensitivity** to instantaneous atom positions and Li:O:H ratios in the near-surface region.
+
 
 ## Limitations
 

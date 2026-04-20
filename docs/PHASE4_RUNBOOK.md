@@ -34,7 +34,7 @@ For each paper (batch 5–20 at a time to fit context):
 
 1. Open [`wiki/_templates/paper.md`](../wiki/_templates/paper.md).
 2. From PDF and/or extract text + [`normalized/papers/{slug}.json`](../normalized/papers/) bibliography fields, fill:
-   - One-paragraph summary, Methods, Findings, Limitations, Relevance to group, Citations / evidence anchors.
+   - Summary, Methods, Findings, Limitations, Relevance to group, Citations / evidence anchors.
 3. Set frontmatter: `id`, `title`, `updated`, `confidence`, **`canonical_tags`** (only ids from [`taxonomy/canonical_tags.yml`](../taxonomy/canonical_tags.yml)), `pdf_sha256` / `pdf_path` per [`AGENTS.md`](../AGENTS.md).
 4. Save as [`wiki/papers/{slug}.md`](../wiki/papers/) (filename stem **must** equal slug).
 

@@ -35,11 +35,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 ReaxFF MD pyrolyzes a >50,000-atom Illinois No. 6 coal molecular model (728 molecule assembly) at 2000 K for 250 ps until roughly 60% of cross-links break. Initiation involves hydroxyl release, hydroaromatic dehydrogenation, and heteroatom-linked bond scission; major products include light hydrocarbons, oxygenates, and alkylated aromatics consistent with experiment. Organic sulfur enhances fragmentation versus a sulfur-free control by weakening C–S relative to C–C bonds, accelerating gas and tar generation (abstract; article header, extract).
 
@@ -50,6 +50,7 @@ Large-scale reactive MD with documented ReaxFF coal chemistry; comparative sulfu
 ## Findings
 
 Abstract details product classes, molecular weight shift, differential heterocycle decomposition percentages, and accelerated kinetics with sulfur present.
+
 
 ## Limitations
 

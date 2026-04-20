@@ -39,11 +39,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 **ReaxFF reactive MD** is used to simulate **oxidation** of **iron nanowires** in **molecular H₂O** and **H₂O₂**, forming **iron oxide and oxyhydroxide** shells whose **microstructure** depends on the **oxidizing environment**. The work then connects these **oxide shells** to **tensile mechanical response**: pre-oxidation introduces **defect-prone regions** near the **metal–oxide interface**, lowering **yield stress** and **Young’s modulus** compared to cleaner wires, with **H₂O₂** oxidation producing especially **detrimental** mechanical weakening. **Deformation twinning** remains the dominant **plasticity** mechanism, but it **onsets earlier** in oxidized wires. **Adri C. T. van Duin** is a coauthor.
 
@@ -57,6 +57,7 @@ group_affiliation: true
 - **H₂O** vs **H₂O₂** leads to **distinct oxide/oxyhydroxide microstructures** on **Fe NWs**, with measurable differences in **mechanical deterioration**.
 - **Shell-induced defects** facilitate **plastic onset** at **lower stress/strain**.
 - **Twinning** is still the main **plastic carrier**, but **oxidation shifts** when and where twins nucleate.
+
 
 ## Limitations
 

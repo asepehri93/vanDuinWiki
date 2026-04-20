@@ -36,11 +36,11 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 Zeolitic imidazolate frameworks (ZIFs) increasingly require simulations that handle **bond breaking/forming** (melts, defects, chemical stability), beyond classical nonreactive FF applications. This paper demonstrates ReaxFF on representative ZIFs: melt–quench of ZIF-4 reproduces glassy **aZIF-4** structure, density, thermal response, and pore morphology consistent with experiment and ab initio MD; ZIF-62 melting highlights ligand chemistry (benzimidazolate) effects on melting trends; ZIF-77 with electron-withdrawing substituents illustrates how electronic/steric balance shifts predicted melting and chemical stability. The overarching claim is that ReaxFF’s cost and transferability can support computational screening of disordered and defect-laden ZIF behavior.
 
@@ -53,6 +53,7 @@ Zeolitic imidazolate frameworks (ZIFs) increasingly require simulations that han
 
 - Qualitative/quantitative agreement for glass formation properties for ZIF-4 glass from melt–quench.
 - Mechanistic insight into substituent effects on melting and stability across ZIF chemistries.
+
 
 ## Limitations
 

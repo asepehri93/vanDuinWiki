@@ -34,11 +34,11 @@ group_affiliation: false
 
 !!! note "Authority of statements"
 
-    Prose sections below (**One-paragraph summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
+    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
 
     For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
-## One-paragraph summary
+## Summary
 
 This **Journal of Applied Physics** study benchmarks **embedded-atom method (EAM)**-style **interatomic potentials** for **Cu**, **Al**, and **Ni** by computing **single-crystal elastic constants** \(C_{11}\), \(C_{12}\), \(C_{44}\) with **molecular dynamics** at room temperature and converting them to **polycrystalline moduli** via the **Voigt–Reuss–Hill** average. Potentials were taken from **NIST**, **Sandia**, and **LAMMPS** repositories; results are compared to **experimental** elastic data to recommend which parameterization is most reliable for each pure metal and elastic property. The work is **classical non-reactive MD** focused on **mechanical property** prediction rather than **ReaxFF** chemistry.
 
@@ -51,6 +51,7 @@ This **Journal of Applied Physics** study benchmarks **embedded-atom method (EAM
 
 - **Elastic moduli** are **sensitive to the specific potential** chosen; potentials fit for **alloys** may not transfer to **pure-element** elastic behavior.
 - Tabulated **simulation vs experiment** comparisons support **screening potentials** before large-scale **nanomechanics** studies.
+
 
 ## Limitations
 
