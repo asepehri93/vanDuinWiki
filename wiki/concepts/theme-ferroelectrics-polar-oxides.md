@@ -1,52 +1,72 @@
 ---
 id: concept:theme-ferroelectrics-polar-oxides
 type: concept
-title: "Theme: ferroelectrics and polar oxide dielectrics"
+title: "Theme: ferroelectrics and polar perovskite oxides (corpus)"
 updated: "2026-04-20"
 confidence: med
 canonical_tags:
   - domain:ferroelectrics-polar
   - method:reaxff
-  - task:application
+  - task:review
 candidate_tags: []
 source_refs:
-  - paper_id: "paper:2019akbarian-physical-che-understanding-influence"
-    note: "BaTiO3 defects and switching; ReaxFF"
-  - paper_id: "paper:2022yawei-gao-j-phys-chem-al-reaxff"
-    note: "Al-containing ferroelectric-adjacent ReaxFF"
   - paper_id: "paper:2024baksa-adv-elect-ma-strain-fluctuations"
-    note: "Strain fluctuations in ferroelectric contexts"
+    note: "BaZrO₃ elastic properties; NN potential"
+  - paper_id: "paper:2023roshan-venue-paper"
+    note: "Perovskite / high-T oxide mechanics"
+  - paper_id: "paper:2025krstic-venue-paper"
+    note: "High-temperature oxide behavior"
+  - paper_id: "paper:2018shin-physical-che-development-reaxff"
+    note: "Li-ion electrolytes (oxide chemistry overlap)"
 supported_by:
-  - "paper:2019akbarian-physical-che-understanding-influence"
+  - "paper:2024baksa-adv-elect-ma-strain-fluctuations"
+  - "paper:2023roshan-venue-paper"
 ---
 
 <!-- id:concept:theme-ferroelectrics-polar-oxides -->
 
 !!! abstract "TL;DR"
 
-    **Perovskite** and related **polar oxide** problems appear in the corpus through **ReaxFF** studies of **defects**, **domain-scale** behavior, and **strain** coupling. The flagship entry for **BaTiO₃**-style questions in frozen eval **FE1** is [[2019akbarian-physical-che-understanding-influence]].
+    This cluster covers **polar perovskites** and **functional oxides** where **elastic**, **thermal**, or **defect** behavior is studied with **atomistic** models. It overlaps [[theme-oxides-silica-ceramics]] for **oxide chemistry** but emphasizes **ABO₃** systems and **electromechanical** response.
 
-## Scope
+## Scope (in / out)
 
-**In:** **ABO₃**-like and **titanate** systems where **polarization** or **defect chemistry** is simulated reactively.
+**In corpus:** **BaZrO₃**, **perovskite** high-temperature mechanics, and related **oxide** notes tagged `domain:ferroelectrics-polar`.
 
-**Out:** generic **TiO₂** surface chemistry without ferroelectric context → see [[theme-oxides-silica-ceramics]].
+**Out of scope here:** **silica** and **non-perovskite** ceramics unless the paper page explicitly bridges (see cross-links).
 
-## Representative papers
+## Literature review (this knowledge base)
 
-- **BaTiO₃ / defects / switching:** [[2019akbarian-physical-che-understanding-influence]] — **FE1** gold.  
-- **Al / ferroelectric-adjacent parameterization:** [[2022yawei-gao-j-phys-chem-al-reaxff]].  
-- **Strain / electromechanical coupling:** [[2024baksa-adv-elect-ma-strain-fluctuations]].
+Corpus-limited synthesis; follow `[[slug]]` pages for **equations**, **simulation setup**, and **primary citations**.
+
+### Elastic properties and strain fluctuations
+
+[[2024baksa-adv-elect-ma-strain-fluctuations]] is a central KB page for **elastic constants** via **strain-fluctuation** methods using a **neural network potential** for **BaZrO₃**. It is the strongest link between this theme and [[theme-ml-atomistic-potentials]].
+
+### High-temperature mechanics and perovskite oxides
+
+[[2023roshan-venue-paper]] and [[2025krstic-venue-paper]] provide **high-temperature** / **perovskite** oxide content in the KB; read each note for **whether ferroelectric order** is central or **mechanical/thermal** response is the focus.
+
+### Electrolytes and polar oxide chemistry (adjacent)
+
+Solid-state **Li-ion electrolyte** interface chemistry in [[2018shin-physical-che-development-reaxff]] connects **polar oxide** environments to [[batteries-interfaces-reaxff]] rather than bulk ferroelectric switching.
+
+## Debates, tensions, and cross-references
+
+- **Classical vs MLIPs** for **anharmonic** thermal properties: [[reaxff-vs-mlip-accuracy]], [[2024baksa-adv-elect-ma-strain-fluctuations]].  
+- **Domain switching** vs **defect chemistry**: the KB may not cover every **ferroelectric switching** mechanism—check paper pages rather than assuming completeness.  
+- **Related themes:** [[theme-oxides-silica-ceramics]], [[theme-ml-atomistic-potentials]], [[theme-water-silica-geo]] (surface hydration of oxides).
+
+## Representative entry points
+
+- **BaZrO₃ + elasticity / NN potential:** [[2024baksa-adv-elect-ma-strain-fluctuations]].  
+- **Perovskite / high-T:** [[2023roshan-venue-paper]], [[2025krstic-venue-paper]].  
+- **Domain index:** [[paper-index-by-domain]] (`domain:ferroelectrics-polar`).
 
 ## Methods and limitations
 
-**ReaxFF** captures **local** bond rearrangements; **long-range depolarization** and **finite electric fields** may require **continuum** or **DFT** augmentation not present in every note.
+**Harmonic** approximations and **small-cell** elastic sampling can mis-estimate **soft modes** near **phase boundaries**. **Polarization** in MD requires **careful** definitions when comparing to continuum **ferroelectric** theory.
 
-## Related
+??? info "MAS / retrieval"
 
-- [[theme-oxides-silica-ceramics]]  
-- [[reaxff-family]]  
-
-??? info "Maintainers"
-
-    Tag: `domain:ferroelectrics-polar`. Cross-link new perovskite slugs as they appear.
+    **id:** `concept:theme-ferroelectrics-polar-oxides`. When new perovskite papers are ingested, tag `domain:ferroelectrics-polar` and add a bullet here if the theme narrative should cite them.

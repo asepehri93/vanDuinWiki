@@ -19,6 +19,8 @@ source_refs: []
 
 Theme pages are **curated cross-paper views**: they do not replace individual paper entries; they group papers by **application domain** and **simulation methodology** so you can explore **clusters** before drilling into PDF-level detail.
 
+Each hub includes **`## Literature review (this knowledge base)`**: a **corpus-limited** synthesis built only from **linked paper notes** in this wiki (not a generic literature survey). **`## Debates, tensions, and cross-references`** points to [[transferability-reactive-ff]], [[reaxff-vs-mlip-accuracy]], and related theme pages. Maintainer-oriented hints sit in **`??? info "MAS / retrieval"`** blocks.
+
 ## Theme hubs
 
 | Theme | Focus |

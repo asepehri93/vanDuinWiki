@@ -63,6 +63,18 @@ Operator steps, deterministic `paper_id` slug rules, and rerun policy are in [`d
 
 Large **domain** groupings live as ordinary **`concept` pages** in `wiki/concepts/` using a **`theme-`** filename prefix (example: `theme-oxides-silica-ceramics.md` → `id: concept:theme-oxides-silica-ceramics`). They exist to improve **Phase 0 connectivity** (papers linked from synthesis pages) and **MkDocs** navigation; each hub should list **representative `paper:`** slugs with `source_refs` grounding. The entry point **`wiki/concepts/themes-index.md`** (`concept:themes-index`) lists all theme hubs.
 
+**Recommended section template for theme hubs:**
+
+1. **`!!! abstract` or lead** — Plain-language scope for **human readers** (no new uncited science).
+2. **`## Scope (in / out)`** — What the corpus does and does **not** promise.
+3. **`## Literature review (this knowledge base)`** — **Corpus-scoped** synthesis only: organize **existing** `[[paper-slug]]` links by subtopic, state explicitly that it is **not** a world literature review, and avoid claims not traceable to linked paper pages.
+4. **`## Debates, tensions, and cross-references`** — Wikilinks to `wiki/debates/`, other theme hubs, [[reaxff-family]], [[batteries-interfaces-reaxff]], etc.
+5. **`## Representative entry points`** (optional if redundant) — Short bullet list of slugs.
+6. **`## Methods and limitations`** — Honest limits of ReaxFF / MD for that domain.
+7. **`??? info "MAS / retrieval"`** — Stable `id`, tagging hints, when to refresh `source_refs` (machine-oriented).
+
+Theme pages serve **two audiences**: a **MAS / retrieval** spine (structured `id`, `canonical_tags`, `source_refs`) and a **public** site—keep technical caveats in admonitions or “limitations” sections so the narrative stays readable.
+
 ### Reader-facing layer (static site / GitHub Pages)
 
 The same markdown is published via **MkDocs** (see `mkdocs.yml`). Conventions:
