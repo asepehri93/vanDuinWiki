@@ -103,6 +103,8 @@ Where `{slug}` is everything after the first `:`. **Enforcement:** filename stem
 
 **Exception:** `wiki/index.md` may use `id: index:root` (or similar) as the hub; static-site export maps it to `/`.
 
+**Case sensitivity:** On **case-insensitive** volumes (common default macOS), `wiki/index.md` and `wiki/INDEX.md` are the **same path**—never maintain both names; use lowercase **`index.md`** only.
+
 This mapping lets a static site generator compute URLs from `id` without parsing wikilinks.
 
 ## Frontmatter schema v1
