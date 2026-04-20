@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2019hahn-j-phys-chem-surface-reactivity -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ group_affiliation: true
 
 - **Ion exchange** and **acid–base** chemistry at **NBO** sites drive **continuous** **surface** **modification** on simulated **timescales**.
 - **Na** **mobility** and **proton** **subnetworks** rationalize **leaching** and **silanol** **front** **propagation** trends reported in the article.
-
 
 ## Limitations
 

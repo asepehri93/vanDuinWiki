@@ -33,7 +33,6 @@ group_affiliation: true
 
 <!-- id:paper:2018aral-physical-che-oxyhydroxide-metallic -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ group_affiliation: true
 - **H₂O** vs **H₂O₂** leads to **distinct oxide/oxyhydroxide microstructures** on **Fe NWs**, with measurable differences in **mechanical deterioration**.
 - **Shell-induced defects** facilitate **plastic onset** at **lower stress/strain**.
 - **Twinning** is still the main **plastic carrier**, but **oxidation shifts** when and where twins nucleate.
-
 
 ## Limitations
 

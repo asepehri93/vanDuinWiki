@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2015hong-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Hong and van Duin report **ReaxFF MD** of **aluminium nanoparticle (ANP) oxidati
 
 - Mechanistic competition among **thermal activation**, **oxygen availability**, and **microstructural** evolution (voiding) is central to the predicted oxidation trajectory.
 - The study explicitly categorizes **oxidation states** (metal, suboxide, oxide, superoxide) along the trajectory in the aims paragraph.
-
 
 ## Limitations
 

@@ -36,7 +36,6 @@ group_affiliation: true
 
 <!-- id:paper:2017cunha-carbon-127-2-raman-spectroscopy -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -58,7 +57,6 @@ group_affiliation: true
 
 - **Ar** vs **Xe** produce similar **frequency shifts**, implying comparable **bundle–gas** interaction strength in the studied regime.
 - **~4 cm\(^{-1}\)** **RBM** shifts cited as evidence of **adsorption-induced** compression effects.
-
 
 ## Limitations
 

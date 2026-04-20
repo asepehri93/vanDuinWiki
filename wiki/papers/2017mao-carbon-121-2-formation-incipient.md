@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2017mao-carbon-121-2-formation-incipient -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ group_affiliation: true
 
 - Mechanistic regimes (**physical vs chemical nucleation**) partition strongly with **temperature** and **PAH mass**.
 - **Carbon bridges** between stacked **large PAHs** appear alongside **fullerene-like** soot motifs at **high T**.
-
 
 ## Limitations
 

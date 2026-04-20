@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2019nayir-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,7 +46,6 @@ Supplemental validation plots and parameter documentation accompanying the main 
 ## Findings
 
 Provides extended numerical comparisons and implementation pointers; all scientific claims should be cited through the main article.
-
 
 ## Limitations
 

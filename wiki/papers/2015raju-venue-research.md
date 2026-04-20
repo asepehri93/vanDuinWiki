@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2015raju-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Identical to the journal version: **DFT-trained ReaxFF** for Li–C and **grand 
 ## Findings
 
 See **`paper:2015raju-venue-ct-2014-01027v`**—this artifact should be treated as the **same article** for indexing purposes, with differences confined to **layout, line breaks, or publisher proofing**.
-
 
 ## Limitations
 

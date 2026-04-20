@@ -22,7 +22,6 @@ group_affiliation: false
 
 <!-- id:paper:2016page-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

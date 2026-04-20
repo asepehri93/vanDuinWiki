@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2014sen-venue-untitled -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Same methodology family as the published article: **ReaxFF** simulations of oxid
 ## Findings
 
 Aligned with the published abstract visible in the proof extract: oxidation-assisted ductility, nucleation-stress reduction via activation volume and site multiplicity, and strain-rate versus oxidation-rate interplay for oxide-shell flow.
-
 
 ## Limitations
 

@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2017cunha-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ group_affiliation: true
 ## Findings
 
 - **Similar shifts** for **Ar**/**Xe** imply comparable **interaction** strengths; **non-doping** rationale via **linewidth**/**intensity** stability.
-
 
 ## Limitations
 

@@ -31,7 +31,6 @@ group_affiliation: false
 
 <!-- id:paper:2023musaelian-nat-learning-local -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Neural potential architecture design; training on quantum-chemistry datasets; MD
 ## Findings
 
 Local Allegro models can match or exceed prior **MPNN**/transformer baselines on standard sets while improving **scalability**; large-scale demo illustrates HPC headroom when locality is preserved by construction.
-
 
 ## Limitations
 

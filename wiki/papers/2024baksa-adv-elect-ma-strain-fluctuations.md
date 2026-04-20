@@ -38,7 +38,6 @@ group_affiliation: true
 
 <!-- id:paper:2024baksa-adv-elect-ma-strain-fluctuations -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,7 @@ Explains how **wurtzite (Zn,Mg)O**-class films can exhibit **switchable polariza
 
 ## Methods
 
-Heteroepitaxial stack growth/processing as described in the article; first-principles or atomistic modeling components contributed by multiple collaborating groups (**Dabo/Rappe/van Duin** participants per author list); polarization reversal barrier analysis vs biaxial strain state (Figure 1 in manuscript).
+Heteroepitaxial stack growth and processing follow the article; first-principles and atomistic modeling involve several collaborating groups (**Dabo/Rappe/van Duin** among the authors). Polarization reversal barriers are analyzed as a function of biaxial strain state, matching the strain–barrier trends illustrated in the open-access article.
 
 ## Findings
 

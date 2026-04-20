@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ This JCP paper extends ReaxFF to **organic carbonate electrolyte** species (e.g.
 
 - Force field distinguishes Li atom vs Li⁺ behavior needed for anode-side electrolyte reduction scenarios.
 - Demonstrates sensitivity of decomposition barriers to local solvation shell structure.
-
 
 ## Limitations
 

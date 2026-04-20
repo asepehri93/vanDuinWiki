@@ -33,7 +33,6 @@ group_affiliation: true
 
 <!-- id:paper:2018jonayat-venue-rsc-cp -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ This **PCCP** study uses **first-principles (DFT)** methods to examine **stabili
 ## Findings
 
 - Reports **relative stabilities** and **electronic/structural trends** for the **mixed corundum-type** surface oxides treated in the paper (quantitative results in figures/tables).
-
 
 ## Limitations
 

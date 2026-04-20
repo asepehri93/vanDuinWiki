@@ -39,7 +39,6 @@ group_affiliation: true
 
 <!-- id:paper:2015achtyl-nat-aqueous-proton -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -62,7 +61,6 @@ Achtyl *et al.* combine **interface-specific second-harmonic generation (SHG)** 
 
 - SHG responses with graphene present match **bare silica/water** behavior within uncertainty, interpreted as evidence that **interfacial silanol speciation** evolves as if protons reach the buried silica surface.
 - Modeling distinguishes **defect motifs** that enable vs suppress proton exchange.
-
 
 ## Limitations
 

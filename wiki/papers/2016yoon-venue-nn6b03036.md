@@ -38,7 +38,6 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-nn6b03036 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -60,7 +59,6 @@ group_affiliation: true
 
 - **Simulation** and **experiment** broadly agree on **dose-dependent** damage evolution and **amorphization** at high dose.
 - Mechanistic vignettes include **Frenkel** pair evolution into **STW** defects and competing **healing** pathways.
-
 
 ## Limitations
 

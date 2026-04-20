@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2023roshan-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Supplemental tables mapping ReaxFF parameter classes (bonds, off-diagonal terms,
 ## Findings
 
 Provides reproducibility detail for optimized parameter sets and sensitivity ranking—interpretation belongs with the main text’s validation against quantum or experimental reference data.
-
 
 ## Limitations
 

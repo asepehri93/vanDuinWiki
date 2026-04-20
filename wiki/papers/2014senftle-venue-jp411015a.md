@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2014senftle-venue-jp411015a -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ This **J. Phys. Chem. C** article develops a **ReaxFF Pd/H** interaction descrip
 
 - Nanoscale clusters are discussed in the context of a **narrowed miscibility gap** versus bulk, with literature comparisons on whether the gap can close at small sizes depending on stabilization/support.
 - The Pd/H parameters are noted as **transferable** with prior **Pd/O** parameters, enabling future **Pd/O/H** and **Pd/C/O/H** extensions for catalytic oxidation/hydrogenation/combustion studies.
-
 
 ## Limitations
 

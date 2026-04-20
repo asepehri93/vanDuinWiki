@@ -34,7 +34,6 @@ group_affiliation: true
 
 <!-- id:paper:2015lloyd-surface-scie-development-reaxff -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ Lloyd *et al.* extend an existing **ZnO ReaxFF** parameterization with **Ag–Zn
 ## Findings
 
 - Demonstrates a pathway to model **Ag thin-film nucleation** on **ZnO seed layers** relevant to **low-emissivity** glazing stacks, with explicit attention to **interface adhesion** weaknesses noted in the introduction.
-
 
 ## Limitations
 

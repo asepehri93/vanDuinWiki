@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2021lele-fuel-297-202-reaxff-molecular -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ Systematic ReaxFF pyrolysis trajectories; extraction of activation energies and 
 ## Findings
 
 Two dominant reaction classes with strong temperature dependence; bicyclic fuels show competitive or faster decomposition vs JP-10 baseline in their metrics.
-
 
 ## Limitations
 

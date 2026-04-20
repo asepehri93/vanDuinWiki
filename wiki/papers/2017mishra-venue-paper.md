@@ -39,7 +39,6 @@ group_affiliation: true
 
 <!-- id:paper:2017mishra-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -60,7 +59,6 @@ This **review** introduces **CEMFF**, a web database cataloging **atomistic forc
 
 - Highlights diversity of **FF** choices and **validation** gaps when transferring potentials across **chemistries** and **interfaces**.
 - Positions **ReaxFF** among options when **bond-making/breaking** chemistry is essential.
-
 
 ## Limitations
 

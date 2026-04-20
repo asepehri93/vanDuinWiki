@@ -30,7 +30,6 @@ group_affiliation: false
 
 <!-- id:paper:2024colak-carbon-228-2-molecular-dynamics -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ Atomistic MD of GO + TR protein assemblies; mechanical property observables (mod
 ## Findings
 
 Simulation-derived mechanical responses align with **published experiments** for this biomimetic composite class; tandem repeat count acts as a predictable design variable for stiffness.
-
 
 ## Limitations
 

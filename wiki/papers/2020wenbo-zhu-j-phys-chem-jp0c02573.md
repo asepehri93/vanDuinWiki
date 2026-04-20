@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2020wenbo-zhu-j-phys-chem-jp0c02573 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ Three-stage ReaxFF fitting; custom TS search algorithms; surface reactive MD for
 ## Findings
 
 Qualitative capture of expected elementary reactions on Cu; case-study chemical-looping trajectories illustrating fuel/oxidizer roles.
-
 
 ## Limitations
 

@@ -38,7 +38,6 @@ group_affiliation: true
 
 <!-- id:paper:2016npjcompumats201511-venue-untitled -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -60,7 +59,6 @@ Narrative review with **illustrative simulation examples** and **literature inte
 - Summarizes **historical development** and **conceptual structure** of **ReaxFF** potentials.
 - Highlights **validation practices** and **representative successes/limitations** across fields.
 - Discusses **future directions** including tighter **QM coupling**, **software acceleration**, and **domain-specific parameter extensions** (e.g., polarizable variants such as **eReaxFF**).
-
 
 ## Limitations
 

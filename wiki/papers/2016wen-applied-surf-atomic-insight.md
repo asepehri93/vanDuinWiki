@@ -34,7 +34,6 @@ group_affiliation: true
 
 <!-- id:paper:2016wen-applied-surf-atomic-insight -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ group_affiliation: true
 
 - **Mechanochemical** Si removal proceeds through **interfacial siloxane** chemistry identified in **AFM**-inspired geometries.
 - Higher **contact pressure** promotes additional **Si–O–Si** bridging and increased **Si** removal.
-
 
 ## Limitations
 

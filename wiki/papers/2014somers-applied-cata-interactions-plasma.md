@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2014somers-applied-cata-interactions-plasma -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Somers *et al.* use **ReaxFF-based reactive MD** to study impacts of **CH\(_x\)*
 
 - **Facet effects** matter initially for radical dehydrogenation pathways and intermediate speciation.
 - **Carbon ingress** into Ni at high temperature homogenizes structural signatures, weakening facet-dependent differences in **H\(_2\)** yields at later stages in the trajectories described.
-
 
 ## Limitations
 

@@ -25,7 +25,6 @@ group_affiliation: false
 
 <!-- id:paper:2019sattler-venue-st-century -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -45,7 +44,6 @@ Conceptual/theoretical review with literature examples; discussion includes wher
 ## Findings
 
 Survey-style synthesis: constraint enumeration relates to stability and intermediate phases in some glass families; examples span chalcogenides, network oxides, and modified silicates.
-
 
 ## Limitations
 

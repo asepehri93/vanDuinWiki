@@ -38,7 +38,6 @@ group_affiliation: true
 
 <!-- id:paper:2021itai-leven-j-chem-theor-recent-advances -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -58,7 +57,6 @@ Literature synthesis with conceptual explanation of modeling families; not a sin
 ## Findings
 
 Frames the main known weaknesses of classical EEM/QEq within ReaxFF and summarizes mitigations developed across collaborating groups.
-
 
 ## Limitations
 

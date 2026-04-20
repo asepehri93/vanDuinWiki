@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2019akbarian-physical-che-understanding-influence -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -54,7 +53,6 @@ An extensible atomistic ReaxFF for **BaTiO3** is constructed to capture field- a
 
 - Mechanistic coupling between vacancies, domain walls, and surface termination in setting switching behavior.
 - Demonstrates ReaxFF as a practical bridge between DFT-scale insight and larger nanostructure samples for ferroelectrics.
-
 
 ## Limitations
 

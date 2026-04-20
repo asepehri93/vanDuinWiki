@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2014raju-venue-nl404533k -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Ti/O/H ReaxFF parameterization from Kim et al. and prior Raju/Monti validations 
 ## Findings
 
 Abstract contrasts vacuum polycrystalline merger versus humid OA with hydrogen-bond scaffolding and identifies facet sensitivity tied to water dissociation tendency.
-
 
 ## Limitations
 

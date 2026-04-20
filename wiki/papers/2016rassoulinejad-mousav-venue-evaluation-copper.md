@@ -28,7 +28,6 @@ group_affiliation: false
 
 <!-- id:paper:2016rassoulinejad-mousav-venue-evaluation-copper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ This **Journal of Applied Physics** study benchmarks **embedded-atom method (EAM
 
 - **Elastic moduli** are **sensitive to the specific potential** chosen; potentials fit for **alloys** may not transfer to **pure-element** elastic behavior.
 - Tabulated **simulation vs experiment** comparisons support **screening potentials** before large-scale **nanomechanics** studies.
-
 
 ## Limitations
 

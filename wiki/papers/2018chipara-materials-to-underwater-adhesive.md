@@ -46,7 +46,6 @@ group_affiliation: true
 
 <!-- id:paper:2018chipara-materials-to-underwater-adhesive -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -68,7 +67,6 @@ The study reports an **amphibious adhesive** made by mixing **solid PTFE** with 
 
 - A **PTFE–PDMS** **solid–liquid mix** can produce **useful underwater adhesion**, distinct from conventional **covalent** “glue” chemistries that dominate dry applications.
 - **Simulations** support the **adhesive mechanism** proposed from **dipole–dipole** interactions and **interfacial structure**.
-
 
 ## Limitations
 

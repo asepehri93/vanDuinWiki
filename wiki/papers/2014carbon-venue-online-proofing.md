@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2014carbon-venue-online-proofing -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,7 +46,6 @@ ReaxFF MD with successive oxygen impacts on diamond slabs; comparison across (10
 ## Findings
 
 Abstract claims agreement of yields with experiment and usefulness of ReaxFF for screening spacecraft materials exposed to LEO atomic oxygen.
-
 
 ## Limitations
 

@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2016mortazavi-physical-che-mechanical-response -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ group_affiliation: true
 
 - The paper reports **heterostructure-dependent** elastic and failure characteristics tied to **interlayer registry** and **local bonding** (see figures for quantitative moduli and critical strains).
 - **ReaxFF** enables **bond-breaking** during failure, beyond harmonic **Tersoff-like** descriptions sometimes used for TMDs.
-
 
 ## Limitations
 

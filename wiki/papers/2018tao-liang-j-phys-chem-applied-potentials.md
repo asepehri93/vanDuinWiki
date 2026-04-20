@@ -30,7 +30,6 @@ group_affiliation: false
 
 <!-- id:paper:2018tao-liang-j-phys-chem-applied-potentials -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ This **J. Phys. Chem. A** article uses **molecular dynamics** with the **third-g
 
 - The **electronegativity-offset** route is integrated with COMB3’s **variable charge** treatment and used to explore **interfacial water dynamics** and **electrochemical** response trends in the model cells.
 - A **modified equilibration** strategy is proposed so that **external potentials** act via **electrode electronegativity shifts** while keeping the **electrolyte** charge-neutral, with **qualitative** agreement on **voltages** after **precalibration** (as stated in the abstract).
-
 
 ## Limitations
 

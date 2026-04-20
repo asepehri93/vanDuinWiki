@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2014zou-acta-materia-molecular-dynamics -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ A Ni–O ReaxFF description is developed from QM training data spanning Ni and N
 - Quantitative agreement for tracer-like diffusivities and activation energies compared to literature.
 - New mechanistic insight: oxygen can diffuse in concert with vacancies (oxygen–vacancy pair picture).
 - GB voids as traps that enhance local O concentration and initiate oxide precipitation.
-
 
 ## Limitations
 

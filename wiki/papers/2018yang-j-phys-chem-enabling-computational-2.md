@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2018yang-j-phys-chem-enabling-computational-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ This **J. Phys. Chem. B** article lays out a **ReaxFF-first modeling strategy** 
 ## Findings
 
 - Argues that **ReaxFF** unlocks **simulation modes** (explicit **reaction** and **failure**) needed for **practical ZIF design loops** beyond **elastic** lattice models.
-
 
 ## Limitations
 

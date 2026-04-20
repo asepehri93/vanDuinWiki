@@ -59,7 +59,6 @@ group_affiliation: true
 
 <!-- id:paper:2025baerends-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -79,7 +78,6 @@ Archival software article format: scope/organization of modules, citation etique
 ## Findings
 
 Centralizes **suite-level** description suitable for **Methods** sections of downstream application papers using ADF/AMS pipelines.
-
 
 ## Limitations
 

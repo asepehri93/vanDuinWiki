@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2019shabnam-physical-che-evaluation-effect -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ ReaxFF molecular dynamics; single Ni13 cluster + one PAH species per study; broa
 ## Findings
 
 Metal cluster clearly alters nucleation and growth pathways across the temperature ladder; homogeneous vs Ni-catalyzed regimes are distinguished in the abstract’s qualitative mechanisms.
-
 
 ## Limitations
 

@@ -32,7 +32,6 @@ group_affiliation: false
 
 <!-- id:paper:2023li-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ DFT dataset construction; MLIP training; large-cell MD for bulk and surface obse
 ## Findings
 
 Reports **state-of-the-art fidelity** for multiple Li properties within the study’s benchmark set; emphasizes practical access to **surface** behaviors at scales beyond routine AIMD (per abstract framing).
-
 
 ## Limitations
 

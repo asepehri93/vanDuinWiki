@@ -19,7 +19,6 @@ group_affiliation: false
 
 <!-- id:paper:2013chapter6-venue-untitled-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ This file is an **annotated proof** variant corresponding to the same **RSC “C
 ## Findings
 
 - Not extractable from the ingested pages.
-
 
 ## Limitations
 

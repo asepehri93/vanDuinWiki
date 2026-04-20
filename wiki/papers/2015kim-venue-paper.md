@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2015kim-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -38,7 +37,7 @@ group_affiliation: true
 
 ## Summary
 
-This corpus PDF is **Supporting Information** for a **ReaxFF molecular dynamics** study on **water effects in tribochemical wear of silicon oxide interfaces** (authors **Yeon**, **van Duin**, **Kim** in the extract). The excerpted pages document **Si(100) oxidation** with **400 O\(_2\)** molecules between slabs at **300 K** for **400 ps**, reporting **~5–6 Å** oxide growth consistent with prior MD, and summarize **amorphous SiO\(_2\)** density/RDF/angle benchmarks via **Table S1** comparing **ReaxFF** to QM/experiment references. Additional **NVT** hydroxylation runs with **400 water molecules** on oxidized Si(001) and amorphous silica slabs reach **hydroxyl coverage steady state** by **~750 ps** according to the SI text.
+This corpus PDF is **Supporting Information** for a **ReaxFF molecular dynamics** study on **water effects in tribochemical wear of silicon oxide interfaces** (authors **Yeon**, **van Duin**, **Kim** in the extract). The excerpted pages document **Si(100) oxidation** with **400 O\(_2\)** molecules between slabs at **300 K** for **400 ps**, reporting **~5–6 Å** oxide growth consistent with prior MD, and summarize **amorphous SiO\(_2\)** density/RDF/angle benchmarks in **tabular form in the SI**, comparing **ReaxFF** to QM and experimental reference data. Additional **NVT** hydroxylation runs with **400 water molecules** on oxidized Si(001) and amorphous silica slabs reach **hydroxyl coverage steady state** by **~750 ps** according to the SI text.
 
 ## Methods
 
@@ -47,7 +46,6 @@ This corpus PDF is **Supporting Information** for a **ReaxFF molecular dynamics*
 ## Findings
 
 - **Oxidation thickness** and **silica** structural metrics are presented as internal validation checkpoints for the larger tribochemistry study.
-
 
 ## Limitations
 

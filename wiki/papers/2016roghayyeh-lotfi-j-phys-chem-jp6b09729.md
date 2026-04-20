@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2016roghayyeh-lotfi-j-phys-chem-jp6b09729 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ group_affiliation: true
 
 - **Functionalization** affects **spreading speed** (**DLC** faster than **DLC:H:N** in the reported setup).
 - Both **substrate types** alter **lubricant degradation** pathways compared to isolated bulk behavior.
-
 
 ## Limitations
 

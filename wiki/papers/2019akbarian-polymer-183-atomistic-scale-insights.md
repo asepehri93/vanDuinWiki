@@ -35,7 +35,6 @@ group_affiliation: true
 
 <!-- id:paper:2019akbarian-polymer-183-atomistic-scale-insights -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -57,7 +56,6 @@ group_affiliation: true
 
 - **Atomistic** models reproduce **key experimental** trends for **crosslinking** extent and **byproduct** burden across the **processing** window explored.
 - **High DCP:PE** can **increase byproducts** without proportionally increasing **XLPE** quality, informing **formulation** choices.
-
 
 ## Limitations
 

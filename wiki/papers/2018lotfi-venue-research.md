@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2018lotfi-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ group_affiliation: true
 
 - **Water** is the **dominant accelerant** among the small-molecule oxidants treated.
 - **Nanoparticle pretreatment** changes **surface hydroxylation / adsorption** and thereby modulates **degradation rates**.
-
 
 ## Limitations
 

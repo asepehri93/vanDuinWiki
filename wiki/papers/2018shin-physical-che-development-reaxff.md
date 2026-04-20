@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2018shin-physical-che-development-reaxff -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

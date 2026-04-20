@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2020deng-venue-structural-features -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ MD melt–quench (and related procedures) for Na2O–SiO2 compositions; compute 
 ## Findings
 
 Detailed assessment of which observables match experiment for each model; discussion of limitations in potentials and generation workflow rather than a single “winner” pronouncement without nuance (paper discusses tradeoffs and improvement areas).
-
 
 ## Limitations
 

@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2018muralikrishna-raju-nanoscale-20-atomistic-continuum -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ This **Nanoscale** article evaluates **α-** and **γ-graphyne** membranes—bar
 - **Pores ~20–50 Å²** (as categorized in the abstract) can reject **>90%** of ions up to **1 GPa** applied pressure in the **MD** protocol described.
 - **Permeability** trends are explained with **in-pore water velocity**, **density**, and **energy barrier** analyses.
 - **Upscale RO analysis** tempers, but does not eliminate, the **permeability benefit** vs **commercial** membranes.
-
 
 ## Limitations
 

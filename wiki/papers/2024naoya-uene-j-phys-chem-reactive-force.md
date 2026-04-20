@@ -33,7 +33,6 @@ group_affiliation: true
 
 <!-- id:paper:2024naoya-uene-j-phys-chem-reactive-force -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ DFT training data for gas-phase and surface reactions; ReaxFF optimization; **fo
 ## Findings
 
 Mixed **3D cluster + 2D terrace** growth emerges; **moderate T** favors cluster persistence/growth while **excessive T** encourages desorption-dominated kinetics and thinner films; HCl chemistry is a first-class kinetic participant.
-
 
 ## Limitations
 

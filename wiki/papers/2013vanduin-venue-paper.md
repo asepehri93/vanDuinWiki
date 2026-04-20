@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2013vanduin-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Not recoverable from the mechanical p1–2 extract; see the full PDF or sibling 
 ## Findings
 
 Not recoverable from p1–2 extract text; consult full paper for case studies and benchmarks.
-
 
 ## Limitations
 

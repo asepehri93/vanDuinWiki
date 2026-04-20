@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2016yeon-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ This corpus entry points to an alternate **PDF** (**proof**/**galley**) of the *
 ## Findings
 
 - **Water-dependent** **Si–O–Si** bridging and **atom transfer** trends as summarized in the **abstract** of the extract.
-
 
 ## Limitations
 

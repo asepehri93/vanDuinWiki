@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2014islam-venue-paper-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Same ReaxFF reactive MD setup as the published JES article (abstract).
 ## Findings
 
 Matches sibling PDF abstract on gas evolution, thermal localization, and Teflon mitigation.
-
 
 ## Limitations
 

@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2014castro-marcano-journal-of-a-pyrolysis-large-scale -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ The study uses large-scale MD to run high-temperature (2000 K) ReaxFF MD on a **
 
 - Demonstrates feasibility of large-scale reactive pyrolysis with explicit molecular complexity beyond small-molecule benchmarks.
 - Provides chemically detailed trajectories of cross-link scission and early product formation under extreme heating.
-
 
 ## Limitations
 

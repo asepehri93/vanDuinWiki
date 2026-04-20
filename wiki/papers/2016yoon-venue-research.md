@@ -38,7 +38,6 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -58,7 +57,6 @@ group_affiliation: true
 ## Findings
 
 - **Dose** and **ion mass** trends for **defect density**/**pore size** summarized in the **abstract**.
-
 
 ## Limitations
 

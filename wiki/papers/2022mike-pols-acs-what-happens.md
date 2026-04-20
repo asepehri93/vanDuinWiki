@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2022mike-pols-acs-what-happens -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ ReaxFF parameterization appropriate to Cs–Pb–I (per study)/halide perovskite
 ## Findings
 
 Established **stability ordering** across several **surface types** consistent with experimental observations in the framing of the paper; degradation proceeds through staged **Pb–I connectivity** motifs; some **GB configurations** stabilize relative to pristine surfaces due to **local steric blocking** of reactive iodine species, while defect clustering generally harms stability.
-
 
 ## Limitations
 

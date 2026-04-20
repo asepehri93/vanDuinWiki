@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2014zhang-venue-jp5054277 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Zhang, van Duin, and Johnson develop a **ReaxFF** description for **\[P(C\(_4\))
 
 - IL/CO\(_2\) systems exhibit **multiple interaction strengths**; reactive FF enables unified sampling without ad hoc mixing of pre/post-reacted phases.
 - Demonstrates **CO\(_2\) capture** relevance for **ionic-liquid** screening workflows.
-
 
 ## Limitations
 

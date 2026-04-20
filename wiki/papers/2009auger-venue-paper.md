@@ -19,7 +19,6 @@ group_affiliation: false
 
 <!-- id:paper:2009auger-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

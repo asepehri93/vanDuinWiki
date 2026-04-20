@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2014senftle-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Same methodology stack as the version-of-record article: **ReaxFF** + **GC-MC/MD
 ## Findings
 
 Matches the published narrative in the proof extract (Pd/H parametrization; cluster isotherms; surface/subsurface/bulk roles; transferability to future **Pd/O/H** extensions).
-
 
 ## Limitations
 

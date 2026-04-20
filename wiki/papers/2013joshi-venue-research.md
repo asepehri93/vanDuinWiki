@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2013joshi-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -40,7 +39,6 @@ The paper introduces **Reactive Parallel Replica Dynamics (RPRD)**: a **connecti
 ## Findings
 
 - Demonstrates **long-time reactive trajectories** for a hydrocarbon pyrolysis case with experimental comparators mentioned.
-
 
 ## Limitations
 

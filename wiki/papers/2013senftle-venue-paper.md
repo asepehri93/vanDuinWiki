@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2013senftle-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ ReaxFF training against extensive QM sets; MD oxidation simulations; novel ReaxF
 ## Findings
 
 Abstract claims agreement with experimental oxidation ordering and validates both the Pd/O potential and the hybrid thermodynamic sampling approach for supported catalyst oxides.
-
 
 ## Limitations
 

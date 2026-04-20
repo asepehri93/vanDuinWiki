@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2015hong-venue-research-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,7 +46,6 @@ Identical modeling paradigm to the ASAP variant: **ReaxFF** reactive MD for **Al
 ## Findings
 
 Same headline mechanistic claims as `paper:2015hong-venue-research` (void-mediated transport acceleration; state-resolved oxidation analysis in the aims section).
-
 
 ## Limitations
 

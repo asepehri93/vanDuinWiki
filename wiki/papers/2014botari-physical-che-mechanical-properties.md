@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2014botari-physical-che-mechanical-properties -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,14 +47,9 @@ Suspended single-layer silicene is studied with DFTB and ReaxFF reactive MD alon
 
 Equilibrium with DFT (Dmol3), DFTB+, and ReaxFF; dynamical fracture with DFTB+ and ReaxFF for large cells (methodology opening, extract page 2).
 
-The article further notes that reactive molecular dynamics (using Re axFF), the mechanical properties of suspended single-layer silicene.
-
 ## Findings
 
 Introduction positions silicene as buckled group-IV cousin to graphene with lower in-plane stiffness and possible linear-chain formation during fracture; abstract promises systematic MD comparison across edges, sizes, and temperatures.
-
-
-From the abstract: we calculated the elastic constants, analyzed the fracture patterns and edge reconstructions. We also addressed the stress distributions, unbuckling mechanisms and the fracture dependence on the temperature. We analysed the diﬀerences dueto distinct edge morphologies, namely zigzag and armchair.
 
 ## Limitations
 

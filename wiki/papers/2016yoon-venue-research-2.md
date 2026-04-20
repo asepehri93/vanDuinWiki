@@ -38,7 +38,6 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-research-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -58,7 +57,6 @@ group_affiliation: true
 ## Findings
 
 - Agreement between **simulated** and **STEM** morphologies for selected **He\(^+\)**/**Ne\(^+\)** dose series; **defect-type** statistics summarized in main text.
-
 
 ## Limitations
 

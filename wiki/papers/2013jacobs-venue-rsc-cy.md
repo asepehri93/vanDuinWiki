@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2013jacobs-venue-rsc-cy -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ The ingested extract is a **RSC journal proof** (typesetter instructions and aut
 ## Findings
 
 - Not available from the proof extract.
-
 
 ## Limitations
 

@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2018vashisth-polymer-158-effect-chemical -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ The study applies an **accelerated ReaxFF** workflow—supplying energy comparab
 
 - **Good correlation** between **simulation** and **experiment** for the **thermo-mechanical** trends compared in the study.
 - **Cyclic** curing agents yield **heterogeneous** local structure that **annealing** can partly homogenize; **aliphatic** networks show more **strain-rate** dependence than **aromatic**-cured analogs in the simulations reported.
-
 
 ## Limitations
 

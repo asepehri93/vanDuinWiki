@@ -33,7 +33,6 @@ group_affiliation: true
 
 <!-- id:paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -55,7 +54,6 @@ Combining electron microscopy of cycled Si electrodes with ReaxFF modeling, this
 
 - Degradation mechanisms discussed in the literature often center lithiation stress and cracking; this work highlights experimental evidence for ongoing morphological change where **delithiation** is implicated as a dominant driver of Si migration and SEI-embedded Si structures.
 - Reframes design considerations for Si anodes toward models that treat **reversed** electrochemical steps and interfacial chemistry more explicitly.
-
 
 ## Limitations
 

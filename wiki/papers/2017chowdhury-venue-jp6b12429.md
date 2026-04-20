@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2017chowdhury-venue-jp6b12429 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ This work **retrains** the **Chenoweth et al. CHO-2008** **ReaxFF combustion** d
 
 - **CHO-2016** improves **small-molecule oxidation** energetics and fixes **low-temperature initiation** bias relative to **CHO-2008**.
 - **JP-10 decomposition Arrhenius** behavior and **n-butylbenzene** pathways remain consistent with prior expectations and experiment within stated scope.
-
 
 ## Limitations
 

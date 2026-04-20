@@ -19,7 +19,6 @@ group_affiliation: false
 
 <!-- id:paper:2013chapter6-venue-untitled -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ The normalized extract for this slug is an **RSC book proof instruction packet**
 ## Findings
 
 - Not extractable from the ingested pages.
-
 
 ## Limitations
 

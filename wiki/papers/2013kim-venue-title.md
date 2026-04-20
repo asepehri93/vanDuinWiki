@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2013kim-venue-title -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ The study simulates **~1 nm rutile and anatase TiO₂ nanoparticles** interactin
 ## Findings
 
 - Phase-dependent reactivity and solvent-induced structural distortion patterns summarized in the abstract.
-
 
 ## Limitations
 

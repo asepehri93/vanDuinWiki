@@ -27,7 +27,6 @@ group_affiliation: false
 
 <!-- id:paper:2013qaps-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,7 +46,6 @@ Amorphous membrane construction (Cerius2 Amorphous Builder / Monte Carlo build p
 ## Findings
 
 The abstract reports three-dimensional interconnected hydrophilic channels, OH⁻ residing in channels, and MD-derived diffusion coefficients and activation energies consistent with available experimental data, with qualitative mechanism discussion.
-
 
 ## Limitations
 

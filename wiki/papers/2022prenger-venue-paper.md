@@ -35,7 +35,6 @@ group_affiliation: true
 
 <!-- id:paper:2022prenger-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -55,7 +54,6 @@ Supplemental experimental materials: EDS composition tables; cyclic voltammetry 
 ## Findings
 
 Provides extended **electrochemical** and **compositional** datasets backing the main manuscript’s headline capacitance and cycling claims (see primary article for interpretation).
-
 
 ## Limitations
 

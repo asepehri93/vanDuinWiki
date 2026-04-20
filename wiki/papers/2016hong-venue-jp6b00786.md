@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2016hong-venue-jp6b00786 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,16 +46,11 @@ An **Al/C ReaxFF** is developed against **QM training sets** and exercised in **
 - **ReaxFF parameter optimization** for **Al–C–O–H** chemistry with **QM validation** data described in the paper.
 - **Reactive MD** trajectories for **deposition** sequences followed by **oxidation** stages.
 
-The article further notes that a ReaxFF parameter set for Al/C/H/O was optimized against QM training sets and validated against additional QM and literature data. Reactive MD examines hydrocarbon deposition onto aluminum nanoparticles (ANPs) and subsequent oxidation of carbon-coated ANPs. Carbonaceous deposits form on bare ANPs with hydrogen transfer to undercoordinated aluminum sites while many C–C linkages remain intact. Coated particles show reduced reactivity at low temperature but become oxidation-prone if the coating is removed at elevated temperature, consistent with experimental trends for passivation by carbonaceous layers.
-
 ## Findings
 
 - **Carbonaceous coatings** form on **bare ANPs** with **H migration** to undercoordinated **Al** without necessarily fragmenting all **C–C** frameworks (per abstract-level summary).
 - **Oxidation resistance** is **temperature-dependent**: coatings can **passivate** at low \(T\) yet fail dramatically when **removed/heated**.
 - **Qualitative agreement** with selected **experimental oxidation** observations is claimed for the modeled scenarios.
-
-
-From the abstract: the reported results show that the ReaxFF description correctly reproduced the Al/ C interaction energies obtained from the QM calculations and qualitatively captured the processes of the hydrocarbons ’ binding and their subsequent reactions on the bare ANPs. The growth of the carbon layer depended strongly on the hydrocarbon precursors that were used.
 
 ## Limitations
 

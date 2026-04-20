@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2012assowe-venue-reactive-molecular -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -40,7 +39,6 @@ The study applies **ReaxFF MD** to **Ni(111)** in contact with **liquid water** 
 
 - Field-free interface: stable water bilayer-like adsorption and **no water dissociation** in the reported conditions.
 - With field: **oxide film growth** with mechanistic interpretation based on ion transport and trajectory analysis.
-
 
 ## Limitations
 

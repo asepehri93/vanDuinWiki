@@ -35,7 +35,6 @@ group_affiliation: false
 
 <!-- id:paper:2016chemrev-venue-cr5b00644 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ Synthetic literature review (no new ReaxFF parameterization in this reference).
 
 - **Hierarchy of models** (pairwise → polarizable → explicit many-body) is tied to **accuracy vs. cost** trade-offs documented with extensive citations in the review.
 - **Recent potentials** are argued to approach a **“universal”** water model class for broad thermodynamic and structural observables when many-body physics is treated consistently.
-
 
 ## Limitations
 

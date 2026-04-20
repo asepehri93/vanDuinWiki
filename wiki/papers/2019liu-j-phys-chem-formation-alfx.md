@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2019liu-j-phys-chem-formation-alfx -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ ReaxFF development against QM structures, equations of state, and energetics for
 ## Findings
 
 ReaxFF reproduces the training QM data well. Below F/Al ≈ 3 the chemical driving force is insufficient for full volatilization of certain AlFx phases; above it, additional steps yield gaseous AlFx. Temperature and inferred discharge/voltage effects are discussed as secondary levers on product quantities.
-
 
 ## Limitations
 

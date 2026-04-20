@@ -37,7 +37,6 @@ group_affiliation: true
 
 <!-- id:paper:2022kaitlyn-prenger-acs-metal-cation -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -54,14 +53,9 @@ Experimental and modeling study of **multilayer Ti\(_3\)C\(_2\)T\(_x\)** MXene e
 
 Material synthesis/processing of intercalated multilayer Ti\(_3\)C\(_2\)T\(_x\)); electrochemical testing in aqueous acid electrolyte; complementary **AIMD** analysis (per article) involving collaborators including **van Duin** and **Jiang**.
 
-The article further notes that here, we report on using metal cation (viz., Na + , K + , and Mg 2+ ) pre-intercalated multilayer Ti 3 C 2 T x as electrodes for aqueous supercapacitors. These electrodes are scalable and amenable to roll- to-roll manufacturing, with adjustable areal loadings of 5.2 to 20.1 mg/cm 2 .
-
 ## Findings
 
 Cation choice strongly modulates capacitance vs scan rate; **K\(^+\)**-intercalated electrodes show the **highest capacitances** across rates in the comparisons highlighted. **Areal capacitance** reaches values **well above** typical delaminated MXene areal figures and competitive with microengineered electrodes (quantitative benchmarks are stated in the abstract and results).
-
-
-From the abstract: k−Ti 3 C 2 T x exhibited the highest capacitances at different scan rates. A gravimetric capacitance comparable to that of delaminated MXene of up to 300 F/g was achieved for multilayer K−Ti 3 C 2 T x but with an outstanding ultra-high areal capacitance of up to 5.7 F/cm 2 , which is 10-fold higher than the 0.5 F/cm 2 of delaminated MXene and exceeds the 4.0 F/cm 2 of microengineered MXene electrodes.
 
 ## Limitations
 

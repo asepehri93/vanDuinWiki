@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2014parsons-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ ReaxFF-fitted PES; MD/QCT for N₂(¹Σg⁺)–N₂(¹Σg⁺) collisions targeti
 ## Findings
 
 Abstract states improved nonequilibrium behavior, good agreement with equilibrium kinetics and shock data, and VHS-consistent total cross sections.
-
 
 ## Limitations
 

@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2018yang-j-phys-chem-enabling-computational -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ Zeolitic imidazolate frameworks (ZIFs) increasingly require simulations that han
 
 - Qualitative/quantitative agreement for glass formation properties for ZIF-4 glass from melt–quench.
 - Mechanistic insight into substituent effects on melting and stability across ZIF chemistries.
-
 
 ## Limitations
 

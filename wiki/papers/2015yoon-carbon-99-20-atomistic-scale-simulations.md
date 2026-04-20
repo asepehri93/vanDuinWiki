@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2015yoon-carbon-99-20-atomistic-scale-simulations -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

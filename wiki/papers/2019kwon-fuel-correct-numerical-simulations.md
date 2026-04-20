@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2019kwon-fuel-correct-numerical-simulations -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Reactive MD with ReaxFF; multi-stage simulation protocol aligned with the YSI co
 ## Findings
 
 ReaxFF captures qualitative soot-relevant chemistry consistent with known pathways for the chosen fuels. The derived YSI formulation gives values in reasonably good agreement with experiment for the cases studied, supporting use of the framework for relative sooting tendency among structurally related fuels.
-
 
 ## Limitations
 

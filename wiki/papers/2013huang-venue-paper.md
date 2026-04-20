@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2013huang-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ Reactive MD examines **chemo-mechanical fracture** of **defective zigzag (18,0) 
 ## Findings
 
 - Fracture mode maps (abrupt vs retarded) as a function of **defect size** and **Li concentration** in the opening discussion; full quantitative curves may extend beyond the partial extract.
-
 
 ## Limitations
 

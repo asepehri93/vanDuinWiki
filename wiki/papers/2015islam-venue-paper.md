@@ -26,7 +26,6 @@ group_affiliation: false
 
 <!-- id:paper:2015islam-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,7 +46,6 @@ Mojumder, Al Amin, and Islam report **classical molecular dynamics** of mechanic
 ## Findings
 
 - **Anisotropic** in-plane strength under uniaxial conditions; more **isotropic** response under equibiaxial conditions in the claims summarized by the abstract.
-
 
 ## Limitations
 

@@ -24,7 +24,6 @@ group_affiliation: true
 
 <!-- id:paper:2015golkaram-materials-di-revealing-graphene -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -44,7 +43,6 @@ Not recoverable from the current extract (proof front matter only).
 ## Findings
 
 Not recoverable from the current extract (proof front matter only).
-
 
 ## Limitations
 

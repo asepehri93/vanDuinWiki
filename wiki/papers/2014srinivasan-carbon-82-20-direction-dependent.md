@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2014srinivasan-carbon-82-20-direction-dependent -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Srinivasan and van Duin report **ReaxFF reactive MD** of **hyperthermal atomic o
 
 - **Surface orientation** strongly modulates erosion efficiency under the simulated hyperthermal O conditions.
 - Functionalization chemistry is consistent with a zoo of **C–O** moieties discussed in the LEO/diamond oxidation literature surveyed in the extract.
-
 
 ## Limitations
 

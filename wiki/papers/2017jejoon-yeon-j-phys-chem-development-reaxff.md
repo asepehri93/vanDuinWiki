@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2017jejoon-yeon-j-phys-chem-development-reaxff -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ A new **Cu/S/C/H ReaxFF** parametrization is trained to study **methyl thiolate*
 ## Findings
 
 - **C–S** bond breaking initiates decomposition; **methyl** species recombine toward **ethane** desorption as observed experimentally.
-
 
 ## Limitations
 

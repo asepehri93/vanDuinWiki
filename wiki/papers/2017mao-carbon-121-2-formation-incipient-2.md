@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2017mao-carbon-121-2-formation-incipient-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ This entry registers a second **PDF** byte match for the **Carbon** **2017** **R
 ## Findings
 
 - Same mechanistic taxonomy (**temperature**/**mass**-dependent pathways) summarized in the **published** article.
-
 
 ## Limitations
 

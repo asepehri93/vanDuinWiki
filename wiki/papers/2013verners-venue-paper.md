@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2013verners-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Constant-pressure ReaxFF MD with staged temperature ramps and follow-on cooling;
 ## Findings
 
 See summary: comparative mixing thermodynamics/kinetics, cooling disorder, and oxidation reactivity ordering (abstract in extract).
-
 
 ## Limitations
 

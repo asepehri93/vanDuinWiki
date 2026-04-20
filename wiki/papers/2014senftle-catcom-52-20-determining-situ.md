@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2014senftle-catcom-52-20-determining-situ -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Senftle, van Duin, and Janik present a **hybrid grand-canonical Monte Carlo / mo
 
 - The approach is positioned as a practical bridge between costly **DFT/ab initio thermodynamics** and nanoparticle-scale **environment-dependent** catalyst structure prediction.
 - Two highlighted applications: **oxygen uptake / oxidation** in a 3 nm Pd cluster across \(P,T\); and **hydrogen/hydrocarbon-ratio** dependent **carbide vs hydride** formation in GC-MC/MD.
-
 
 ## Limitations
 

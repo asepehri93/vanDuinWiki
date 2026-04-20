@@ -33,7 +33,6 @@ group_affiliation: true
 
 <!-- id:paper:2025krstic-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ Reactive MD with **ReaxFF** potentials benchmarked against **DFT**; supplementar
 ## Findings
 
 Chain reactions producing mixed **hydroxide/oxy** species emerge from sequential H uptake; emphasizes **sensitivity** to instantaneous atom positions and Li:O:H ratios in the near-surface region.
-
 
 ## Limitations
 

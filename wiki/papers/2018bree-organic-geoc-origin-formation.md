@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2018bree-organic-geoc-origin-formation -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ This **Organic Geochemistry** paper interprets **des-A-arborene** isomers in a *
 
 - **Des-A-arborenes** occur at **non-negligible abundance** in the Chala record; the paper argues for **specific origins** and **diagenetic** routes (details in Results/Discussion).
 - **Lake Chala** **Holocene** variability provides **environmental** framing for **triterpenoid** distributions.
-
 
 ## Limitations
 

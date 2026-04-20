@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2015kroes-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ Kroes *et al.* benchmark **single- and double-vacancy** physics in a **(10,0) zi
 ## Findings
 
 - Some **long-ranged relaxations** require large cells for both **DFT** and **ReaxFF** in specific double-vacancy configurations described in the extract.
-
 
 ## Limitations
 

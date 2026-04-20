@@ -41,7 +41,6 @@ group_affiliation: true
 
 <!-- id:paper:2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -63,7 +62,6 @@ The paper investigates **cathodic corrosion** of **bismuth** in contact with an 
 
 - **Increasingly negative** surface charge correlates with **greater surface disorder** in **ReaxFF** trajectories.
 - **Bi migration** from the **metal surface** is predicted to intensify under the **cathodic** scenarios studied, consistent with a **corrosion** picture rather than a perfectly **passive** interface.
-
 
 ## Limitations
 

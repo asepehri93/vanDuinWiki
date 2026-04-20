@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2015tavazza-venue-research-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Same as the journal publication—see **`paper:2015tavazza-venue-research`**.
 ## Findings
 
 No additional scientific claims beyond the **final article**; treat this file as **provenance for an alternate PDF**.
-
 
 ## Limitations
 

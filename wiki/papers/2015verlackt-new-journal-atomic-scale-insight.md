@@ -33,7 +33,6 @@ group_affiliation: true
 
 <!-- id:paper:2015verlackt-new-journal-atomic-scale-insight -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -54,7 +53,6 @@ group_affiliation: true
 ## Findings
 
 - The work documents **radical-induced bond cleavage / modification pathways** on DNA building blocks and discusses mechanistic implications for **ROS damage** scenarios (see article body for specific reaction channels and statistics).
-
 
 ## Limitations
 

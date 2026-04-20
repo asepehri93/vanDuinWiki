@@ -36,7 +36,6 @@ group_affiliation: true
 
 <!-- id:paper:2017osti-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ group_affiliation: true
 ## Findings
 
 - Contrasts **disordered**, nearly **bulk-like** water signals in **pristine** MXene vs **structured** slower water when **ions** occupy interlayers.
-
 
 ## Limitations
 

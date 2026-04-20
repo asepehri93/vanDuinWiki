@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2013newsome-venue-jp307680t -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Reactive MD with a Si/C/H/O ReaxFF parameterization trained to quantum data (Par
 ## Findings
 
 O₂ oxidizes SiC more efficiently than H₂O in the simulations; transport activation barriers are reported roughly in the 40–70 kJ/mol range for O₂ and 125–150 kJ/mol for H₂O. Oxidizer attack produces a growing SiO₂-rich surface and carbon migration into a carbonaceous region. EPDM simulations yield activation barriers near 183 kJ/mol (combustion) and 213 kJ/mol (pyrolysis), bracketed against experimental polymer literature near ~100–250 kJ/mol (abstract).
-
 
 ## Limitations
 

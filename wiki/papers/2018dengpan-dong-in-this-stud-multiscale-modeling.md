@@ -34,7 +34,6 @@ group_affiliation: true
 
 <!-- id:paper:2018dengpan-dong-in-this-stud-multiscale-modeling -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ This **open-access Polymers** article develops a **three-tier modeling chain** f
 
 - **Multiscale coupling** is presented as necessary to capture **morphology**, **ion correlations**, and **bond-breaking chemistry** in the same **material class**.
 - **ReaxFF** is used where **proton/hydroxide** events and **decomposition** require **explicit reactivity**.
-
 
 ## Limitations
 

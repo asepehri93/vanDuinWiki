@@ -33,7 +33,6 @@ group_affiliation: true
 
 <!-- id:paper:2018shin-venue-rsc-cp -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -55,7 +54,6 @@ This **PCCP** article develops a **ReaxFF description** for **NASICON-type LATP*
 
 - **ReaxFF** reproduces key **structural** and **transport** trends for **LATP** compositions explored in the paper.
 - Highlights **mechanistic** insight into **Li** motion coupling to **local phosphate** framework distortions.
-
 
 ## Limitations
 

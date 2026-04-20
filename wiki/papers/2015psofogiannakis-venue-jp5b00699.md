@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2015psofogiannakis-venue-jp5b00699 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ This study develops a **Cu/Si/Al/O/H ReaxFF** parameterization and applies it in
 - A **Cu/Si/Al/O/H ReaxFF** enables nanosecond-scale trajectories that resolve **hydration-driven detachment** of Cu from the zeolite framework and **intra-pore diffusion** of hydrated cations.
 - **Elevated temperature** promotes **cationic OH-bridged dimers** inside cages; dimerization temperature shifts with composition in a way consistent with higher-Cu, lower-Al materials stabilizing **[CuOH]+** precursors.
 - **Stable dimers** associate with **8-member-ring** regions adjacent to large cages in geometries that can **obstruct pore openings**, with implications for diffusion-limited steps in catalytic cycles.
-
 
 ## Limitations
 

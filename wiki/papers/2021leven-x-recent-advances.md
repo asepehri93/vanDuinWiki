@@ -38,7 +38,6 @@ group_affiliation: true
 
 <!-- id:paper:2021leven-x-recent-advances -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -58,7 +57,6 @@ Review article; same scope as [[2021itai-leven-j-chem-theor-recent-advances]].
 ## Findings
 
 Editorial content matches the published article; minor formatting differences vs the publisher PDF possible.
-
 
 ## Limitations
 

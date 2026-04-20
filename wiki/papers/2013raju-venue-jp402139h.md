@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2013raju-venue-jp402139h -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Ti/O/H ReaxFF with bond-order-dependent valence and nonbonded terms as summarize
 ## Findings
 
 Abstract states agreement of ReaxFF adsorption motifs with prior theory and experiment, complex coverage-dependent water distributions, and a correlation between dissociation extent and O–H stretch red shift tied to hydrogen bonding to outer water layers.
-
 
 ## Limitations
 

@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2021lele-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ Same scientific content as the version-of-record file (`Lele_Fuel_2021.pdf`).
 ## Findings
 
 Matches the published abstract in the extract; prefer the finalized PDF for pagination and editorial corrections.
-
 
 ## Limitations
 

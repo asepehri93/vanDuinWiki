@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2013huang-venue-paper-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ This slug corresponds to an **AIP author proof** PDF for the same article summar
 ## Findings
 
 - Same scientific claims as `2013huang-venue-paper` for the overlapping excerpt.
-
 
 ## Limitations
 

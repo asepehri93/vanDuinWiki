@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2013yang-chemical-phy-self-weakening-lithiated -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ Details are not on pages 1–2 beyond “reactive force field” / ReaxFF-class 
 ## Findings
 
 Highlights-only extract: coupling of diffusion and mechanical degradation at cracks in lithiated graphene electrode models.
-
 
 ## Limitations
 

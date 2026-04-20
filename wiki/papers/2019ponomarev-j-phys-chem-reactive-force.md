@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2019ponomarev-j-phys-chem-reactive-force -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ ReaxFF fitting to QM and experimental thermochemistry; validation against AIMD; 
 ## Findings
 
 Good agreement on targeted thermochemical metrics; pyrolysis trajectories reproduce key observations and help interpret “free carbon” and glassy SiCO morphology at the atomistic level.
-
 
 ## Limitations
 

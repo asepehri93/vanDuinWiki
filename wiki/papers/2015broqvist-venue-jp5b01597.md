@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2015broqvist-venue-jp5b01597 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ Broqvist *et al.* introduce a **ReaxFF** parametrization for **CeO\(_2\)** and *
 ## Findings
 
 - Emphasis on **oxygen vacancy** energetics and **reduction**-driven reconstructions rather than fixed-charge shell models that cannot change **oxidation state character** dynamically.
-
 
 ## Limitations
 

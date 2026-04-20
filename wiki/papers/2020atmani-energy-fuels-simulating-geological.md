@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2020atmani-energy-fuels-simulating-geological -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ Replica-exchange MD (not ReaxFF-specific in the abstract) to sample conversion o
 ## Findings
 
 Clear lignin vs cellulose split on yields and methane; large mechanical and porosity contrast between derived kerogens.
-
 
 ## Limitations
 

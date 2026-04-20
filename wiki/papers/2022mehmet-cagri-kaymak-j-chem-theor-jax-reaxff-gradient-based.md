@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2022mehmet-cagri-kaymak-j-chem-theor-jax-reaxff-gradient-based -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ Derivation/implementation of differentiable ReaxFF error metrics; JAX-based auto
 ## Findings
 
 Gradient-driven optimization plus accelerators reduces representative optimization runtimes from **days to minutes** in cases highlighted; multi-start strategy mitigates nonconvexity; framework supports exploratory modifications to the reactive FF formulation when paired with rapid re-optimization.
-
 
 ## Limitations
 

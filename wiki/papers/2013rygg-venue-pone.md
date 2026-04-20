@@ -26,7 +26,6 @@ group_affiliation: true
 
 <!-- id:paper:2013rygg-venue-pone -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -46,7 +45,6 @@ MD with simplified mucin representation; comparison of freshwater and saltwater 
 ## Findings
 
 Abstract summarizes mucus preference in fresh water, reversal in salt water, correlation with hydrophobicity, and the conclusion that fish underwater olfaction likely lacks large chromatographic separation compared to terrestrial nasal deposition.
-
 
 ## Limitations
 

@@ -19,7 +19,6 @@ group_affiliation: false
 
 <!-- id:paper:2013lith-rev-csr-venue-rsc-cs -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -34,12 +33,11 @@ This **Chem. Soc. Rev.** article reviews **computational studies of Li-ion and N
 
 ## Methods
 
-- Review article: summarizes **DFT** and **potential-based MD/static lattice** approaches and their typical observables (Fig. 1 referenced as a methods map).
+- Review article: summarizes **DFT** and **potential-based MD/static lattice** approaches and their typical observables; the review opens with a **methods overview schematic** that maps common modeling choices.
 
 ## Findings
 
 - Frames how atomistic modeling supports interpretation of **electrochemical**, **transport**, and **nano** phenomena in cathode materials; detailed case studies continue beyond the excerpt.
-
 
 ## Limitations
 

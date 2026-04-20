@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2018lotfi-journal-of-m-comparative-study -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -54,7 +53,6 @@ This **Journal of Materials Chemistry A** article compares **oxidation** of **2D
 
 - **Environment-dependent** oxidation rates and **product distributions** are reported for **Ti₃C₂** models.
 - Highlights **practical sensitivity** of **MXene** samples to **O₂/H₂O** exposure consistent with community experience.
-
 
 ## Limitations
 

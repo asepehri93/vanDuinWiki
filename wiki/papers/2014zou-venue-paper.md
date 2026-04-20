@@ -21,7 +21,6 @@ group_affiliation: false
 
 <!-- id:paper:2014zou-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -41,7 +40,6 @@ Not recoverable from the current extract (proof front matter only).
 ## Findings
 
 Not recoverable from the current extract (proof front matter only).
-
 
 ## Limitations
 

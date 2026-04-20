@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2013ijemcp1202-1-5739-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ This review-style article (Begell House journal) explains how **nonreactive forc
 ## Findings
 
 - Positions ReaxFF as a practical bridge for **reactive dynamics** in energetics when QM is too expensive.
-
 
 ## Limitations
 

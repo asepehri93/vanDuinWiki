@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2016gai-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -55,7 +54,6 @@ The study combines **hybrid grand canonical Monte Carlo with reactive MD (GCMC/R
 - **Adsorption isotherms** map how **O and H** populate **surface, subsurface, and bulk** regions as a function of imposed **gas-phase potential**.
 - **Pt(321)** tests indicate **transferable** qualitative performance for **step/kink** sites not explicitly in the training data (as claimed in the abstract narrative).
 - Results are cross-compared to **DFT and experiment** where available in the article body.
-
 
 ## Limitations
 

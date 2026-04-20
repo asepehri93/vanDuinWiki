@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2013russo-venue-jp403511q -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Extensions to an existing C/H/O/N hypergolic ReaxFF database with new training o
 ## Findings
 
 After training, ReaxFF matches QM reaction energies within several kcal/mol for most DNB steps; terminal NO₂ loss dominates high-temperature single-molecule decomposition. Mixture simulations motivate composition-dependent “sharp” energy release associated with hypergolic behavior (abstract; methods excerpt).
-
 
 ## Limitations
 

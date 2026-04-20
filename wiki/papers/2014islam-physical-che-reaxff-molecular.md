@@ -34,7 +34,6 @@ group_affiliation: true
 
 <!-- id:paper:2014islam-physical-che-reaxff-molecular -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -54,7 +53,6 @@ New ReaxFF potential for Li–S; MD mechanical and diffusion sampling; GCMC for 
 ## Findings
 
 Abstract reports nonlinear strengthening with lithiation, computed diffusivities across Li loading, OCV discharge profile construction, and phase diagram compilation framing sulfur cathode design.
-
 
 ## Limitations
 

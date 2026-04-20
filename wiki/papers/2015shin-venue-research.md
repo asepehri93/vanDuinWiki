@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2015shin-venue-research -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,16 +49,11 @@ A **Fe/Cr/O/S ReaxFF** is parameterized from **QM data** and applied to **high-t
 - **ReaxFF development** with QM training on **Fe/Cr/O/S** chemistry.
 - **Reactive MD** at **1600 K** on model catalyst slabs with and without **FeS2** patches.
 
-The article further notes that the Fe/Cr/O/S ReaxFF parameterization is fit to QM data. Reactive trajectories for butane oxidation on Cr oxide at 1600 K emphasize surface oxygen species in dehydrogenation and C–O coupling; radical intermediates combine with lattice oxygen to form partial oxygenates and light alkenes, with formaldehyde prominent on clean chromia under the quoted conditions.
-
 ## Findings
 
 - **Cr-oxide** catalyzes **dehydrogenation** and oxygen insertion, with **CH2O** emphasized as a major product on **clean** surfaces under the simulated conditions reported in the abstract.
 - **FeS2** on chromia **accelerates complete oxidation** to **CO2/CO** and is associated with **surface restructuring** and altered **oxygen speciation**.
 - **Reoxidation** pathways differ between **clean** and **pyrite-modified** surfaces; **SOH**-related desorption appears on the modified oxide.
-
-
-From the abstract: dehydrogenation of butane, which is found to be catalyzed by oxygen species on the oxide surface, initiates the reaction and generates butane radicals and surface OH groups. On the other hand, on the modi ﬁed Cr-oxide, it is found that a considerable amount of SOH molecules are released from the surface. The presence of iron pyrite (FeS 2), a common inorganic component in coal-derived fuels and a major slagging component, on Cr-oxide accelerates the complete oxidation of butane forming CO 2 and CO. Surface reconstruction by iron pyrite is probably responsible for the change of the catalytic behavior. Reoxidation of the reduced oxide surface can occur through removal of surface H 2O and adsorption of gaseous molecular oxygen at the vacancy sites on the clean Cr-oxide. These results can provide the detailed mechanisms for the catalytic oxidation of alkane and product distributions in Cr-oxide catalyst and give, for the ﬁrst time, atomistic-scale insight in the complex surface chemistry of these catalysts under realistic operating conditions.
 
 ## Limitations
 

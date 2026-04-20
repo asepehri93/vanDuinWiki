@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2012jeon-venue-rsc-cp -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ The ingested extract for this slug is a **journal proof** (typesetter queries) w
 ## Findings
 
 - Not available in this proof extract; defer to **`2012jeon-venue-rsc-cp-2`** or the full PDF.
-
 
 ## Limitations
 

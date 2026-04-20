@@ -34,7 +34,6 @@ group_affiliation: true
 
 <!-- id:paper:2016kiwi-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -57,7 +56,6 @@ group_affiliation: true
 - **Defect-free CNT**: **interfacial He accumulation** without trans-wall leakage in the baseline scenario summarized in the abstract.
 - **Defective CNT**: **He penetration** and **fast axial transport** enabling **outgassing** pathways.
 - Positions **CNT metal-matrix composites** as candidates for **He-management** in **irradiated structural metals**.
-
 
 ## Limitations
 

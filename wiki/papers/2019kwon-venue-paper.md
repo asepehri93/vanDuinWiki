@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2019kwon-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Same as the published article: ReaxFF MD, multi-stage YSI-style workflow, toluen
 ## Findings
 
 Content aligns with the corrected-proof / final article; use the primary paper entry for bibliographic preference unless collation against this proof is required.
-
 
 ## Limitations
 

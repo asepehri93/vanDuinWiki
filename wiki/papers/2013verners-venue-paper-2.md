@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2013verners-venue-paper-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Constant-pressure ReaxFF MD with 300–3000 K ramps and 3000–300 K cooling; ox
 ## Findings
 
 Matches galley abstract: Ni matrix mixes at lower temperature; Al–Ni more stable than Al–Fe; differing optimal Al grain sizes; Fe solidifies at lower T on the simulated cooling rate; oxidation reactivity hierarchy as stated above.
-
 
 ## Limitations
 

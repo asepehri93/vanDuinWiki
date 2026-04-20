@@ -36,7 +36,6 @@ group_affiliation: true
 
 <!-- id:paper:2022sengul-physical-che-atomistic-level -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ Experimental cold-sintered **LATP** samples paired with **ReaxFF** simulations o
 ## Findings
 
 Dissolution is not a simple uniform ion release: **phosphate removal** destabilizes the NASICON framework; **Li** exits early (common to NASICON types); subsequent **polymerization/condensation** chemistry among **AlO\(_x\)** and **PO\(_4\)**-derived species gates rate and triggers **secondary phase** formation; overall picture is **sequential** and strongly pathway-dependent.
-
 
 ## Limitations
 

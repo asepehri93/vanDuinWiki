@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2012jeon-venue-rsc-cp-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -41,7 +40,6 @@ This PCCP study uses **ReaxFF reactive MD** to investigate **early-stage oxidati
 - Orientation-dependent oxidation rates and a two-stage kinetic picture (fast initial stage transitioning to slower growth).
 - Estimated **O diffusion** barriers in relaxed oxide from high-temperature Arrhenius fits (values quoted above).
 - Electric field: helps early oxidation kinetics; limited impact on final oxide thermochemistry in the claims excerpted.
-
 
 ## Limitations
 

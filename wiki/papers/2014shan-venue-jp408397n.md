@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2014shan-venue-jp408397n -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Shan, van Duin, and Thompson report a **ReaxFF** reparameterization for **ammoni
 
 - AN is positioned as an **energetic ionic crystal** with multiple solid phases; phase **IV** is the room-temperature focus.
 - The manuscript contrasts multiple experimental **Hugoniot** parametrizations from the literature to motivate scatter and modeling challenges.
-
 
 ## Limitations
 

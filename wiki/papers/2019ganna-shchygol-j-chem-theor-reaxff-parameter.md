@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2019ganna-shchygol-j-chem-theor-reaxff-parameter -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ The paper **benchmarks three global optimization strategies** for **ReaxFF param
 
 - **Optimization** outcomes are **seed-sensitive**; **best practices** and **default settings** per method are recommended in the article.
 - **Training-set design** and **noise control** materially affect **stability** of fitted **parameters** and **interpretability** of **error** metrics.
-
 
 ## Limitations
 

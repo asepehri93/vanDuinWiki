@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2015weismiller-modelling-an-reaxff-molecular -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ group_affiliation: true
 
 - The article traces **time-resolved populations** of key **intermediate species** linking **acid–base chemistry** to **oxidizer-rich decomposition** channels (consult PDF figures for quantitative timelines).
 - **Mechanistic narratives** emphasize how **ReaxFF** captures **bond rearrangements** absent in fixed-bond combustion models.
-
 
 ## Limitations
 

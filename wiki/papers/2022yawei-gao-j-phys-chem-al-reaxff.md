@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2022yawei-gao-j-phys-chem-al-reaxff -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ ReaxFF training against **QM** data and selected experimental constraints; MD sa
 ## Findings
 
 Demonstrates **transferability** across temperature windows; quantifies **poling/deformation** interplay for **ferroelectric β** promotion; maps multi-step **fluorination/oxidation** sequences at alumina interfaces consistent with expected pyrolysis product hierarchy.
-
 
 ## Limitations
 

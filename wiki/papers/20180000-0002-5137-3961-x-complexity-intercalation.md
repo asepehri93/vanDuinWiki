@@ -35,7 +35,6 @@ group_affiliation: true
 
 <!-- id:paper:20180000-0002-5137-3961-x-complexity-intercalation -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -58,7 +57,6 @@ This **Journal of the American Chemical Society** study probes **urea intercalat
 - **Urea** under intercalation conditions **decomposes** rather than persisting as a simple molecular guest; **INS** signatures support **intercalated ammonium**-type species after transformation.
 - **CO₂** is observed **experimentally**, aligning with **oxidation / decomposition** channels discussed in the paper.
 - **ReaxFF** simulations provide **mechanistic context** (pathways and relative energetics) for how **guest–MXene** interactions drive **chemical change** in the interlayer.
-
 
 ## Limitations
 

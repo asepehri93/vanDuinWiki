@@ -26,7 +26,6 @@ group_affiliation: true
 
 <!-- id:paper:2020zhang-venue-si-rev2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -41,12 +40,11 @@ Revised **supporting information** for atomistic ReaxFF-based work on **graphene
 
 ## Methods
 
-Supplementary validation and visualization for the main Chem. Mater. article (cite the primary paper for scientific conclusions).
+Additional **DFT–ReaxFF comparisons**, **surface termination** comparisons (Si- vs C-terminated SiC), **defect and grain-boundary** imagery, and **video captions** for growth trajectories—supporting material for the Chem. Mater. article identified by the DOI above.
 
 ## Findings
 
-Provides extended numerical and structural evidence backing the main text; no substitute for the article’s narrative and parameter discussion.
-
+The SI extends the main text with **extra figures and structural snapshots**; quantitative conclusions and the full reactive setup belong with the **journal article** at the same DOI, not in this file alone.
 
 ## Limitations
 

@@ -26,7 +26,6 @@ group_affiliation: false
 
 <!-- id:paper:2016kumar-j-phys-chem-jz6b00091 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ This **JPCL** study uses **many-body perturbation theory (G0W0)** to quantify ho
 - **Interface interactions** materially **shift frontier orbital energies** vs vacuum/PCM benchmarks in the reported datasets.
 - **Large dipole solvents** show the strongest **gap narrowing** under the interaction models used.
 - Authors recommend incorporating **interfacial corrections** into **electrolyte screening** workflows for **multivalent** chemistries.
-
 
 ## Limitations
 

@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2018zhong-journal-of-a-sulfur-removal -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -54,7 +53,6 @@ group_affiliation: true
 
 - **Gas evolution** features include **H₂O** (low-T), **volatiles**, then **CO₂/H₂**, **CO/SO₂** at higher **T**, and trace **CS₂**; **COS/H₂S** are **absent or below detection** under the reported conditions.
 - **ReaxFF** trajectories suggest a **multi-step** **S removal** sequence from **thiophenic** sulfur toward **small** **S-bearing** intermediates and ultimately **SO₂** / **CS₂**-class products, consistent with the **TG-MS** picture.
-
 
 ## Limitations
 

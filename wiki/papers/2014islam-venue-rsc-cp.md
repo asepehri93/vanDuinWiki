@@ -34,7 +34,6 @@ group_affiliation: true
 
 <!-- id:paper:2014islam-venue-rsc-cp -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -54,7 +53,6 @@ See the published PCCP entry for methodology; not reprinted in the proof-first p
 ## Findings
 
 See sibling paper page for scientific results; proof extract lacks abstract body beyond short fragments.
-
 
 ## Limitations
 

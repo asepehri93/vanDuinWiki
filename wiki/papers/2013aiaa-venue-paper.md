@@ -19,7 +19,6 @@ group_affiliation: true
 
 <!-- id:paper:2013aiaa-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,6 @@ This manuscript (AIAA-associated) models **thermal accommodation** of a **nitrog
 ## Findings
 
 - Provides a framework linking MD collision outcomes to **accommodation coefficient** concepts; numeric results are not fully contained in the pages 1–2 extract.
-
 
 ## Limitations
 

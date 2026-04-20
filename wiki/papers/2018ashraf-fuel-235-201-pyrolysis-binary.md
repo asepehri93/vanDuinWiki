@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2018ashraf-fuel-235-201-pyrolysis-binary -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Supercritical pressures in propulsion/combustion hardware invalidate low-P Arrhe
 
 - Mixture behavior is not governed only by the lowest activation-energy component; product distributions mediate cross-reactivity.
 - Highlights when continuum kinetics miss pressure-dependent pathways accessible in atomistic simulation.
-
 
 ## Limitations
 

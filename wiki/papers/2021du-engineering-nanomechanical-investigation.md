@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2021du-engineering-nanomechanical-investigation -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ ReaxFF molecular dynamics; porous a-SiO2 samples with shaped pores and oriented 
 ## Findings
 
 Pore morphology is a primary knob on E and G_IC besides crack orientation; qualitative failure maps emphasize stress localization patterns.
-
 
 ## Limitations
 

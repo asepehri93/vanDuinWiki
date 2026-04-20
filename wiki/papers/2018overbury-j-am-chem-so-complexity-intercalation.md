@@ -35,7 +35,6 @@ group_affiliation: true
 
 <!-- id:paper:2018overbury-j-am-chem-so-complexity-intercalation -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -58,7 +57,6 @@ This **JACS** article combines **inelastic neutron scattering**, **infrared spec
 - **Urea decomposition** upon interaction/intercalation with **Ti₃C₂Tₓ** is supported by **spectroscopic** evidence and interpreted with **atomistic** models.
 - **Ammonium-like** species appear as a **stable intercalation product** in the experimental INS comparison framework described in the paper.
 - **Reactive MD** links **microscopic events** (bond breaking, proton transfer, decarboxylation channels as analyzed in the article) to **macroscopic observables**.
-
 
 ## Limitations
 

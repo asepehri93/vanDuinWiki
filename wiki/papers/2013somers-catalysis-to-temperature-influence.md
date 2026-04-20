@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2013somers-catalysis-to-temperature-influence -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Reactive MD with ReaxFF studies **CHx impacts on Ni(111)** from 400–1600 K to 
 
 - Strong temperature threshold for efficient H2 formation after hydrocarbon fragment impacts.
 - Provides mechanistic detail complementing continuum plasma–catalyst models.
-
 
 ## Limitations
 

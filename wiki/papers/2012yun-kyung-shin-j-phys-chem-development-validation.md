@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2012yun-kyung-shin-j-phys-chem-development-validation -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ A ReaxFF parameterization for **Fe–Al–Ni** alloys is derived from QM data on
 ## Findings
 
 - Cohesive picture of mechanical and transport properties plus surface chemistry for model alloy systems under a single reactive FF.
-
 
 ## Limitations
 

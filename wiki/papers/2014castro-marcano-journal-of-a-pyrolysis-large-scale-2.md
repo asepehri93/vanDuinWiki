@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2014castro-marcano-journal-of-a-pyrolysis-large-scale-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ Large-scale reactive MD with documented ReaxFF coal chemistry; comparative sulfu
 ## Findings
 
 Abstract details product classes, molecular weight shift, differential heterocycle decomposition percentages, and accelerated kinetics with sulfur present.
-
 
 ## Limitations
 

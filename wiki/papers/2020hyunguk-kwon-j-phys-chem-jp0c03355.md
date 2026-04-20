@@ -36,7 +36,6 @@ group_affiliation: true
 
 <!-- id:paper:2020hyunguk-kwon-j-phys-chem-jp0c03355 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,7 +55,6 @@ ReaxFF NVT simulations with a methane-rich radical pool framework; QM energy sur
 ## Findings
 
 Consistent story between ReaxFF and QM on key intermediates and relative sooting propensity for the three amines.
-
 
 ## Limitations
 

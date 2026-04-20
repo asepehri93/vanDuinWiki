@@ -27,7 +27,6 @@ group_affiliation: false
 
 <!-- id:paper:2016dyilmaz-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -50,7 +49,6 @@ group_affiliation: false
 - Reported moduli are **~226 GPa (disordered)** vs **~311 GPa (crystalline)** in the abstract’s numerical examples.
 - **Core–shell** moduli scale approximately **linearly** with the crystalline area fraction according to the proposed order parameter.
 - **Failure** begins at **domain boundaries** separating ordered regions.
-
 
 ## Limitations
 

@@ -26,7 +26,6 @@ group_affiliation: true
 
 <!-- id:paper:2014wood-venue-jp406248m -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Wood, van Duin, and Strachan use **ReaxFF MD** to study **α-HMX** decomposition
 
 - **Field frequency/strength** and **thermal ramp rate** alter early decomposition timing and energy accounting in the abstract-level claims.
 - Parameter checks quoted: **NO\(_2\)** dissociation energy close to DFT; **HONO** vs **concerted ring-opening** pathways differ in exothermicity and barrier, influencing initiation pathway discussion.
-
 
 ## Limitations
 

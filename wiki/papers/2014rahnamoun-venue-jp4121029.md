@@ -27,7 +27,6 @@ group_affiliation: true
 
 <!-- id:paper:2014rahnamoun-venue-jp4121029 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,7 +46,6 @@ Large-scale reactive MD with ReaxFF bond-order dynamics for polymer, fluoropolym
 ## Findings
 
 Abstract summarizes relative erosion resistance, silicon additive benefit, and heat-transfer coupling to disintegration extent.
-
 
 ## Limitations
 

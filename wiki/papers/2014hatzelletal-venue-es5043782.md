@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2014hatzelletal-venue-es5043782 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Macro electrochemical characterization of functionalized carbons plus molecular 
 ## Findings
 
 Abstract quantifies rise-potential range versus acid loading (59 ± 4 mV down to −31 ± 5 mV) and oxidation experiment on YP50 carbon (46 ± 2 mV to −6 ± 0.5 mV) with ~4.4× whole-cell potential gain.
-
 
 ## Limitations
 

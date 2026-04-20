@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2016yeon-venue-la5b04062 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ group_affiliation: true
 
 - **Water amount** strongly modulates **atom transfer** across the interface and **Si–O–Si** bridge formation.
 - Results rationalize non-monotonic **RH** effects on **silicon wear** discussed in experimental literature cited in the article.
-
 
 ## Limitations
 

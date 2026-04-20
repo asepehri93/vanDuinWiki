@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2015islam-physical-che-interactions-hydrogen -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ Islam *et al.* study **hydrogen embrittlement (HE)** phenomena in **α-iron**, *
 
 - **Diffusion coefficients** for hydrogen in ferrite and cementite phases are reported in the abstract framing as supporting subsequent interface decohesion analysis.
 - **Work of separation** decreases with increasing hydrogen concentration at the **ferrite–cementite** interface, interpreted as **hydrogen-assisted decohesion** behavior consistent with experimental expectations cited in the introduction.
-
 
 ## Limitations
 

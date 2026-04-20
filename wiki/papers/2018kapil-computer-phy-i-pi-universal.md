@@ -51,7 +51,6 @@ group_affiliation: false
 
 <!-- id:paper:2018kapil-computer-phy-i-pi-universal -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -71,7 +70,6 @@ group_affiliation: false
 ## Findings
 
 - Documents **capabilities new to i-PI 2.0** relative to earlier releases and provides **usage patterns** for **PIMD** and related **advanced sampling**.
-
 
 ## Limitations
 

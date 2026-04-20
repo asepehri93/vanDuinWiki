@@ -30,7 +30,6 @@ group_affiliation: true
 
 <!-- id:paper:2017zhang-carbon-115-2-weakening-effect -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -51,7 +50,6 @@ group_affiliation: true
 
 - **Catalyst oxidation state** switches failure mechanism and **critical stress** relative to **Ni-free** interfaces.
 - Quantitative weakening up to roughly **half** the baseline strength reported for **pure Ni** scenarios (see article for measured simulation metrics).
-
 
 ## Limitations
 

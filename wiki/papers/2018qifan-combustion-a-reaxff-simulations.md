@@ -31,7 +31,6 @@ group_affiliation: true
 
 <!-- id:paper:2018qifan-combustion-a-reaxff-simulations -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -53,7 +52,6 @@ group_affiliation: true
 
 - Identifies **mechanistic families** for **sulfur elimination** under **pyrolysis vs combustion** conditions (see paper figures for species timelines).
 - Provides **ReaxFF-based** interpretation complementary to **TG-MS**-style experimental narratives referenced in the title/abstract framing.
-
 
 ## Limitations
 

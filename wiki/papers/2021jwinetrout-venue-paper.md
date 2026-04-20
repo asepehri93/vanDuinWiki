@@ -32,7 +32,6 @@ group_affiliation: true
 
 <!-- id:paper:2021jwinetrout-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ Morse-bond reactive scheme on top of IFF; demonstration MD for stress–strain t
 ## Findings
 
 Reported agreement for structures, surface energies, moduli, and strengths versus available references in the document; positions IFF-R as a lighter alternative when full bond-order reactive models are unnecessary.
-
 
 ## Limitations
 

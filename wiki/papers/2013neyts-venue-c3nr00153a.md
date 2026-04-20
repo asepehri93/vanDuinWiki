@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2013neyts-venue-c3nr00153a -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -46,14 +45,9 @@ Hybrid reactive MD with uniform acceptance force-bias Monte Carlo (MD/UFMC) is u
 
 State-of-the-art hybrid MD/UFMC with the same ReaxFF line as prior Ni(111) graphene work (Meng et al., cited in text). Ni(100) is chosen because polycrystalline Ni often exposes (100) after synthesis. The manuscript contrasts unrealistically high flux in pure MD with the UFMC-modulated sampling (introduction, extract pages 1–2).
 
-The article further notes that in this work, we have deliberately chosen to simulate the growth on the Ni(100) facet, instead of the more stable Ni(111) facet, since it is known that on poly-Ni substrates, the most abundant (110) direction, in addition to the (100) and (111) directions, is transformed into the most abundant (100) direc- tion aer graphene synthesis. 26 Note that the Ni(100) surface is less closely packed compared to the Ni(111) structure. Experimentally, it is known that in the segregation process of graphene on nickel surfaces, typically multiple graphene layers are formed. 3,27 This is a direct consequence of the relatively high solubility of carbon in bulk nickel, of about 2.7 at% at the eutectic point (1600 K) and 0.9 at% at about 900 K. In the subsurface region, the solubility is even much higher, reaching up to 25%, corresponding to the metastable Ni 3C composi- tion.20,28 Limiting the amount of carbon that can dissolve in the nickel might therefore avoid the formation of multiple layers and therefore result in single-layer graphene growth.
-
 ## Findings
 
 Simulations predict nearly continuous graphene layers at 900 K and above under the modeled high-flux conditions. The discussion ties carbon solubility in Ni and subsurface saturation ideas to limiting multilayer growth and enabling single-layer formation (abstract; introduction).
-
-
-From the abstract: there- fore, the carbon di ﬀusion barriers for segregation will be smaller on the Ni(100) surface. In this scenario, advantage is taken of the relatively high barrier for di ﬀusion of surface adsorbed carbon into the bulk of the nickel substrate and for di ﬀusion from the bulk to the surface, which has an overall value of about 2.33 eV. 31 In this paper, we demonstrate that such a rapid saturation indeed lea. The most straightforward way to accomplish this would be to reduce the thickness of the nickel lm. However, while physical vapor deposited nickel lms as thin as 1 nm have previously been used for CNT synthesis 29,30 such thin lms inevitably form clusters when heated. Alternatively, the dissolution of carbon in the lm may also be limited by very rapidly saturating the upper layers of the lm, before di ﬀusion to the bulk takes place.
 
 ## Limitations
 

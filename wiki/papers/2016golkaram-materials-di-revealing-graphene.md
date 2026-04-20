@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2016golkaram-materials-di-revealing-graphene -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -49,7 +48,6 @@ group_affiliation: true
 ## Findings
 
 - The publication argues for specific **GO–membrane interaction and reaction mechanisms** as drivers of **toxicological response** (consult figures/tables in `papers/Golkaram_MD_2016.pdf` for quantitative claims).
-
 
 ## Limitations
 

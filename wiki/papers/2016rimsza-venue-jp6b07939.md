@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2016rimsza-venue-jp6b07939 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ group_affiliation: true
 - Competing **reaction pathways** and **intermediate** structures govern **2-ring defect** removal and **hydroxylation** rates.
 - **Nanoconfinement** reduces **water diffusion**; **H** can diffuse faster than **O** via **hopping**-like behavior.
 - **Yeon et al.** parametrization aligns more closely with **AIMD** for the targeted **Si/O/H** chemistry.
-
 
 ## Limitations
 

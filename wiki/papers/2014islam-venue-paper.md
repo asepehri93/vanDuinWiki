@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2014islam-venue-paper -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Reactive MD with explicit Li, SWCNT, TEGDME chemistry; Teflon-treated surface va
 ## Findings
 
 Abstract summarizes gas evolution, thermal localization, and mitigating effect of Teflon on reactivity.
-
 
 ## Limitations
 

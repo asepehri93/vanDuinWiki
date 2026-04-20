@@ -26,7 +26,6 @@ group_affiliation: false
 
 <!-- id:paper:2019leven-j-phys-chem-gem-coarse-grained -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -46,7 +45,6 @@ Coarse-grained electron model with Gaussian charge distributions; energy minimiz
 ## Findings
 
 High accuracy for electrostatic potential on tested sets; correct qualitative behavior for HCl dissociation in different environments. The approach limits unphysical long-range charge transfer compared with some classical charge models and can represent features such as sigma holes when charge is not strictly atom-centered.
-
 
 ## Limitations
 

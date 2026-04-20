@@ -29,7 +29,6 @@ group_affiliation: true
 
 <!-- id:paper:2015verners-computationa-al2o3-nanoslab -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

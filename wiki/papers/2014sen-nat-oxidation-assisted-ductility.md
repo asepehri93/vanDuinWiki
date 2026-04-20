@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2014sen-nat-oxidation-assisted-ductility -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -52,7 +51,6 @@ Oxidation changes the mechanics of high surface-to-volume aluminium nanowires (N
 - The **oxide shell** is associated with lower dislocation nucleation stress in the core via larger activation volume and more nucleation sites.
 - **Superplastic-like** response of the amorphous oxide is attributed to viscous flow enabled by **oxygen diffusion** repairing Al–O bond scission when the strain rate stays below a critical value relative to oxidation.
 - The manuscript develops a picture where **MD strain rates** and **simulated oxidation rates** are scaled to preserve ratios relevant to experiment despite orders-of-magnitude acceleration inherent to atomistic oxidation MD.
-
 
 ## Limitations
 

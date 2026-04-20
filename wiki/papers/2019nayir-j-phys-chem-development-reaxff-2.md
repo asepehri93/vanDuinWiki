@@ -28,7 +28,6 @@ group_affiliation: true
 
 <!-- id:paper:2019nayir-j-phys-chem-development-reaxff-2 -->
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,7 +47,6 @@ Large QM-guided training for Si/O/H; construction of amorphous silica at experim
 ## Findings
 
 O migration in bulk Si follows BC–BC hops in the (110) plane with a split-like saddle, initiation of significant diffusion above roughly 1400 K in their analysis, and temperature-dependent diffusion coefficients in broad agreement with experiment. a-SiO2 density matches experiment closely.
-
 
 ## Limitations
 
