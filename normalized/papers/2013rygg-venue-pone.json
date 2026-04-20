@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013rygg-venue-pone",
+  "manifest": {
+    "source_path": "papers/Rygg_PLOSone_2013.pdf",
+    "sha256": "46ad69e287bdebb6c54184165391ac59f21a333f0e19b0d7341e31ba7932b657",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1371/journal.pone.0072271",
+    "title": "pone.0072271 1..9",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Rygg_PLOSone_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013rygg-venue-pone_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013rygg-venue-pone.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

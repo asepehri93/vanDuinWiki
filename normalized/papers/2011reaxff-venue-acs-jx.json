@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011reaxff-venue-acs-jx",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/ReaxFF_lg.pdf",
+    "sha256": "0579728040a35c9179732c67cd3d3db782f39103bc70c15f2f132a22ccb26cfd",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp201599t",
+    "title": "acs_JX_jp-2011-01599t 1..7",
+    "year": 2011,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/ReaxFF_lg.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011reaxff-venue-acs-jx_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011reaxff-venue-acs-jx.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

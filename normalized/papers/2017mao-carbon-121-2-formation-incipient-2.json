@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017mao-carbon-121-2-formation-incipient-2",
+  "manifest": {
+    "source_path": "papers/QianMao_Carbon_Soot_2017.pdf",
+    "sha256": "a2b84fd4d5c2a30f28325de6e2b897b06245a6ef0c68d77937989012dea150ab",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Formation of incipient soot particles from polycyclic aromatic hydrocarbons: A ReaxFF molecular dynamics study",
+    "year": 2017,
+    "authors": "Qian Mao",
+    "venue": "Carbon, 121 (2017) 380-388. doi:10.1016/j.carbon.2017.06.009"
+  },
+  "pdf_path": "papers/QianMao_Carbon_Soot_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017mao-carbon-121-2-formation-incipient-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017mao-carbon-121-2-formation-incipient-2.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

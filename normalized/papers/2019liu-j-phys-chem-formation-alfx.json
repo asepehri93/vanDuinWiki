@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2019liu-j-phys-chem-formation-alfx",
+  "manifest": {
+    "source_path": "papers/Liu_AlF_etching_JPCC_2019.pdf",
+    "sha256": "bf9a5e02f4dd35b3e74d1360d81465ab696811f32921e1092cbe255e977f654f",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.9b03957",
+    "title": "Formation of AlFx Gaseous Phases during High Temperature Etching: A Reactive Force Field Based Molecular Dynamics Study",
+    "year": 2019,
+    "authors": "Yongli Liu; Yang Qi; Xianwei Hu; Adri C. T. van Duin",
+    "venue": "J. Phys. Chem. C 2019.123:16823-16835"
+  },
+  "pdf_path": "papers/Liu_AlF_etching_JPCC_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019liu-j-phys-chem-formation-alfx_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "AlFx",
+    "aluminum fluoride",
+    "high-temperature etching"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019liu-j-phys-chem-formation-alfx.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

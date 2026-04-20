@@ -1,0 +1,71 @@
+# MkDocs site for GitHub Pages — browseable wiki under wiki/
+site_name: vanDuinWiki
+site_description: Computational chemistry knowledge base (papers, concepts, materials, force fields)
+site_author: vanDuinWiki
+site_url: https://asepehri93.github.io/vanDuinWiki/
+repo_url: https://github.com/asepehri93/vanDuinWiki
+repo_name: asepehri93/vanDuinWiki
+edit_uri: edit/main/wiki/
+
+docs_dir: wiki
+site_dir: site
+
+exclude_docs: |
+  _templates/**
+  **/._*
+
+validation:
+  nav:
+    omitted_files: ignore
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - ezlinks:
+      wikilinks: true
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Synthesis:
+      - ReaxFF family: forcefields/reaxff-family.md
+      - Batteries & interfaces: concepts/batteries-interfaces-reaxff.md
+      - Graphene / nanocarbon: materials/graphene-nanocarbon.md
+  - Papers: papers/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/asepehri93/vanDuinWiki

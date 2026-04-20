@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018zhong-journal-of-a-sulfur-removal",
+  "manifest": {
+    "source_path": "papers/Zhong_PetCoke_JAAP_2018.pdf",
+    "sha256": "199ace13e1bce743988e34fad7d85b2f1903300ec85f6669fcc63c5eac7f8992",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Sulfur removal from petroleum coke during high-temperature pyrolysis. Analysis from TG-MS data and ReaxFF simulations",
+    "year": 2018,
+    "authors": "Qifan Zhong",
+    "venue": "Journal of Analytical and Applied Pyrolysis, 132 (2018) 134-142. doi:10.1016/j.jaap.2018.03.007"
+  },
+  "pdf_path": "papers/Zhong_PetCoke_JAAP_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018zhong-journal-of-a-sulfur-removal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018zhong-journal-of-a-sulfur-removal.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

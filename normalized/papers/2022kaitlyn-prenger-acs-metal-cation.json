@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022kaitlyn-prenger-acs-metal-cation",
+  "manifest": {
+    "source_path": "papers/Prenger_ACS_AEM_2022.pdf",
+    "sha256": "4c7e81c6d9802463873bd712737f8b35d8721d953930d8f1450c77f002ec3c77",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Metal Cation Pre-Intercalated Ti3C2Tx MXene as Ultra-High Areal Capacitance Electrodes for Aqueous Supercapacitors",
+    "year": 2022,
+    "authors": "Kaitlyn Prenger, Yangunli Sun, Karthik Ganeshan, Ameer Al-Temimy, Kun Liang, Chaochao Dun, Jeffrey J. Urban, Jie Xiao, Tristan Petit, Adri C. T. van Duin, De-en Jiang, and Michael Naguib",
+    "venue": "ACS Appl. Energy Mater. 2022.5:9373-9382"
+  },
+  "pdf_path": "papers/Prenger_ACS_AEM_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022kaitlyn-prenger-acs-metal-cation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022kaitlyn-prenger-acs-metal-cation.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

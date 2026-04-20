@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018yang-j-phys-chem-prediction-glass",
+  "manifest": {
+    "source_path": "papers/Yang_ZIF_JPCL_2018.pdf",
+    "sha256": "8b60ae242d6f9839444651f5816696194c3b0bdf2f21399ff9eccacae714ca01",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Prediction of the Glass Transition Temperatures of Zeolitic Imidazolate Glasses through Topological Constraint Theory",
+    "year": 2018,
+    "authors": "Yongjian Yang; Collin J. Wilkinson; Kuo-Hao Lee; Karan Doss; Thomas D. Bennett; Yun Kyung Shin; Adri C. T. van Duin; John C. Mauro",
+    "venue": "J. Phys. Chem. Lett. 2018.9:6985-6990"
+  },
+  "pdf_path": "papers/Yang_ZIF_JPCL_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018yang-j-phys-chem-prediction-glass_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018yang-j-phys-chem-prediction-glass.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

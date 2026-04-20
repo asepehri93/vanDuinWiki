@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018kapil-computer-phy-i-pi-universal",
+  "manifest": {
+    "source_path": "papers/Others/Kapil_PIMD_2019.pdf",
+    "sha256": "413940892ee3e27869b7546f945d41ed61c160bf0321e0a0c3aa93eb441e8d2b",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "i-PI 2.0: A universal force engine for advanced molecular simulations",
+    "year": 2018,
+    "authors": "Venkat Kapil ",
+    "venue": "Computer Physics Communications, 236 (2019) 214-223. doi:10.1016/j.cpc.2018.09.020"
+  },
+  "pdf_path": "papers/Others/Kapil_PIMD_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018kapil-computer-phy-i-pi-universal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018kapil-computer-phy-i-pi-universal.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

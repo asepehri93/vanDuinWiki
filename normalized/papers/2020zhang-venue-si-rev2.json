@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2020zhang-venue-si-rev2",
+  "manifest": {
+    "source_path": "papers/Zhang_ChemMat_2020_SI.pdf",
+    "sha256": "9528c4fed888d897a3f20fce194828d8feaed89ce9f66b9d6e0d2f1dc3327618",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.chemmater.0c02121",
+    "title": "Supporting information: Atomistic-scale simulations of graphene growth on silicon carbide (revised)",
+    "year": 2020,
+    "authors": "Weiwei Zhang; Adri C. T. van Duin",
+    "venue": "SI for Chem. Mater. 2020, 32, 8306-8317; parent DOI"
+  },
+  "pdf_path": "papers/Zhang_ChemMat_2020_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020zhang-venue-si-rev2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 1214
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "graphene",
+    "SiC",
+    "CVD",
+    "thermal decomposition"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020zhang-venue-si-rev2.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

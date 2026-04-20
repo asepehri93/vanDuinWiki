@@ -1,0 +1,189 @@
+# vanDuinWiki canonical tags — seed for Phase 2 (revise after Phase 3 profiling)
+# Every entry id MUST match pattern: axis:slug  (slug = lowercase [a-z0-9-]+)
+# Use these strings in wiki frontmatter `canonical_tags` only.
+
+version: 1
+seed_note: "Phase 3 corpus profiling may add, merge, or deprecate tags; update synonyms.yml when renaming."
+
+axes:
+  domain:
+    description: Research theme or application area (what the work is about).
+  method:
+    description: Primary simulation or theory methodology.
+  material:
+    description: Coarse material or system class (use dedicated material pages for specifics).
+  task:
+    description: What the paper or page is doing (parameterization vs application, etc.).
+  scale:
+    description: Length/time modeling scale when it matters for retrieval.
+
+tags:
+  # --- domain (corpus-derived buckets + group scope) ---
+  - id: domain:reactive-md
+    label: Reactive molecular dynamics
+    description: Bond-forming/breaking MD, reactive FF applications not limited to one parameter set.
+    see_also: [method:reaxff]
+  - id: domain:reaxff-lineage
+    label: ReaxFF family development and extensions
+    description: Parameterization, training sets, ReaxFF/eReaxFF variants, validation studies.
+  - id: domain:classical-ff-specialized
+    label: Specialized classical or empirical force fields
+    description: Non-ReaxFF empirical fits, hybrid schemes, CEMFF-like lines where distinct from generic classical MD.
+  - id: domain:batteries-electrochemistry
+    label: Batteries and electrochemical interfaces
+    description: Li/Na systems, sulfides, interphases, electrolytes, NASICON-class, etc.
+  - id: domain:oxides-ceramics
+    label: Oxides and ceramic surfaces
+    description: SiOx, TiO2, AlOx, GeOx, ceria, corrosion, dissolution, thin films.
+  - id: domain:2d-layered
+    label: Two-dimensional and layered materials
+    description: TMDs, silicene, BN, graphene-related stacks.
+  - id: domain:carbon-hydrocarbon
+    label: Carbon materials and hydrocarbons
+    description: Soot, DLC, graphite, PAHs, fuel-related carbon chemistry.
+  - id: domain:catalysis-surfaces
+    label: Catalysis and surface reactions
+    description: Metal/oxide catalysts, adsorption, reaction pathways on surfaces.
+  - id: domain:ferroelectrics-polar
+    label: Ferroelectrics and polar dielectrics
+    description: Perovskites, polymer ferroelectrics, high-k organics where polar order matters.
+  - id: domain:water-silica-geo
+    label: Water, silica, and geochemical interfaces
+    description: Clays, minerals, environmental aqueous interfaces.
+  - id: domain:organics-polymers-pyrolysis
+    label: Organics, polymers, pyrolysis, combustion
+    description: CHO chemistry, polymers, energetic materials, high-T decomposition.
+  - id: domain:mechanics-tribology
+    label: Mechanics, fracture, tribology, nanoindentation
+    description: Mechanical response with or without chemical reaction pathways.
+  - id: domain:ml-atomistic
+    label: Machine-learned interatomic potentials and data-driven atomistics
+    description: Neural potentials, Allegro-style models, dataset construction for MLIPs.
+  - id: domain:methods-software
+    label: Methods, algorithms, and software ecosystem
+    description: Accelerators, integrators, LAMMPS ecosystem papers, tutorials without a single material focus.
+  - id: domain:fuel-combustion
+    label: Fuels and combustion chemistry
+    description: Soot precursors, fuel oxidation, flame-relevant chemistry when not generic organics.
+  - id: domain:alloys-metallurgy
+    label: Alloys and metallic systems
+    description: NiAl, steel-related, metallic glasses when distinct from catalysis-only metal surfaces.
+
+  # --- method ---
+  - id: method:reaxff
+    label: ReaxFF (bond-order reactive FF)
+    description: Standard ReaxFF formulation and fits.
+  - id: method:ereaxff
+    label: eReaxFF / charge-equilibration extensions
+    description: Polarizable or charge-on-the-fly extensions along ReaxFF lines.
+  - id: method:classical-md
+    label: Classical non-reactive MD
+    description: Fixed-bond FF molecular dynamics.
+  - id: method:aimd
+    label: Ab initio molecular dynamics
+    description: Car-Parrinello, Born-Oppenheimer AIMD, DFT-MD.
+  - id: method:dft-static
+    label: Static DFT (0 K, no MD)
+    description: Electronic structure for energies, barriers, NEB, etc.
+  - id: method:hybrid-qmmm
+    label: Hybrid QM/MM or multi-scale QM+classical
+    description: Partitioned schemes linking quantum and molecular mechanics.
+  - id: method:semiempirical-tightbinding
+    label: Semi-empirical or tight-binding electronic structure
+    description: Where used as engine for MD or fitting.
+  - id: method:reactive-md-generic
+    label: Reactive MD (general)
+    description: When methodology is reactive but not ReaxFF-specific.
+  - id: method:ml-potential
+    label: Machine-learned potential (inference)
+    description: Using trained neural or kernel potentials for MD.
+  - id: method:pimd
+    label: Path-integral MD / nuclear quantum effects
+    description: When nuclear quantization is central.
+  - id: method:monte-carlo
+    label: Monte Carlo sampling
+    description: Configurational or kinetic Monte Carlo relevant to materials.
+  - id: method:continuum-or-mesoscale
+    label: Continuum or mesoscale (coupled to atomistics)
+    description: When atomistic data feeds or couples to larger-scale models.
+  - id: method:enhanced-sampling
+    label: Enhanced sampling (metadynamics, umbrella, etc.)
+    description: When rare events or free energy methods are central.
+
+  # --- material (coarse) ---
+  - id: material:oxide
+    label: Oxides (generic)
+    description: Broad oxide systems when not using a finer tag.
+  - id: material:silicate-glass
+    label: Silicates and glasses
+    description: Silica-rich networks, gels, alkali silicates.
+  - id: material:perovskite-oxide
+    label: Perovskites and related oxides
+    description: ABO3 families, ferroelectric perovskites.
+  - id: material:tmd
+    label: Transition metal dichalcogenides
+    description: MoS2, WS2, etc.
+  - id: material:graphene-carbon-nano
+    label: Graphene, nanotubes, nanocarbon
+    description: sp2 carbon nanostructures.
+  - id: material:hexagonal-boron-nitride
+    label: Hexagonal boron nitride and BN nanostructures
+    description: BN sheets, nanotubes.
+  - id: material:polymer-organic
+    label: Polymers and organic condensed phases
+    description: PVDF-like, hydrocarbon polymers, organics.
+  - id: material:li-metal-anode
+    label: Lithium metal and Li interfaces
+    description: Anode-side Li electrochemistry.
+  - id: material:sulfur-cathode
+    label: Sulfur and polysulfides (batteries)
+    description: Li-S chemistry focus.
+  - id: material:ceramic-electrolyte
+    label: Ceramic and solid electrolytes
+    description: NASICON, LLZO-class, oxide ion conductors (when electrolyte-focused).
+  - id: material:metal-surface
+    label: Metal surfaces and nanoparticles
+    description: Noble or transition metal facets in catalysis or wetting.
+  - id: material:widegap-semiconductor
+    label: Wide-gap semiconductors (non-oxide)
+    description: III-V, 2D semiconductors when not TMD-specific.
+  - id: material:zeolite-porous
+    label: Zeolites and microporous frameworks
+    description: Confined acid/base chemistry, adsorption in pores.
+  - id: material:cement-mineral
+    label: Cementitious and hydrated mineral systems
+    description: C-S-H, Portland chemistry when present in corpus.
+  - id: material:alloy-bulk
+    label: Bulk alloys and intermetallics
+    description: Structural metals and defects away from surface-only catalysis.
+
+  # --- task ---
+  - id: task:parameterization
+    label: Force-field or model parameterization
+    description: Fitting to QM or experiment.
+  - id: task:validation
+    label: Validation and benchmarking
+    description: Comparing to DFT, experiment, or reference data.
+  - id: task:application
+    label: Application study
+    description: Using established methods on new systems or conditions.
+  - id: task:method-development
+    label: Method or algorithm development
+    description: New formulations, integrators, parallelization, ML architecture.
+  - id: task:review
+    label: Review, perspective, or tutorial
+    description: Synthetic overview without primary new calculations (still cite sources in wiki).
+  - id: task:software
+    label: Software release or capability paper
+    description: Package, interface, workflow tooling.
+  - id: task:experiment-integrated
+    label: Integrated experiment and computation
+    description: When experiments drive or validate models as a main thread.
+
+  # --- scale ---
+  - id: scale:atomistic
+    label: Atomistic (dominant)
+    description: Primary claims are at atomic resolution.
+  - id: scale:multiscale
+    label: Multiscale or coupled resolutions
+    description: Explicit coupling across scales in one study.

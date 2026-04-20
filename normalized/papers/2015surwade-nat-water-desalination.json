@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2015surwade-nat-water-desalination",
+  "manifest": {
+    "source_path": "papers/Others/nnano.2015.37.pdf",
+    "sha256": "c742f307d5cd24fdc5bbe6ac7bc61eafa53abacfd9fc91cf813bb3b3e1678bff",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Water desalination using nanoporous single-layer graphene",
+    "year": 2015,
+    "authors": "Sumedh P. Surwade",
+    "venue": "Nature Nanotechnology (2015). doi:10.1038/nnano.2015.37"
+  },
+  "pdf_path": "papers/Others/nnano.2015.37.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015surwade-nat-water-desalination_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "graphene",
+    "nanopores",
+    "desalination",
+    "membrane"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015surwade-nat-water-desalination.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

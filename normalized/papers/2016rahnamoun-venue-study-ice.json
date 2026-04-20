@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016rahnamoun-venue-study-ice",
+  "manifest": {
+    "source_path": "papers/Rahnamoun_JAP_2016.pdf",
+    "sha256": "6d98de3d50f6099e3101f965173da0fc23186c21b93c454939a2cc113f1b7772",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4942997",
+    "title": "Study of ice cluster impacts on amorphous silica using the ReaxFF reactive force field molecular dynamics simulation method",
+    "year": 2016,
+    "authors": "A. Rahnamoun",
+    "venue": null
+  },
+  "pdf_path": "papers/Rahnamoun_JAP_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016rahnamoun-venue-study-ice_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 7018
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016rahnamoun-venue-study-ice.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

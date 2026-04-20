@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2020atmani-energy-fuels-simulating-geological",
+  "manifest": {
+    "source_path": "papers/Atmani_Energy_Fuels_2020.pdf",
+    "sha256": "674ecf2e14ba2eaa0b2fb16b062171ea44fe9b25dac962344857b603b93cf9b2",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.energyfuels.9b03681",
+    "title": "Simulating the Geological Fate of Terrestrial Organic Matter: Lignin vs Cellulose",
+    "year": 2020,
+    "authors": "Lea Atmani; Pierre-Louis Valdenaire; Roland J.-M. Pellenq; Christophe Bichara; Henri Van Damme; Adri C. T. van Duin; Franz J. Ulm; Jean-Marc Leyssale",
+    "venue": "Energy Fuels 2020.34:1537-1547"
+  },
+  "pdf_path": "papers/Atmani_Energy_Fuels_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020atmani-energy-fuels-simulating-geological_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "replica-exchange MD",
+    "lignin",
+    "cellulose",
+    "kerogen",
+    "methane"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020atmani-energy-fuels-simulating-geological.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

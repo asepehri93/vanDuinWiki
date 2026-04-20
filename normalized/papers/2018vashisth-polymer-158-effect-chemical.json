@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018vashisth-polymer-158-effect-chemical",
+  "manifest": {
+    "source_path": "papers/Vashisth_Polymer_2018.pdf",
+    "sha256": "1e523d319a9ee43282c071af159e307f727f4d78bf2f2ade50d74598c7b503be",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Effect of chemical structure on thermo-mechanical properties of epoxy polymers_ Comparison of accelerated ReaxFF simulations and experiments",
+    "year": 2018,
+    "authors": "Aniruddh Vashisth",
+    "venue": "Polymer, 158 (2018) 354-363. doi:10.1016/j.polymer.2018.11.005"
+  },
+  "pdf_path": "papers/Vashisth_Polymer_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018vashisth-polymer-158-effect-chemical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018vashisth-polymer-158-effect-chemical.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

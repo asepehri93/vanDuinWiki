@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013neyts-venue-c3nr00153a",
+  "manifest": {
+    "source_path": "papers/Neyts_Nanoscale_2013.pdf",
+    "sha256": "5af3f1bcafc215281a3807638ae203441d0f584f9fbe91552ab92e9540005bbb",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "C3NR00153A 7250..7255",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Neyts_Nanoscale_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013neyts-venue-c3nr00153a_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013neyts-venue-c3nr00153a.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

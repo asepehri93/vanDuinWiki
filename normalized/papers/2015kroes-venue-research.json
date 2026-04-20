@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015kroes-venue-research",
+  "manifest": {
+    "source_path": "papers/Kroes_JCTC_2015.pdf",
+    "sha256": "660d367b29ad38918cbf1afd9bf0533552ee1a069f8c19c7fc7fa976650c734c",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..8",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Kroes_JCTC_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015kroes-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015kroes-venue-research.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

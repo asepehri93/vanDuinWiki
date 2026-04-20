@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016rassoulinejad-mousav-venue-evaluation-copper",
+  "manifest": {
+    "source_path": "papers/Others/NiAl_review.pdf",
+    "sha256": "b6ae7c5b4b19a1be8fa68071c41052abdb7bea921532021cceef71d643c49e79",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4953676",
+    "title": "Evaluation of copper, aluminum, and nickel interatomic potentials on predicting the elastic properties",
+    "year": 2016,
+    "authors": "Seyed Moein Rassoulinejad-Mousavi",
+    "venue": null
+  },
+  "pdf_path": "papers/Others/NiAl_review.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016rassoulinejad-mousav-venue-evaluation-copper_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 6856
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016rassoulinejad-mousav-venue-evaluation-copper.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

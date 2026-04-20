@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2019kwon-fuel-correct-numerical-simulations",
+  "manifest": {
+    "source_path": "papers/Kwon_Fuel_2019_online.pdf",
+    "sha256": "8c7353e44798d865ca22090ecbec03d6cfa40a400f308afc2fede75c1ecb5662",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.fuel.2019.116545",
+    "title": "Numerical simulations of yield-based sooting tendencies of aromatic fuels using ReaxFF molecular dynamics",
+    "year": 2019,
+    "authors": "Hyunguk Kwon",
+    "venue": "Fuel, Corrected Proof, 116545. doi:10.1016/j.fuel.2019.116545"
+  },
+  "pdf_path": "papers/Kwon_Fuel_2019_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019kwon-fuel-correct-numerical-simulations_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "Yield Sooting Index",
+    "aromatic fuels",
+    "toluene",
+    "phenol"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019kwon-fuel-correct-numerical-simulations.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

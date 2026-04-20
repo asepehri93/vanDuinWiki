@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016yeon-venue-research",
+  "manifest": {
+    "source_path": "papers/Yeon_Langmuir_2016_proof.pdf",
+    "sha256": "6aa4134fd17775c8e6e41266f6cdb1159f82a0fde5aed255f71614da68ce9292",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..9",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Yeon_Langmuir_2016_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016yeon-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016yeon-venue-research.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

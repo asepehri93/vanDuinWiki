@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014rahnamoun-venue-jp4121029",
+  "manifest": {
+    "source_path": "papers/Rahnamoun_Kapton_JPCA_2014.pdf",
+    "sha256": "93cc87a97c87e24e54e52e12848c934fa661ccf1620434cbd45f07e2e2a13193",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp4121029 1..8",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Rahnamoun_Kapton_JPCA_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014rahnamoun-venue-jp4121029_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014rahnamoun-venue-jp4121029.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

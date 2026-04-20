@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2021lele-fuel-297-202-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Lele_Fuel_2021.pdf",
+    "sha256": "aeb707b4d10d8e5eed09c5d2cbb594b3ee08d60caceb904c43f4e9b33d4ae468",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.fuel.2021.120724",
+    "title": "ReaxFF molecular dynamics study on pyrolysis of bicyclic compounds for aviation fuel",
+    "year": 2021,
+    "authors": "Aditya Lele",
+    "venue": "Fuel, 297 (2021) 120724. doi:10.1016/j.fuel.2021.120724"
+  },
+  "pdf_path": "papers/Lele_Fuel_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021lele-fuel-297-202-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "aviation fuel",
+    "pyrolysis",
+    "bicyclic compounds",
+    "JP-10"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021lele-fuel-297-202-reaxff-molecular.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

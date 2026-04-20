@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018muralikrishna-raju-nanoscale-20-atomistic-continuum",
+  "manifest": {
+    "source_path": "papers/Raju_Nanoscale_2018.pdf",
+    "sha256": "9dd462ce05d18bbde5d613ca28d9d6b74376f7bf9367f70f1d73905c52dc3c4d",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c7nr07963j",
+    "title": "Atomistic and continuum scale modeling of functionalized graphyne membranes for water desalination",
+    "year": 2018,
+    "authors": "Muralikrishna Raju, Pavan B. Govindaraju, Adri C. T. van Duin, Matthias Ihme",
+    "venue": "Nanoscale (2018), 10, 3969-3980, doi:10.1039/c7nr07963j"
+  },
+  "pdf_path": "papers/Raju_Nanoscale_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018muralikrishna-raju-nanoscale-20-atomistic-continuum_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018muralikrishna-raju-nanoscale-20-atomistic-continuum.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

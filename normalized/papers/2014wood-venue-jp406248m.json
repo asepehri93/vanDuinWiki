@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014wood-venue-jp406248m",
+  "manifest": {
+    "source_path": "papers/Wood_HMX_JPCA_2014.pdf",
+    "sha256": "4e5c3ea0d176293776252e8d2caef7e7009088aa1a7c69555413075ef9a91bc0",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp406248m 1..11",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Wood_HMX_JPCA_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014wood-venue-jp406248m_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014wood-venue-jp406248m.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

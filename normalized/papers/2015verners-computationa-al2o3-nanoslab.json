@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015verners-computationa-al2o3-nanoslab",
+  "manifest": {
+    "source_path": "papers/Verners_CompMatSci_2015.pdf",
+    "sha256": "b19713853cce68af6cd13b9dfa8dfa6542b795cf3c0f0e20f0f94a8bc1c7ce12",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Î±-Al2O3 nanoslab fracture and fatigue behavior",
+    "year": 2015,
+    "authors": "Osvalds Verners",
+    "venue": "Computational Materials Science, 103 (2015) 38-44. doi:10.1016/j.commatsci.2015.02.048"
+  },
+  "pdf_path": "papers/Verners_CompMatSci_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015verners-computationa-al2o3-nanoslab_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015verners-computationa-al2o3-nanoslab.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

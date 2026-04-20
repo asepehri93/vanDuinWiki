@@ -1,0 +1,1682 @@
+{
+  "generated_at": "2026-04-20T16:16:50.334879+00:00",
+  "papers_dir": "/Volumes/Extreme Pro/vanDuinWiki/papers",
+  "pdf_count": 190,
+  "max_pages_per_pdf": 2,
+  "journal_hints_from_filename": {
+    "PCCP": 15,
+    "JPCA": 15,
+    "ACS": 12,
+    "JPCC": 11,
+    "CARBON": 9,
+    "JCTC": 7,
+    "JCP": 6,
+    "FUEL": 6,
+    "LANGMUIR": 4,
+    "NAT": 3,
+    "JPCL": 2
+  },
+  "years_from_filename": {
+    "2010": 1,
+    "2012": 5,
+    "2013": 20,
+    "2014": 21,
+    "2015": 22,
+    "2016": 18,
+    "2017": 10,
+    "2018": 23,
+    "2019": 15,
+    "2020": 7,
+    "2021": 7,
+    "2022": 7,
+    "2023": 4,
+    "2024": 4,
+    "2025": 2
+  },
+  "top_terms_from_first_pages": [
+    "reaxff",
+    "energy",
+    "surface",
+    "force",
+    "simulations",
+    "chemical",
+    "molecular",
+    "reactive",
+    "water",
+    "bond",
+    "materials",
+    "university",
+    "atoms",
+    "dynamics",
+    "eld",
+    "properties",
+    "potential",
+    "mechanical",
+    "interactions",
+    "formation",
+    "study",
+    "state",
+    "method",
+    "system",
+    "carbon",
+    "high",
+    "temperature",
+    "oxidation",
+    "van",
+    "graphene",
+    "simulation",
+    "systems",
+    "methods",
+    "oxygen",
+    "pennsylvania",
+    "model",
+    "results",
+    "reaction",
+    "however",
+    "department",
+    "structure",
+    "engineering",
+    "experimental",
+    "parameters",
+    "reactions",
+    "based",
+    "oxide",
+    "article",
+    "surfaces",
+    "chemistry",
+    "molecules",
+    "order",
+    "org",
+    "dft",
+    "studies",
+    "atomic",
+    "during",
+    "more",
+    "density",
+    "structures",
+    "due",
+    "charge",
+    "calculations",
+    "metal",
+    "work",
+    "data",
+    "computational",
+    "set",
+    "developed",
+    "process",
+    "energies",
+    "chem",
+    "phase",
+    "hydrogen",
+    "through",
+    "functional",
+    "phys",
+    "atom",
+    "duin",
+    "found"
+  ],
+  "top_bigrams_from_snippets": [
+    "duin van",
+    "adri van",
+    "pennsylvania state",
+    "state university",
+    "dynamics molecular",
+    "engineering pennsylvania",
+    "department mechanical",
+    "mechanical nuclear",
+    "engineering nuclear",
+    "park university",
+    "university university",
+    "chem phys",
+    "states united",
+    "force reactive",
+    "field force",
+    "park pennsylvania",
+    "pennsylvania united",
+    "reactive reaxff",
+    "department duin",
+    "dynamics simulations",
+    "cite phys",
+    "dynamics study",
+    "molecular reactive",
+    "department states",
+    "chem chem",
+    "information supporting",
+    "contents lists",
+    "available lists",
+    "com elsevier",
+    "department physics",
+    "chemical engineering",
+    "available sciencedirect",
+    "engineering science",
+    "chemical department",
+    "com locate",
+    "molecular reaxff",
+    "materials science",
+    "kyung yun",
+    "kyung shin",
+    "development reaxff"
+  ],
+  "files": [
+    {
+      "path": "papers/Achtyl_NatureComm_2015.pdf",
+      "chars_extracted": 10800,
+      "snippet": "ARTICLE Received 5 Nov 2014 | Accepted 6 Feb 2015 | Published 17 Mar 2015 Aqueous proton transfer across single-layer graphene Jennifer L. Achtyl 1, Raymond R. Unocic 2, Lijun Xu 3, Yu Cai 3, Muralikrishna Raju 5, Weiwei Zhang 6, Robert L. Sacci 7, Ivan V. Vlassiouk 7, Pasquale F. Fulvio 8,9, Panchapakesan Ganesh 2, David J. Wesolowski 9, Sheng Dai 9, Adri C.T. van Duin 6, Matthew Neurock 3,4 & Fr",
+      "extract_error": null,
+      "journal_hint_from_filename": "NAT",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Afif_CompMatSci_2013.pdf",
+      "chars_extracted": 11123,
+      "snippet": "Author's personal copy A reactive force-\ufb01eld for Zirconium and Hafnium Di-Boride A\ufb01f Gouissema, Wu Fana, Adri C.T. van Duinc, Pradeep Sharmaa,b,\u21d1 aDepartment of Mechanical Engineering, University of Houston, Cullen College of Engineering, Engineering Building 1, Houston, TX 77204, USA bDepartment of Physics, University of Houston, 617 Science & Research Building 1, Houston, TX 77204, USA cDepartme",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/AIAA_Abstract_NeillMehta.pdf",
+      "chars_extracted": 4047,
+      "snippet": "Molecular Dynamics Studies of Thermal Accommodation on Carbon Structures Neil Mehta\u2217, Deborah A. Levin \u2020and, Adri C.T. van Duin \u2021 I. Introduction Pathogens pose a signi\ufb01cant risk to human lives because of their ability to infect quickly and survive in a variety of environments. The bacillus anthracis spores causes anthrax, which is a fatal disease among human beings and animals. These spores can b",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Akbarian_JCP_2020_eReaxFF.pdf",
+      "chars_extracted": 5221,
+      "snippet": "J. Chem. Phys. 154, 024904 (2021); https://doi.org/10.1063/5.0033645 154, 024904 \u00a9 2021 Author(s). Atomistic-scale insight into the polyethylene electrical breakdown: An eReaxFF molecular dynamics study Cite as: J. Chem. Phys. 154, 024904 (2021); https://doi.org/10.1063/5.0033645 Submitted: 19 October 2020 . Accepted: 13 December 2020 . Published Online: 11 January 2021 Dooman Akbarian, Karthik Ga",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCP",
+      "year_hint_from_filename": 2020
+    },
+    {
+      "path": "papers/Akbarian_PCCP_BaTiO3_2019.pdf",
+      "chars_extracted": 10707,
+      "snippet": "18240 | Phys. Chem. Chem. Phys., 2019, 21, 18240- -18249 This journal is\u00a9 the Owner Societies 2019 Cite this: Phys. Chem. Chem. Phys., 2019, 21,1 8 2 4 0 Understanding the influence of defects and surface chemistry on ferroelectric switching: a ReaxFF investigation of BaTiO 3\u2020 Dooman Akbarian, a Dundar E. Yilmaz, a Ye Cao, be P. Ganesh, *b Ismaila Dabo, c Jason Munro, c Renee Van Ginhoven d and Ad",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Akbarian_Polymer_2019.pdf",
+      "chars_extracted": 10442,
+      "snippet": "Polymer 183 (2019) 121901 Available online 12 October 2019 0032-3861/\u00a9 2019 Elsevier Ltd. All rights reserved. Atomistic-scale insights into the crosslinking of polyethylene induced by peroxides Dooman Akbarian a , Hossein Hamedi b , Behzad Damirchi a , Dundar E. Yilmaz a , Katheryn Penrod c , W.H. Hunter Woodward d , Jonathan Moore d , Michael T. Lanagan e , Adri C. T. van Duin a , b , c , e , * ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Aktulga_MSU-CSE-15-16.pdf",
+      "chars_extracted": 6332,
+      "snippet": "1 Optimizing the Performance of Reactive Molecular Dynamics Simulations for Multi-core Architectures Hasan Metin Aktulga, Chris Knight, Paul Coffman, Tzu-Ray Shan, Wei Jiang Abstract Hybrid parallelism allows high performance computing applications to better leverage the increasing on-node parallelism of modern supercomputers. In this paper, we present a hybrid parallel implementation of the widel",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Aral_PCCP_FeO_OH_2018.pdf",
+      "chars_extracted": 11690,
+      "snippet": "This journal is\u00a9 the Owner Societies 2018 Phys. Chem. Chem. Phys., 2018, 20, 17289- -17303 | 17289 Cite this: Phys. Chem. Chem. Phys., 2018, 20,1 7 2 8 9 Oxyhydroxide of metallic nanowires in a molecular H 2O and H 2O2 environment and their e\ufb00ects on mechanical properties Gurcan Aral, *a Md Mahbubul Islam, b Yun-Jiang Wang, c Shigenobu Ogata de and Adri C. T. van Duin f To avoid unexpected environ",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Ashraf_CHO_2017_JPCA_SI.pdf",
+      "chars_extracted": 1229,
+      "snippet": "Additional Comparison of QM/experimental and ReaxFF Data Included in the ReaxFF Training Set Supporting information for the manuscript \u201cExtension of ReaxFF Combustion Force Field Towards Syngas Combustion and Initial Oxidation Kinetics\u201d by Chowdhury Ashraf and Adri C.T. van Duin Table 1: Comparison of reaction energies obtained from QM and ReaxFF CHO-2016 Reaction CHO-2016 QM Dehydrogenetion + 4 H",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Ashraf_Shabnam_Fuel_2018.pdf",
+      "chars_extracted": 12872,
+      "snippet": "Contents lists available at ScienceDirect Fuel journal homepage: www.elsevier.com/locate/fuel Full Length Article Pyrolysis of binary fuel mixtures at supercritical conditions: A ReaxFF molecular dynamics study Chowdhury Ashraf, Sharmin Shabnam, Abhishek Jain, Yuan Xuan, Adri C.T. van Duin \u204e Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, PA 16",
+      "extract_error": null,
+      "journal_hint_from_filename": "FUEL",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Assowe_JPCA_2012.pdf",
+      "chars_extracted": 11868,
+      "snippet": "Reactive Molecular Dynamics of the Initial Oxidation Stages of Ni(111) in Pure Water: E \ufb00ect of an Applied Electric Field O. Assowe, *,\u2020 O. Politano, \u2020,\u22a5 V. Vignal, \u2020 P. Arnoux, \u2021 B. Diawara, \u00a7 O. Verners, \u2225 and A. C. T. van Duin \u2225 \u2020ICB, Universite \u0301de Bourgogne, UMR 6303 CNRS, 9 Avenue A. Savary, Dijon, France \u2021CEA, DEN, DPC, SCCME, Laboratoire d \u2019 Etude de la Corrosion Aqueuse, F-91191 Gif-sur-Y",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2012
+    },
+    {
+      "path": "papers/Atmani_Energy_Fuels_2020.pdf",
+      "chars_extracted": 9983,
+      "snippet": "Simulating the Geological Fate of Terrestrial Organic Matter: Lignin vs Cellulose Lea Atmani, Pierre-Louis Valdenaire, Roland J.-M. Pellenq, Christophe Bichara, Henri Van Damme, Adri C. T. van Duin, Franz J. Ulm, and Jean-Marc Leyssale * Cite This: Energy Fuels 2020, 34, 1537 \u22121547 Read Online ACCESS Metrics & More Article Recommendations ABSTRACT: While shale gas has become a major source of ener",
+      "extract_error": null,
+      "journal_hint_from_filename": "FUEL",
+      "year_hint_from_filename": 2020
+    },
+    {
+      "path": "papers/Baerends_ADF_JCP_2025.pdf",
+      "chars_extracted": 4749,
+      "snippet": "\ue929ViewOnline \ue92dExportCitation RESEARCH ARTICLE | APRIL 22 2025 The Amsterdam Modeling Suite Evert Jan Baerends\ue923 ; Nestor F. Aguirre ; Nick D. Austin; Jochen Autschbach ; F. Matthias Bickelhaupt ; Rosa Bulo; Chiara Cappelli ; Adri C. T. van Duin ; Franco Egidi ; C\u00e9lia Fonseca Guerra ; Arno F\u00f6rster ; Mirko Franchini; Theodorus P. M. Goumans ; Thomas Heine ; Matti Hellstr\u00f6m ; Christoph R. Jacob ; Lasse",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCP",
+      "year_hint_from_filename": 2025
+    },
+    {
+      "path": "papers/Baksa_Adv_Elec_Mat_2024.pdf",
+      "chars_extracted": 9950,
+      "snippet": "RESEARCH ARTICLE www.advelectronicmat.de StrainFluctuationsUnlockFerroelectricityinWurtzites Steven M.Baksa,*SimonGelin,SedaOturak,R. JacksonSpurling,AlirezaSepehrinezhad, Leonard Jacques, Susan E. Trolier-McKinstry, Adri C. T. van Duin, Jon-Paul Maria, Andrew M. Rappe, and Ismaila Dabo* Ferroelectricsareofpracticalinterestfornon-volatiledatastorageduetotheir reorientable,crystallographicallyde\ufb01ne",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2024
+    },
+    {
+      "path": "papers/Botari_Silicene_PCCP_2014.pdf",
+      "chars_extracted": 11344,
+      "snippet": "This journal is\u00a9 the Owner Societies 2014 Phys. Chem. Chem. Phys., 2014, 16, 19417- -19423 | 19417 Cite this: Phys. Chem. Chem. Phys., 2014, 16,1 9 4 1 7 Mechanical properties and fracture dynamics of silicene membranes T. Botari,* a E. Perim, a P. A. S. Autreto, a A. C. T. van Duin, b R. Paupitz c and D. S. Galvao a As graphene has become one of the most important mate rials, there is renewed int",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Broqvist_Ceria_JPC_2015.pdf",
+      "chars_extracted": 12408,
+      "snippet": "ReaxFF Force-Field for Ceria Bulk, Surfaces, and Nanoparticles Peter Broqvist, \u2020 Jolla Kullgren, \u2020 Matthew J. Wolf, \u2020 Adri C. T. van Duin, \u2021 and Kersti Hermansson *,\u2020 \u2020Department of Chemistry \u2212\u00c5ngstro\u0308m, Uppsala University, Box 538, S-751 21, Uppsala, Sweden \u2021Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States ABST",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/CARBON_9458_edit_report.pdf",
+      "chars_extracted": 13454,
+      "snippet": "1 Introduction Spacecraft in low Low earth Earth orbit Orbit (LEO) are exposed to a chemically aggressive environment consisting of radicals and ionized species [1] . Dominant amongst these is atomic oxygen (O ( 3 P)) with a number density of \u223c 10 9 atoms cm \u2212 3 . A combination of the atomic oxygen density and the orbital velocity of the spacecraft yields an atomic oxygen flux of \u223c 10 15 atoms cm ",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Castro_JAAP_3246_2014.pdf",
+      "chars_extracted": 12771,
+      "snippet": "Journal of Analytical and Applied Pyrolysis 109 (2014) 79\u201389 Contents lists available at ScienceDirect Journal of Analytical and Applied Pyrolysis journal h om epage: www.elsevier.com/locate/jaap Pyrolysis of a large-scale molecular model for Illinois no. 6 coal using the ReaxFF reactive force \ufb01eld Fidel Castro-Marcano a, Michael F. Russo Jr. b, Adri C.T. van Duin b, Jonathan P. Mathews a,\u2217 a John",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Castro_JAAP_3246_proofs.pdf",
+      "chars_extracted": 7016,
+      "snippet": "Our reference: JAAP 3246 P-authorquery-v9 AUTHOR QUERY FORM Journal: JAAP Please e-mail or fax your responses and any corrections to: E-mail: corrections.esch@elsevier.thomsondigital.com Article Number: 3246 Fax: +353 6170 9272 Dear Author, Please check your proof carefully and mark all corrections at the appropriate place in the proof (e.g., by using on-screen annotation in the PDF \ufb01le) or compil",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Chapter6_water.pdf",
+      "chars_extracted": 3688,
+      "snippet": "Instructions for Book Chapter Proofs Your proof will not be checked in detail by the RSC and \ufb01nal responsibility for content lies with the author. /C15Please answer all your author queries . /C15Correct only errors. Rewriting sections or making minor textual changes is not allowed at this stage. /C15If Figures need correcting, resupply a new \ufb01le. /C15Corrections must not a\ufb00ect the pagination . /C1",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Chapter6_water_annotated.pdf",
+      "chars_extracted": 3688,
+      "snippet": "Instructions for Book Chapter Proofs Your proof will not be checked in detail by the RSC and \ufb01nal responsibility for content lies with the author. /C15Please answer all your author queries . /C15Correct only errors. Rewriting sections or making minor textual changes is not allowed at this stage. /C15If Figures need correcting, resupply a new \ufb01le. /C15Corrections must not a\ufb00ect the pagination . /C1",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Chipara_MatTodayChem_2018.pdf",
+      "chars_extracted": 11523,
+      "snippet": "Underwater adhesive using solid eliquid polymer mixes A.C. Chipara a, f, g, T. Tsafack a, P.S. Owuor a, J. Yeon b, C.E. Junkermeier b, A.C.T. van Duin b, S. Bhowmick c, S.A.S. Asif c, S. Radhakrishnan a, J.H. Park f, G. Brunetto d, B.A. Kaipparettu f, h, D.S. Galv ~ao d, M. Chipara e, J. Lou a, H.H. Tsang f, M. Dubey f, g, R. Vajtai a, C.S. Tiwary a, i, *, P.M. Ajayan a, ** a Department of Materia",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Chowdhury_CHO_2017_JPCA.pdf",
+      "chars_extracted": 12649,
+      "snippet": "Extension of the ReaxFF Combustion Force Field toward Syngas Combustion and Initial Oxidation Kinetics Chowdhury Ashraf and Adri C.T. van Duin * Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States *S Supporting Information ABSTRACT: A detailed insight of key reactive events related to oxidation and pyrolysis of hyd",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/CP_Letter_LiC_galley.pdf",
+      "chars_extracted": 1865,
+      "snippet": "Our reference: CPLETT 30967 P-authorquery-v11 AUTHOR QUERY FORM Journal: CPLETT Article Number: 30967 Please e-mail or fax your responses and any corrections to: E-mail: corrections.esnl@elsevier.sps.co.in Fax: +31 2048 52799 Dear Author, Please check your proof carefully and mark all corrections at the appropriate place in the proof (e.g., by using on-screen annotation in the PDF \ufb01le) or compile ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Cunha_Carbon_2017_proof.pdf",
+      "chars_extracted": 11240,
+      "snippet": "UNCORRECTED PROOF Carbon xxx (2017) xxx-xxx Contents lists available at ScienceDirect Carbon journal homepage: www.elsevier.com Raman spectroscopy revealing noble gas adsorption on single-walled carbon nanotube bundles Renato Cunhaa, b, c, \u2217, Ricardo Paupitzd, Kichul Yoone, Adri C.T. Van Duine, Ana Laura El\u00edasa, b, Victor Carozoa, b, Archi Dasguptaf, Kazunori Fujisawaa, b, N\u00e9stor Perea Lopeza, b, ",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Cunha_Carbon_2018.pdf",
+      "chars_extracted": 12510,
+      "snippet": "Raman spectroscopy revealing noble gas adsorption on single-walled carbon nanotube bundles Renato Cunha a, b, c, *, Ricardo Paupitz d, Kichul Yoon e, Adri C.T. Van Duin e, Ana Laura El\u00edas a, b, Victor Carozo a, b, k, Archi Dasgupta f, Kazunori Fujisawa a, b, N/C19estor Perea Lopez a, b, Paulo T. Araujo g, h, **, Mauricio Terrones a, i, b, j, f, *** a Department of Physics, The Pennsylvania State U",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Dasgupta_Citrate_JPC_2020.pdf",
+      "chars_extracted": 12293,
+      "snippet": "Simulations of the Biodegradation of Citrate-Based Polymers for Arti\ufb01cial Sca \ufb00olds Using Accelerated Reactive Molecular Dynamics Nabankur Dasgupta, Dundar E. Yilmaz, and Adri van Duin * Cite This: J. Phys. Chem. B 2020, 124, 5311 \u22125322 Read Online ACCESS Metrics & More Article Recommendations *s\u0131 Supporting Information ABSTRACT: In this study, we investigate the reactivity and mechanical properti",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2020
+    },
+    {
+      "path": "papers/Deng_NaSiOx_JaCERS_2019.pdf",
+      "chars_extracted": 10187,
+      "snippet": "1600 | wileyonlinelibrary.com/journal/jace J Am Ceram Soc. 2020;103:1600\u20131614. \u00a9 2019 The American Ceramic Society 1 | INTRODUCTION A fundamental understanding of the atomic structure of glasses and their interactions with the environment plays a critical role in improving and optimizing many glass prop- erties such as optical transmission, mechanical strength, electrical conductivity, corrosion, ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Dong_Polymers_2018.pdf",
+      "chars_extracted": 8383,
+      "snippet": "polymers Article Multiscale Modeling of Structure, Transport and Reactivity in Alkaline Fuel Cell Membranes: Combined Coarse-Grained, Atomistic and Reactive Molecular Dynamics Simulations Dengpan Dong 1 , Weiwei Zhang 2, Adam Barnett 3, Jibao Lu 3, Adri C. T. van Duin 2, Valeria Molinero 3 and Dmitry Bedrov 1,* 1 Department of Materials Science and Engineering, University of Utah, 122 South Centra",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Du_EngFracMech_2021_crack.pdf",
+      "chars_extracted": 10378,
+      "snippet": "Engineering Fracture Mechanics 250 (2021) 107749 Available online 22 April 2021 0013-7944/\u00a9 2021 Elsevier Ltd. All rights reserved. Contents lists available at ScienceDirect Engineering Fracture Mechanics journal homepage: www.elsevier.com/locate/engfracmech Nanomechanical investigation of the interplay between pore morphology and crack orientation of amorphous silica Tao Du a,b, Michael Bluma,c, ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2021
+    },
+    {
+      "path": "papers/Foss_JPCL_2025_Si_battery.pdf",
+      "chars_extracted": 9649,
+      "snippet": "Revisiting Mechanism of Silicon Degradation in Li-Ion Batteries: Effect of Delithiation Examined by Microscopy Combined with ReaxFF Carl Erik L. Foss,* Mahdi K. Talkhoncheh, Asbj\u00f8rn Ulvestad, Hanne F. Andersen, Per Erik Vullum, Nils Peter Wagner, Kenneth Friestad, Alexey Y. Koposov,* Adri van Duin, and Jan Petter M\u00e6hlen* Cite This: J. Phys. Chem. Lett. 2025, 16, 2238\u22122244 Read Online ACCESS Metric",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCL",
+      "year_hint_from_filename": 2025
+    },
+    {
+      "path": "papers/Gai_PtHO_JPC_2016_proof.pdf",
+      "chars_extracted": 12924,
+      "snippet": "1 Atomistic Adsorption of Oxygen and Hydrogen on Platinum 2 Catalysts by Hybrid Grand Canonical Monte Carlo/Reactive Molecular 3 Dynamics 4 Lili Gai, \u2020 Yun Kyung Shin, \u2020 Muralikrishna Raju, \u2021 Adri C. T. van Duin, \u2020 and Sumathy Raman *,\u00a7 5 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, 6 United States 7 \u2021Department of Mecha",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Gao_Zhu_PVDF_Al_JPC_2022.pdf",
+      "chars_extracted": 11447,
+      "snippet": "C/H/O/F/Al ReaxFF Force Field Development and Application to Study the Condensed-Phase Poly(vinylidene \ufb02uoride) and Reaction Mechanisms with Aluminum Yawei Gao, *,\u2020 Wenbo Zhu, \u2020 Tao Wang, Dundar E. Yilmaz, and Adri. C. T. van Duin * Cite This: J. Phys. Chem. C 2022, 126, 11058 \u221211074 Read Online ACCESS Metrics & More Article Recommendations *s\u0131 Supporting Information ABSTRACT: Poly(vinylidene \ufb02uor",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2022
+    },
+    {
+      "path": "papers/Golkaram_MD_2016.pdf",
+      "chars_extracted": 9490,
+      "snippet": "Materials Discovery 1 (2015) 54\u201362 Contents lists available at ScienceDirect Materials Discovery j ourna l h omepage: www.elsevier.com/locate/md Revealing graphene oxide toxicity mechanisms: A reactive molecular dynamics study M. Golkaram, Adri C.T. van Duin\u2217 Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, PA 16802, USA a r t i c l e i n f o Ar",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Golkaram_MD_2016_proof.pdf",
+      "chars_extracted": 2126,
+      "snippet": "Our reference: MD 1 P-authorquery-v13 AUTHOR QUERY FORM Journal: MD Please e-mail your responses and any corrections to: Article Number: 1 E-mail: corrections.esch@elsevier.thomsondigital.com Dear Author, Please check your proof carefully and mark all corrections at the appropriate place in the proof (e.g., by using on-screen annotation in the PDF \ufb01le) or compile them in a separate list. Note: if ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Hahn_JPC_leaching_2019.pdf",
+      "chars_extracted": 12745,
+      "snippet": "Surface Reactivity and Leaching of a Sodium Silicate Glass under an Aqueous Environment: A ReaxFF Molecular Dynamics Study Seung Ho Hahn and Adri C. T. van Duin * Department of Mechanical Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States *S Supporting Information ABSTRACT: The presence of leachable ions in multicomponent silicate glasses complicates",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Hahn_NaSiOx_JPCC_2018_SI.pdf",
+      "chars_extracted": 3659,
+      "snippet": "S1 Supplementary Information for Development of a ReaxFF Reactive Force Field for NaSiOx/Water Systems and Its Application to Sodium and Proton Self-Diffusion Seung Ho Hahn\u2020, Jessica Rimsza\u2021, Louise Criscenti\u2021, Wei Sun\u00a7, Lu Deng\u00a7, Jincheng Du\u00a7, Tao Liang\u2225, Susan B. Sinnott\u2225, Adri C.T. van Duin*\u2020\u2225 \u2020 Department of Mechanical Engineering, The Pennsylvania State University, University Park, PA 16802, ",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Hatzelletal_ES&T_2014.pdf",
+      "chars_extracted": 10398,
+      "snippet": "E\ufb00ect of Strong Acid Functional Groups on Electrode Rise Potential in Capacitive Mixing by Double Layer Expansion Marta C. Hatzell, \u2020,\u2225 Muralikrishna Raju, \u2021 Valerie J. Watson, \u00a7 Andrew G. Stack, \u22a5 Adri C. T. van Duin, \u2020 and Bruce E. Logan *,\u00a7 \u2020Department of Mechanical Engineering, \u2021Department of Physics, \u00a7Department of Civil and Environmental Engineering, The Pennsylvania State University, Univer",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Hong_AlCOx_JPCC_2016.pdf",
+      "chars_extracted": 11825,
+      "snippet": "Atomistic-Scale Analysis of Carbon Coating and Its E \ufb00ect on the Oxidation of Aluminum Nanoparticles by ReaxFF-Molecular Dynamics Simulations Sungwook Hong and Adri C. T. van Duin * Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States *S Supporting Information ABSTRACT: We developed a ReaxFF reactive force \ufb01eld for ",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Hong_AlOx_JPCA_2015_ASAP.pdf",
+      "chars_extracted": 11244,
+      "snippet": "Molecular Dynamics Simulations of the Oxidation of Aluminum Nanoparticles using the ReaxFF Reactive Force Field Sungwook Hong and Adri C.T. van Duin * Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States *S Supporting Information ABSTRACT: We performed ReaxFF-molecular dynamics (MD) simulations of the oxidation of a",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Hong_AlOx_JPCA_2015_proof.pdf",
+      "chars_extracted": 11863,
+      "snippet": "1 Molecular Dynamics Simulations of the Oxidation of Aluminum 2 Nanoparticles using the ReaxFF Reactive Force Field 3 Sungwook Hong and Adri C.T. van Duin * 4 Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United 5 States 6 *S Supporting Information 7 ABSTRACT: We performed ReaxFF-molecular dynamics (MD) 8 simulations of th",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Hossain_JCP_2020_EC_Li.pdf",
+      "chars_extracted": 5214,
+      "snippet": "J. Chem. Phys. 152, 184301 (2020); https://doi.org/10.1063/5.0003333 152, 184301 \u00a9 2020 Author(s). Lithium-electrolyte solvation and reaction in the electrolyte of a lithium ion battery: A ReaxFF reactive force field study Cite as: J. Chem. Phys. 152, 184301 (2020); https://doi.org/10.1063/5.0003333 Submitted: 03 February 2020 . Accepted: 17 April 2020 . Published Online: 08 May 2020 Md Jamil Hoss",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCP",
+      "year_hint_from_filename": 2020
+    },
+    {
+      "path": "papers/Huang_APL_2013_LiCNT.pdf",
+      "chars_extracted": 6277,
+      "snippet": "Lithiation induced corrosive fracture in defective carbon nanotubes Xu Huang, Hui Yang, Wentao Liang, Muralikrishna Raju, Mauricio Terrones et al. Citation: Appl. Phys. Lett. 103, 153901 (2013); doi: 10.1063/1.4824418 View online: http://dx.doi.org/10.1063/1.4824418 View Table of Contents: http://apl.aip.org/resource/1/APPLAB/v103/i15 Published by the AIP Publishing LLC. Additional information on ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Huang_APL_2013_LiCNT_proof.pdf",
+      "chars_extracted": 7391,
+      "snippet": "AUTHOR QUERY FORM Journal: Appl. Phys. Lett. Article Number: 001341APL Please provide your responses and any corrections by annotating this PDF and uploading it according to the instructions provided in the proof notification email. Dear Author, Below are the queries associated with your article; please answer all of these queries before sending the proof back to AIP. Please indicate the following",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/IFFR_archived_2021.pdf",
+      "chars_extracted": 2751,
+      "snippet": "1 Implementing Reactivity in Molecular Dynamics Simulations with the Interface Force Field (IFF-R) and Other Harmonic Force Fields by Jordan J. Winetrout1, 2, Krishan Kanhaiya1, Geeta Sachdeva3, Ravindra Pandey3, Behzad Damirchi4, Adri van Duin4, Gregory Odegard5, Hendrik Heinz1, 2* 1 Department of Chemical and Biological Engineering, University of Colorado at Boulder, Boulder, CO 80309, USA 2 Mat",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2021
+    },
+    {
+      "path": "papers/IJEMCP1202(1)-5739.pdf",
+      "chars_extracted": 5035,
+      "snippet": "International Journal of Energetic Materials and Chemical Propulsion, 12 (2): 95\u2013118 (2013) REACTIVE FORCE FIELDS: CONCEPTS OF REAXFF AND APPLICATIONS TO HIGH-ENERGY MATERIALS Adri van Duin,\u2217 Osvalds Verners, & Yun-Kyung Shin Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, USA \u2217Address all correspondence to Adri van Duin E-m",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Islam_FeC_PCCP_2016.pdf",
+      "chars_extracted": 11614,
+      "snippet": "This journal is\u00a9 the Owner Societies 2016 Phys. Chem. Chem. Phys., 2016, 18, 761- -771 | 761 Cite this: Phys. Chem. Chem. Phys., 2016, 18,7 6 1 Interactions of hydrogen with the iron and iron carbide interfaces: a ReaxFF molecular dynamics study\u2020 Md Mahbubul Islam, ab Chenyu Zou, b Adri C. T. van Duin bc and Sumathy Raman* d Hydrogen embrittlement (HE) is a well-known material phenomenon that caus",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Islam_JCTC_eReaxFF_2016.pdf",
+      "chars_extracted": 11802,
+      "snippet": "eReaxFF: A Pseudoclassical Treatment of Explicit Electrons within Reactive Force Field Simulations Md Mahbubul Islam, \u2020 Grigory Kolesov, \u2021 Toon Verstraelen, \u00a7 Efthimios Kaxiras, \u2021 and Adri C. T. van Duin *,\u2020 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021John A. Paulson School of Engineering and Applied Scie",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCTC",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Islam_JES_2014.pdf",
+      "chars_extracted": 13778,
+      "snippet": "Journal of The Electrochemical Society, 161 (8) E3009-E3014 (2014) E3009 0013-4651/2014/161(8)/E3009/6/$31.00 \u00a9 The Electrochemical Society JES FOCUS ISSUE ON MATHEMATICAL MODELING OF ELECTROCHEMICAL SYSTEMS AT MULTIPLE SCALES ReaxFF Reactive Force Field Simulations on the In\ufb02uence of Te\ufb02on on Electrolyte Decomposition during Li/SWCNT Anode Discharge in Lithium-Sulfur Batteries Md Mahbubul Islam,a",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Islam_JES_2014_proof.pdf",
+      "chars_extracted": 14074,
+      "snippet": "Author Proof PROOF COPY [JES-14-0340] 005408JES Journal of The Electrochemical Society, 161 (8) E1-E6 (2014) E1 0013-4651/2014/161(8)/E1/6/$31.00 \u00a9 The Electrochemical Society JES FOCUS ISSUE ON MATHEMATICAL MODELING OF ELECTROCHEMICAL SYSTEMS AT MULTIPLE SCALES 1 ReaxFF Reactive Force Field Simulations on the In\ufb02uence of Te\ufb02on on Electrolyte Decomposition during Li/SWCNT Anode Discharge in Lithiu",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Islam_PCCP_LiS_2014.pdf",
+      "chars_extracted": 11176,
+      "snippet": "This journal is\u00a9 the Owner Societies 2014 Phys. Chem. Chem. Phys. Cite this:DOI: 10.1039/c4cp04532g ReaxFF molecular dynamics simulations on lithiated sulfur cathode materials \u2020 Md Mahbubul Islam, a Alireza Ostadhossein, b Oleg Borodin, c A. Todd Yeates, d William W. Tipton, e Richard G. Hennig, e Nitin Kumar f and Adri C. T. van Duin* a Sulfur is a very promising cathode material for rechargeable",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Islam_PCCP_LiS_proof.pdf",
+      "chars_extracted": 2751,
+      "snippet": "Physical Chemistry Chemical Physics c4cp04532g ReaxFF Q1molecular dynamics simulations on lithiated sulfur Q2cathode materials Md Mahbubul Islam, Alireza Ostadhossein, Oleg Borodin, A. Todd Yeates, William W. Tipton, Richard G. Hennig, Nitin Kumar and Adri C. T. van Duin* Sulfur is a very promising cathode Q3material for rechargeable energy storage devices. Please check this proof carefully. Our s",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Islam_Stanene_APL2015.pdf",
+      "chars_extracted": 7209,
+      "snippet": "Mechanical properties of stanene under uniaxial and biaxial loading: A molecular dynamics study Satyajit Mojumder, Abdullah Al Amin, and Md Mahbubul Islam Citation: Journal of Applied Physics 118, 124305 (2015); doi: 10.1063/1.4931572 View online: http://dx.doi.org/10.1063/1.4931572 View Table of Contents: http://scitation.aip.org/content/aip/journal/jap/118/12?ver=pdfcov Published by the AIP Publ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Jacobs_CST_2013_proofs.pdf",
+      "chars_extracted": 2928,
+      "snippet": "Catalysis Science & Technology c3cy20665c Conformational Q1studies of ligand-template Q2assemblies and the consequences for encapsulation of rhodium complexes and hydroformylation catalysis Ivo Jacobs, Adri C. T. van Duin, Arjan W. Kleij, Mark Kuil, Duncan M. Tooke, Anthony L. Spek and Joost N. H. Reek* The second coordi Q4nation sphere around a transition metal catalyst can contribute to the acti",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Jeon_PCCP_2012_galley.pdf",
+      "chars_extracted": 2834,
+      "snippet": "Physical Chemistry Chemical Physics c2cp43490c Nanoscale Q1oxidation and complex oxide growth on Q2single crystal iron surfaces and external electric field e\ufb00ects Byoung Seon Jeon,* Quentin Van Overmeere, Adri C. T. van Duin and Shriram Ramanathan Oxidation of iron surfaces and oxid Q3e growth mechanisms have been studied using reactive molecular dynamics. Please check this proof carefully. Our st",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2012
+    },
+    {
+      "path": "papers/Jeon_PCCP_Iron_Efield_2013.pdf",
+      "chars_extracted": 10235,
+      "snippet": "This journal is c the Owner Societies 2013 Phys. Chem. Chem. Phys., 2013, 15, 1821- -1830 1821 Cite this: Phys. Chem. Chem. Phys.,2013, 15, 1821 Nanoscale oxidation and complex oxide growth on single crystal iron surfaces and external electric field e\ufb00ects Byoungseon Jeon,* a Quentin Van Overmeere, ab Adri C. T. van Duin c and Shriram Ramanathan a Oxidation of iron surfaces and oxide growth mechan",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Jonayat_PCCP_2018_galley.pdf",
+      "chars_extracted": 5026,
+      "snippet": "Physical Chemistry Chemical Physics c8cp00154e We have presented the Graphical Abstract text and image for your article below. This brief summary of your work will appear in the contents pages of the issue in which your article appears. Q2A first-principles study of stability of surface confined mixed metal oxides with a corundum structure (Fe 2O3,C r 2O3,V 2O3) A. S. M. Jonayat, Alan Kramer, Luca",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Joshi_PRD_JPC_Letter_2013.pdf",
+      "chars_extracted": 12298,
+      "snippet": "Connectivity-Based Parallel Replica Dynamics for Chemically Reactive Systems: From Femtoseconds to Microseconds Kaushik L. Joshi, \u2020 Sumathy Raman, *,\u2021 and Adri C. T. van Duin \u2020 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021ExxonMobil Research and Engineering, Annandale, New Jersey, 08801, United States ABST",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Kaymak_JAX_JCTC_2022.pdf",
+      "chars_extracted": 11822,
+      "snippet": "JAX-ReaxFF: A Gradient-Based Framework for Fast Optimization of Reactive Force Fields Mehmet Cagri Kaymak,* Ali Rahnamoun, Kurt A. O\u2019Hearn, Adri C. T. van Duin, Kenneth M. Merz, Jr., and Hasan Metin Aktulga Cite This: J. Chem. Theory Comput. 2022, 18, 5181\u22125194 Read Online ACCESS Metrics & More Article Recommendations * s\u0131 Supporting Information ABSTRACT: The reactive force field (ReaxFF) model br",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCTC",
+      "year_hint_from_filename": 2022
+    },
+    {
+      "path": "papers/Kim_JPCA_TiO2_etching_2013.pdf",
+      "chars_extracted": 7713,
+      "snippet": "Simulation of Titanium Metal/Titanium Dioxide Etching with Chlorine and Hydrogen Chloride Gases Using the ReaxFF Reactive Force Field Sung-Yup Kim and Adri C. T. van Duin * Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States *S Supporting Information ABSTRACT: In this study, a new ReaxFF reactive force \ufb01eld has bee",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Kim_TiO2_clusters_JMR_2013.pdf",
+      "chars_extracted": 10457,
+      "snippet": "http://journals.cambridge.org Downloaded: 05 Apr 2013 IP address: 130.203.232.148 Molecular dynamics simulations of the interactions between TiO 2 nanoparticles and water with Na 1 and Cl/C0 , methanol, and formic acid using a reactive force \ufb01eld Sung-Yup Kima) and Adri C.T. van Duin Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Kiwi_APL_2016_proof.pdf",
+      "chars_extracted": 7961,
+      "snippet": "Metal-Nanotube Composites as Radiation Resistant Materials Rafael I. Gonz\u00b4 alez,1Felipe Valencia,1Jos\u00b4 e Mella,1Adri C. T. van Duin,2Kang Pyo So,3Ju Li,3Miguel Kiwi,1and Eduardo M. Bringa4 1)Departamento de F \u00b4 \u0131sica, Facultad de Ciencias, CEDENNA, Universidad de Chile, Casilla 653, Santiago, Chile 7800024.2)Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, Unive",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Kroes_JCTC_2015.pdf",
+      "chars_extracted": 10956,
+      "snippet": "Atom Vacancies on a Carbon Nanotube: To What Extent Can We Simulate their E \ufb00ects? Jaap M. H. Kroes, \u2020 Fabio Pietrucci, \u2020,\u00a7 Adri C. T. van Duin, \u2021 and Wanda Andreoni *,\u2020 \u2020Institut de The \u0301orie des Phe \u0301nome\u0300nes Physiques, Ecole Polytechnique Fe \u0301de\u0301rale de Lausanne, 1015 Lausanne, Switzerland \u2021Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pen",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCTC",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Krstic_JCP_LiOH_2023.pdf",
+      "chars_extracted": 4820,
+      "snippet": "\ue929ViewOnline \ue92dExportCitation RESEARCH ARTICLE | DECEMBER 28 2023 Hydrogen irradiation-driven computational surface chemistry of lithium oxide and hydroxide \ue907 P. S. Krstic\ue923 ; S. Dwivedi ; E. T. Ostrowski ; S. Abe ; A. Maan ; A. C. T. van Duin ; B. E. Koel J. Chem. Phys. 159, 244703 (2023) https://doi.org/10.1063/5.0177460 \ue918 CHORUS 15 September 2025 13:57:34 The Journal of Chemical Physics ARTICLE pu",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCP",
+      "year_hint_from_filename": 2023
+    },
+    {
+      "path": "papers/Kwon_Fuel_2019_online.pdf",
+      "chars_extracted": 12420,
+      "snippet": "Contents lists available at ScienceDirect Fuel journal homepage: www.elsevier.com/locate/fuel Full Length Article Numerical simulations of yield-based sooting tendencies of aromatic fuels using ReaxFF molecular dynamics Hyunguk Kwon a, Sharmin Shabnam b, Adri C.T. van Duin b, Yuan Xuan b,\u204e a Department of Chemical Engineering, The Pennsylvania State University, University Park, PA 16802, USA b Dep",
+      "extract_error": null,
+      "journal_hint_from_filename": "FUEL",
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Kwon_Fuel_2019_proof.pdf",
+      "chars_extracted": 11846,
+      "snippet": "UNCORRECTED PROOF Fuel xxx (xxxx) xxx-xxx Contents lists available at ScienceDirect Fuel journal homepage: http://ees.elsevier.com Numerical simulations of yield-based sooting tendencies of aromatic fuels using ReaxFF molecular dynamics Hyunguk Kwona,\u204e, Sharmin Shabnamb, Adri C.T. van Duinb, Yuan Xuanb a Department of Chemical Engineering, The Pennsylvania State University, University Park, PA 168",
+      "extract_error": null,
+      "journal_hint_from_filename": "FUEL",
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Kwon_JPC_2020_Soot_growth.pdf",
+      "chars_extracted": 11328,
+      "snippet": "Reactive Molecular Dynamics Simulations and Quantum Chemistry Calculations To Investigate Soot-Relevant Reaction Pathways for Hexylamine Isomers Hyunguk Kwon, # Brian D. Etz, # Matthew J. Montgomery, Richard Messerly, Sharmin Shabnam, Shubham Vyas, Adri C. T. van Duin, Charles S. McEnally, Lisa D. Pfe \ufb00erle, Seonah Kim, * and Yuan Xuan * Cite This: J. Phys. Chem. A 2020, 124, 4290 \u22124304 Read Onlin",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2020
+    },
+    {
+      "path": "papers/Lele_BN_JPCA_2022_galley.pdf",
+      "chars_extracted": 12326,
+      "snippet": "1 ReaxFF Force Field Development for Gas-Phase hBN Nanostructure 2 Synthesis 3 Aditya Lele, Predrag Krstic, and Adri C. T. van Duin * Cite This: https://doi.org/10.1021/acs.jpca.1c09648 Read Online ACCESS Metrics & More Article Recommendations *s\u0131 Supporting Information 4 ABSTRACT: Two-dimensional (2D) hexagonal boron nitride materials are isomorphs 5 of carbon nanomaterials and hold promise for e",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2022
+    },
+    {
+      "path": "papers/Lele_Fuel_2021.pdf",
+      "chars_extracted": 10972,
+      "snippet": "Fuel 297 (2021) 120724 Available online 10 April 2021 0016-2361/\u00a9 2021 Elsevier Ltd. All rights reserved. Full Length Article ReaxFF molecular dynamics study on pyrolysis of bicyclic compounds for aviation fuel Aditya Lele a , 1 , Hyunguk Kwon b , 1 , Karthik Ganeshan a , Yuan Xuan a , Adri C.T. van Duin a , b , * a Department of Mechanical Engineering, The Pennsylvania State University, Universit",
+      "extract_error": null,
+      "journal_hint_from_filename": "FUEL",
+      "year_hint_from_filename": 2021
+    },
+    {
+      "path": "papers/Lele_Fuel_2021_galley.pdf",
+      "chars_extracted": 10186,
+      "snippet": "Fuel xxx (xxxx) 120724 Contents lists available at ScienceDirect Fuel journal homepage: www.elsevier.com/locate/fuel Full Length Article ReaxFF molecular dynamics study on pyrolysis of bicyclic compounds for aviation fuel Aditya Lelea, 1, Hyunguk Kwon b, 1, Karthik Ganeshana, Yuan Xuana, Adri C.T. van Duina, b, \u204e a Department of Mechanical Engineering, The Pennsylvania State University, University",
+      "extract_error": null,
+      "journal_hint_from_filename": "FUEL",
+      "year_hint_from_filename": 2021
+    },
+    {
+      "path": "papers/Leven_JCTC_2021.pdf",
+      "chars_extracted": 11889,
+      "snippet": "Recent Advances for Improving the Accuracy, Transferability, and E\ufb03ciency of Reactive Force Fields Itai Leven, Hongxia Hao, Songchen Tan, Xingyi Guan, Katheryn A. Penrod, Dooman Akbarian, Benjamin Evangelisti, Md Jamil Hossain, Md Mahbubul Islam, Jason P. Koski, Stan Moore, Hasan Metin Aktulga, Adri C. T. van Duin, and Teresa Head-Gordon * Cite This: J. Chem. Theory Comput. 2021, 17, 3237 \u22123251 Re",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCTC",
+      "year_hint_from_filename": 2021
+    },
+    {
+      "path": "papers/Leven_JCTC_2021_proof.pdf",
+      "chars_extracted": 12343,
+      "snippet": "1 Recent Advances for Improving the Accuracy, Transferability, and 2 E\ufb03ciency of Reactive Force Fields 3 Itai Leven, Hongxia Hao, Songchen Tan, Xingyi Guan, Katheryn A. Penrod, Dooman Akbarian, 4 Benjamin Evangelisti, Md Jamil Hossain, Md Mahbubul Islam, Jason P. Koski, Stan Moore, 5 Hasan Metin Aktulga, Adri C. T. van Duin, and Teresa Head-Gordon * Cite This: https://doi.org/10.1021/acs.jctc.1c00",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCTC",
+      "year_hint_from_filename": 2021
+    },
+    {
+      "path": "papers/Liu_AlF_etching_JPCC_2019.pdf",
+      "chars_extracted": 12202,
+      "snippet": "Formation of AlF x Gaseous Phases during High Temperature Etching: A Reactive Force Field Based Molecular Dynamics Study Yongli Liu, \u2020,\u2021 Yang Qi, *,\u2020,\u2021 Xianwei Hu, \u00a7 and Adri C. T. van Duin *,\u2225 \u2020Institute of Materials Physics and Chemistry, College of Material Science and Engineering, \u2021Key Laboratory for Anisotropy and Texture of Materials, and \u00a7School of Metallurgy, Northeastern University, Sheny",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Lloyd_AgZnO_SurfSci2015.pdf",
+      "chars_extracted": 11187,
+      "snippet": "Development of a ReaxFF potential for Ag/Zn/O and application to Ag deposition on ZnO A. Lloyd a,\u204e,D .C o r n i lb, A.C.T. van Duin c, D. van Duin c, R. Smith a,S . D .K e n n ya,J .C o r n i lb,D .B e l j o n n eb a Loughborough University, Leicestershire LE11 3TT, United Kingdom b Laboratory for Chemistry of Novel Materials, University of Mons, 7000 Mons, Belgium c RxFF Consulting, LLC, State Co",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Lotfi_2016_DLC_paper.pdf",
+      "chars_extracted": 12549,
+      "snippet": "A Reactive Force Field Study on the Interaction of Lubricant with Diamond-Like Carbon Structures Roghayyeh Lot\ufb01,\u2020 ASM Jonayat,\u2020 Adri C. T. van Duin, *,\u2020 Mousumi M. Biswas, \u2021 and Robert Hempstead \u2021 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021Western Digital Technologies Inc., San Jose, California 95138, Un",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Lotfi_JPC_C_2018_proof.pdf",
+      "chars_extracted": 12504,
+      "snippet": "1 Molecular Dynamics Simulations of Per \ufb02uoropolyether Lubricant 2 Degradation in the Presence of Oxygen, Water, and Oxide 3 Nanoparticles using a ReaxFF Reactive Force Field 4 Roghayyeh Lot \ufb01,\u2020 Adri C. T. van Duin, *,\u2020 and Mousumi Mani Biswas \u2021 5 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, 6 United States 7 \u2021Western Di",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Lotfi_Materials_A_2018.pdf",
+      "chars_extracted": 11418,
+      "snippet": "A comparative study on the oxidation of two- dimensional Ti 3C2 MXene structures in di \ufb00erent environments Roghayyeh Lot \ufb01, a Michael Naguib, b Dundar E. Yilmaz, a Jagjit Nanda b and Adri C. T. van Duin *a The oxidation of two-dimensional Ti 3C2 MXene structures has been recognized as a promising method for the formation of hybrid structures of carbon supported nanotitania. Here, we studied the ox",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Mao_Qian_Carbon_soot_2017.pdf",
+      "chars_extracted": 10911,
+      "snippet": "Formation of incipient soot particles from polycyclic aromatic hydrocarbons: A ReaxFF molecular dynamics study Qian Mao a, b, Adri C.T. van Duin b, *, K.H. Luo a, c, ** a Center for Combustion Energy, Key Laboratory for Thermal Science and Power Engineering of Ministry of Education, Department of Thermal Engineering , Tsinghua University, Beijing 100084, China b Department of Mechanical and Nuclea",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/MedinaRamon_ChemMat_2018.pdf",
+      "chars_extracted": 13714,
+      "snippet": "Cathodic Corrosion at the Bismuth \u2212Ionic Liquid Electrolyte Interface under Conditions for CO 2 Reduction Jonnathan Medina-Ramos, *,\u2020 Weiwei Zhang, \u2021 Kichul Yoon, \u2021 Peng Bai, \u00a7 Ashwin Chemburkar, \u00a7 Wenjie Tang, \u00a7 Abderrahman Ati \ufb01,\u2225 Sang Soo Lee, \u2020 Timothy T. Fister, \u2020 Brian J. Ingram, \u2020 Joel Rosenthal, *,\u2225 Matthew Neurock, *,\u00a7 Adri C. T. van Duin, *,\u2021 and Paul Fenter *,\u2020 \u2020Chemical Sciences and En",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Mishra_CEMFF_proof_2017.pdf",
+      "chars_extracted": 12143,
+      "snippet": "UNCORRECTED PROOF Cement and Concrete Researchxxx (2017) xxx-xxx Contents lists available at ScienceDirect Cement and Concrete Research journal homepage: www.elsevier.com CEMFF: A force field database for cementitious materials including validations, applications and opportunities Ratan K. Mishra\u2060a\u2060, \u2060\u204e, Aslam Kunhi Mohamed\u2060b, David Geissb\u00fchler\u2060b, Hegoi Manzano\u2060c, Tariq Jamil\u2060d, Rouzbeh Shahsavari",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Mortazavi_MoS2_PCCP_2016.pdf",
+      "chars_extracted": 10901,
+      "snippet": "This journal is\u00a9 the Owner Societies 2016 Phys. Chem. Chem. Phys. Cite this:DOI: 10.1039/c6cp03612k Mechanical response of all-MoS 2 single-layer heterostructures: a ReaxFF investigation Bohayra Mortazavi, \u2020*a Alireza Ostadhossein, \u2020b Timon Rabczuk a and Adri C. T. van Duin c Molybdenum disulfide (MoS 2) is a highly attractive 2D material due to its interesting electronic properties. Recent experi",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/MURI_team_SiOx_JPCC_2013.pdf",
+      "chars_extracted": 11555,
+      "snippet": "Oxygen Interactions with Silica Surfaces: Coupled Cluster and Density Functional Investigation and the Development of a New ReaxFF Potential Anant D. Kulkarni, \u2020 Donald G. Truhlar, *,\u2020 Sriram Goverapet Srinivasan, \u2021 Adri C. T. van Duin, *,\u2021 Paul Norman, *,\u00a7 and Thomas E. Schwartzentruber *,\u00a7 \u2020Department of Chemistry, Supercomputing Institute, and Chemical Theory Center, University of Minnesota, 20",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Nayir_JPC_C_GeOx_2019.pdf",
+      "chars_extracted": 11595,
+      "snippet": "Development of a ReaxFF Reactive Force Field for Interstitial Oxygen in Germanium and Its Application to GeO 2/Ge Interfaces Nadire Nayir, \u2020,\u2021,\u00a7 Adri C. T. van Duin, *,\u2020 and Sakir Erkoc \u2021 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021Department of Physics, Middle East Technical University, Ankara 06800, Tur",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Nayir_JPC_C_SiOx_2019.pdf",
+      "chars_extracted": 11841,
+      "snippet": "Development of the ReaxFF Reactive Force Field for Inherent Point Defects in the Si/Silica System Nadire Nayir, \u2020,\u2021,\u00a7 Adri C. T. van Duin, *,\u2020 and Sakir Erkoc \u2021 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021Department of Physics, Middle East Technical University, Ankara 06800, Turkey \u00a7Department of Physics,",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Nayir_JPC_C_SiOx_2019_SI.pdf",
+      "chars_extracted": 1609,
+      "snippet": "Supporting information: Development of The ReaxFF Reactive Force Field for Inherent Point Defects in the Si/Silica system Nadire Nayir,\u2020,\u2021,\u00b6 Adri C. T. van Duin, \u2217,\u2020 and Sakir Erkoc\u2021 Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802,United States, and Department of Physics, Middle East Technical University, Ankara, 06800, Turke",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Newsome_JPCC_2013.pdf",
+      "chars_extracted": 12353,
+      "snippet": "High-Temperature Oxidation of SiC-Based Composite: Rate Constant Calculation from ReaxFF MD Simulations, Part II David A. Newsome, \u2020 Debasis Sengupta, *,\u2020 and Adri C. T. van Duin \u2021 \u2020CFD Research Corp., 215 Wynn Drive, Huntsville, Alabama 35805, United States \u2021Department of Mechanical and Nuclear Engineering, Penn State University, 136 Research Building East, University Park, Pennsylvania 16802, Un",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Neyts_Nanoscale_2013.pdf",
+      "chars_extracted": 12477,
+      "snippet": "Formation of single layer graphene on nickel under far-from-equilibrium high \ufb02ux conditions\u2020 Erik C. Neyts, *a Adri C. T. van Duin b and Annemie Bogaerts a We investigate the theoretical possibility of single layer graphene formation on a nickel surface at di \ufb00erent substrate temperatures under far-from-equilibrium high precursor \ufb02ux conditions, employing state-of-the- art hybrid reactive molecula",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/NPJCOMPUMATS201511.pdf",
+      "chars_extracted": 1930,
+      "snippet": "AOP QUERY FORM NPJCOMPUMATS Manuscript ID NPJCOMPUMATS-00015 [Art. Id: npjcompumats201511] Author Editor Publisher Journal: NPJCOMPUMATS Author :- The following queries have arisen during the editing of your manuscript. Please answer queries by making the requisite corrections at the appropriate positions in the text. Query No. Description Author\u2019s Response Q1 Please con \ufb01rm whether the inserted r",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Osti_PhysicsMat_2017.pdf",
+      "chars_extracted": 11319,
+      "snippet": "PHYSICAL REVIEW MA TERIALS1, 065406 (2017) In\ufb02uence of metal ions intercalation on the vibrational dynamics of water con\ufb01ned between MXene layers Naresh C. Osti, 1,* Michael Naguib,2 Karthik Ganeshan,3 Y un K. Shin,3 Alireza Ostadhossein,4 Adri C. T. van Duin, 3 Y ongqiang Cheng,1 Luke L. Daemen,1 Y ury Gogotsi,5 Eugene Mamontov,1 and Alexander I. Kolesnikov1,\u2020 1Neutron Scattering Division, Oak Ri",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Others/2018_Liang_JPCA.pdf",
+      "chars_extracted": 11608,
+      "snippet": "Applied Potentials in Variable-Charge Reactive Force Fields for Electrochemical Systems Tao Liang, *,\u2020 Andrew C. Antony, \u2020,\u2021 Sneha A. Akhade, \u00a7,\u2225 Michael J. Janik, \u00a7 and Susan B. Sinnott *,\u2020 \u2020Department of Materials Science and Engineering and \u00a7Department of Chemical Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021Department of Materials Science ",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Others/Allegro_ML_2023.pdf",
+      "chars_extracted": 11853,
+      "snippet": "Article https://doi.org/10.1038/s41467-023-36329-y Learning local equivariant representations for large-scale atomistic dynamics Albert Musaelian1,3, Simon Batzner 1,3 , Anders Johansson 1,L i x i nS u n1, Cameron J. Owen 1,M o r d e c h a iK o r n b l u t h2 & Boris Kozinsky 1,2 A simultaneously accurate and computationally ef\ufb01cient parametrization of the potential energy surface of moleculesa n ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2023
+    },
+    {
+      "path": "papers/Others/Auger_eFF_Su_PNAS.pdf",
+      "chars_extracted": 10989,
+      "snippet": "CHEMISTRY Mechanisms of Auger-induced chemistry derived from wave packet dynamics Julius T . Su and William A. Goddard III 1 Materials and Process Simulation Center, California Institute of Technology, Pasadena, CA 91125 b; Contributed by William A. Goddard III, December 1, 2008 (sent for review September 19, 2008) T o understand how core ionization and subsequent Auger decay lead to bond breaking",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Others/C-GeM_Leven_2019.pdf",
+      "chars_extracted": 10050,
+      "snippet": "C\u2011GeM: Coarse-Grained Electron Model for Predicting the Electrostatic Potential in Molecules Itai Leven \u2020,\u2021,\u22a5 and Teresa Head-Gordon *,\u2020,\u2021,\u00a7,\u2225,\u22a5 \u2020Kenneth S. Pitzer Center for Theoretical Chemistry, \u2021Department of Chemistry, \u00a7Department of Bioengineering, and \u2225Department of Chemical and Biomolecular Engineering, University of California Berkeley, Berkeley, California 94720, United States \u22a5Chemical ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Others/chapter-TCT_Bauchy.pdf",
+      "chars_extracted": 8959,
+      "snippet": "13 Topological Constraint Theory and Rigidity of Glasses Mathieu Bauchy University of California 13.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13-1 The Glass Age \u2022 Glass Genome and Discovery of New Compositions \u2022 Topological Constraint Theory 13.2 Introduction to Glass Science . . . . . . . . .",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Others/ChemRev_water_2016.pdf",
+      "chars_extracted": 11044,
+      "snippet": "Modeling Molecular Interactions in Water: From Pairwise to Many- Body Potential Energy Functions Gerardo Andre \u0301s Cisneros, \u2020 Kjartan Thor Wikfeldt, \u2021,\u00a7 Lars Ojama \u0308e,# Jibao Lu, \u2225 Yao Xu, \u22a5 Hedieh Torabifard, \u2020 Albert P. Barto \u0301k,@ Ga\u0301bor Csa \u0301nyi,@ Valeria Molinero, \u2225 and Francesco Paesani *,\u2207 \u2020Department of Chemistry, Wayne State University, Detroit, Michigan 48202, United States \u2021Science Insti",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Others/Colak_carbon_2024.pdf",
+      "chars_extracted": 10912,
+      "snippet": "Carbon 228 (2024) 119332 Available online 11 June 2024 0008-6223/\u00a9 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. Molecular dynamics simulations of 2D-layered graphene sheets with tandem repeat proteins Oguzhan Colak a , Adrien Nicola\u00ef b , Vincent Meunier a , Melik C. Demirel a , c , * a Department of Engineering Science",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2024
+    },
+    {
+      "path": "papers/Others/Kapil_PIMD_2019.pdf",
+      "chars_extracted": 11655,
+      "snippet": "Computer Physics Communications 236 (2019) 214\u2013223 Contents lists available at ScienceDirect Computer Physics Communications journal homepage: www.elsevier.com/locate/cpc i-PI 2.0: A universal force engine for advanced molecular simulations \u2729 Venkat Kapil a, Mariana Rossi b, Ondrej Marsalek d,k , Riccardo Petraglia a, Yair Litman b, Thomas Spura f, Bingqing Cheng a, Alice Cuzzocrea a, Robert H. Me",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Others/Li_metal_NN_2023.pdf",
+      "chars_extracted": 3748,
+      "snippet": "Accurate Surface and Finite Temperature Bulk Properties of Lithium Metal at Large Scales using Machine Learning Interaction Potentials Mgcini Keith Phuthi, \u2020 Archie Mingze Yao, \u2020 Simon Batzner, \u2021 Albert Musaelian, \u2021 Boris Kozinsky, \u2021 Ekin Dogus Cubuk, \u00b6 and Venkatasubramanian Viswanathan \u2217,\u2020,\u00a7 \u2020Department of Mechanical Engineering, Carnegie Mellon University, Pittsburgh, PA, USA \u2021School of Enginee",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2023
+    },
+    {
+      "path": "papers/Others/Lith-Rev-CSR_jan14.pdf",
+      "chars_extracted": 9366,
+      "snippet": "This journal is\u00a9 The Royal Society of Chemistry 2014 C h e m .S o c .R e v . ,2014, 43, 185- -204 | 185 Cite this: Chem. Soc. Rev., 2014, 43,1 8 5 Lithium and sodium battery cathode materials: computational insights into voltage, di\ufb00usion and nanostructural properties M. Saiful Islam* a and Craig A. J. Fisher b Energy storage technologies are critical in addressing the global challenge of clean su",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Others/Mg_Kumar.pdf",
+      "chars_extracted": 11622,
+      "snippet": "Interface-Induced Renormalization of Electrolyte Energy Levels in Magnesium Batteries Nitin Kumar \u2020 and Donald J. Siegel *,\u2020,\u2021,\u00a7,\u2225,\u03b2 \u2020Mechanical Engineering, \u2021Materials Science & Engineering, \u00a7Applied Physics Program, and \u2225Joint Center for Energy Storage Research, University of Michigan, Ann Arbor, Michigan 48109, United States \u03b2Department of Energy Conversion and Storage, Technical University of ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Others/NiAl_review.pdf",
+      "chars_extracted": 6856,
+      "snippet": "Evaluation of copper, aluminum, and nickel interatomic potentials on predicting the elastic properties Seyed Moein Rassoulinejad-Mousavi, Yijin Mao, and Yuwen Zhang Citation: Journal of Applied Physics 119, 244304 (2016); doi: 10.1063/1.4953676 View online: http://dx.doi.org/10.1063/1.4953676 View Table of Contents: http://scitation.aip.org/content/aip/journal/jap/119/24?ver=pdfcov Published by th",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Others/nnano.2015.37.pdf",
+      "chars_extracted": 12134,
+      "snippet": "Water desalination using nanoporous single-layer graphene Sumedh P. Surwade1,S e r g e iN .S m i r n o v2,I v a nV .V l a s s i o u k3*, Raymond R. Unocic 4, Gabriel M. Veith5, Sheng Dai 1,6 and Shannon M. Mahurin 1* By creating nanoscale pores in a layer of graphene, it could be used as an effective separation membrane due to its chemical and mechanical stability, its \ufb02exibility and, most importa",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Others/PhysRevB.84.075460.pdf",
+      "chars_extracted": 11685,
+      "snippet": "PHYSICAL REVIEW B 84, 075460 (2011) Reparameterization of the REBO-CHO potential for graphene oxide molecular dynamics simulations Alexandre F. Fonseca,1,2,* Geunsik Lee,3 Tammie L. Borders,4 Hengji Zhang,3 Travis W. Kemper,5 Tzu-Ray Shan,5 Susan B. Sinnott,5 and Kyeongjae Cho2,3,\u2020 1Departamento de F\u00b4\u0131sica, Instituto de Ci\u02c6encias Exatas (ICEx), Universidade Federal Fluminense, Volta Redonda, Rio d",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Others/QAPS_OH_JMS-2013.pdf",
+      "chars_extracted": 5348,
+      "snippet": "This article appeared in a journal published by Elsevier. The attached copy is furnished to the author for internal non-commercial research and education use, including for instruction at the authors institution and sharing with colleagues. Other uses, including reproduction and distribution, or selling or licensing copies, or posting to personal, institutional or third party websites are prohibit",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Overbury_JACS_2018.pdf",
+      "chars_extracted": 11870,
+      "snippet": "Complexity of Intercalation in MXenes: Destabilization of Urea by Two-Dimensional Titanium Carbide Steven H. Overbury, \u2020,# Alexander I. Kolesnikov, *,\u2021 Gilbert M. Brown, \u2020,# Zhiyong Zhang, \u2020,\u2207 Gokul S. Nair, \u00a7 Robert L. Sacci, \u00a7 Roghayyeh Lot \ufb01,\u2225 Adri C. T. van Duin, \u2225 and Michael Naguib *,\u22a5 \u2020Chemical Sciences Division, \u2021Neutron Scattering Division, and \u00a7Materials Science and Technology Division, ",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Overbury_JACS_2018_proof.pdf",
+      "chars_extracted": 12327,
+      "snippet": "1 Complexity of Intercalation in MXenes: Destabilization of Urea by 2 Two-Dimensional Titanium Carbide 3 Steven H. Overbury, \u2020,# Alexander I. Kolesnikov, *,\u2021 Gilbert M. Brown, \u2020,# Zhiyong Zhang, \u2020,\u2207 4 Gokul S. Nair, \u00a7 Robert L. Sacci, \u00a7 Roghayyeh Lot \ufb01,\u2225 Adri C. T. van Duin, \u2225 and Michael Naguib *,\u22a5 5 \u2020Chemical Sciences Division, \u2021Neutron Scattering Division, and \u00a7Materials Science and Technology ",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Page proof- TOC.pdf",
+      "chars_extracted": 102,
+      "snippet": "ACS Applied Materials & Interfaces Msc: am6b01490 The following graphic will be used for the T OC: 1",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Parsons_N2_N2_JCP_2014.PDF",
+      "chars_extracted": 7173,
+      "snippet": "Modeling of molecular nitrogen collisions and dissociation processes for direct simulation Monte Carlo Neal Parsons, Deborah A. Levin, Adri C. T. van Duin, and Tong Zhu Citation: The Journal of Chemical Physics 141, 234307 (2014); doi: 10.1063/1.4903782 View online: http://dx.doi.org/10.1063/1.4903782 View Table of Contents: http://scitation.aip.org/content/aip/journal/jcp/141/23?ver=pdfcov Publis",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCP",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Pols_ACS_AMI_CsPbI3_2022.pdf",
+      "chars_extracted": 8591,
+      "snippet": "What Happens at Surfaces and Grain Boundaries of Halide Perovskites: Insights from Reactive Molecular Dynamics Simulations of CsPbI3 Mike Pols,\u2225 Tobias Hilpert,\u2225 Ivo A.W. Filot, Adri C.T. van Duin, Sof\u00eda Calero,* and Shuxia Tao* Cite This: ACS Appl. Mater. Interfaces 2022, 14, 40841\u221240850 Read OnlineACCESS Metrics & More Article Recommendations* s\u0131 Supporting Information ABSTRACT: The commercializ",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2022
+    },
+    {
+      "path": "papers/Ponomarev_JPCC_SiCO_2019.pdf",
+      "chars_extracted": 10074,
+      "snippet": "Reactive Force Field for Simulations of the Pyrolysis of Polysiloxanes into Silicon Oxycarbide Ceramics Ilia Ponomarev, \u2020 Adri C. T. van Duin, \u2021 and Peter Kroll *,\u2020 \u2020Department of Chemistry and Biochemistry, The University of Texas at Arlington, 700 Planetarium Place, Arlington, Texas 76019, United States \u2021Department of Mechanical and Nuclear Engineering, Pennsylvania State University, University ",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/PPaP_2015_Yusupov-Lipid A.PDF",
+      "chars_extracted": 9221,
+      "snippet": "Inactivation of the Endotoxic Biomolecule Lipid A by Oxygen Plasma Species: A Reactive Molecular Dynamics Study Maksudbek Yusupov,* Erik C. Neyts, Christof C. Verlackt, Umedjon Khalilov, Adri C. T. van Duin, Annemie Bogaerts Reactive molecular dynamics simulations are performed to study the interaction of reactive oxygen species, such as OH, HO2 and H2O2, with the endotoxic biomolecule lipid A of ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Prenger_ACS_AEM_2022.pdf",
+      "chars_extracted": 8955,
+      "snippet": "Metal Cation Pre-Intercalated Ti 3 C 2 T x MXene as Ultra-High Areal Capacitance Electrodes for Aqueous Supercapacitors Kaitlyn Prenger, Yangunli Sun, Karthik Ganeshan, Ameer Al-Temimy, Kun Liang, Chaochao Dun, Jeffrey J. Urban, Jie Xiao, Tristan Petit, Adri C. T. van Duin, De-en Jiang, and Michael Naguib* Cite This: ACS Appl. Energy Mater. 2022, 5, 9373\u22129382 Read Online ACCESS Metrics & More Arti",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2022
+    },
+    {
+      "path": "papers/Prenger_ACS_AEM_2022_SI.pdf",
+      "chars_extracted": 2171,
+      "snippet": "S-1 Supporting Information Metal Cation Pre-Intercalated Ti3C2Tx MXene as Ultra High Areal Capacitance Electrodes for Aqueous Supercapacitors Kaitlyn Prenger,1 Yangunli Sun,2 Karthik Ganeshan,3 Ameer Al-Temimy,4,5 Kun Liang,1 Chaochao Dun,6 Jeffrey J. Urban,6 Jie Xiao,4 Tristan Petit,4 Adri C. T. van Duin,3 De-en Jiang,2 Michael Naguib1,* 1 Department of Physics and Engineering Physics, Tulane Uni",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2022
+    },
+    {
+      "path": "papers/Psofogiannakis_JPCC_2015.pdf",
+      "chars_extracted": 11804,
+      "snippet": "ReaxFF Reactive Molecular Dynamics Simulation of the Hydration of Cu-SSZ-13 Zeolite and the Formation of Cu Dimers George M. Psofogiannakis, *,\u2020 John F. McCleerey, \u2021 Eugenio Jaramillo, \u2021 and Adri C. T. van Duin \u2020 \u2020Department of Mechanical and Nuclear Engineering, Pennsylvania State University, University Park, State College, Pennsylvania 16801, United States \u2021Division of Mathematics and Natural Sc",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/QianMao_Carbon_Soot_2017.pdf",
+      "chars_extracted": 10911,
+      "snippet": "Formation of incipient soot particles from polycyclic aromatic hydrocarbons: A ReaxFF molecular dynamics study Qian Mao a, b, Adri C.T. van Duin b, *, K.H. Luo a, c, ** a Center for Combustion Energy, Key Laboratory for Thermal Science and Power Engineering of Ministry of Education, Department of Thermal Engineering , Tsinghua University, Beijing 100084, China b Department of Mechanical and Nuclea",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Quenneville_2010_JPC.pdf",
+      "chars_extracted": 11460,
+      "snippet": "Reactive Molecular Dynamics Studies of DMMP Adsorption and Reactivity on Amorphous Silica Surfaces Jason Quenneville* and Ramona S. Taylor* Spectral Sciences, Inc., Burlington, Massachusetts 01803, United States Adri C. T. van Duin Department of Mechanical and Nuclear Engineering, Pennsyl Vania State Uni Versity Uni Versity Park, PennsylVania 16802, United States ReceiVed: May 18, 2010; Re Vised M",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2010
+    },
+    {
+      "path": "papers/Rahnamoun_JAP_2016.pdf",
+      "chars_extracted": 7018,
+      "snippet": "Study of ice cluster impacts on amorphous silica using the ReaxFF reactive force field molecular dynamics simulation method A. Rahnamoun and A. C. T. van Duin Citation: Journal of Applied Physics 119, 095901 (2016); doi: 10.1063/1.4942997 View online: http://dx.doi.org/10.1063/1.4942997 View Table of Contents: http://scitation.aip.org/content/aip/journal/jap/119/9?ver=pdfcov Published by the AIP P",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Rahnamoun_Kapton_JPCA_2014.pdf",
+      "chars_extracted": 9470,
+      "snippet": "Reactive Molecular Dynamics Simulation on the Disintegration of Kapton, POSS Polyimide, Amorphous Silica, and Te \ufb02on during Atomic Oxygen Impact Using the Reax \ufb00 Reactive Force-Field Method A. Rahnamoun and A. C. T. van Duin * Department of Mechanical and Nuclear Engineering, Pennsylvania State University, 136 Research Building East, University Park, Pennsylvania 16802, United States ABSTRACT: Ato",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Raju_LiC_2015_JCTC.pdf",
+      "chars_extracted": 12242,
+      "snippet": "Reactive Force Field Study of Li/C Systems for Electrical Energy Storage Muralikrishna Raju, \u2020 P. Ganesh, *,\u00a7 Paul R. C. Kent, \u00a7,\u2225 and Adri C. T. van Duin *,\u2021 \u2020Department of Physics and \u2021Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u00a7Center for Nanophase Materials Sciences and \u2225Computer Science and Mathematic",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCTC",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Raju_LiC_2015_proof.pdf",
+      "chars_extracted": 12971,
+      "snippet": "1 Reactive Force Field Study of Li/C Systems for Electrical Energy 2 Storage 3 Muralikrishna Raju, \u2020 P. Ganesh, *,\u00a7 Paul R. C. Kent, \u00a7,\u2225 and Adri C. T. van Duin *,\u2021 4 \u2020Department of Physics and \u2021Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University 5 Park, Pennsylvania 16802, United States 6 \u00a7Center for Nanophase Materials Sciences and \u2225Computer Science an",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Raju_Nano_Letters_2014.pdf",
+      "chars_extracted": 8692,
+      "snippet": "Mechanisms of Oriented Attachment of TiO 2 Nanocrystals in Vacuum and Humid Environments: Reactive Molecular Dynamics Muralikrishna Raju, \u2020 Adri C. T. van Duin, \u2021 and Kristen A. Fichthorn *,\u2020,\u00a7 \u2020Department of Physics, \u2021Department of Mechanical and Nuclear Engineering, and \u00a7Department of Chemical Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802 *S Supporting Infor",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Raju_Nanoscale_2018.pdf",
+      "chars_extracted": 8822,
+      "snippet": "Nanoscale PAPER Cite this: Nanoscale, 2018, 10, 3969 Received 26th October 2017, Accepted 31st January 2018 DOI: 10.1039/c7nr07963j rsc.li/nanoscale Atomistic and continuum scale modeling of functionalized graphyne membranes for water desalination\u2020 Muralikrishna Raju, a Pavan B. Govindaraju,a Adri C. T. van Duin b and Matthias Ihme *a Recent theoretical and experimental studies reported ultra-high",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Raju_TiO2_water.pdf",
+      "chars_extracted": 11103,
+      "snippet": "ReaxFF Reactive Force Field Study of the Dissociation of Water on Titania Surfaces Muralikrishna Raju, \u2020 Sung-Yup Kim, \u2021 Adri C. T. van Duin, *,\u2021 and Kristen A. Fichthorn \u2020,\u00a7 Departments of \u2020Physics, \u2021Mechanical and Nuclear Engineering, and \u00a7Chemical Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States ABSTRACT: We studied the adsorption and dissociati",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Raju_TiO2_water_JPC_C_2013.pdf",
+      "chars_extracted": 11145,
+      "snippet": "ReaxFF Reactive Force Field Study of the Dissociation of Water on Titania Surfaces Muralikrishna Raju, \u2020 Sung-Yup Kim, \u2021 Adri C. T. van Duin, *,\u2021 and Kristen A. Fichthorn \u2020,\u00a7 Departments of \u2020Physics, \u2021Mechanical and Nuclear Engineering, and \u00a7Chemical Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States ABSTRACT: We studied the adsorption and dissociati",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/ReaxFF_others/dyilmaz.pdf",
+      "chars_extracted": 4032,
+      "snippet": "Investigating Structure Property Relations of poly(p-phenylene terephthalamide) Fibers via Reactive Molecular Dynamics D\u00a8UNDAR E. YILMAZ*, NEBAHAT BULUT Department of Electric-Electronics Engineering Zirve University, Gaziantep, Turkey. Department of Physics Gebze Technical University, Kocaeli, Turkey. Dated: February 3, 2016 ABSTRACT: Realistic poly(p-phenylene terephthalamide) (PPTA) \ufb01bers were ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/ReaxFF_others/ReaxFF_lg.pdf",
+      "chars_extracted": 9911,
+      "snippet": "Published: September 02, 2011 r 2011 American Chemical Society 11016 dx.doi.org/10.1021/jp201599t | J. Phys. Chem. A 2011, 115, 11016 \u201311022 ARTICLE pubs.acs.org/JPCA ReaxFF-lg: Correction of the ReaxFF Reactive Force Field for London Dispersion, with Applications to the Equations of State for Energetic Materials Lianchi Liu,\u2020,\u2021 Yi Liu,\u2021 Sergey V. Zybin, \u2021 Huai Sun,\u2020 and William A. Goddard, III* ,",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Rimsza_JPC_2016.pdf",
+      "chars_extracted": 12440,
+      "snippet": "Water Interactions with Nanoporous Silica: Comparison of ReaxFF and ab Initio based Molecular Dynamics Simulations J. M. Rimsza, \u2020,# Jejoon Yeon, \u2021,\u22a5 A. C. T. van Duin, \u2021 and Jincheng Du *,\u2020 \u2020Department of Materials Science and Engineering, University of North Texas, Denton, Texas 76203, United States \u2021Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Roshan_JPCC_CuSiO_2023_SI.pdf",
+      "chars_extracted": 1966,
+      "snippet": "S1 Optimization of ReaxFF Reactive Force Field Parameters for Cu/Si/O Systems via Neural Network Inversion with application to Copper Oxide Interaction with Silicon Kamyar Akbari Roshan 1, Mahdi Khajeh Talkhoncheh 2, Mert Yigit Sengul 3, David Jonathan Miller1, and Adri C. T. van Duin2,4* 1 Department of Electrical Engineering, Pennsylvania State University, University Park, Pennsylvania 16802, Un",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2023
+    },
+    {
+      "path": "papers/Russo_DNB_HNO3_JPCA_2013.pdf",
+      "chars_extracted": 9501,
+      "snippet": "Combustion of 1,5-Dinitrobiuret (DNB) in the Presence of Nitric Acid Using ReaxFF Molecular Dynamics Simulations Michael F. Russo, Jr., \u2020 Dmitry Bedrov, \u2021 Shashank Singhai, \u2020 and Adri C. T. van Duin \u2020,* \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021Department of Materials Science and Engineering, University",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Rygg_PLOSone_2013.pdf",
+      "chars_extracted": 13578,
+      "snippet": "Molecular Dynamics Simulations of Water/Mucus Partition Coefficients for Feeding Stimulants in Fish and the Implications for Olfaction Alex D. Rygg 1,2*, Adri C. T. van Duin 1, Brent A. Craven 1,2,3* 1 Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania, United States of America, 2 Applied Research Laboratory, The Pennsylvania State Un",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Sen_Nature_Comm_2014.pdf",
+      "chars_extracted": 9781,
+      "snippet": "ARTICLE Received 3 Jan 2014 | Accepted 25 Apr 2014 | Published 2 Jun 2014 Oxidation-assisted ductility of aluminium nanowires Fatih G. Sen 1, Ahmet T. Alpas 1, Adri C.T. van Duin 2 & Yue Qi 1,3 Oxidation can drastically change mechanical properties of nanostructures that typically have large surface-to-volume ratios. However, the underlying mechanisms describing the effect oxidation has on the mec",
+      "extract_error": null,
+      "journal_hint_from_filename": "NAT",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Sen_Nature_Comm_2014_proof.pdf",
+      "chars_extracted": 9790,
+      "snippet": "ARTICLE Received 3 Jan 2014 | Accepted 25 Apr 2014 | Published xx xxx 2014 Oxidation-assisted ductility in aluminium nanowires Fatih G. Sen 1, Ahmet T. Alpas 1, Adri C.T. van Duin 2 & Yue Qi 1,3 Oxidation can drastically change mechanical properties of nanostructures that typically have large surface-to-volume ratios. However, the underlying mechanisms describing the effect oxidation on the mechan",
+      "extract_error": null,
+      "journal_hint_from_filename": "NAT",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Senftle_ACS Catalysis_2015.pdf",
+      "chars_extracted": 0,
+      "snippet": "",
+      "extract_error": "Cannot find Root object in pdf",
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Senftle_CatComm2014.pdf",
+      "chars_extracted": 10659,
+      "snippet": "Short Communication Determining in situ phases of a nanoparticle catalyst via grand canonical Monte Carlo simulations with the ReaxFF potential Thomas P. Senftle a, Adri C.T. van Duin b,\u204e, Michael J. Janik a,\u204e a Department of Chemical Engineering, Pennsylvania State University, University Park, PA 16802, USA b Department of Mechanical and Nuclear Engineering, Pennsylvania State University, Univers",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Senftle_JCP_PdO_2013_proof.pdf",
+      "chars_extracted": 7831,
+      "snippet": "AUTHOR QUERY FORM Journal: J. Chem. Phys. Please provide your responses and any corrections by annotating this PDF and uploading it to AIP\u2019s eProof website as detailed in the Welcome email. Article Number: 058328JCP Dear Author, Below are the queries associated with your article. Please answer all of these queries before sending the proof back to AIP . Article checklist: In order to ensure greater",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCP",
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Senftle_PdH_JPCC_2014.pdf",
+      "chars_extracted": 12267,
+      "snippet": "A ReaxFF Investigation of Hydride Formation in Palladium Nanoclusters via Monte Carlo and Molecular Dynamics Simulations Thomas P. Senftle, \u2020 Michael J. Janik, *,\u2020 and Adri C. T. van Duin *,\u2021 \u2020Department of Chemical Engineering, Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021Department of Mechanical and Nuclear Engineering, Pennsylvania State University, Univers",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Senftle_PdH_JPCCproof_2014.pdf",
+      "chars_extracted": 12962,
+      "snippet": "1 A ReaxFF Investigation of Hydride Formation in Palladium 2 Nanoclusters via Monte Carlo and Molecular Dynamics Simulations 3 Thomas P. Senftle, \u2020 Michael J. Janik, *,\u2020 and Adri C. T. van Duin *,\u2021 4 \u2020Department of Chemical Engineering, Pennsylvania State University, University Park, Pennsylvania 16802, United States 5 \u2021Department of Mechanical and Nuclear Engineering, Pennsylvania State Universit",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Sengul_NASICON_PCCP_2022.pdf",
+      "chars_extracted": 8353,
+      "snippet": "This journal is \u00a9 the Owner Societies 2022 Phys. Chem. Chem. Phys., 2022, 24, 4125\u20134130 | 4125 Cite this: Phys. Chem. Chem. Phys., 2022, 2 4, 4125 Atomistic level aqueous dissolution dynamics of NASICON-Type Li 1+xAlxTi2/C0x(PO4)3 (LATP)\u2020 Mert Y. Sengul, \u2021a Arnaud Ndayishimiye, \u2021b Wonho Lee, bc Joo-Hwan Seo, a Zhongming Fan, b Yun Kyung Shin, d Enrique D. Gomez, be Clive A. Randall ab and Adri C. ",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2022
+    },
+    {
+      "path": "papers/Shabnam_PCCP_Ni_soot_2019.pdf",
+      "chars_extracted": 11396,
+      "snippet": "This journal is\u00a9 the Owner Societies 2019 Phys. Chem. Chem. Phys., 2019, 21, 9865- -9875 | 9865 Cite this: Phys. Chem. Chem. Phys., 2019, 21,9 8 6 5 Evaluation of the e\ufb00ect of nickel clusters on the formation of incipient soot particles from polycyclic aromatic hydrocarbons via ReaxFF molecular dynamics simulations \u2020 Sharmin Shabnam, a Qian Mao, b Adri C. T. van Duin* a and K. H. Luo bc In the pre",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Shan_Thompson_AN_JPCA_2014.pdf",
+      "chars_extracted": 9912,
+      "snippet": "Development of a ReaxFF Reactive Force Field for Ammonium Nitrate and Application to Shock Compression and Thermal Decomposition Tzu-Ray Shan, *,\u2020 Adri C. T. van Duin, \u2021 and Aidan P. Thompson \u2020 \u2020Sandia National Laboratories, Albuquerque, New Mexico 87185, United States \u2021Department of Mechanical and Nuclear Engineering, Pennsylvania State University, University Park, Pennsylvania 16802, United Stat",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Shchygol_JCTC_2019.pdf",
+      "chars_extracted": 11995,
+      "snippet": "ReaxFF Parameter Optimization with Monte-Carlo and Evolutionary Algorithms: Guidelines and Insights Ganna Shchygol, \u2020,\u2021 Alexei Yakovlev, \u2021 Toma\u0301s\u030cTrnka,\u2021 Adri C. T. van Duin, \u00a7 and Toon Verstraelen *,\u2020 \u2020Center for Molecular Modeling (CMM), Ghent University, Technologiepark-Zwijnaarde 46, B-9052 Ghent, East Flanders, Belgium \u2021Software for Chemistry & Materials (SCM) B.V., De Boelelaan 1083, 1081 HV",
+      "extract_error": null,
+      "journal_hint_from_filename": "JCTC",
+      "year_hint_from_filename": 2019
+    },
+    {
+      "path": "papers/Shin_ACS_Catalysis_2015.pdf",
+      "chars_extracted": 10484,
+      "snippet": "Development of a ReaxFF Reactive Force Field for Fe/Cr/O/S and Application to Oxidation of Butane over a Pyrite-Covered Cr 2O3 Catalyst Yun Kyung Shin, *,\u2020 Hyunwook Kwak, \u2021,\u00a7 Alex V. Vasenkov, \u2021,\u2225 Debasis Sengupta, \u2021 and Adri C.T. van Duin *,\u2020 \u2020Department of Mechanical and Nuclear Engineering, Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021CFD Research Corporati",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Shin_FeAlNi_JPCA_2012.pdf",
+      "chars_extracted": 11840,
+      "snippet": "Development and Validation of a ReaxFF Reactive Force Field for Fe/ Al/Ni Alloys: Molecular Dynamics Study of Elastic Constants, Di\ufb00usion, and Segregation Yun Kyung Shin, *,\u2021 Hyunwook Kwak,\u00a7 Chenyu Zou,\u2021,\u2020 Alex V. Vasenkov, \u00a7 and Adri C. T. van Duin *,\u2021,\u2020 \u2020National Energy Technology Laboratory-Regional University Alliance (NETL-RUA), Pittsburgh, Pennsylvania 15236, United States \u2021Department of Mec",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2012
+    },
+    {
+      "path": "papers/Shin_LATP_PCCP_2018.pdf",
+      "chars_extracted": 11859,
+      "snippet": "This journal is\u00a9 the Owner Societies 2018 Phys. Chem. Chem. Phys. Cite this:DOI: 10.1039/c8cp03586e Development of a ReaxFF reactive force field for lithium ion conducting solid electrolyte Li 1+xAlxTi2/C0 x(PO4)3 (LATP)\u2020 Yun Kyung Shin, a Mert Y. Sengul, ab A. S. M. Jonayat, a Wonho Lee, c Enrique D. Gomez, bc Clive A. Randall b and Adri C. T. van Duin *a We developed a ReaxFF reactive force fiel",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Shin_LATP_PCCP_2018_proof.pdf",
+      "chars_extracted": 5530,
+      "snippet": "Physical Chemistry Chemical Physics c8cp03586e We have presented the Graphical Abstract text and image for your article below. This brief summary of your work will appear in the contents pages of the issue in which your article appears. Q1Development of a ReaxFF reactive force field for lithium ion conducting solid electrolyte Li 1+xAlxTi2/C0 x(PO4)3 (LATP) Yun Kyung Shin, Mert Y. Sengul, A. S. M.",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Shin_MRSBulletin_2012.pdf",
+      "chars_extracted": 10001,
+      "snippet": "504 MRS BULLETIN \u2022 VOLUME 37 \u2022 MAY 2012 \u2022 www.mrs.org/bulletin \u00a9 2012 Materials Research Society Introduction Many devices are built from materials with very different atomic structures and involve various types of bonding: covalent, ionic, metallic, and secondary bonding. The analysis of such systems at the atomic level is challenging. Electronic-structure methods, of which techniques based on de",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2012
+    },
+    {
+      "path": "papers/Shin_PtNiCHO_JPCA_2016.pdf",
+      "chars_extracted": 11328,
+      "snippet": "Development of a ReaxFF Reactive Force Field for the Pt \u2212Ni Alloy Catalyst Yun Kyung Shin, \u2020 Lili Gai, \u2020 Sumathy Raman, *,\u2021 and Adri C. T. van Duin \u2020 \u2020Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u2021ExxonMobil Research and Engineering Co., Annandale, New Jersey 08801, United States *S Supporting Information AB",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Somers-2014-ACBE-154-1.pdf",
+      "chars_extracted": 11336,
+      "snippet": "Applied Catalysis B: Environmental 154\u2013155 (2014) 1\u20138 Contents lists available at ScienceDirect Applied Catalysis B: Environmental j ourna l h om epage: www.elsevier.com/locate/apcatb Interactions of plasma species on nickel catalysts: A reactive molecular dynamics study on the in\ufb02uence of temperature and surface structure W. Somersa, A. Bogaertsa, A.C.T. van Duinb, E.C. Neytsa,\u2217 a Department of C",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Somers_CatalysisToday_2013.pdf",
+      "chars_extracted": 13411,
+      "snippet": "Catalysis Today 211 (2013) 131\u2013 136 Contents lists available at SciVerse ScienceDirect Catalysis Today jou rn al hom epage: www.elsevier.com/locate/cattod Temperature in\ufb02uence on the reactivity of plasma species on a nickel catalyst surface: An atomic scale study W. Somersa,\u2217, A. Bogaertsa, A.C.T. van Duinb, S. Huygha, K.M. Bala, E.C. Neytsa a Department of Chemistry, PLASMANT Research Group, Univ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Srinivasan_Carbon_2014.pdf",
+      "chars_extracted": 10649,
+      "snippet": "Direction dependent etching of diamond surfaces by hyperthermal atomic oxygen: A ReaxFF based molecular dynamics study Sriram Goverapet Srinivasan, Adri C.T. van Duin * Department of Mechanical and Nuclear Engineering, The Pennsylvania State University , University Park, PA 16802, USA ARTICLE INFO Article history: Received 14 July 2014 Accepted 23 October 2014 Available online 30 October 2014 ABST",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Tavazza_JPC_2015_indentor.pdf",
+      "chars_extracted": 9426,
+      "snippet": "Molecular Dynamics Investigation of the E \ufb00ects of Tip \u2212Substrate Interactions during Nanoindentation F. Tavazza, *,\u2020 T. P. Senftle, \u2021 C. Zou, \u00a7 C. A. Becker, \u2020 and A. C. T van Duin \u00a7 \u2020Materials Science and Engineering Division, National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, Maryland 20899, United States \u2021Department of Chemical Engineering and \u00a7Department of Mechan",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Tavazza_JPC_2015_proof.pdf",
+      "chars_extracted": 9999,
+      "snippet": "1 Molecular Dynamics Investigation of the E \ufb00ects of Tip \u2212Substrate 2 Interactions during Nanoindentation 3 F. Tavazza, *,\u2020 T. P. Senftle, \u2021 C. Zou, \u00a7 C. A. Becker, \u2020 and A. C. T van Duin \u00a7 4 \u2020Materials Science and Engineering Division, National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, 5 Maryland 20899, United States 6 \u2021Department of Chemical Engineering and \u00a7Departme",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Thompson_C_2017-proof.pdf",
+      "chars_extracted": 8179,
+      "snippet": "Journal of Carbon Research C Article An Atomistic Carbide-Derived Carbon Model Generated Using ReaxFF-Based Quenched Molecular Dynamics Matthew W. Thompson 1,2,* ID , Boris Dyatkin 3 ID , Hsiu-Wen Wang 4 ID , C. Heath T urner5, Xiahan Sang 6 ID , Raymond R. Unocic 6 ID , Christopher R. Iacovella 1,2 ID , Yury Gogotsi 3 ID , Adri C. T. van Duin 7 ID and Peter T. Cummings 1,2 ID 1 Department of Chem",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Uene_2024_BN_BCl3_JPC.pdf",
+      "chars_extracted": 9640,
+      "snippet": "Reactive Force Field Molecular Dynamics Studies of the Initial Growth of Boron Nitride Using BCl 3 and NH 3 by Atomic Layer Deposition Naoya Uene,* Takuya Mabuchi, Masaru Zaitsu, Shigeo Yasuhara, Adri C. T. van Duin, and Takashi Tokumasu Cite This: J. Phys. Chem. C 2024, 128, 1075\u22121086 Read Online ACCESS Metrics & More Article Recommendations * s\u0131 Supporting Information ABSTRACT: A new ReaxFF reac",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2024
+    },
+    {
+      "path": "papers/Uene_2024_BN_BCl3_JPC_SI.pdf",
+      "chars_extracted": 3854,
+      "snippet": "S1 Supplementary Material Reactive Force Field Molecular Dynamics Studies of the Initial Growth of Boron Nitride Using BCl3 and NH3 by Atomic Layer Deposition Naoya Uene a*, Takuya Mabuchi a,b, Masaru Zaitsu c, Shigeo Yasuhara c, Adri C.T. van Duin d, Takashi Tokumasu a a Institute of Fluid Science, Tohoku University, Sendai, Miyagi 980-8577, Japan b Frontier Research Institute of Interdisciplinar",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2024
+    },
+    {
+      "path": "papers/vanBree_OrgGeoChem_2018.pdf",
+      "chars_extracted": 10420,
+      "snippet": "Origin, formation and environmental signi\ufb01cance of des-A-arborenes in the sediments of an East African crater lake L.G.J. van Bree a,b,\u21d1, M.M. Islam c, W.I.C. Rijpstra b, D. Verschuren d, A.C.T. van Duin c, J.S. Sinninghe Damst\u00e9 a,b, J.W. de Leeuw a,b a Utrecht University, Department of Earth Sciences, Princetonlaan 8A, 3584 CD Utrecht, The Netherlands b NIOZ Royal Netherlands Institute for Sea Re",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/vanDuin_IJEMCP_2013_galley.pdf",
+      "chars_extracted": 6842,
+      "snippet": "begell house, inc. Journal Production Article Reference #: 50 Cross Highway Date Proof Sent: Redding, CT 06896 Total Pages: Phone: 1\u2010203\u2010938\u20101300 Fax: 1\u2010203\u2010938\u20101304 Begell House Production Contact: journals@begellhouse.com Journal: Year: Volume: Article Title: Dear Please review the attached PDF file which contains the author proof of your article This is your only opportunity to review the editi",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Vashisth_Polymer_2018.pdf",
+      "chars_extracted": 9608,
+      "snippet": "Contents lists available atScienceDirect Polymer journal homepage: www.elsevier.com/locate/polymer Effect of chemical structure on thermo-mechanical properties of epoxy polymers: Comparison of accelerated ReaxFF simulations and experiments Aniruddh Vashistha, Chowdhury Ashrafb, Charles E. Bakisa, Adri C.T. van Duina,b,\u2217 aDepartment of Engineering Science and Mechanics, The Pennsylvania State Unive",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Verlackt_njp_DNA_2015.pdf",
+      "chars_extracted": 5069,
+      "snippet": "This content has been downloaded from IOPscience. Please scroll down to see the full text. Download details: IP Address: 130.203.253.186 This content was downloaded on 17/03/2016 at 15:23 Please note that terms and conditions apply. Atomic-scale insight into the interactions between hydroxyl radicals and DNA in solution using the ReaxFF reactive force field View the table of contents for this issu",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Verma_PCCP_BN_water_2021.pdf",
+      "chars_extracted": 11397,
+      "snippet": "10822 | Phys. Chem. Chem. Phys., 2021, 23, 10822\u201310834 This journal is \u00a9 the Owner Societies 2021 Cite this: Phys. Chem. Chem. Phys., 2021, 23, 10822 ReaxFF reactive molecular dynamics simulations to study the interfacial dynamics between defective h-BN nanosheets and water nanodroplets\u2020 Akarsh Verma, *abc Weiwei Zhang a and Adri C. T. van Duin *a In this work, the authors have developed a reactiv",
+      "extract_error": null,
+      "journal_hint_from_filename": "PCCP",
+      "year_hint_from_filename": 2021
+    },
+    {
+      "path": "papers/Verners_CompMatSci_2015.pdf",
+      "chars_extracted": 11238,
+      "snippet": "a-Al2O3 nanoslab fracture and fatigue behavior Osvalds Verners a, George Psofogiannakis b, Adri C.T. van Duin c,\u21d1 a Department of Mechanical and Nuclear Engineering, Pennsylvania State University, 235 Research East Building, University Park, PA 16802, USA b Department of Mechanical and Nuclear Engineering, Pennsylvania State University, 129 Research East Building, University Park, PA 16802, USA c ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Verners_J_App_Phys_2013.pdf",
+      "chars_extracted": 6171,
+      "snippet": "Molecular dynamics simulation of Al grain mixing in Fe/Ni matrices and its influence on oxidation O. Verners, Y. K. Shin, and A. C. T. van Duin Citation: J. Appl. Phys. 114, 023501 (2013); doi: 10.1063/1.4812387 View online: http://dx.doi.org/10.1063/1.4812387 View Table of Contents: http://jap.aip.org/resource/1/JAPIAU/v114/i2 Published by the AIP Publishing LLC. Additional information on J. Appl",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Verners_JAP_galley.pdf",
+      "chars_extracted": 8434,
+      "snippet": "AUTHOR QUERY FORM Journal: J. Appl. Phys. Article Number: 033326JAP Please provide your responses and any corrections by annotating this PDF and uploading it according to the instructions provided in the proof notification email. Dear Author, Below are the queries associated with your article; please answer all of these queries before sending the proof back to AIP. Please indicate the following: F",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Weismiller_DCA_MSME_2015.pdf",
+      "chars_extracted": 3293,
+      "snippet": "This content has been downloaded from IOPscience. Please scroll down to see the full text. Download details: IP Address: 130.203.253.131 This content was downloaded on 08/10/2015 at 03:23 Please note that terms and conditions apply. ReaxFF molecular dynamics simulations of intermediate species in dicyanamide anion and nitric acid hypergolic combustion View the table of contents for this issue, or ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Wen_App_Surf_Sci_2016.pdf",
+      "chars_extracted": 10593,
+      "snippet": "Applied Surface Science 390 (2016) 216\u2013223 Contents lists available at ScienceDirect Applied Surface Science journal h om epa ge: www.elsevier.com/locate/apsusc Atomic insight into tribochemical wear mechanism of silicon at the Si/SiO2 interface in aqueous environment: Molecular dynamics simulations using ReaxFF reactive force \ufb01eld Jialin Wen a, Tianbao Ma a, Weiwei Zhang b, George Psofogiannakis ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Wood_HMX_JPCA_2014.pdf",
+      "chars_extracted": 12658,
+      "snippet": "Coupled Thermal and Electromagnetic Induced Decomposition in the Molecular Explosive \u03b1HMX; A Reactive Molecular Dynamics Study Mitchell A. Wood, \u2020 Adri C. T. van Duin, \u2021 and Alejandro Strachan *,\u2020 \u2020School of Materials Engineering and Birck Nanotechnology Center, Purdue University, West Lafayette, Indiana 47907, United States \u2021Department of Mechanical and Nuclear Engineering, Pennsylvania State Uni",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Yang_ZIF_JPC_B_2018.pdf",
+      "chars_extracted": 11801,
+      "snippet": "Enabling Computational Design of ZIFs Using ReaxFF Yongjian Yang, \u2020 Yun Kyung Shin, \u2021 Shichun Li, \u00a7,\u2225 Thomas D. Bennett, \u2225 Adri C. T. van Duin, *,\u2020,\u2021 and John C. Mauro *,\u2020 \u2020Department of Materials Science and Engineering and \u2021Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u00a7Institute of Chemical Materials, Chin",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Yang_ZIF_JPC_B_2018_proof.pdf",
+      "chars_extracted": 11789,
+      "snippet": "Enabling Computational Design of ZIFs Using ReaxFF Yongjian Yang, \u2020 Yun Kyung Shin, \u2021 Shichun Li, \u00a7,\u2225 Thomas D. Bennett, \u2225 Adri C. T. van Duin, *,\u2020,\u2021 and John C. Mauro *,\u2020 \u2020Department of Materials Science and Engineering and \u2021Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States \u00a7Institute of Chemical Materials, Chin",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Yang_ZIF_JPCL_2018.pdf",
+      "chars_extracted": 8827,
+      "snippet": "Prediction of the Glass Transition Temperatures of Zeolitic Imidazolate Glasses through Topological Constraint Theory Yongjian Yang, \u2020 Collin J. Wilkinson, \u2020 Kuo-Hao Lee, \u2020 Karan Doss, \u2020 Thomas D. Bennett, \u2021 Yun Kyung Shin, \u00a7 Adri C. T. van Duin, \u2020,\u00a7 and John C. Mauro *,\u2020 \u2020Department of Materials Science and Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, Unite",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCL",
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Yeon_CuSCH_JPCB_2017.pdf",
+      "chars_extracted": 11206,
+      "snippet": "Development of a ReaxFF Force Field for Cu/S/C/H and Reactive MD Simulations of Methyl Thiolate Decomposition on Cu (100) Jejoon Yeon, \u2020 Heather L. Adams, \u2021 Chad E. Junkermeier, \u00a7 Adri C. T. van Duin, \u2225 Wilfred T. Tysoe, \u2021 and Ashlie Martini *,\u2020 \u2020Department of Mechanical Engineering, University of California, Merced, California 95343, United States \u2021Department of Chemistry and Laboratory for Surfa",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Yeon_Langmuir_2016.pdf",
+      "chars_extracted": 11452,
+      "snippet": "E\ufb00ects of Water on Tribochemical Wear of Silicon Oxide Interface: Molecular Dynamics (MD) Study with Reactive Force Field (ReaxFF) Jejoon Yeon, \u2020 Adri C. T. van Duin, *,\u2020,\u2021 and Seong H. Kim *,\u2021,\u00a7 \u2020Department of Mechanical and Nuclear Engineering, \u2021Materials Research Institute, and \u00a7Department of Chemical Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United St",
+      "extract_error": null,
+      "journal_hint_from_filename": "LANGMUIR",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Yeon_Langmuir_2016_proof.pdf",
+      "chars_extracted": 12102,
+      "snippet": "1 E\ufb00ects of Water on Tribochemical Wear of Silicon Oxide Interface: 2 Molecular Dynamics (MD) Study with Reactive Force Field (ReaxFF) 3 Jejoon Yeon, \u2020 Adri van Duin, *,\u2020,\u2021 and Seong H. Kim *,\u2021,\u00a7 4 \u2020Department of Mechanical and Nuclear Engineering, \u2021Materials Research Institute, and \u00a7Department of Chemical Engineering, The 5 Pennsylvania State University, University Park, Pennsylvania 16802, Unite",
+      "extract_error": null,
+      "journal_hint_from_filename": "LANGMUIR",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Yeon_Langmuir_2016_SI.pdf",
+      "chars_extracted": 1649,
+      "snippet": "1 Supporting Information Effects of Water on Tribochemical Wear of Silicon Oxide Interfaces: Molecular Dynamics (MD) Study with Reactive Force Field (ReaxFF) Jejoon Yeon,1 Adri van Duin1,2* and Seong H. Kim,2,3* 1. Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, PA 16802. 2. Materials Research Institute, The Pennsylvania State University, Unive",
+      "extract_error": null,
+      "journal_hint_from_filename": "LANGMUIR",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Yoon_ACSNano_2016.pdf",
+      "chars_extracted": 8107,
+      "snippet": "Atomistic-Scale Simulations of Defect Formation in Graphene under Noble Gas Ion Irradiation Kichul Yoon, \u2020 Ali Rahnamoun, \u2020 Jacob L. Swett, \u2021 Vighter Iberi, \u00a7,\u2225 David A. Cullen, \u22a5 Ivan V. Vlassiouk, # Alex Belianinov, \u2225,\u00b6 Stephen Jesse, \u2225,\u00b6 Xiahan Sang, \u2225 Olga S. Ovchinnikova, \u2225,\u00b6 Adam J. Rondinone, \u2225 Raymond R. Unocic, \u2225 and Adri C.T. van Duin *,\u2020 \u2020Department of Mechanical and Nuclear Engineering",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": 2016
+    },
+    {
+      "path": "papers/Yoon_ACSNano_ASAP.pdf",
+      "chars_extracted": 3469,
+      "snippet": "Subscriber access provided by OAK RIDGE NATIONAL LAB ACS Nano is published by the American Chemical Society. 1155 Sixteenth Street N.W., Washington, DC 20036 Published by American Chemical Society. Copyright \u00a9 American Chemical Society. However, no copyright claim is made to original U.S. Government works, or works produced by employees of any Commonwealth realm Crown government in the course of t",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Yoon_ACSNano_galley_proof.pdf",
+      "chars_extracted": 8538,
+      "snippet": "1 Atomistic-Scale Simulations of Defect 2 Formation in Graphene under Noble Gas Ion 3 Irradiation 4 Kichul Yoon, \u2020 Ali Rahnamoun, \u2020 Jacob L. Swett, \u2021 Vighter Iberi, \u00a7,\u2225 David A. Cullen, \u22a5 Ivan V. Vlassiouk, # 5 Alex Belianinov, \u2225,\u00b6 Xiahan Sang, \u2225 Olga S. Ovchinnikova, \u2225,\u00b6 Adam J. Rondinone, \u2225 Raymond R. Unocic, \u2225 6 and Adri C.T. van Duin *,\u2020 7 \u2020Department of Mechanical and Nuclear Engineering, The",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Yoon_ACSNano_online.pdf",
+      "chars_extracted": 8072,
+      "snippet": "Atomistic-Scale Simulations of Defect Formation in Graphene under Noble Gas Ion Irradiation Kichul Yoon, \u2020 Ali Rahnamoun, \u2020 Jacob L. Swett, \u2021 Vighter Iberi, \u00a7,\u2225 David A. Cullen, \u22a5 Ivan V. Vlassiouk, # Alex Belianinov, \u2225,\u00b6 Stephen Jesse, \u2225,\u00b6 Xiahan Sang, \u2225 Olga S. Ovchinnikova, \u2225,\u00b6 Adam J. Rondinone, \u2225 Raymond R. Unocic, \u2225 and Adri C.T. van Duin *,\u2020 \u2020Department of Mechanical and Nuclear Engineering",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Yoon_ACSNano_SI.pdf",
+      "chars_extracted": 1998,
+      "snippet": "1 Atomistic-Scale Simulations of Defect Formation in Graphene Under Noble Gas Ion Irradiation Kichul Yoon a, Ali Rahnamoun a, Jacob L. Swett b, Vighter Iberi c, d , David A. Cullen e, Ivan V. Vlassiouk f, Alex Belianinov d, g, Xiahan Sang d, Olga S. Ovchinnikova d, g, Adam J. Rondinone d, Raymond R. Unocic d, and Adri C.T. van Duin a, * a Department of Mechanical and Nuclear Engineering, The Penns",
+      "extract_error": null,
+      "journal_hint_from_filename": "ACS",
+      "year_hint_from_filename": null
+    },
+    {
+      "path": "papers/Yoon_Carbon_2015.pdf",
+      "chars_extracted": 12777,
+      "snippet": "Atomistic-scale simulations of the chemomechanical behavior of graphene under nanoprojectile impact Kichul Yoon a, Alireza Ostadhossein b, Adri C.T. van Duin a, * a Department of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, PA 16802, USA b Department of Engineering Science and Mechanics, The Pennsylvania State University, University Park, PA 16802, USA ar",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Yue_Langmuir_Asperity_2015.pdf",
+      "chars_extracted": 11861,
+      "snippet": "Tribochemical Mechanism of Amorphous Silica Asperities in Aqueous Environment: A Reactive Molecular Dynamics Study Da-Chuan Yue, \u2020 Tian-Bao Ma, *,\u2020 Yuan-Zhong Hu, \u2020 Jejoon Yeon, \u2021 Adri C. T. van Duin, \u2021 Hui Wang, \u2020 and Jianbin Luo \u2020 \u2020State Key Laboratory of Tribology, Tsinghua University, Beijing 100084, China \u2021Department of Mechanical and Nuclear Engineering, Pennsylvania State University, Univer",
+      "extract_error": null,
+      "journal_hint_from_filename": "LANGMUIR",
+      "year_hint_from_filename": 2015
+    },
+    {
+      "path": "papers/Yun_JPCA_2012_Alloys_ASAP.pdf",
+      "chars_extracted": 11795,
+      "snippet": "Development and Validation of a ReaxFF Reactive Force Field for Fe/ Al/Ni Alloys: Molecular Dynamics Study of Elastic Constants, Di\ufb00usion, and Segregation Yun Kyung Shin, *,\u2021 Hyunwook Kwak,\u00a7 Chenyu Zou,\u2021,\u2020 Alex V. Vasenkov, \u00a7 and Adri C. T. van Duin *,\u2021,\u2020 \u2020National Energy Technology Laboratory-Regional University Alliance (NETL-RUA), Pittsburgh, Pennsylvania 15236, United States \u2021Department of Mec",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCA",
+      "year_hint_from_filename": 2012
+    },
+    {
+      "path": "papers/Yusupov_JPhysD_2013.pdf",
+      "chars_extracted": 10486,
+      "snippet": "Journal of Physics D: Applied Physics J. Phys. D: Appl. Phys. 47 (2014) 025205 (9pp) doi:10.1088/0022-3727/47/2/025205 Reactive molecular dynamics simulations of oxygen species in a liquid water layer of interest for plasma medicine M Y usupov1,ECN e y t s1, P Simon 1, G Berdiyorov2, R Snoeckx 1, ACTv a n Duin3 and A Bogaerts 1 1 Research Group PLASMANT, Department of Chemistry, University of Antw",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2013
+    },
+    {
+      "path": "papers/Zhang_ChemMat_2020_SI.pdf",
+      "chars_extracted": 1214,
+      "snippet": "S1 Supporting Information for Atomistic-Scale Simulations of the Graphene Growth on Silicon Carbide Substrate using Thermal Decomposition and Chemical Vapor Deposition Weiwei Zhang and Adri C. T. van Duin* Department of Mechanical Engineering, The Pennsylvania State University, University Park, Pennsylvania 16802, United States E-mail: acv13@psu.edu S2 Table of Contents 1. Figures S1-S3 and Table ",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2020
+    },
+    {
+      "path": "papers/Zhang_JPC_B_IL_CO2_2014.pdf",
+      "chars_extracted": 11514,
+      "snippet": "Development of a ReaxFF Reactive Force Field for Tetrabutylphosphonium Glycinate/CO 2 Mixtures Bo Zhang, \u2020,\u2021 Adri C. T. van Duin, \u2020,\u00a7 and J Karl Johnson *,\u2020,\u2021 \u2020United States Department of Energy, National Energy Technology Laboratory, Pittsburgh, Pennsylvania 15236, United States \u2021Department of Chemical & Petroleum Engineering, University of Pittsburgh, Pittsburgh, Pennsylvania 15261, United State",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Zhang_Seveno_Carbon_2017.pdf",
+      "chars_extracted": 12810,
+      "snippet": "Weakening effect of nickel catalyst particles on the mechanical strength of the carbon nanotube/carbon \ufb01ber junction Chi Zhang a, Adri C.T. van Duin b, Jin Won Seo a, David Seveno a, * a Department of Materials Engineering, KU Leuven, 3001 Leuven, Belgium b Department of Mechanical & Nuclear Engineering, Pennsylvania State University, USA article info Article history: Received 21 November 2016 Rec",
+      "extract_error": null,
+      "journal_hint_from_filename": "CARBON",
+      "year_hint_from_filename": 2017
+    },
+    {
+      "path": "papers/Zhong_CombFlame_2018.pdf",
+      "chars_extracted": 13483,
+      "snippet": "Combustion and Flame 198 (2018) 146\u2013157 Contents lists available at ScienceDirect Combustion and Flame journal homepage: www.elsevier.com/locate/combustflame ReaxFF simulations of petroleum coke sulfur removal mechanisms during pyrolysis and combustion Qifan Zhong a , b , Qiuyun Mao c , Jin Xiao a , \u2217, Adri C.T. van Duin d , \u2217, Jonathan P. Mathews b , \u2217 a School of Metallurgy and Environment, Cent",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Zhong_PetCoke_JAAP_2018.pdf",
+      "chars_extracted": 11185,
+      "snippet": "Contents lists available at ScienceDirect Journal of Analytical and Applied Pyrolysis journal homepage: www.elsevier.com/locate/jaap Sulfur removal from petroleum coke during high-temperature pyrolysis. Analysis from TG-MS data and ReaxFF simulations Qifan Zhong a,b, Qiuyun Mao c, Jin Xiao a,\u204e , Adri van Duin d, Jonathan P. Mathews b,\u204e a School of Metallurgy and Environment, Central South Universi",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2018
+    },
+    {
+      "path": "papers/Zhu_JPCC_CuCHO_2020.pdf",
+      "chars_extracted": 10873,
+      "snippet": "Development of a Reactive Force Field for Simulations on the Catalytic Conversion of C/H/O Molecules on Cu-Metal and Cu-Oxide Surfaces and Application to Cu/CuO-Based Chemical Looping Wenbo Zhu, Hao Gong, You Han, Minhua Zhang, * and Adri C. T. van Duin * Cite This: J. Phys. Chem. C 2020, 124, 12512 \u221212520 Read Online ACCESS Metrics & More Article Recommendations *s\u0131 Supporting Information ABSTRAC",
+      "extract_error": null,
+      "journal_hint_from_filename": "JPCC",
+      "year_hint_from_filename": 2020
+    },
+    {
+      "path": "papers/Zou_ActaMater_2014.pdf",
+      "chars_extracted": 12278,
+      "snippet": "Molecular dynamics simulations of the e\ufb00ects of vacancies on nickel self-di\ufb00usion, oxygen di\ufb00usion and oxidation initiation in nickel, using the ReaxFF reactive force \ufb01eld Chenyu Zou, a Yun Kyung Shin, a Adri C.T. van Duin, a,\u21d1 Huazhi Fang b and Zi-Kui Liu b aDepartment of Mechanical and Nuclear Engineering, The Pennsylvania State University, University Park, PA 16802, USA bDepartment of Materials",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    },
+    {
+      "path": "papers/Zou_ActaMater_2014_proof.pdf",
+      "chars_extracted": 1503,
+      "snippet": "Dear Author, Please, note that changes made to the HTML content will be added to the article before publication, but are not reflected in this PDF. Note also that this file should not be used for submitting corrections. Our reference: AM 11697 P-authorquery-v11 AUTHOR QUERY FORM Journal: AM Article Number: 11697 Please e-mail or fax your responses and any corrections to: E-mail: corrections.essd@e",
+      "extract_error": null,
+      "journal_hint_from_filename": null,
+      "year_hint_from_filename": 2014
+    }
+  ]
+}

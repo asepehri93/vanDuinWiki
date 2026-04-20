@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015raju-venue-ct-2014-01027v",
+  "manifest": {
+    "source_path": "papers/Raju_LiC_2015_JCTC.pdf",
+    "sha256": "85e699a95d10b17f4776e774331fd0fe690e4f79f4cd6062a81bb40e2e5276c1",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ct-2014-01027v 1..11",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Raju_LiC_2015_JCTC.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015raju-venue-ct-2014-01027v_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015raju-venue-ct-2014-01027v.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

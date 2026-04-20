@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022sengul-physical-che-atomistic-level",
+  "manifest": {
+    "source_path": "papers/Sengul_NASICON_PCCP_2022.pdf",
+    "sha256": "865dc85389a4fb64fc2eb2b2f310baa4c6f9d17cb7ed33e8931f1557a32ee62f",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic level aqueous dissolution dynamics of NASICON-Type Li1+xAlxTi2&#x2212;x(PO4)3 (LATP)",
+    "year": 2022,
+    "authors": "Mert Y. Sengul",
+    "venue": "Physical Chemistry Chemical Physics (2022), 24, 4125-4130, doi:10.1039/D1CP05360D"
+  },
+  "pdf_path": "papers/Sengul_NASICON_PCCP_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022sengul-physical-che-atomistic-level_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022sengul-physical-che-atomistic-level.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

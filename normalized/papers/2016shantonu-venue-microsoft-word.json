@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016shantonu-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Ashraf_CHO_2017_JPCA_SI.pdf",
+    "sha256": "5ca1cf271ae520c7566483281e77a7b1f9388235f12ad638bb77bb0c3e97dde2",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - Supporting info",
+    "year": 2016,
+    "authors": "Shantonu",
+    "venue": null
+  },
+  "pdf_path": "papers/Ashraf_CHO_2017_JPCA_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016shantonu-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 1229
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016shantonu-venue-microsoft-word.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

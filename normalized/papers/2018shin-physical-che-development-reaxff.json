@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2018shin-physical-che-development-reaxff",
+  "manifest": {
+    "source_path": "papers/Shin_LATP_PCCP_2018.pdf",
+    "sha256": "e47d269e33285c1672fcf036ef261b0edd073f92b178a2cdc5cf93678e7f86bb",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c8cp03586e",
+    "title": "Development of a ReaxFF reactive force field for lithium ion conducting solid electrolyte Li1+xAlxTi2&#x2212;x(PO4)3 (LATP)",
+    "year": 2018,
+    "authors": "Yun Kyung Shin",
+    "venue": "Physical Chemistry Chemical Physics (2018), doi:10.1039/C8CP03586E"
+  },
+  "pdf_path": "papers/Shin_LATP_PCCP_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018shin-physical-che-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "LATP",
+    "NASICON",
+    "solid electrolyte",
+    "ReaxFF",
+    "Li diffusion"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018shin-physical-che-development-reaxff.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

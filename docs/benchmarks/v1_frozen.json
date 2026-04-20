@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "k": 10,
+  "rrf_k": 60,
+  "subset_note": "Initial frozen subset derived from warm-up pool themes; extend after review.",
+  "questions": [
+    {
+      "id": "FF1",
+      "pool_ref": 1,
+      "text": "Which papers develop or validate ReaxFF for solid ceramic electrolytes or NASICON-type materials?",
+      "gold_hits": [
+        { "id": "paper:2018shin-physical-che-development-reaxff" },
+        { "id": "forcefield:reaxff-family" }
+      ]
+    },
+    {
+      "id": "FF2",
+      "pool_ref": 7,
+      "text": "Where does the KB document ReaxFF parameterization workflow and training data for battery-relevant electrolytes?",
+      "gold_hits": [
+        { "id": "paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation" },
+        { "id": "concept:batteries-interfaces-reaxff" }
+      ]
+    },
+    {
+      "id": "BAT1",
+      "pool_ref": 10,
+      "text": "What work covers lithium carbonate electrolyte chemistry and Li0 vs Li+ behavior with ReaxFF?",
+      "gold_hits": [
+        { "id": "paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation" },
+        { "id": "concept:batteries-interfaces-reaxff" }
+      ]
+    },
+    {
+      "id": "OX1",
+      "pool_ref": 16,
+      "text": "Which sources discuss oxygen interactions with silica surfaces and ReaxFF extensions for SiO?",
+      "gold_hits": [{ "id": "paper:2013muri-venue-jp3086649" }]
+    },
+    {
+      "id": "MET1",
+      "pool_ref": 6,
+      "text": "Nickel oxidation and oxygen diffusion with ReaxFF in metallic systems — which paper?",
+      "gold_hits": [{ "id": "paper:2014zou-acta-materia-molecular-dynamics" }]
+    },
+    {
+      "id": "C1",
+      "pool_ref": 23,
+      "text": "Graphene impact mechanics or nanocarbon mechanical behavior using ReaxFF in the corpus?",
+      "gold_hits": [
+        { "id": "paper:2015yoon-carbon-99-20-atomistic-scale-simulations" },
+        { "id": "material:graphene-nanocarbon" }
+      ]
+    },
+    {
+      "id": "FE1",
+      "pool_ref": 33,
+      "text": "BaTiO3 ferroelectric switching and defects with ReaxFF — where is it covered?",
+      "gold_hits": [{ "id": "paper:2019akbarian-physical-che-understanding-influence" }]
+    },
+    {
+      "id": "CAT1",
+      "pool_ref": 27,
+      "text": "Nickel catalyst surface chemistry with CHx and hydrogen formation using ReaxFF MD?",
+      "gold_hits": [{ "id": "paper:2013somers-catalysis-to-temperature-influence" }]
+    },
+    {
+      "id": "PYR1",
+      "pool_ref": 30,
+      "text": "Large-scale coal or hydrocarbon pyrolysis with ReaxFF reactive MD?",
+      "gold_hits": [{ "id": "paper:2014castro-marcano-journal-of-a-pyrolysis-large-scale" }]
+    },
+    {
+      "id": "ZIF1",
+      "pool_ref": 31,
+      "text": "ZIF or zeolitic imidazolate frameworks simulated with ReaxFF including glassy phases?",
+      "gold_hits": [{ "id": "paper:2018yang-j-phys-chem-enabling-computational" }]
+    },
+    {
+      "id": "ML1",
+      "pool_ref": 39,
+      "text": "Machine-learned potentials or neural network force fields discussed in the wiki?",
+      "gold_hits": [
+        { "id": "paper:2023musaelian-nat-learning-local" },
+        { "id": "paper:2016npjcompumats201511-venue-untitled" },
+        { "id": "paper:2022mehmet-cagri-kaymak-j-chem-theor-jax-reaxff-gradient-based" }
+      ]
+    },
+    {
+      "id": "X1",
+      "pool_ref": 45,
+      "text": "Overview of the ReaxFF family scope across the van Duin group corpus?",
+      "gold_hits": [
+        { "id": "forcefield:reaxff-family" },
+        { "id": "paper:2016npjcompumats201511-venue-untitled" },
+        { "id": "paper:2013ijemcp1202-1-5739-venue-paper" },
+        { "id": "paper:20120674-venue-s0883769412000954-indd" },
+        { "id": "paper:2025baerends-venue-paper" }
+      ]
+    }
+  ]
+}

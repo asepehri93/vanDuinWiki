@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018bree-organic-geoc-origin-formation",
+  "manifest": {
+    "source_path": "papers/vanBree_OrgGeoChem_2018.pdf",
+    "sha256": "7bbdd1f2619e5483c3d50a4d78e47e0fe6e2041452c3fb3c6f32c1f69cb53611",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Origin, formation and environmental significance of des-A-arborenes in the sediments of an East African crater lake",
+    "year": 2018,
+    "authors": "L.G.J. van Bree",
+    "venue": "Organic Geochemistry, 125 (2018) 95-108. doi:10.1016/j.orggeochem.2018.09.001"
+  },
+  "pdf_path": "papers/vanBree_OrgGeoChem_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018bree-organic-geoc-origin-formation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018bree-organic-geoc-origin-formation.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2019shabnam-physical-che-evaluation-effect",
+  "manifest": {
+    "source_path": "papers/Shabnam_PCCP_Ni_soot_2019.pdf",
+    "sha256": "7329f8a1300deec0579b23731e09b8e154eb42f162a25d3d1dbf5dd3587c7b78",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/C9CP00354A",
+    "title": "Evaluation of the effect of nickel clusters on the formation of incipient soot particles from polycyclic aromatic hydrocarbons via ReaxFF molecular dynamics simulations",
+    "year": 2019,
+    "authors": "Sharmin Shabnam",
+    "venue": "Physical Chemistry Chemical Physics (2019), 21, 9865-9875, doi:10.1039/C9CP00354A"
+  },
+  "pdf_path": "papers/Shabnam_PCCP_Ni_soot_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019shabnam-physical-che-evaluation-effect_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "nickel cluster",
+    "PAH",
+    "incipient soot"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019shabnam-physical-che-evaluation-effect.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

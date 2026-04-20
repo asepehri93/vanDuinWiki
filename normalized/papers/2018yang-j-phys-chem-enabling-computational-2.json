@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018yang-j-phys-chem-enabling-computational-2",
+  "manifest": {
+    "source_path": "papers/Yang_ZIF_JPC_B_2018_proof.pdf",
+    "sha256": "602cf1f2144e6c8bf9160f6a6fa1dafe01873ee7a2f6bdd5598975ea3b924bd7",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Enabling Computational Design of ZIFs Using ReaxFF",
+    "year": 2018,
+    "authors": "Yongjian Yang; Yun Kyung Shin; Shichun Li; Thomas D. Bennett (ORCID: 0000-0003-3717-3119); Adri C. T. van Duin; John C. Mauro (ORCID: 0000-0002-4319-3530)",
+    "venue": "J. Phys. Chem. B 0.0:null-null"
+  },
+  "pdf_path": "papers/Yang_ZIF_JPC_B_2018_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018yang-j-phys-chem-enabling-computational-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018yang-j-phys-chem-enabling-computational-2.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

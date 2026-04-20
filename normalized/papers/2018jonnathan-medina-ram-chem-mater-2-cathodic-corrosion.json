@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion",
+  "manifest": {
+    "source_path": "papers/MedinaRamon_ChemMat_2018.pdf",
+    "sha256": "2f06941fb0d800186e940881ae40a5df8ef3a28444c7a9db780b319793bfec71",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Cathodic Corrosion at the Bismuth–Ionic Liquid Electrolyte Interface under Conditions for CO2 Reduction",
+    "year": 2018,
+    "authors": "Jonnathan Medina-Ramos, Weiwei Zhang, Kichul Yoon, Peng Bai, Ashwin Chemburkar, Wenjie Tang, Abderrahman Atifi, Sang Soo Lee, Timothy T. Fister, Brian J. Ingram, Joel Rosenthal, Matthew Neurock, Adri C. T. van Duin, and Paul Fenter",
+    "venue": "Chem. Mater. 2018.30:2362-2373"
+  },
+  "pdf_path": "papers/MedinaRamon_ChemMat_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2020hyunguk-kwon-j-phys-chem-jp0c03355",
+  "manifest": {
+    "source_path": "papers/Kwon_JPC_2020_Soot_growth.pdf",
+    "sha256": "c63e9df678f8aec7347345bbd4ca7942cc3f0a2f1d70033b96fe7c83bdfbd7e9",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpca.0c03355",
+    "title": "jp0c03355 1..15",
+    "year": 2020,
+    "authors": "Hyunguk Kwon, Brian D. Etz, Matthew J. Montgomery, Richard Messerly, Sharmin Shabnam, Shubham Vyas, Adri C. T. van Duin, Charles S. McEnally, Lisa D. Pfefferle, Seonah Kim, and Yuan Xuan",
+    "venue": "J. Phys. Chem. A 2020.124:4290-4304"
+  },
+  "pdf_path": "papers/Kwon_JPC_2020_Soot_growth.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020hyunguk-kwon-j-phys-chem-jp0c03355_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "hexylamine isomers",
+    "soot",
+    "YSI",
+    "amine fuels"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020hyunguk-kwon-j-phys-chem-jp0c03355.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

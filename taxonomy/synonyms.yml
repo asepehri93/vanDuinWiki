@@ -1,0 +1,34 @@
+# Map free-text or deprecated labels → single canonical tag id (axis:slug)
+# Keys are matched case-sensitively as written; prefer lowercase keys for new entries.
+# After adding a mapping, use only the canonical id in canonical_tags going forward.
+
+version: 1
+
+mappings:
+  # Common method aliases
+  "ReaxFF": method:reaxff
+  "reaxff": method:reaxff
+  "REAXFF": method:reaxff
+  "eReaxFF": method:ereaxff
+  "ereaxff": method:ereaxff
+  "AIMD": method:aimd
+  "ab initio MD": method:aimd
+  "DFT": method:dft-static
+  "classical MD": method:classical-md
+  "MLIP": method:ml-potential
+  "neural network potential": method:ml-potential
+
+  # Domain shorthand
+  "Li-ion": domain:batteries-electrochemistry
+  "Li-S": domain:batteries-electrochemistry
+  "battery": domain:batteries-electrochemistry
+  "2D": domain:2d-layered
+  "TMD": material:tmd
+  "graphene": material:graphene-carbon-nano
+  "pyrolysis": domain:organics-polymers-pyrolysis
+  "combustion": domain:fuel-combustion
+  "nickel": domain:catalysis-surfaces
+
+deprecated:
+  # id: replacement (optional section — tags we retire in favor of another)
+  # example: "domain:legacy-tag": domain:reactive-md

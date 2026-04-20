@@ -1,0 +1,36 @@
+# Local Python deps / caches (not part of source tree)
+.deps/
+.vendor/
+**/__pycache__/
+*.py[cod]
+
+# PDF corpus and extensionless galley blobs — local only; manifests reference paths
+papers/**/*.pdf
+papers/**/*.PDF
+papers/Krstic_JCP_LiOH_2023_galley
+papers/Perovich_Friction_2025_galley
+papers/Shchygol_JCTC_2019_online
+
+# OS / editor
+.DS_Store
+**/._*
+*.swp
+.idea/
+
+# Phase 3: large per-PDF text extracts (regenerate with scripts/corpus_profile.py)
+normalized/extracts/
+
+# Future: full-text sidecars (Phase 4+)
+# normalized/papers/*.fulltext.txt
+
+# Phase 5: large / regenerable retrieval artifacts
+indexes/bm25.pkl
+indexes/vectors.json.gz
+indexes/embedding_manifest.json
+indexes/manifest.json
+indexes/chunks.jsonl
+
+# MkDocs / GitHub Pages local build
+site/
+_mkdocs_site_packages/
+.venv-mkdocs/

@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2019leven-j-phys-chem-gem-coarse-grained",
+  "manifest": {
+    "source_path": "papers/Others/C-GeM_Leven_2019.pdf",
+    "sha256": "4fefc06bacfadd178f054e476e321fc47185090e51dd9086ee8531c8a66c2b7c",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpclett.9b02771",
+    "title": "C‑GeM: Coarse-Grained Electron Model for Predicting the Electrostatic Potential in Molecules",
+    "year": 2019,
+    "authors": "Itai Leven; Teresa Head-Gordon (ORCID: 0000-0003-0025-8987)",
+    "venue": "J. Phys. Chem. Lett. 0.0:6820-6826"
+  },
+  "pdf_path": "papers/Others/C-GeM_Leven_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019leven-j-phys-chem-gem-coarse-grained_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "C-GeM",
+    "coarse-grained electrons",
+    "electrostatic potential",
+    "Gaussian charge"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019leven-j-phys-chem-gem-coarse-grained.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

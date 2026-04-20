@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018qifan-combustion-a-reaxff-simulations",
+  "manifest": {
+    "source_path": "papers/Zhong_CombFlame_2018.pdf",
+    "sha256": "b5a319b4d56e0c8b2d9fdba93ebaedc8e17f44b5b5d73426a8a6a16afadd73cb",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF simulations of petroleum coke sulfur removal mechanisms during pyrolysis and combustion",
+    "year": 2018,
+    "authors": "Zhong Qifan",
+    "venue": "Combustion and Flame, 198 (2018) 146-157. doi:10.1016/j.combustflame.2018.09.005"
+  },
+  "pdf_path": "papers/Zhong_CombFlame_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018qifan-combustion-a-reaxff-simulations_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018qifan-combustion-a-reaxff-simulations.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

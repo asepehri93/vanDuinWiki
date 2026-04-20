@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023musaelian-nat-learning-local",
+  "manifest": {
+    "source_path": "papers/Others/Allegro_ML_2023.pdf",
+    "sha256": "c20c1c4fb543ce9994d45c2ef56059508c9f8d95289f3c00f01e73459518e2ab",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41467-023-36329-y",
+    "title": "Learning local equivariant representations for large-scale atomistic dynamics",
+    "year": 2023,
+    "authors": "Albert Musaelian",
+    "venue": "Nature Communications, doi:10.1038/s41467-023-36329-y"
+  },
+  "pdf_path": "papers/Others/Allegro_ML_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023musaelian-nat-learning-local_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023musaelian-nat-learning-local.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014hatzelletal-venue-es5043782",
+  "manifest": {
+    "source_path": "papers/Hatzelletal_ES&T_2014.pdf",
+    "sha256": "aa45c8bf97532946cd2e1e42745b98291d68be2f6db4ffdb2773ef8f54e2b3d9",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "es5043782 1..8",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Hatzelletal_ES&T_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014hatzelletal-venue-es5043782_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014hatzelletal-venue-es5043782.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

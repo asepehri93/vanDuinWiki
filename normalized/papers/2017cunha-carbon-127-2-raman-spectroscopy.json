@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017cunha-carbon-127-2-raman-spectroscopy",
+  "manifest": {
+    "source_path": "papers/Cunha_Carbon_2018.pdf",
+    "sha256": "8c4b1d74453819bfc1cfcf1b039d42483d6eefe04e333da83d66c3598bc0bf8b",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Raman spectroscopy revealing noble gas adsorption on single-walled carbon nanotube bundles",
+    "year": 2017,
+    "authors": "Renato Cunha",
+    "venue": "Carbon, 127 (2018) 312-319. doi:10.1016/j.carbon.2017.11.017"
+  },
+  "pdf_path": "papers/Cunha_Carbon_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017cunha-carbon-127-2-raman-spectroscopy_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017cunha-carbon-127-2-raman-spectroscopy.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013vanduin-venue-paper",
+  "manifest": {
+    "source_path": "papers/vanDuin_IJEMCP_2013_galley.pdf",
+    "sha256": "fa4277dfa5e1ce5a7705c3a0446f3ef98c1095d7731c720c20e51441d3fe96f0",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/vanDuin_IJEMCP_2013_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013vanduin-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 6842
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013vanduin-venue-paper.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015islam-physical-che-interactions-hydrogen",
+  "manifest": {
+    "source_path": "papers/Islam_FeC_PCCP_2016.pdf",
+    "sha256": "916b398c5c01518367cdc80093961e6de634edbff50304efec4645548ae86b1e",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Interactions of hydrogen with the iron and iron carbide interfaces: a ReaxFF molecular dynamics study",
+    "year": 2015,
+    "authors": "Md Mahbubul Islam",
+    "venue": "Physical Chemistry Chemical Physics (2016), 18, 761-771, doi:10.1039/C5CP06108C"
+  },
+  "pdf_path": "papers/Islam_FeC_PCCP_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015islam-physical-che-interactions-hydrogen_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015islam-physical-che-interactions-hydrogen.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

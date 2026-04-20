@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019akbarian-polymer-183-atomistic-scale-insights",
+  "manifest": {
+    "source_path": "papers/Akbarian_Polymer_2019.pdf",
+    "sha256": "5a2f6955f45b24df2928c0caded395bf66985f1ea7ab21a5521178610ede86cf",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic-scale insights into the crosslinking of polyethylene induced by peroxides",
+    "year": 2019,
+    "authors": "Dooman Akbarian",
+    "venue": "Polymer, 183 (2019) 121901. doi:10.1016/j.polymer.2019.121901"
+  },
+  "pdf_path": "papers/Akbarian_Polymer_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019akbarian-polymer-183-atomistic-scale-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019akbarian-polymer-183-atomistic-scale-insights.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

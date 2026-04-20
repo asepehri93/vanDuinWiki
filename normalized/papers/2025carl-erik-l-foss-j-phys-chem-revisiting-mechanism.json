@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism",
+  "manifest": {
+    "source_path": "papers/Foss_JPCL_2025_Si_battery.pdf",
+    "sha256": "788d1647367c38c65d2ef3109e1f40f275699c461cabed3fe5544d70b24d393d",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Revisiting Mechanism of Silicon Degradation in Li-Ion Batteries: Effect of Delithiation Examined by Microscopy Combined with ReaxFF",
+    "year": 2025,
+    "authors": "Carl Erik L. Foss, Mahdi K. Talkhoncheh, Asbjørn Ulvestad, Hanne F. Andersen, Per Erik Vullum, Nils Peter Wagner, Kenneth Friestad, Alexey Y. Koposov, Adri van Duin, and Jan Petter Mæhlen",
+    "venue": "J. Phys. Chem. Lett. 2025.16:2238-2244"
+  },
+  "pdf_path": "papers/Foss_JPCL_2025_Si_battery.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "silicon anode",
+    "SEI",
+    "delithiation",
+    "ReaxFF"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

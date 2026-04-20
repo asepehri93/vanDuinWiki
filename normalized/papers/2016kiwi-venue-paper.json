@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016kiwi-venue-paper",
+  "manifest": {
+    "source_path": "papers/Kiwi_APL_2016_proof.pdf",
+    "sha256": "e70b96302b011f09ad8c4f006da1002a2dced9180459489638c101ecdad14f82",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Kiwi_APL_2016_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016kiwi-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 7961
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016kiwi-venue-paper.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2015yoon-carbon-99-20-atomistic-scale-simulations",
+  "manifest": {
+    "source_path": "papers/Yoon_Carbon_2015.pdf",
+    "sha256": "1bdb01e1fb2e05795b21499c8d4ef9451b37c4528178d902d0340806cfbf1f88",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic-scale simulations of the chemomechanical behavior of graphene under nanoprojectile impact",
+    "year": 2015,
+    "authors": "Kichul Yoon",
+    "venue": "Carbon, 99 (2016) 58-64. doi:10.1016/j.carbon.2015.11.052"
+  },
+  "pdf_path": "papers/Yoon_Carbon_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015yoon-carbon-99-20-atomistic-scale-simulations_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "graphene",
+    "ReaxFF",
+    "impact mechanics",
+    "fracture"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015yoon-carbon-99-20-atomistic-scale-simulations.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

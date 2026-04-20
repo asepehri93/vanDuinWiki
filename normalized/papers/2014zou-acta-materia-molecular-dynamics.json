@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2014zou-acta-materia-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/Zou_ActaMater_2014.pdf",
+    "sha256": "1f4c14bcf7a3c837c08435870afd2f2de142c1d147cc2a7700641a3a73466596",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular dynamics simulations of the effects of vacancies on nickel self-diffusion, oxygen diffusion and oxidation initiation in nickel, using the ReaxFF reactive force field",
+    "year": 2014,
+    "authors": "Chenyu Zou",
+    "venue": "ACTA MATERIALIA, 83 (2015) 102-112. doi:10.1016/j.actamat.2014.09.047"
+  },
+  "pdf_path": "papers/Zou_ActaMater_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014zou-acta-materia-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "nickel",
+    "NiO",
+    "oxygen diffusion",
+    "ReaxFF",
+    "oxidation"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014zou-acta-materia-molecular-dynamics.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation",
+  "manifest": {
+    "source_path": "papers/Hossain_JCP_2020_EC_Li.pdf",
+    "sha256": "231221cee087887ad21069d25969689ef4e9868cd8d1eaa27af75711e788734b",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0003333",
+    "title": "Lithium-electrolyte solvation and reaction in the electrolyte of a lithium ion battery: A ReaxFF reactive force field study",
+    "year": 2020,
+    "authors": "Md Jamil Hossain",
+    "venue": "J. Chem. Phys. 2020.152:184301"
+  },
+  "pdf_path": "papers/Hossain_JCP_2020_EC_Li.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020hossain-j-chem-phys-lithium-electrolyte-solvation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 5214
+  },
+  "entities_mentioned": [
+    "carbonate electrolyte",
+    "LiPF6",
+    "ethylene carbonate",
+    "ReaxFF"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020hossain-j-chem-phys-lithium-electrolyte-solvation.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

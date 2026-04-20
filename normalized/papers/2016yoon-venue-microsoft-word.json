@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016yoon-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Yoon_ACSNano_SI.pdf",
+    "sha256": "724a1acf490af3ba44dfe468756819eab959b497cdc73836ec8a740148e89a11",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - 2193374_File000001_37157669.docx",
+    "year": 2016,
+    "authors": " ",
+    "venue": null
+  },
+  "pdf_path": "papers/Yoon_ACSNano_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016yoon-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 1998
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016yoon-venue-microsoft-word.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

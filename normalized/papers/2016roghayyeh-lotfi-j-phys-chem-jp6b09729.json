@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016roghayyeh-lotfi-j-phys-chem-jp6b09729",
+  "manifest": {
+    "source_path": "papers/Lotfi_2016_DLC_paper.pdf",
+    "sha256": "5bb03f8337b93824d8a3106ce81c56ac06144a0005f7c11ffd061af1ef417a5c",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp6b09729 1..9",
+    "year": 2016,
+    "authors": "Roghayyeh Lotfi, ASM Jonayat, Adri C. T. van Duin, Mousumi M. Biswas, and Robert Hempstead",
+    "venue": "J. Phys. Chem. C 2016.120:27443-27451"
+  },
+  "pdf_path": "papers/Lotfi_2016_DLC_paper.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016roghayyeh-lotfi-j-phys-chem-jp6b09729_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016roghayyeh-lotfi-j-phys-chem-jp6b09729.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

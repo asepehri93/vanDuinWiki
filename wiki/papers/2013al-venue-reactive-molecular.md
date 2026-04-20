@@ -1,0 +1,48 @@
+---
+id: paper:2013al-venue-reactive-molecular
+type: paper
+title: "Reactive molecular dynamics simulations of oxygen species in a liquid water layer of interest for plasma medicine"
+updated: "2026-04-20"
+confidence: med
+canonical_tags: [domain:water-silica-geo, domain:reactive-md, method:reaxff, task:application, scale:atomistic]
+candidate_tags: []
+source_refs: []
+doi: "10.1088/0022-3727/47/2/025205"
+year: 2014
+authors: ["Yusupov, M.", "Neyts, E. C.", "Simon, P.", "Berdiyorov, G.", "Snoeckx, R.", "van Duin, A. C. T.", "Bogaerts, A."]
+venue: "Journal of Physics D: Applied Physics"
+pdf_sha256: "5bc2241aadaaeee20dd7883c7173dbe0312f11b75a81ee6126a0dc43f21b4729"
+pdf_path: "papers/Yusupov_JPhysD_2013.pdf"
+extraction_quality: good
+group_affiliation: true
+---
+
+<!-- id:paper:2013al-venue-reactive-molecular -->
+
+## One-paragraph summary
+
+The study uses **ReaxFF reactive MD** (C/H/O/N **glycine/water** parameter set cited as **Rahaman et al.**) to probe **ROS** (**O, OH, HO₂, H₂O₂**) impinging on a **liquid water** film as a surrogate for the aqueous layer around **bacteria** in **cold atmospheric plasma (CAP)** applications. The abstract reports **OH, HO₂, and H₂O₂** can penetrate deeply into the liquid, while **O, OH, and HO₂** undergo **H-abstraction** from water; **H₂O₂** does **not** show H-abstraction in the stated simulations. The motivation is to clarify whether plasma species reach biomolecules directly or react en route through the biofilm water.
+
+## Methods
+
+- **ReaxFF MD** with explicit **ROS** insertion/impact into water films; comparison framed against reaction–diffusion modeling limitations.
+
+## Findings
+
+- Depth penetration of selected species and qualitative reaction channels (H-abstraction) differentiated by species.
+
+## Limitations
+
+- Force-field coverage explicitly notes **O₃ and RNS** are **not** included due to **accuracy limits** for those reactions with water at the time of writing.
+
+## Relevance to group
+
+Connects **ReaxFF** to **plasma–liquid–biomolecule** transport chemistry—a distinct application area from solid-state materials, but methodologically aligned.
+
+## Citations and evidence anchors
+
+- Abstract and Secs. 1–2: motivation, species list, force-field citation, simulation rationale (J. Phys. D: Appl. Phys. 47 (2014) 025205; PDF pp. 1–2 per extract).
+
+## Related topics
+
+- [[reaxff-family]]

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018dengpan-dong-in-this-stud-multiscale-modeling",
+  "manifest": {
+    "source_path": "papers/Dong_Polymers_2018.pdf",
+    "sha256": "41070f46fe1677dbba14643c0055c2bdd320d8ec57a47b833c89712b43f2f74e",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.3390/polym10111289",
+    "title": "Multiscale Modeling of Structure, Transport and Reactivity in Alkaline Fuel Cell Membranes: Combined Coarse-Grained, Atomistic and Reactive Molecular Dynamics Simulations",
+    "year": 2018,
+    "authors": "Dengpan Dong, Weiwei Zhang, Adam Barnett, Jibao Lu, Adri C. T. van Duin, Valeria Molinero and Dmitry Bedrov",
+    "venue": "In this study, molecular dynamics (MD) simulations of hydrated anion-exchange membranes (AEMs), comprised of poly(p-phenylene oxide) (PPO) polymers functionalized with quaternary ammonium cationic groups, were conducted using multiscale coupling between three different models: a high-resolution coarse-grained (CG) model; Atomistic Polarizable Potential for Liquids, Electrolytes and Polymers (APPLE&P); and ReaxFF. The advantages and disadvantages of each model are summarized and compared. The proposed multiscale coupling utilizes the strength of each model and allows sampling of a broad spectrum of properties, which is not possible to sample using any of the single modeling techniques. Within the proposed combined approach, the equilibrium morphology of hydrated AEM was prepared using the CG model. Then, the morphology was mapped to the APPLE&P model from equilibrated CG configuration of the AEM. Simulations using atomistic non-reactive force field allowed sampling of local hydration structure of ionic groups, vehicular transport mechanism of anion and water, and structure equilibration of water channels in the membrane. Subsequently, atomistic AEM configuration was mapped to ReaxFF reactive model to investigate the Grotthuss mechanism in the hydroxide transport, as well as the AEM chemical stability and degradation mechanisms. The proposed multiscale and multiphysics modeling approach provides valuable input for the materials-by-design of novel polymeric structures for AEMs."
+  },
+  "pdf_path": "papers/Dong_Polymers_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018dengpan-dong-in-this-stud-multiscale-modeling_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018dengpan-dong-in-this-stud-multiscale-modeling.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

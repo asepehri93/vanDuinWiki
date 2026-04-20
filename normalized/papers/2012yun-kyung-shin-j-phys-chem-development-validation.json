@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2012yun-kyung-shin-j-phys-chem-development-validation",
+  "manifest": {
+    "source_path": "papers/Shin_FeAlNi_JPCA_2012.pdf",
+    "sha256": "ebcbf5fb6790677f20d471f9fae766ef65284e359d1b18578f1d0310d0cb274a",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development and Validation of a ReaxFF Reactive Force Field for Fe/Al/Ni Alloys: Molecular Dynamics Study of Elastic Constants, Diffusion, and Segregation",
+    "year": 2012,
+    "authors": "Yun Kyung Shin, Hyunwook Kwak, Chenyu Zou, Alex V. Vasenkov, and Adri C. T. van Duin",
+    "venue": "J. Phys. Chem. A 2012.116:12163-12174"
+  },
+  "pdf_path": "papers/Shin_FeAlNi_JPCA_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012yun-kyung-shin-j-phys-chem-development-validation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "Fe-Al-Ni",
+    "alloys",
+    "ReaxFF",
+    "segregation"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012yun-kyung-shin-j-phys-chem-development-validation.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2021du-engineering-nanomechanical-investigation",
+  "manifest": {
+    "source_path": "papers/Du_EngFracMech_2021_crack.pdf",
+    "sha256": "06669df4d0af41ecbfa04d7456128f4ba7568d2306e2e611e002a6dede4ba2bf",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.engfracmech.2021.107749",
+    "title": "Nanomechanical investigation of the interplay between pore morphology and crack orientation of amorphous silica",
+    "year": 2021,
+    "authors": "Tao Du",
+    "venue": "Engineering Fracture Mechanics, 250 (2021) 107749. doi:10.1016/j.engfracmech.2021.107749"
+  },
+  "pdf_path": "papers/Du_EngFracMech_2021_crack.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021du-engineering-nanomechanical-investigation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "amorphous silica",
+    "fracture",
+    "nanopores"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021du-engineering-nanomechanical-investigation.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

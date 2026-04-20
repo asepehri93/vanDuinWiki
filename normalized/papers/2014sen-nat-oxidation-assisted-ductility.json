@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014sen-nat-oxidation-assisted-ductility",
+  "manifest": {
+    "source_path": "papers/Sen_Nature_Comm_2014.pdf",
+    "sha256": "c7b5990da8e42e29f42ca4cb75fcf5ab8313e3bd581718a541b08bd06afdc19b",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/ncomms4959",
+    "title": "Oxidation-assisted ductility of aluminium nanowires",
+    "year": 2014,
+    "authors": "Fatih G. Sen",
+    "venue": "Nature Communications 5,  (2014). doi:10.1038/ncomms4959"
+  },
+  "pdf_path": "papers/Sen_Nature_Comm_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014sen-nat-oxidation-assisted-ductility_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014sen-nat-oxidation-assisted-ductility.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

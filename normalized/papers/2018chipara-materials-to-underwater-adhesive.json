@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018chipara-materials-to-underwater-adhesive",
+  "manifest": {
+    "source_path": "papers/Chipara_MatTodayChem_2018.pdf",
+    "sha256": "79ddef353e082fd724973756114f6c50c3fcb91a01ed6c9f8c85ed1d32816ffc",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Underwater adhesive using solid-liquid polymer mixes",
+    "year": 2018,
+    "authors": "A.C. Chipara",
+    "venue": "Materials Today Chemistry, 9 (2018) 149-157. doi:10.1016/j.mtchem.2018.07.002"
+  },
+  "pdf_path": "papers/Chipara_MatTodayChem_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018chipara-materials-to-underwater-adhesive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018chipara-materials-to-underwater-adhesive.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

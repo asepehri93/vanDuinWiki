@@ -1,0 +1,273 @@
+{
+  "generated_at": "2026-04-20T16:38:20Z",
+  "profile_version": 1,
+  "paper_count": 190,
+  "pdf_files_scanned": 190,
+  "duplicate_hash_groups": 0,
+  "years_histogram": {
+    "2009": 1,
+    "2010": 1,
+    "2011": 2,
+    "2012": 6,
+    "2013": 27,
+    "2014": 24,
+    "2015": 25,
+    "2016": 25,
+    "2017": 10,
+    "2018": 23,
+    "2019": 14,
+    "2020": 7,
+    "2021": 8,
+    "2022": 7,
+    "2023": 4,
+    "2024": 3,
+    "2025": 3
+  },
+  "extraction_quality": {
+    "partial": 38,
+    "good": 151,
+    "poor": 1
+  },
+  "top_title_words": [
+    [
+      "reaxff",
+      37
+    ],
+    [
+      "molecular",
+      35
+    ],
+    [
+      "dynamics",
+      35
+    ],
+    [
+      "reactive",
+      30
+    ],
+    [
+      "force",
+      23
+    ],
+    [
+      "simulations",
+      21
+    ],
+    [
+      "study",
+      20
+    ],
+    [
+      "field",
+      19
+    ],
+    [
+      "using",
+      14
+    ],
+    [
+      "research",
+      14
+    ],
+    [
+      "development",
+      8
+    ],
+    [
+      "graphene",
+      7
+    ],
+    [
+      "pyrolysis",
+      7
+    ],
+    [
+      "nickel",
+      7
+    ],
+    [
+      "aqueous",
+      5
+    ],
+    [
+      "water",
+      5
+    ],
+    [
+      "effect",
+      5
+    ],
+    [
+      "atomistic",
+      5
+    ],
+    [
+      "formation",
+      5
+    ],
+    [
+      "oxygen",
+      5
+    ],
+    [
+      "species",
+      5
+    ],
+    [
+      "surface",
+      4
+    ],
+    [
+      "mechanical",
+      4
+    ],
+    [
+      "properties",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "untitled",
+      4
+    ],
+    [
+      "carbon",
+      4
+    ],
+    [
+      "mechanisms",
+      4
+    ],
+    [
+      "fields",
+      4
+    ],
+    [
+      "aromatic",
+      4
+    ],
+    [
+      "particles",
+      4
+    ],
+    [
+      "plasma",
+      4
+    ],
+    [
+      "atomic",
+      4
+    ],
+    [
+      "single-layer",
+      3
+    ],
+    [
+      "atomistic-scale",
+      3
+    ],
+    [
+      "insight",
+      3
+    ],
+    [
+      "influence",
+      3
+    ],
+    [
+      "investigation",
+      3
+    ],
+    [
+      "insights",
+      3
+    ],
+    [
+      "environment",
+      3
+    ],
+    [
+      "fuel",
+      3
+    ],
+    [
+      "oxidation",
+      3
+    ],
+    [
+      "membranes",
+      3
+    ],
+    [
+      "large-scale",
+      3
+    ],
+    [
+      "revealing",
+      3
+    ],
+    [
+      "based",
+      3
+    ],
+    [
+      "structure",
+      3
+    ],
+    [
+      "reactivity",
+      3
+    ],
+    [
+      "between",
+      3
+    ],
+    [
+      "silica",
+      3
+    ],
+    [
+      "silicon",
+      3
+    ],
+    [
+      "application",
+      3
+    ],
+    [
+      "under",
+      3
+    ],
+    [
+      "electrolyte",
+      3
+    ],
+    [
+      "interactions",
+      3
+    ],
+    [
+      "carbide",
+      3
+    ],
+    [
+      "sulfur",
+      3
+    ],
+    [
+      "during",
+      3
+    ],
+    [
+      "temperature",
+      3
+    ],
+    [
+      "potential",
+      3
+    ]
+  ]
+}

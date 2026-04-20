@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017zhang-carbon-115-2-weakening-effect",
+  "manifest": {
+    "source_path": "papers/Zhang_Seveno_Carbon_2017.pdf",
+    "sha256": "5527fdaac2b077cbc0e460ee18d059fc61d354207ffff5216a35de15c507febd",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Weakening effect of nickel catalyst particles on the mechanical strength of the carbon nanotube/carbon fiber junction",
+    "year": 2017,
+    "authors": "Chi Zhang",
+    "venue": "Carbon, 115 (2017) 589-599. doi:10.1016/j.carbon.2017.01.042"
+  },
+  "pdf_path": "papers/Zhang_Seveno_Carbon_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017zhang-carbon-115-2-weakening-effect_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017zhang-carbon-115-2-weakening-effect.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

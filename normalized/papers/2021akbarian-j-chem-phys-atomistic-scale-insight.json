@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2021akbarian-j-chem-phys-atomistic-scale-insight",
+  "manifest": {
+    "source_path": "papers/Akbarian_JCP_2020_eReaxFF.pdf",
+    "sha256": "632c88d5b7e60ec90b5cbc17b824924a25b6bcc4b5449a1f783514b3252ae1d2",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0033645",
+    "title": "Atomistic-scale insight into the polyethylene electrical breakdown: An eReaxFF molecular dynamics study",
+    "year": 2021,
+    "authors": "Dooman Akbarian",
+    "venue": "J. Chem. Phys. 2021.154:024904"
+  },
+  "pdf_path": "papers/Akbarian_JCP_2020_eReaxFF.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021akbarian-j-chem-phys-atomistic-scale-insight_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 5221
+  },
+  "entities_mentioned": [
+    "eReaxFF",
+    "polyethylene",
+    "dielectric breakdown",
+    "acetophenone"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021akbarian-j-chem-phys-atomistic-scale-insight.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014botari-physical-che-mechanical-properties",
+  "manifest": {
+    "source_path": "papers/Botari_Silicene_PCCP_2014.pdf",
+    "sha256": "144b48f19727aaabd3ead272afa194171a5b0499e65fe4bd1819e4e10f9e9d2a",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mechanical properties and fracture dynamics of silicene membranes",
+    "year": 2014,
+    "authors": "T. Botari",
+    "venue": "Physical Chemistry Chemical Physics (2014), 16, 19417-19423, doi:10.1039/c4cp02902j"
+  },
+  "pdf_path": "papers/Botari_Silicene_PCCP_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014botari-physical-che-mechanical-properties_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014botari-physical-che-mechanical-properties.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

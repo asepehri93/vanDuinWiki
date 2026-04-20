@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016yoon-venue-nn6b03036",
+  "manifest": {
+    "source_path": "papers/Yoon_ACSNano_2016.pdf",
+    "sha256": "0841b72e219d95fb553133d0a01f8ef46119e33ed435f6fe1b825443d8e8e005",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "nn6b03036 1..9",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Yoon_ACSNano_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016yoon-venue-nn6b03036_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016yoon-venue-nn6b03036.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

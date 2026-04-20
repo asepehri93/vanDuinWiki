@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024colak-carbon-228-2-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/Others/Colak_carbon_2024.pdf",
+    "sha256": "abf88f5a72c1d45b5e345fb46cac740ebe73c07d5f1117ca1aa85b213249b7b6",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular dynamics simulations of 2D-layered graphene sheets with tandem repeat proteins",
+    "year": 2024,
+    "authors": "Oguzhan Colak",
+    "venue": "Carbon, 228 (2024) 119332. doi:10.1016/j.carbon.2024.119332"
+  },
+  "pdf_path": "papers/Others/Colak_carbon_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024colak-carbon-228-2-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024colak-carbon-228-2-molecular-dynamics.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

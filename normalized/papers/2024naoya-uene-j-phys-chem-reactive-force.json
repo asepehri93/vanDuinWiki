@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024naoya-uene-j-phys-chem-reactive-force",
+  "manifest": {
+    "source_path": "papers/Uene_2024_BN_BCl3_JPC.pdf",
+    "sha256": "b14124f29f7821562d223f0153fa2cf17a621b9e2abb2f772d19ac84d08f13e3",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reactive Force Field Molecular Dynamics Studies of the Initial Growth of Boron Nitride Using BCl3 and NH3 by Atomic Layer Deposition",
+    "year": 2024,
+    "authors": "Naoya Uene, Takuya Mabuchi, Masaru Zaitsu, Shigeo Yasuhara, Adri C. T. van Duin, and Takashi Tokumasu",
+    "venue": "J. Phys. Chem. C 2024.128:1075-1086"
+  },
+  "pdf_path": "papers/Uene_2024_BN_BCl3_JPC.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024naoya-uene-j-phys-chem-reactive-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024naoya-uene-j-phys-chem-reactive-force.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

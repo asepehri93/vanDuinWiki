@@ -1,0 +1,63 @@
+---
+id: paper:2025krstic-venue-paper
+type: paper
+title: "Hydrogen irradiation-driven computational surface chemistry of lithium oxide and hydroxide"
+updated: "2026-04-20"
+confidence: med
+canonical_tags:
+  - domain:reactive-md
+  - domain:oxides-ceramics
+  - material:oxide
+  - method:reaxff
+  - method:dft-static
+  - task:application
+  - scale:atomistic
+candidate_tags: []
+source_refs: []
+doi: "10.1063/5.0177460"
+year: 2023
+authors:
+  - "P. S. Krstic"
+  - "S. Dwivedi"
+  - "E. T. Ostrowski"
+  - "S. Abe"
+  - "A. Maan"
+  - "Adri C. T. van Duin"
+  - "B. E. Koel"
+venue: "J. Chem. Phys. 159, 244703 (2023)"
+pdf_sha256: "dca6fdfc6e299b1cc71f7af10ec95f338f1737aa0226d74736f8205aaa2a1ef9"
+pdf_path: "papers/Krstic_JCP_LiOH_2023.pdf"
+extraction_quality: partial
+group_affiliation: true
+---
+
+<!-- id:paper:2025krstic-venue-paper -->
+
+## One-paragraph summary
+
+**Molecular dynamics** study of **H atom impacts** on **crystalline and amorphous Li\(_2\)O / LiOH** surfaces motivated by **fusion** first-wall science where **lithium coatings** manage **hydrogen recycling** and impurity retention. The project uses **DFT-trained ReaxFF + EEM-style polarization** to follow bond-making chemistry as incident **H** stalls incollision cascades and engages resident **Li–O–H** moieties; comparisons reference **DFT relaxation** and **quantum–classical TB dynamics** excerpts in the abstract framing. Take-home: **polarization/explicit charge response** is important for faithful **Li–O–H** reactivity under irradiation, and product distributions depend sharply on **local stoichiometry** and **collisional geometry**.
+
+## Methods
+
+Reactive MD with **ReaxFF** potentials benchmarked against **DFT**; supplementary tight-binding / QM dynamics comparisons (per abstract); surface models spanning ordered vs disordered regions.
+
+## Findings
+
+Chain reactions producing mixed **hydroxide/oxy** species emerge from sequential H uptake; emphasizes **sensitivity** to instantaneous atom positions and Li:O:H ratios in the near-surface region.
+
+## Limitations
+
+Plasma-facing conditions simplify to **atomic H bombardment**; extrapolation to full edge-plasma spectrum, molecular species, and magnetized transport requires multi-scale coupling not in the MD cell.
+
+## Relevance to group
+
+**Van Duin**-group **ReaxFF** for **extreme Li/H environments** parallels battery SEI work but targets **fusion materials** physics (**PPPL / Princeton** collaborators). Corpus slug `2025krstic-*` is a legacy mismatch; **publication year is 2023** per JCP metadata.
+
+## Citations and evidence anchors
+
+https://doi.org/10.1063/5.0177460 — J. Chem. Phys. **159**, 244703 (published online **28 Dec 2023**); Abstract states physics motivation and polarization emphasis.
+
+## Related topics
+
+- [[reaxff-family]]
+- [[2022sengul-physical-che-atomistic-level]]

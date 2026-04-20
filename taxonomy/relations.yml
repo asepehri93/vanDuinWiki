@@ -1,0 +1,59 @@
+# Allowed relation types for normalized records (Phase 4) and structured wiki links.
+# subject/object_types reference page `type` values from AGENTS.md where applicable.
+
+version: 1
+
+relations:
+  - id: uses_forcefield
+    label: Uses force field
+    description: Work applies or parameterizes a named force field family or parameter set.
+    subject_types: [paper, methodprotocol]
+    object_types: [forcefield]
+
+  - id: parameterizes
+    label: Parameterizes
+    description: Subject develops or refits parameters for the object (often a force field or model).
+    subject_types: [paper]
+    object_types: [forcefield, methodprotocol]
+
+  - id: applies_to_material
+    label: Applies to material
+    description: Model, protocol, or claim scope is a material or system class.
+    subject_types: [paper, forcefield, methodprotocol, concept]
+    object_types: [material]
+
+  - id: evaluates_property
+    label: Evaluates property
+    description: Computed or compared quantity (barrier, modulus, voltage, etc.); object may be string label until ontology expands.
+    subject_types: [paper, methodprotocol]
+    object_types: [material, concept]
+
+  - id: compares_to
+    label: Compares to
+    description: Direct comparison between methods, FFs, or experiments.
+    subject_types: [paper, debate]
+    object_types: [paper, forcefield]
+
+  - id: supports_claim
+    label: Supports claim
+    description: Evidence edge from paper to a synthesis or debate position (normalized graph).
+    subject_types: [paper]
+    object_types: [concept, debate]
+
+  - id: contradicts
+    label: Contradicts
+    description: Documented disagreement; use only with citations (often via debate pages).
+    subject_types: [paper, concept]
+    object_types: [paper, concept]
+
+  - id: implements_protocol
+    label: Implements protocol
+    description: Paper follows or instantiates a documented workflow.
+    subject_types: [paper]
+    object_types: [methodprotocol]
+
+  - id: extends_method
+    label: Extends method
+    description: Derivative work building on a prior formalism or code line.
+    subject_types: [paper, methodprotocol]
+    object_types: [paper, methodprotocol]

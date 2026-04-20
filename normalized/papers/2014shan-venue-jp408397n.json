@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014shan-venue-jp408397n",
+  "manifest": {
+    "source_path": "papers/Shan_Thompson_AN_JPCA_2014.pdf",
+    "sha256": "9b9c494a43d290eff4af24e4ce0d3e41b1ca2ecf67350d9bff8982c2b32eb5cd",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp408397n 1..10",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Shan_Thompson_AN_JPCA_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014shan-venue-jp408397n_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014shan-venue-jp408397n.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

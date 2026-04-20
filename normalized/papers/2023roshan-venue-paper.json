@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023roshan-venue-paper",
+  "manifest": {
+    "source_path": "papers/Roshan_JPCC_CuSiO_2023_SI.pdf",
+    "sha256": "2143b19e62e9e29cb669413e8af52f5393b41ee8a9139a9319f7f9ed4d20975f",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2023,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Roshan_JPCC_CuSiO_2023_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023roshan-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 1966
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023roshan-venue-paper.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

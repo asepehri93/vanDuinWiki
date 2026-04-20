@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014islam-physical-che-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Islam_PCCP_LiS_2014.pdf",
+    "sha256": "2d41456bb91442675e451b81a994f8366567f12421c47c845e1bdd7ce2a09cb7",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c4cp04532g",
+    "title": "ReaxFF molecular dynamics simulations on lithiated sulfur cathode materials",
+    "year": 2014,
+    "authors": "Md Mahbubul Islam",
+    "venue": "Physical Chemistry Chemical Physics (2014), doi:10.1039/C4CP04532G"
+  },
+  "pdf_path": "papers/Islam_PCCP_LiS_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014islam-physical-che-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014islam-physical-che-reaxff-molecular.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

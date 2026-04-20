@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018lotfi-journal-of-m-comparative-study",
+  "manifest": {
+    "source_path": "papers/Lotfi_Materials_A_2018.pdf",
+    "sha256": "914c69bf385f9349479f617b3409bba40406584d3f462e790f2b071848e7bf8d",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A comparative study on the oxidation of two-dimensional Ti3C2 MXene structures in different environments",
+    "year": 2018,
+    "authors": "Roghayyeh Lotfi",
+    "venue": "Journal of Materials Chemistry A: Materials for energy and sustainability (2018), 00, 1-11, doi:10.1039/C8TA01468J"
+  },
+  "pdf_path": "papers/Lotfi_Materials_A_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018lotfi-journal-of-m-comparative-study_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018lotfi-journal-of-m-comparative-study.md",
+  "updated": "2026-04-20T16:38:20Z"
+}

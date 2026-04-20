@@ -1,0 +1,5 @@
+# Phase 5 optional extras (default stack is stdlib-only: BM25 + hash embeddings)
+# Install only if you use --backend sentence_transformers in build_vectors.py
+# pip install -r requirements-phase5.txt
+
+sentence-transformers>=2.2.0

@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2019nayir-j-phys-chem-development-reaxff-2",
+  "manifest": {
+    "source_path": "papers/Nayir_JPC_C_SiOx_2019.pdf",
+    "sha256": "e83be92a076307cb250a2862abfbcfc690943f4398b88fd38eab3318eec84ad8",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpca.9b01481",
+    "title": "Development of the ReaxFF Reactive Force Field for Inherent Point Defects in the Si/Silica System",
+    "year": 2019,
+    "authors": "Nadire Nayir; Adri C. T. van Duin; Sakir Erkoc",
+    "venue": "J. Phys. Chem. A 2019.123:4303-4313"
+  },
+  "pdf_path": "papers/Nayir_JPC_C_SiOx_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019nayir-j-phys-chem-development-reaxff-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [
+    "ReaxFF",
+    "silicon",
+    "silica",
+    "a-SiO2",
+    "oxygen diffusion"
+  ],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019nayir-j-phys-chem-development-reaxff-2.md",
+  "updated": "2026-04-20T18:00:00Z"
+}

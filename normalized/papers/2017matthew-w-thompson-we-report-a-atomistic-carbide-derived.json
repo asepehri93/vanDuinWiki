@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017matthew-w-thompson-we-report-a-atomistic-carbide-derived",
+  "manifest": {
+    "source_path": "papers/Thompson_C_2017-proof.pdf",
+    "sha256": "3bbd9403704262f731450826a68a6d6fea098a44d5276db30166b38d0bd3be17",
+    "ingested_at": "2026-04-20T16:38:20Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "An Atomistic Carbide-Derived Carbon Model Generated Using ReaxFF-Based Quenched Molecular Dynamics",
+    "year": 2017,
+    "authors": "Matthew W. Thompson, Boris Dyatkin, Hsiu-Wen Wang, C. Heath Turner, Xiahan Sang, Raymond R. Unocic, Christopher R. Iacovella, Yury Gogotsi, Peter T. Cummings",
+    "venue": " We report a novel atomistic model of carbide-derived carbons (CDCs), which are nanoporous carbons with high specific surface areas, synthesis-dependent degrees of graphitization, and well-ordered, tunable porosities. These properties make CDCs viable substrates in several energy-relevant applications, such as gas storage media, electrochemical capacitors, and catalytic supports. These materials are heterogenous, non-ideal structures and include several important parameters that govern their performance. Therefore, a realistic model of the CDC structure is needed in order to study these systems and their nanoscale and macroscale properties with molecular simulation. We report the use of the ReaxFF reactive force field in a quenched molecular dynamics routine to generate atomistic CDC models. The pair distribution function, pore size distribution, and adsorptive properties of this model are reported and corroborated with experimental data. Simulations demonstrate that compressing the system after quenching changes the pore size distribution to better match the experimental target. Ring size distributions of this model demonstrate the prevalence of non-hexagonal carbon rings in CDCs. These effects may contrast the properties of CDCs against those of activated carbons with similar pore size distributions and explain higher energy densities of CDC-based supercapacitors. "
+  },
+  "pdf_path": "papers/Thompson_C_2017-proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017matthew-w-thompson-we-report-a-atomistic-carbide-derived_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T16:38:20Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017matthew-w-thompson-we-report-a-atomistic-carbide-derived.md",
+  "updated": "2026-04-20T16:38:20Z"
+}
