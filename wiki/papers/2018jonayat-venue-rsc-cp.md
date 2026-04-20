@@ -34,7 +34,6 @@ group_affiliation: true
 <!-- id:paper:2018jonayat-venue-rsc-cp -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

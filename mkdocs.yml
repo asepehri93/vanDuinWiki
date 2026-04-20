@@ -49,6 +49,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.smartsymbols
+  - pymdownx.arithmatex:
+      generic: true
   - admonition
   - pymdownx.details
   - attr_list
@@ -81,6 +83,10 @@ nav:
       - ReaxFF vs MLIPs: debates/reaxff-vs-mlip-accuracy.md
   - Protocols:
       - ReaxFF parameterization trail: protocols/reaxff-parameterization-workflow.md
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
   social:

@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2014somers-applied-cata-interactions-plasma -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

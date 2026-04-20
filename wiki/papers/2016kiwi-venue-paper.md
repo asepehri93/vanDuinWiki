@@ -35,7 +35,6 @@ group_affiliation: true
 <!-- id:paper:2016kiwi-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -46,7 +45,7 @@ group_affiliation: true
 
 ## Summary
 
-**Reactive MD (ReaxFF)** in **LAMMPS** is used to study **He behavior in Ni matrices** containing an **embedded carbon nanotube (CNT)**. For **defect-free** tubes, **He** is reported to **diffuse along metal–CNT interfaces** and accumulate without **permeating** the **graphene wall**, consistent with **impermeable perfect graphene**. When **vacancy defects** are introduced as a proxy for **radiation damage**, **He** can **penetrate** the CNT, which then acts as a **“nano-chimney”** facilitating **outgassing** and **reducing bubble formation** in the metal. The authors connect the mechanism to improved **radiation tolerance** of **metal–CNT composites**.
+**Reactive MD (ReaxFF)** in **LAMMPS** is used to study **He behavior in Ni matrices** containing an **embedded carbon nanotube (CNT)**. For **defect-free** tubes, **He** is reported to **diffuse along metal–CNT interfaces** and accumulate without **permeating** the **graphene wall**, consistent with **impermeable perfect graphene**. When **vacancy defects** are introduced as a proxy for **radiation damage**, **He** can **penetrate** the CNT, which then acts as a **“nano-chimney”** facilitating **outgassing** and **reducing bubble formation** in the metal. The study connect the mechanism to improved **radiation tolerance** of **metal–CNT composites**.
 
 ## Methods
 

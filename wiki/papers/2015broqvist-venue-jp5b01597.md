@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2015broqvist-venue-jp5b01597 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -44,7 +43,7 @@ group_affiliation: true
 
 ## Summary
 
-Broqvist *et al.* introduce a **ReaxFF** parametrization for **CeO\(_2\)** and **CeO\(_{2-x}\)** trained predominantly from **PBE+U** reference data, targeting **oxygen chemistry** in **bulk**, **extended surfaces**, **surface steps**, and **nanoparticles**. Validation claims in the abstract include reproduction of **bulk moduli**, **lattice parameters**, and **surface energies** for stoichiometric systems; **step energies** on **(111)**; **vacancy formation energies** and their **depth dependence** from **(110)** and **(111)** surfaces upon reduction; and **energy orderings** among stoichiometric **tetrahedral, octahedral, and cubic** nanoparticle motifs plus partially reduced **octahedra**. The authors position the model as a practical complement to costly **QM dynamics** for **redox** problems on ceria.
+Broqvist *et al.* introduce a **ReaxFF** parametrization for **CeO\(_2\)** and **CeO\(_{2-x}\)** trained predominantly from **PBE+U** reference data, targeting **oxygen chemistry** in **bulk**, **extended surfaces**, **surface steps**, and **nanoparticles**. Validation claims in the abstract include reproduction of **bulk moduli**, **lattice parameters**, and **surface energies** for stoichiometric systems; **step energies** on **(111)**; **vacancy formation energies** and their **depth dependence** from **(110)** and **(111)** surfaces upon reduction; and **energy orderings** among stoichiometric **tetrahedral, octahedral, and cubic** nanoparticle motifs plus partially reduced **octahedra**. The study position the model as a practical complement to costly **QM dynamics** for **redox** problems on ceria.
 
 ## Methods
 

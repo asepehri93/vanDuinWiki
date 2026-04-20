@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2018bree-organic-geoc-origin-formation -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

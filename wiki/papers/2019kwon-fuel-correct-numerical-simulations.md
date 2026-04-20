@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2019kwon-fuel-correct-numerical-simulations -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -41,7 +40,7 @@ group_affiliation: true
 
 ## Summary
 
-The authors present a ReaxFF molecular dynamics workflow to compute the experimental Yield Sooting Index (YSI) for fuels, using a multi-stage procedure designed to mirror how YSI is obtained experimentally and in continuum models. Toluene and phenol are used as proof-of-concept aromatics with relatively well-characterized chemistry. Simulations capture key growth pathways expected from kinetics (toluene retaining and growing aromatic rings; phenol involving carbon-loss pathways with CO release). A quantitative YSI construction from ReaxFF output is compared to measurements with reasonable agreement, arguing that the approach can rank sooting tendency when detailed kinetic mechanisms are unknown.
+The work presents a ReaxFF molecular dynamics workflow to compute the experimental Yield Sooting Index (YSI) for fuels, using a multi-stage procedure designed to mirror how YSI is obtained experimentally and in continuum models. Toluene and phenol are used as proof-of-concept aromatics with relatively well-characterized chemistry. Simulations capture key growth pathways expected from kinetics (toluene retaining and growing aromatic rings; phenol involving carbon-loss pathways with CO release). A quantitative YSI construction from ReaxFF output is compared to measurements with reasonable agreement, arguing that the approach can rank sooting tendency when detailed kinetic mechanisms are unknown.
 
 ## Methods
 

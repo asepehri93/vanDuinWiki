@@ -27,7 +27,6 @@ group_affiliation: true
 <!-- id:paper:2020zhang-venue-si-rev2 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

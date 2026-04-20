@@ -27,7 +27,6 @@ group_affiliation: false
 <!-- id:paper:2019leven-j-phys-chem-gem-coarse-grained -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

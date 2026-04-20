@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2013yang-chemical-phy-self-weakening-lithiated -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

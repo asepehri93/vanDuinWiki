@@ -34,7 +34,6 @@ group_affiliation: true
 <!-- id:paper:2015verlackt-new-journal-atomic-scale-insight -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

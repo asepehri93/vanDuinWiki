@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2014srinivasan-carbon-82-20-direction-dependent -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

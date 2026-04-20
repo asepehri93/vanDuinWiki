@@ -32,7 +32,6 @@ group_affiliation: true
 <!-- id:paper:2015tavazza-venue-research-2 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

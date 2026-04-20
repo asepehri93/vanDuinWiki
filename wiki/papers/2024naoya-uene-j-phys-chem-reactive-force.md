@@ -34,7 +34,6 @@ group_affiliation: true
 <!-- id:paper:2024naoya-uene-j-phys-chem-reactive-force -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

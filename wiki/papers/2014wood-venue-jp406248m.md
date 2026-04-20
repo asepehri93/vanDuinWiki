@@ -27,7 +27,6 @@ group_affiliation: true
 <!-- id:paper:2014wood-venue-jp406248m -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -35,7 +35,6 @@ group_affiliation: true
 <!-- id:paper:2015lloyd-surface-scie-development-reaxff -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

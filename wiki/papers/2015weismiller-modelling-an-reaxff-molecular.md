@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2015weismiller-modelling-an-reaxff-molecular -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

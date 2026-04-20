@@ -29,7 +29,6 @@ group_affiliation: false
 <!-- id:paper:2016rassoulinejad-mousav-venue-evaluation-copper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

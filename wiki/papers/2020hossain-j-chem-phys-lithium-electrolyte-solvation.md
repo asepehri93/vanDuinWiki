@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

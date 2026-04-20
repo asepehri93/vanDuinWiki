@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2021akbarian-j-chem-phys-atomistic-scale-insight -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,23 +46,14 @@ An **eReaxFF** (explicit electron) MD framework, checked against DFT references 
 
 eReaxFF molecular dynamics with explicit electronic degrees of freedom as formulated in their eReaxFF line; scenarios varying morphology and additives.
 
-<!-- enrich-from-extract:v2 -->
-
-- we present an eReaxFF-based molecular dynamics simulation framework with an explicit electron description verified against density func- tional theory data to investigate the roles of XLPE by-products and processing variables such as density and voids on the time to dielectric breakdown (TDDB) of polyethylene (PE).
-- Our simulation results indicate that an increase in density of PE increases the TDDB; however, adding a by-product with positive electron affinity such as acetophenone can reduce the TDDB.
-- Furthermore, during the electrical break- down in PE, electrons tend to migrate through voids when transferring from the anode to cathode.
-
+The article further notes that the article presents an eReaxFF-based molecular dynamics simulation framework with an explicit electron description verified against density func- tional theory data to investigate the roles of XLPE by-products and processing variables such as density and voids on the time to dielectric breakdown (TDDB) of polyethylene (PE). Our simulation results indicate that an increase in density of PE increases the TDDB; however, adding a by-product with positive electron affinity such as acetophenone can reduce the TDDB. Furthermore, during the electrical break- down in PE, electrons tend to migrate through voids when transferring from the anode to cathode.
 
 ## Findings
 
 Atomistic picture tying microstructure and impurities to breakdown statistics and pathway; qualitative insights on percolation through void space and role of charged radical species.
 
-### Additional results (article abstract)
 
-- In comparison with neutral acetophenone, we find that the acetophenone radical anion can significantly reduce the energy barrier and the reaction energy of secondary chemical reactions.
-- Published under license by AIP Publishing. https://doi.org/10.1063/5.0033645., s INTRODUCTION With an increase in electricity usage due to the development of metropolises and industrialization, the demand for power cables with a higher voltage rating has increased. 1 The insulation mate- rial used in these cables can reach its melting temperature due to the ohmic loss in the electrical conductor. 2 Therefore, using an insulation material with stable thermomechanical properties at high temperature is critical.
-- Previous investigations concluded that the by-products and antioxidant additives can lead to the accumula- tion of space charge in the final sample, deteriorating the elec- trical properties of XLPE. 3,6,10 For instance, Doi et al. observed the formation of a dynamic space charge in acetophenone-coated LDPE.11 In addition, Hirai et al. reported that cumyl alcohol is J.
-
+From the abstract: in comparison with neutral acetophenone, we find that the acetophenone radical anion can significantly reduce the energy barrier and the reaction energy of secondary chemical reactions. Published under license by AIP Publishing. https://doi.org/10.1063/5.0033645., s INTRODUCTION With an increase in electricity usage due to the development of metropolises and industrialization, the demand for power cables with a higher voltage rating has increased. 1 The insulation mate- rial used in these cables can reach its melting temperature due to the ohmic loss in the electrical conductor. 2 Therefore, using an insulation material with stable thermomechanical properties at high temperature is critical. Previous investigations concluded that the by-products and antioxidant additives can lead to the accumula- tion of space charge in the final sample, deteriorating the elec- trical properties of XLPE. 3,6,10 For instance, Doi et al. observed the formation of a dynamic space charge in acetophenone-coated LDPE.11 In addition, Hirai et al. reported that cumyl alcohol is J.
 
 ## Limitations
 

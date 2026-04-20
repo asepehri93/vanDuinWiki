@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2014castro-marcano-journal-of-a-pyrolysis-large-scale -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -40,7 +39,7 @@ group_affiliation: true
 
 ## Summary
 
-The authors run high-temperature (2000 K) ReaxFF MD on a **>50,000 atom** molecular structural model of Illinois No. 6 coal—728 molecule diversity—over 250 ps to accelerate bond-breaking chemistry. Roughly 60% of cross-links break primarily by thermolysis in the simulation window, enabling analysis of devolatilization and structural transformation pathways for a complex organic geopolymer model relevant to utilization and emissions chemistry.
+The study uses large-scale MD to run high-temperature (2000 K) ReaxFF MD on a **>50,000 atom** molecular structural model of Illinois No. 6 coal—728 molecule diversity—over 250 ps to accelerate bond-breaking chemistry. Roughly 60% of cross-links break primarily by thermolysis in the simulation window, enabling analysis of devolatilization and structural transformation pathways for a complex organic geopolymer model relevant to utilization and emissions chemistry.
 
 ## Methods
 

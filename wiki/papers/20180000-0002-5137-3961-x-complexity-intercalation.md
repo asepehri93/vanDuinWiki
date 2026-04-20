@@ -36,7 +36,6 @@ group_affiliation: true
 <!-- id:paper:20180000-0002-5137-3961-x-complexity-intercalation -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

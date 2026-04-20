@@ -20,7 +20,6 @@ group_affiliation: true
 <!-- id:paper:2013huang-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -31,7 +30,7 @@ group_affiliation: true
 
 ## Summary
 
-The authors study **chemo-mechanical fracture** of **defective zigzag (18,0) single-walled carbon nanotubes** under **uniaxial strain** at **300 K** using **ReaxFF MD**, with **Li** placed on the outer surface at varying **Li:C** ratios (**0, 1:36, 1:12, 1:6**). Two defect types are considered: a **single vacancy** and a **10-carbon hole**. The abstract/intro distinguishes **abrupt** fracture (including **Li-assisted weakening** at the crack tip or Li-absent fast failure) vs **retarded** **“wait-and-go”** propagation where the crack arrests until **Li diffusion** weakens the tip region. Motivation ties to **Li-ion battery** electrode mechanics and prior **in situ TEM** observations of **embrittlement** in multi-walled CNTs.
+Reactive MD examines **chemo-mechanical fracture** of **defective zigzag (18,0) single-walled carbon nanotubes** under **uniaxial strain** at **300 K** using **ReaxFF**, with **Li** placed on the outer surface at varying **Li:C** ratios (**0, 1:36, 1:12, 1:6**). Two defect types are considered: a **single vacancy** and a **10-carbon hole**. The abstract/intro distinguishes **abrupt** fracture (including **Li-assisted weakening** at the crack tip or Li-absent fast failure) vs **retarded** **“wait-and-go”** propagation where the crack arrests until **Li diffusion** weakens the tip region. Motivation ties to **Li-ion battery** electrode mechanics and prior **in situ TEM** observations of **embrittlement** in multi-walled CNTs.
 
 ## Methods
 

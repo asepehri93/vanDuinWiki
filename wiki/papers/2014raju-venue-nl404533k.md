@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2014raju-venue-nl404533k -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

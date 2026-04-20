@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2021jwinetrout-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

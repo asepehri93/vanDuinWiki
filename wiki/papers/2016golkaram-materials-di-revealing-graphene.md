@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2016golkaram-materials-di-revealing-graphene -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -33,7 +33,6 @@ group_affiliation: false
 <!-- id:paper:2023li-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

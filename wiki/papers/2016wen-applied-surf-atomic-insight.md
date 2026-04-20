@@ -35,7 +35,6 @@ group_affiliation: true
 <!-- id:paper:2016wen-applied-surf-atomic-insight -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

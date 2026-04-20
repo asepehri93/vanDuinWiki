@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2017chowdhury-venue-jp6b12429 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

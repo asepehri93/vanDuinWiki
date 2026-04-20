@@ -27,7 +27,6 @@ group_affiliation: false
 <!-- id:paper:2016kumar-j-phys-chem-jz6b00091 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

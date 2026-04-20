@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2016mortazavi-physical-che-mechanical-response -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2021lele-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

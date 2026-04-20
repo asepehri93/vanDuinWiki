@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2014zou-acta-materia-molecular-dynamics -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

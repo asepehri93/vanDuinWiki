@@ -37,7 +37,6 @@ group_affiliation: true
 <!-- id:paper:2020hyunguk-kwon-j-phys-chem-jp0c03355 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -32,7 +32,6 @@ group_affiliation: true
 <!-- id:paper:2017jejoon-yeon-j-phys-chem-development-reaxff -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

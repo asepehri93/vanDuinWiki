@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2014rahnamoun-venue-jp4121029 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

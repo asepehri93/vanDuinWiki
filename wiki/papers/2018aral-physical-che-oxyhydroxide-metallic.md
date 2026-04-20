@@ -34,7 +34,6 @@ group_affiliation: true
 <!-- id:paper:2018aral-physical-che-oxyhydroxide-metallic -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

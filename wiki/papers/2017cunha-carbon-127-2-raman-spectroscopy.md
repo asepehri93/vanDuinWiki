@@ -37,7 +37,6 @@ group_affiliation: true
 <!-- id:paper:2017cunha-carbon-127-2-raman-spectroscopy -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

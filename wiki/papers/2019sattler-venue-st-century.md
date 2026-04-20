@@ -26,7 +26,6 @@ group_affiliation: false
 <!-- id:paper:2019sattler-venue-st-century -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

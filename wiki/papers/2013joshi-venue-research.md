@@ -20,7 +20,6 @@ group_affiliation: true
 <!-- id:paper:2013joshi-venue-research -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

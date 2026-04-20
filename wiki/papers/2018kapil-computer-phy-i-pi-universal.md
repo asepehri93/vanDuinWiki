@@ -52,7 +52,6 @@ group_affiliation: false
 <!-- id:paper:2018kapil-computer-phy-i-pi-universal -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

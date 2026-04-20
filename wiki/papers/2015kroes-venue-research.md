@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2015kroes-venue-research -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

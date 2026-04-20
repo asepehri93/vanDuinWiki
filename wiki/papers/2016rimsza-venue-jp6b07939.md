@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2016rimsza-venue-jp6b07939 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -41,7 +40,7 @@ group_affiliation: true
 
 ## Summary
 
-**Reactive MD** with **ReaxFF** and comparison to **DFT-based AIMD** are used to study **water** interacting with **nanoporous silica**, comparing two **Si/O/H ReaxFF** parametrizations (**Yeon et al.** vs **Fogarty et al.**). The authors analyze **local structure**, **water dissociation**, **barriers**, **diffusion**, and **defect** chemistry (**two-membered ring** removal, **hydroxylation**), concluding that **Yeon et al.** better matches **AIMD** for **high-defect**, **strained** silica–water scenarios. **Adri C. T. van Duin** is a coauthor.
+**Reactive MD** with **ReaxFF** and comparison to **DFT-based AIMD** are used to study **water** interacting with **nanoporous silica**, comparing two **Si/O/H ReaxFF** parametrizations (**Yeon et al.** vs **Fogarty et al.**). The study analyze **local structure**, **water dissociation**, **barriers**, **diffusion**, and **defect** chemistry (**two-membered ring** removal, **hydroxylation**), concluding that **Yeon et al.** better matches **AIMD** for **high-defect**, **strained** silica–water scenarios. **Adri C. T. van Duin** is a coauthor.
 
 ## Methods
 

@@ -20,7 +20,6 @@ group_affiliation: false
 <!-- id:paper:2013chapter6-venue-untitled -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

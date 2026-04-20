@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2018muralikrishna-raju-nanoscale-20-atomistic-continuum -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

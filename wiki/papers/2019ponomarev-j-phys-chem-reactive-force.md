@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2019ponomarev-j-phys-chem-reactive-force -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2016shantonu-venue-microsoft-word -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

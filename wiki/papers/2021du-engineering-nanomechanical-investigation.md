@@ -32,7 +32,6 @@ group_affiliation: true
 <!-- id:paper:2021du-engineering-nanomechanical-investigation -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

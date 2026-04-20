@@ -32,7 +32,6 @@ group_affiliation: true
 <!-- id:paper:2018vashisth-polymer-158-effect-chemical -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -43,7 +42,7 @@ group_affiliation: true
 
 ## Summary
 
-The authors apply an **accelerated ReaxFF** workflow—supplying energy comparable to **reaction barriers** so that **slow epoxy crosslinking** events occur on **MD-accessible** timescales—to build **atomistic networks** from **bisphenol-A epoxide** cured with **three classes of amines** (aromatic, cycloaliphatic, aliphatic). **Simulated thermo-mechanical** properties are compared with **experiments**, highlighting how **curing-agent chemistry** shapes **local heterogeneity** (notably for **cyclic** amines) and **strain-rate sensitivity** (stronger for **aliphatic** systems). **Adri C. T. van Duin** is a corresponding author with **Penn State** engineering coauthors.
+The study applies an **accelerated ReaxFF** workflow—supplying energy comparable to **reaction barriers** so that **slow epoxy crosslinking** events occur on **MD-accessible** timescales—to build **atomistic networks** from **bisphenol-A epoxide** cured with **three classes of amines** (aromatic, cycloaliphatic, aliphatic). **Simulated thermo-mechanical** properties are compared with **experiments**, highlighting how **curing-agent chemistry** shapes **local heterogeneity** (notably for **cyclic** amines) and **strain-rate sensitivity** (stronger for **aliphatic** systems). **Adri C. T. van Duin** is a corresponding author with **Penn State** engineering coauthors.
 
 ## Methods
 

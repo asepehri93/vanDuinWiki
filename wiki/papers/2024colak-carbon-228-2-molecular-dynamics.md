@@ -31,7 +31,6 @@ group_affiliation: false
 <!-- id:paper:2024colak-carbon-228-2-molecular-dynamics -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -42,7 +41,7 @@ group_affiliation: false
 
 ## Summary
 
-**Classical MD** of **graphene oxide (GO)** nanosheets in a matrix of **recombinant squid-inspired tandem-repeat (TR) proteins**, building on the authors’ prior **GO/MXene + TR protein** composites. The study argues that TR proteins enable **controlled chain length/structure**, producing **repeatable mechanical properties** that **scale quasi-linearly** with the number of repeat units—consistent with the **experimental trend** they cite. The article positions the platform as a route toward **ordered 2D biocomposites** with tunable stiffness/flexibility trade-offs.
+**Classical MD** of **graphene oxide (GO)** nanosheets in a matrix of **recombinant squid-inspired tandem-repeat (TR) proteins**, building on earlier **GO/MXene + TR protein** composites from the same group. The study argues that TR proteins enable **controlled chain length/structure**, producing **repeatable mechanical properties** that **scale quasi-linearly** with the number of repeat units—consistent with the **experimental trend** they cite. The article positions the platform as a route toward **ordered 2D biocomposites** with tunable stiffness/flexibility trade-offs.
 
 ## Methods
 

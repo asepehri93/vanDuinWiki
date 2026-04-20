@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2014sen-nat-oxidation-assisted-ductility -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

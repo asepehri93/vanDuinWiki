@@ -35,7 +35,6 @@ group_affiliation: true
 <!-- id:paper:2018dengpan-dong-in-this-stud-multiscale-modeling -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -46,7 +45,7 @@ group_affiliation: true
 
 ## Summary
 
-This **open-access Polymers** article develops a **three-tier modeling chain** for **hydrated anion-exchange membranes (AEMs)** based on **functionalized poly(phenylene oxide)**: a **high-resolution coarse-grained** model for **morphology**, an **atomistic polarizable (APPLE&P)** model for **local hydration**, **ion–water structure**, and **vehicular transport**, and **ReaxFF** for **reactive** questions such as **hydroxide transport mechanisms** (including **Grotthuss-like** behavior as framed in the paper) and **chemical degradation** pathways. The authors argue that **no single model** can span this whole property space, but **sequential mapping** between resolutions enables **practical materials-by-design** guidance for **AEM** chemistry.
+This **open-access Polymers** article develops a **three-tier modeling chain** for **hydrated anion-exchange membranes (AEMs)** based on **functionalized poly(phenylene oxide)**: a **high-resolution coarse-grained** model for **morphology**, an **atomistic polarizable (APPLE&P)** model for **local hydration**, **ion–water structure**, and **vehicular transport**, and **ReaxFF** for **reactive** questions such as **hydroxide transport mechanisms** (including **Grotthuss-like** behavior as framed in the paper) and **chemical degradation** pathways. The study argue that **no single model** can span this whole property space, but **sequential mapping** between resolutions enables **practical materials-by-design** guidance for **AEM** chemistry.
 
 ## Methods
 

@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2019shabnam-physical-che-evaluation-effect -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

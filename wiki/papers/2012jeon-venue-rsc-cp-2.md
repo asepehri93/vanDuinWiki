@@ -20,7 +20,6 @@ group_affiliation: true
 <!-- id:paper:2012jeon-venue-rsc-cp-2 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

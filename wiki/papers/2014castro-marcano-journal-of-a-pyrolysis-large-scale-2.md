@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2014castro-marcano-journal-of-a-pyrolysis-large-scale-2 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

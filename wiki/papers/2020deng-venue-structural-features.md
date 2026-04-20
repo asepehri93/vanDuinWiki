@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2020deng-venue-structural-features -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

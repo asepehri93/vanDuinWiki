@@ -32,7 +32,6 @@ group_affiliation: false
 <!-- id:paper:2023musaelian-nat-learning-local -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

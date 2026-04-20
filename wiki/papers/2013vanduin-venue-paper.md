@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2013vanduin-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

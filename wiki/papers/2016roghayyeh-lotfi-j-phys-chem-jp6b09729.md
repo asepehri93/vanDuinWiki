@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2016roghayyeh-lotfi-j-phys-chem-jp6b09729 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

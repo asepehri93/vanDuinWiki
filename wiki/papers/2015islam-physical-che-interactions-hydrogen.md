@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2015islam-physical-che-interactions-hydrogen -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

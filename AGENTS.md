@@ -79,6 +79,8 @@ Theme pages serve **two audiences**: a **MAS / retrieval** spine (structured `id
 
 The same markdown is published via **MkDocs** (see `mkdocs.yml`). Conventions:
 
+- **Math in the static site:** `mkdocs.yml` enables **MathJax** (see `wiki/javascripts/mathjax.js`) with **pymdownx.arithmatex** (`generic: true`). Use standard inline math as `\( ... \)` and display as `\[ ... \]` in markdown so formulas render on GitHub Pages.
+- Prefer **objective, third-person** prose on paper pages (avoid “the authors …” as a repeated crutch; describe methods and results directly). When expanding from `normalized/extracts/`, remove publisher boilerplate (COI, correspondence footers, figure captions pasted into abstract text).
 - Put a **plain-language lead** immediately after the `<!-- id:... -->` HTML comment (or use `!!! abstract "..."` for a visible blurb).
 - Keep **YAML front matter** machine-complete; use **`??? info "Maintainers"`** or **`!!! note`** for operator-only reminders so casual readers skim the science first.
 - **Paper** pages may include **`## Reader notes (navigation)`** with wikilinks to theme hubs and docs benchmarks—avoid new scientific claims there unless cited elsewhere on the page.

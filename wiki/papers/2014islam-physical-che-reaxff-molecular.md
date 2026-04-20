@@ -35,7 +35,6 @@ group_affiliation: true
 <!-- id:paper:2014islam-physical-che-reaxff-molecular -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

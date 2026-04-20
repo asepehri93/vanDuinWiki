@@ -39,7 +39,6 @@ group_affiliation: true
 <!-- id:paper:2024baksa-adv-elect-ma-strain-fluctuations -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

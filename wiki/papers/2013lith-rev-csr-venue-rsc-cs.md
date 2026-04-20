@@ -20,7 +20,6 @@ group_affiliation: false
 <!-- id:paper:2013lith-rev-csr-venue-rsc-cs -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

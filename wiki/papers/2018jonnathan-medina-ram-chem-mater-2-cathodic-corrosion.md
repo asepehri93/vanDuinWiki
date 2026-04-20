@@ -42,7 +42,6 @@ group_affiliation: true
 <!-- id:paper:2018jonnathan-medina-ram-chem-mater-2-cathodic-corrosion -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

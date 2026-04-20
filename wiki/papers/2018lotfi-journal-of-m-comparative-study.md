@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2018lotfi-journal-of-m-comparative-study -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

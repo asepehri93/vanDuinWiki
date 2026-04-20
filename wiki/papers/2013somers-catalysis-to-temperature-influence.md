@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2013somers-catalysis-to-temperature-influence -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

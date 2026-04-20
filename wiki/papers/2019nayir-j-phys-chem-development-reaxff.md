@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2019nayir-j-phys-chem-development-reaxff -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -46,27 +45,14 @@ A Ge/O/H ReaxFF is extended from prior work with additional QM training on O int
 
 ReaxFF reparameterization with expanded training sets from DFT; MD for O diffusion in bulk Ge and for heated Ge/GeO2 stacks; comparison against a Tersoff potential for interface oxidation.
 
-<!-- enrich-from-extract:v2 -->
-
-- We developed the ReaxFF force ﬁeld parameters for Ge/O/H interactions, speci ﬁcally targeted for the applications of Ge/GeO 2 interfaces and O-di ﬀusion in bulk Ge.
-- The original training set, taken from the Zheng et al. work, includes quantum mechanics (QM) data for equations of state and heats of formation of GeO and GeO 2 condensed phases as well as dissociation energies for single and double bonds of Ge and angle distortion of O −Ge−O.
-- We expanded this training set with the additional crystal data containing the formation energies of di ﬀerent O-interstitial centers and the minimum energy migration pathway of O atoms in diamond Ge.
-- After re ﬁtting the force ﬁeld parameters based upon the extended training set, the ReaxFF results show that the equations of state and heats of formation of the GeO and GeO 2 condensed phases retain a good ﬁt with the QM calculations.
-- Furthermore, O atoms di ﬀuse along a pathway between neighboring bond-centered (BC) interstitial sites and go through the asymmetric transition state at the split site as in DFT.
-- We also examined the temperature dependence of O di ﬀusion in bulk Ge and subjected the GeO 2/Ge interface to heat treatment based on the ReaxFF and Terso ﬀ potential.
-- At the temperatures over 1400 K, ReaxFF allows the O atom to di ﬀuse along the theoretically reported pathway between the adjacent BC centers, whereas Terso ﬀ potential contradicts the DFT reports by resulting in di ﬀusion between the BC and H interstitial sites.
-- In addition, the ReaxFF correctly predicts the relative stability of the O-interstitial centers in the diamond Ge to be bond-center → split → tetrahedral → hexagonal from most stable to least stable with the energies showing a quantitative agreement with density functional theory (DFT).
-
+The article further notes that a ReaxFF description was developed the ReaxFF force ﬁeld parameters for Ge/O/H interactions, speci ﬁcally targeted for the applications of Ge/GeO 2 interfaces and O-di ﬀusion in bulk Ge. The original training set, taken from the Zheng et al. work, includes quantum mechanics (QM) data for equations of state and heats of formation of GeO and GeO 2 condensed phases as well as dissociation energies for single and double bonds of Ge and angle distortion of O −Ge−O. We expanded this training set with the additional crystal data containing the formation energies of di ﬀerent O-interstitial centers and the minimum energy migration pathway of O atoms in diamond Ge. After re ﬁtting the force ﬁeld parameters based upon the extended training set, the ReaxFF results show that the equations of state and heats of formation of the GeO and GeO 2 condensed phases retain a good ﬁt with the QM calculations. Furthermore, O atoms di ﬀuse along a pathway between neighboring bond-centered (BC) interstitial sites and go through the asymmetric transition state at the split site as in DFT. We also examined the temperature dependence of O di ﬀusion in bulk Ge and subjected the GeO 2/Ge interface to heat treatment based on the ReaxFF and Terso ﬀ potential. At the temperatures over 1400 K, ReaxFF allows the O atom to di ﬀuse along the theoretically reported pathway between the adjacent BC centers, whereas Terso ﬀ potential contradicts the DFT reports by resulting in di ﬀusion between the BC and H interstitial sites. In addition, the ReaxFF correctly predicts the relative stability of the O-interstitial centers in the diamond Ge to be bond-center → split → tetrahedral → hexagonal from most stable to least stable with the energies showing a quantitative agreement with density functional theory (DFT).
 
 ## Findings
 
 Interstitial ordering and migration pathway align with DFT. Diffusion barrier and thermal onset of migration are in family agreement with literature-style expectations. ReaxFF captures oxidation kinetics at interfaces qualitatively consistent with experiment where cited; Tersoff contrasts fail on diffusion pathway and interface evolution.
 
-### Additional results (article abstract)
 
-- Based on the results of molecular dynamics simulations, the ReaxFF accurately predicts the di ﬀusion barrier value as 50.02 kcal/mol within the temperature range of 800 −2000 K.
-- For the Ge/GeO 2 interface, the ReaxFF results show that the thickness of GeO 2 increases and the Ge substrate is consumed depending on the temperature and the oxidation time, supported by the experiments, while no change was observed in the thicknesses of the Ge substrate and GeO 2 slab in the Terso ﬀ-based simulations.
-
+From the abstract: based on the results of molecular dynamics simulations, the ReaxFF accurately predicts the di ﬀusion barrier value as 50.02 kcal/mol within the temperature range of 800 −2000 K. For the Ge/GeO 2 interface, the ReaxFF results show that the thickness of GeO 2 increases and the Ge substrate is consumed depending on the temperature and the oxidation time, supported by the experiments, while no change was observed in the thicknesses of the Ge substrate and GeO 2 slab in the Terso ﬀ-based simulations.
 
 ## Limitations
 

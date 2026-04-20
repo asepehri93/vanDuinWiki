@@ -32,7 +32,6 @@ group_affiliation: true
 <!-- id:paper:2019ganna-shchygol-j-chem-theor-reaxff-parameter -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -43,7 +42,7 @@ group_affiliation: true
 
 ## Summary
 
-The paper **benchmarks three global optimization strategies** for **ReaxFF parameter fitting**—**covariance matrix adaptation evolution strategy (CMA-ES)**, **Monte Carlo force-field optimizer (MCFF)**, and a **genetic algorithm (OGOLEM)**—on **three literature training sets**, repeating runs with **different random seeds** and **initial guesses**. **Single-shot** optimizations are shown to be **unreliable**: **poor** or **premature convergence** appears **often**, motivating **multi-start** workflows and **careful** method choice (**GA** mitigates **local-minimum** traps best in their statistics; **CMA-ES** sometimes reaches **lowest** errors but **not systematically**). The authors also analyze **numerical noise** in training data—reduced by using **unambiguous geometry optimizations**—and note **many near-optimal parameter vectors**, warning against **overfitting**. **Adri C. T. van Duin** coauthors with **Ghent / SCM** colleagues.
+The paper **benchmarks three global optimization strategies** for **ReaxFF parameter fitting**—**covariance matrix adaptation evolution strategy (CMA-ES)**, **Monte Carlo force-field optimizer (MCFF)**, and a **genetic algorithm (OGOLEM)**—on **three literature training sets**, repeating runs with **different random seeds** and **initial guesses**. **Single-shot** optimizations are shown to be **unreliable**: **poor** or **premature convergence** appears **often**, motivating **multi-start** workflows and **careful** method choice (**GA** mitigates **local-minimum** traps best in their statistics; **CMA-ES** sometimes reaches **lowest** errors but **not systematically**). The study also analyze **numerical noise** in training data—reduced by using **unambiguous geometry optimizations**—and note **many near-optimal parameter vectors**, warning against **overfitting**. **Adri C. T. van Duin** coauthors with **Ghent / SCM** colleagues.
 
 ## Methods
 

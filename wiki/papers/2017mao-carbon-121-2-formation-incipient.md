@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2017mao-carbon-121-2-formation-incipient -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

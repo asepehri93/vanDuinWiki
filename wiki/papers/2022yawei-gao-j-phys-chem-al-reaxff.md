@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2022yawei-gao-j-phys-chem-al-reaxff -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

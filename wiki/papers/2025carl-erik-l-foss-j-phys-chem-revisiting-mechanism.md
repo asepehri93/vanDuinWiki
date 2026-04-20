@@ -34,7 +34,6 @@ group_affiliation: true
 <!-- id:paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

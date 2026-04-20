@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2014senftle-catcom-52-20-determining-situ -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

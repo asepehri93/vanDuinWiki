@@ -32,7 +32,6 @@ group_affiliation: true
 <!-- id:paper:2014hatzelletal-venue-es5043782 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

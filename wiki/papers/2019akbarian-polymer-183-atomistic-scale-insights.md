@@ -36,7 +36,6 @@ group_affiliation: true
 <!-- id:paper:2019akbarian-polymer-183-atomistic-scale-insights -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

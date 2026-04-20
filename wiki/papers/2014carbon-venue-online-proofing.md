@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2014carbon-venue-online-proofing -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -39,7 +38,7 @@ group_affiliation: true
 
 ## Summary
 
-ReaxFF reactive MD simulates hyperthermal atomic oxygen bombardment of low-index diamond surfaces relevant to low-Earth-orbit erosion. Small oxygen-terminated slabs explore surface functional groups (ethers, peroxides, radicals, dioxetanes) consistent with prior experiment and first-principles work; larger reconstructed surfaces show orientation-dependent etching yields with (100) slowest and (110) fastest, matching experimental erosion ordering, and the authors derive an Arrhenius-style mass-loss rate law discussion (abstract; title block mid-extract).
+ReaxFF reactive MD simulates hyperthermal atomic oxygen bombardment of low-index diamond surfaces relevant to low-Earth-orbit erosion. Small oxygen-terminated slabs explore surface functional groups (ethers, peroxides, radicals, dioxetanes) consistent with prior experiment and first-principles work; larger reconstructed surfaces show orientation-dependent etching yields with (100) slowest and (110) fastest, matching experimental erosion ordering, and the study develops an Arrhenius-style mass-loss rate law discussion (abstract; title block mid-extract).
 
 ## Methods
 

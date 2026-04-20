@@ -36,7 +36,6 @@ group_affiliation: true
 <!-- id:paper:2018overbury-j-am-chem-so-complexity-intercalation -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

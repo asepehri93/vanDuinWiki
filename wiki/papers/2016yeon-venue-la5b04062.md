@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2016yeon-venue-la5b04062 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2016hong-venue-jp6b00786 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,15 +47,7 @@ An **Al/C ReaxFF** is developed against **QM training sets** and exercised in **
 - **ReaxFF parameter optimization** for **Al–C–O–H** chemistry with **QM validation** data described in the paper.
 - **Reactive MD** trajectories for **deposition** sequences followed by **oxidation** stages.
 
-<!-- enrich-from-extract:v2 -->
-
-- We developed a ReaxFF reactive force ﬁeld for Al/C interactions to investigate carbon coating and its e ﬀect on the oxidation of aluminum nanoparticles (ANPs).
-- The ReaxFF parameters were optimized against quantum mechan- ics-based (QM-based) training sets and validated with additional QM data and data from experimental literature.
-- ReaxFF-molecular dynamics (MD) simulations were per- formed to determine whether this force ﬁeld description was suitable to model the surface deposition and oxidation on complex materials (i.e., carbon-coated ANPs).
-- The results of the MD simulations indicate that a carbon coating layer was formed on the surface of the bare ANPs, while H atoms were transferred from the hydrocarbons to the available Al binding sites typically without breaking C −C bonds.
-- Moreover, the MD simulations of the oxidation of the carbon-coated ANPs indicate that the carbon-coated ANPs were less reactive at low temperatures, but they became very susceptible to oxidation when the coating layer was removed at elevated at elevated temperatures.
-- These results are consistent with the experimental literature, and thus, the ReaxFF description that was developed in this study enables us to gain atomistic-scale insights into the role of the carbon coating in the oxidation of ANPs.
-
+The article further notes that a ReaxFF description was developed a ReaxFF reactive force ﬁeld for Al/C interactions to investigate carbon coating and its e ﬀect on the oxidation of aluminum nanoparticles (ANPs). The ReaxFF parameters were optimized against quantum mechan- ics-based (QM-based) training sets and validated with additional QM data and data from experimental literature. ReaxFF-molecular dynamics (MD) simulations were per- formed to determine whether this force ﬁeld description was suitable to model the surface deposition and oxidation on complex materials (i.e., carbon-coated ANPs). The results of the MD simulations indicate that a carbon coating layer was formed on the surface of the bare ANPs, while H atoms were transferred from the hydrocarbons to the available Al binding sites typically without breaking C −C bonds. Moreover, the MD simulations of the oxidation of the carbon-coated ANPs indicate that the carbon-coated ANPs were less reactive at low temperatures, but they became very susceptible to oxidation when the coating layer was removed at elevated at elevated temperatures. These results are consistent with the experimental literature, and thus, the ReaxFF description that was developed in this study enables us to gain atomistic-scale insights into the role of the carbon coating in the oxidation of ANPs.
 
 ## Findings
 
@@ -64,11 +55,8 @@ An **Al/C ReaxFF** is developed against **QM training sets** and exercised in **
 - **Oxidation resistance** is **temperature-dependent**: coatings can **passivate** at low \(T\) yet fail dramatically when **removed/heated**.
 - **Qualitative agreement** with selected **experimental oxidation** observations is claimed for the modeled scenarios.
 
-### Additional results (article abstract)
 
-- Our results show that the ReaxFF description correctly reproduced the Al/ C interaction energies obtained from the QM calculations and qualitatively captured the processes of the hydrocarbons ’ binding and their subsequent reactions on the bare ANPs.
-- The growth of the carbon layer depended strongly on the hydrocarbon precursors that were used.
-
+From the abstract: the reported results show that the ReaxFF description correctly reproduced the Al/ C interaction energies obtained from the QM calculations and qualitatively captured the processes of the hydrocarbons ’ binding and their subsequent reactions on the bare ANPs. The growth of the carbon layer depended strongly on the hydrocarbon precursors that were used.
 
 ## Limitations
 

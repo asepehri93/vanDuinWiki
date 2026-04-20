@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2019nayir-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

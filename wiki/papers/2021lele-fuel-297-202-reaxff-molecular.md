@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2021lele-fuel-297-202-reaxff-molecular -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -27,7 +27,6 @@ group_affiliation: true
 <!-- id:paper:2013rygg-venue-pone -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

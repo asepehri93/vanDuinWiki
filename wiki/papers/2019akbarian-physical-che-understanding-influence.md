@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2019akbarian-physical-che-understanding-influence -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -44,7 +43,7 @@ group_affiliation: true
 
 ## Summary
 
-An extensible atomistic ReaxFF for **BaTiO3** is constructed to capture field- and temperature-driven ferroelectric hysteresis together with modifications from **surface chemistry** and **bulk oxygen vacancies**. The authors connect simulations to several experimental observations: a critical thickness near **4.8 nm** below which ferroelectricity is suppressed; oxygen vacancy migration/clustering reducing polarization and Curie temperature; and domain-wall interactions with surfaces that alter switching pathways and polarization magnitude—positioning the model for interface-heavy ferroelectric device scenarios.
+An extensible atomistic ReaxFF for **BaTiO3** is constructed to capture field- and temperature-driven ferroelectric hysteresis together with modifications from **surface chemistry** and **bulk oxygen vacancies**. The study connect simulations to several experimental observations: a critical thickness near **4.8 nm** below which ferroelectricity is suppressed; oxygen vacancy migration/clustering reducing polarization and Curie temperature; and domain-wall interactions with surfaces that alter switching pathways and polarization magnitude—positioning the model for interface-heavy ferroelectric device scenarios.
 
 ## Methods
 

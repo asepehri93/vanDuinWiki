@@ -20,7 +20,6 @@ group_affiliation: true
 <!-- id:paper:2012assowe-venue-reactive-molecular -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -31,7 +30,7 @@ group_affiliation: true
 
 ## Summary
 
-The authors apply **ReaxFF MD** to **Ni(111)** in contact with **liquid water** (~480 H₂O molecules, ρ ≈ 0.99 g/cm³, **300 K**). Without an external field, water **does not dissociate**, but the excerpt reports a **charged double layer** (positive Ni surface vs negative first water layer). With an imposed **electric field (10–20 MV/cm)**, **anodic oxidation** proceeds: oxide growth is analyzed via **anion ingress** and **Ni outward migration**, with **thickness scaling approximately linearly** with field strength and faster corrosion at higher field.
+The study applies **ReaxFF MD** to **Ni(111)** in contact with **liquid water** (~480 H₂O molecules, ρ ≈ 0.99 g/cm³, **300 K**). Without an external field, water **does not dissociate**, but the excerpt reports a **charged double layer** (positive Ni surface vs negative first water layer). With an imposed **electric field (10–20 MV/cm)**, **anodic oxidation** proceeds: oxide growth is analyzed via **anion ingress** and **Ni outward migration**, with **thickness scaling approximately linearly** with field strength and faster corrosion at higher field.
 
 ## Methods
 

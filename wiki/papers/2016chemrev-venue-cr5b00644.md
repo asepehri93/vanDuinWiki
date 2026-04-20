@@ -36,7 +36,6 @@ group_affiliation: false
 <!-- id:paper:2016chemrev-venue-cr5b00644 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

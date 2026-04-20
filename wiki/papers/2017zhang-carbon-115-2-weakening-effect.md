@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2017zhang-carbon-115-2-weakening-effect -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

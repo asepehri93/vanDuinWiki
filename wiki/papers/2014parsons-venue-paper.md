@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2014parsons-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -41,7 +40,7 @@ group_affiliation: true
 
 ## Summary
 
-Hypersonic DSMC modeling needs reliable N₂–N₂ collision and dissociation cross sections under strong thermal nonequilibrium. The authors generate a new potential energy surface via a ReaxFF fit to advanced ab initio data, then drive MD/quasi-classical trajectories (MD/QCT) to obtain reaction probabilities and total cross sections. The MD/QCT dissociation model shows more physically behaved nonequilibrium dissociation than a baseline total collision energy model and aligns with equilibrium rates and shock-tube references; total cross sections match established variable hard sphere forms (abstract; introduction opening, extract pages 1–2).
+Hypersonic DSMC modeling needs reliable N₂–N₂ collision and dissociation cross sections under strong thermal nonequilibrium. The study generate a new potential energy surface via a ReaxFF fit to advanced ab initio data, then drive MD/quasi-classical trajectories (MD/QCT) to obtain reaction probabilities and total cross sections. The MD/QCT dissociation model shows more physically behaved nonequilibrium dissociation than a baseline total collision energy model and aligns with equilibrium rates and shock-tube references; total cross sections match established variable hard sphere forms (abstract; introduction opening, extract pages 1–2).
 
 ## Methods
 

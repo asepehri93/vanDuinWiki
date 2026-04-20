@@ -31,7 +31,6 @@ group_affiliation: true
 <!-- id:paper:2015psofogiannakis-venue-jp5b00699 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

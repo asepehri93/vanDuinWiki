@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2013russo-venue-jp403511q -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

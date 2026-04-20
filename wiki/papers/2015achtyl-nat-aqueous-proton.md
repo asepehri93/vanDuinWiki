@@ -40,7 +40,6 @@ group_affiliation: true
 <!-- id:paper:2015achtyl-nat-aqueous-proton -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

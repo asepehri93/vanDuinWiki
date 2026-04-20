@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2014shan-venue-jp408397n -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2022mike-pols-acs-what-happens -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -44,7 +43,7 @@ group_affiliation: true
 
 ## Summary
 
-**ReaxFF MD** study of **CsPbI\(_3\)** focusing on how **surfaces, surface defects, and grain boundaries** participate in **degradation chemistry** and relative **stability**. The authors relate computed **surface stability trends** to experimental prevalence of facets where comparable data exist, and mechanistically track evolution of **PbI\(_x\)**-like local coordination environments via **octahedral connectivity** changes (**corner → edge → face sharing**). **Pb dangling bonds** and **iodine sterics** are highlighted as drivers of degradation reactions; defect engineering can **stabilize** some boundaries by increasing steric hindrance even though clustered defects often accelerate failure.
+**ReaxFF MD** study of **CsPbI\(_3\)** focusing on how **surfaces, surface defects, and grain boundaries** participate in **degradation chemistry** and relative **stability**. The study relate computed **surface stability trends** to experimental prevalence of facets where comparable data exist, and mechanistically track evolution of **PbI\(_x\)**-like local coordination environments via **octahedral connectivity** changes (**corner → edge → face sharing**). **Pb dangling bonds** and **iodine sterics** are highlighted as drivers of degradation reactions; defect engineering can **stabilize** some boundaries by increasing steric hindrance even though clustered defects often accelerate failure.
 
 ## Methods
 

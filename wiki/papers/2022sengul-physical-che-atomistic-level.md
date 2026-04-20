@@ -37,7 +37,6 @@ group_affiliation: true
 <!-- id:paper:2022sengul-physical-che-atomistic-level -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

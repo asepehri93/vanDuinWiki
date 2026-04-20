@@ -32,7 +32,6 @@ group_affiliation: true
 <!-- id:paper:2018yang-j-phys-chem-enabling-computational-2 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2014senftle-venue-research -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

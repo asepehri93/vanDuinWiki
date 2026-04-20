@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2019nayir-j-phys-chem-development-reaxff-2 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

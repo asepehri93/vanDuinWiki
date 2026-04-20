@@ -27,7 +27,6 @@ group_affiliation: false
 <!-- id:paper:2015islam-venue-paper -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

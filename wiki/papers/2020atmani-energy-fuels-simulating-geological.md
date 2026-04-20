@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2020atmani-energy-fuels-simulating-geological -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

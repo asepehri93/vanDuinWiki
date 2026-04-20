@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2018zhong-journal-of-a-sulfur-removal -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

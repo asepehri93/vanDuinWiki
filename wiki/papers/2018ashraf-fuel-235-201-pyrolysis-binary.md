@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2018ashraf-fuel-235-201-pyrolysis-binary -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

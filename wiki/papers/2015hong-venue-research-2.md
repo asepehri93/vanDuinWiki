@@ -28,7 +28,6 @@ group_affiliation: true
 <!-- id:paper:2015hong-venue-research-2 -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2013raju-venue-jp402139h -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

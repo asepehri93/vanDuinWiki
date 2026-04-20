@@ -39,7 +39,6 @@ group_affiliation: true
 <!-- id:paper:2021leven-x-recent-advances -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

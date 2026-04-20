@@ -39,7 +39,6 @@ group_affiliation: true
 <!-- id:paper:2016npjcompumats201511-venue-untitled -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

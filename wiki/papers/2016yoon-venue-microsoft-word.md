@@ -38,7 +38,6 @@ group_affiliation: true
 <!-- id:paper:2016yoon-venue-microsoft-word -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -56,24 +55,14 @@ This **supporting information** excerpt documents **ReaxFF** fitting of **short-
 - **DFT** (**B3LYP** with basis sets noted in SI) vs **ReaxFF** vs **ZBL** for **repulsive** interactions.
 - Geometry scans across **impact positions** relevant to **graphene** irradiation modeling.
 
-<!-- enrich-from-extract:v2 -->
-
-- Atomistic-Scale Simulations of Defect Formation in Graphene Under Noble Gas Ion Irradiation Kichul Yoon a, Ali Rahnamoun a, Jacob L.
-- Force field parameterization results In order to develop the ReaxFF force field for the description of short-range nuclear repulsion, we obtained energies in the geometry that consists of a noble gas ion and benzene by using DFT and ZBL potential 1.
-- DFT calculation was performed with 6-311G ** (for the interaction of benzene with He, Ne, Ar ions) and LACV3P ** basis set (for the interaction of benzene with Kr ion) and B3LYP functional.
-- The relative energies obtained from DFT, ZBL potential, and the ReaxFF force field are in good agreement with each other.
-- Vlassiouk f, Alex Belianinov d, g, Xiahan Sang d, Olga S.
-
+The article further notes that atomistic-Scale Simulations of Defect Formation in Graphene Under Noble Gas Ion Irradiation Kichul Yoon a, Ali Rahnamoun a, Jacob L. Force field parameterization results In order to develop the ReaxFF force field for the description of short-range nuclear repulsion, the study obtained energies in the geometry that consists of a noble gas ion and benzene by using DFT and ZBL potential 1. DFT calculation was performed with 6-311G ** (for the interaction of benzene with He, Ne, Ar ions) and LACV3P ** basis set (for the interaction of benzene with Kr ion) and B3LYP functional. The relative energies obtained from DFT, ZBL potential, and the ReaxFF force field are in good agreement with each other. Vlassiouk f, Alex Belianinov d, g, Xiahan Sang d, Olga S.
 
 ## Findings
 
 - Reported **relative energies** align across **DFT**, **ZBL**, and **ReaxFF** for the showcased **training** configurations.
 
-### Additional results (article abstract)
 
-- Note that the benzene molecule, which is similar to graphene in that it is also a planar structure, was used for the interaction of ions with graphene.
-- Three impact positions (center of ring, center of bond, and top of C atom) were considered for the short-range repulsive interactions between ions and graphene, as indicated in the subset images in Fig.
-
+From the abstract: note that the benzene molecule, which is similar to graphene in that it is also a planar structure, was used for the interaction of ions with graphene. Three impact positions (center of ring, center of bond, and top of C atom) were considered for the short-range repulsive interactions between ions and graphene, as indicated in the subset images in Fig.
 
 ## Limitations
 

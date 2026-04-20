@@ -33,7 +33,6 @@ group_affiliation: true
 <!-- id:paper:2022mehmet-cagri-kaymak-j-chem-theor-jax-reaxff-gradient-based -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

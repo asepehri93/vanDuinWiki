@@ -29,7 +29,6 @@ group_affiliation: true
 <!-- id:paper:2019hahn-j-phys-chem-surface-reactivity -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"

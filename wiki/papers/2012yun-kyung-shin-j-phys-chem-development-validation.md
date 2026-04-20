@@ -30,7 +30,6 @@ group_affiliation: true
 <!-- id:paper:2012yun-kyung-shin-j-phys-chem-development-validation -->
 
 
-
 ## Evidence and attribution
 
 !!! note "Authority of statements"
