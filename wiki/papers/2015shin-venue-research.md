@@ -50,7 +50,7 @@ A **Fe/Cr/O/S ReaxFF** is parameterized from **QM data** and applied to **high-t
 - **ReaxFF development** with QM training on **Fe/Cr/O/S** chemistry.
 - **Reactive MD** at **1600 K** on model catalyst slabs with and without **FeS2** patches.
 
-The article further notes that a ReaxFF description was developed a ReaxFF force ﬁeld for Fe/Cr/O/S, which is parametrized against data from quantum mechanical (QM) calculations. Using this force ﬁeld, we studied the Cr-oxide catalyzed oxidation reaction of butane at 1600 K. Our simulation results demonstrate that the active oxygen species on the oxide surface play an important role in the conversion of butane. The radical intermediates are associated with the oxygen atoms to form C−O bonds or make double bonds when neighboring carbon atoms are dehydrogenated, forming light alkenes. On the clean Cr- oxide, the major oxidation product is CH 2O.
+The article further notes that the Fe/Cr/O/S ReaxFF parameterization is fit to QM data. Reactive trajectories for butane oxidation on Cr oxide at 1600 K emphasize surface oxygen species in dehydrogenation and C–O coupling; radical intermediates combine with lattice oxygen to form partial oxygenates and light alkenes, with formaldehyde prominent on clean chromia under the quoted conditions.
 
 ## Findings
 
