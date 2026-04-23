@@ -2,7 +2,7 @@
 id: concept:batteries-interfaces-reaxff
 type: concept
 title: "Battery interfaces and electrolytes modeled with ReaxFF"
-updated: "2026-04-20"
+updated: "2026-04-23"
 confidence: med
 canonical_tags:
   - domain:batteries-electrochemistry
@@ -27,42 +27,55 @@ supported_by:
 
 <!-- id:concept:batteries-interfaces-reaxff -->
 
-## One-paragraph summary
+!!! abstract "Entry point: ReaxFF for battery interfaces and electrolytes"
+    This page helps readers decide where to start when asking interface-focused battery questions with a reactive force field. In this corpus, the strongest starting points are LATP solid-electrolyte transport, carbonate-electrolyte reduction chemistry near Li metal, and Si-anode degradation under (de)lithiation-linked conditions.
 
-Across the corpus, **ReaxFF** is used to connect atomistic detail to several **Li-ion battery** subproblems: **solid ceramic electrolytes** (NASICON-type LATP), **liquid carbonate electrolytes** at reducing anodes, and **Si anode** degradation phenomena alongside experiments. The unifying theme is that reactive MD can expose **composition-dependent transport**, **electrolyte decomposition sequences**, and **morphological evolution** that are difficult to infer from continuum models alone—provided the parameterization is validated for the chemistry at hand.
+## Scope and user intent
 
-## Definitions and scope
+This entry point is for users who need a query-first map from battery interface questions to relevant ReaxFF evidence in this knowledge base. It is intended for triage questions such as "which paper is best for LATP transport trends?", "where is Li0 vs Li+ solvent reactivity treated?", or "which source connects Si morphology change to reactive simulations?"
 
-- **Solid electrolytes:** ionic conductivity and site occupancies in oxide/phosphate frameworks.
-- **Liquid electrolytes:** bond-making/breaking reactions involving solvent and salt species near Li0.
-- **Electrodes:** Si and related materials where large volume change and SEI chemistry couple to (de)lithiation.
+This page does not claim a complete world-literature review of battery interfaces. It only synthesizes what is currently represented in linked `paper:` pages and `source_refs`.
 
-## Evidence across the literature
+## Start-here pathways
 
-- **LATP:** Shin et al. demonstrate composition-sensitive Li transport and MC/MD sampling of disordered configurations (`paper:2018shin-physical-che-development-reaxff`).
-- **Carbonate electrolytes:** Hossain et al. extend ReaxFF to common solvents/salt chemistry and distinguish Li0 vs Li+ reactivity (`paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation`).
-- **Si degradation:** Foss et al. combine microscopy with ReaxFF to emphasize delithiation-driven Si redistribution (`paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism`).
+If your goal is to understand composition-sensitive ion transport in a ceramic solid electrolyte, start with [[2018shin-physical-che-development-reaxff]] and then compare assumptions against [[reaxff-family]].
 
-## Implications for simulation and force fields
+If your goal is to inspect reduction chemistry in carbonate liquid electrolytes near Li metal, start with [[2020hossain-j-chem-phys-lithium-electrolyte-solvation]] and then route to [[reaxff-parameterization-workflow]] for parameter-coverage checks.
 
-Reactive models are most valuable when **training sets explicitly include** the reactions and phases relevant to the interface problem; otherwise, predictions should be treated as hypotheses for further DFT or experiment.
+If your goal is to connect reactive simulation with experimentally visible Si-anode degradation behavior, start with [[2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism]] and then evaluate transferability caveats in [[transferability-reactive-ff]].
 
-## Systems and phenomena (more detail)
+## Decision levers and trade-offs
 
-**Solid electrolytes:** NASICON-type **LATP** appears as a flagship example where **composition–transport** relationships and **disorder** are sampled with Monte Carlo plus MD ([[2018shin-physical-che-development-reaxff]]). Readers should trace **which sublattices** are mobile and how **vacancy** concentrations enter the model.
+The first decision lever is chemistry coverage in the force-field training set. For this corpus slice, LATP transport, carbonate solvent/salt decomposition behavior, and Si-focused delithiation processes are represented in different papers with different emphasis, so transfer across subdomains should be treated cautiously.
 
-**Liquid electrolytes at Li metal:** carbonate **solvent** and **salt** chemistry can be captured reactively so that **Li0** vs **Li+** pathways differ ([[2020hossain-j-chem-phys-lithium-electrolyte-solvation]]). This matters for **SEI**-adjacent questions even when a paper does not resolve every SEI species.
+The second lever is mechanism fidelity versus transferability risk. Reactive MD can expose bond-breaking pathways and morphology evolution, but conclusions are most robust when the study-specific chemistry and conditions are close to the target use case.
 
-**Silicon anodes:** large volume change and **interfacial** chemistry motivate coupled **experimental + ReaxFF** narratives ([[2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism]]).
+The third lever is evidence modality. One route is simulation-focused protocol inference (LATP and electrolyte chemistry papers), while another route combines simulation with microscopy-grounded interpretation (Si degradation paper).
 
-## Where to go next
+## Canonical starting papers
 
-- Theme-level **oxide** interfaces: [[theme-oxides-silica-ceramics]].  
-- **Transferability** of FF across chemistries: [[transferability-reactive-ff]].  
-- **Workflow** framing: [[reaxff-parameterization-workflow]].
+- [[2018shin-physical-che-development-reaxff]] (`paper:2018shin-physical-che-development-reaxff`) for NASICON/LATP composition-dependent Li transport and disordered-configuration sampling context.
+- [[2020hossain-j-chem-phys-lithium-electrolyte-solvation]] (`paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation`) for carbonate electrolyte decomposition chemistry and Li0 versus Li+ reactivity distinctions.
+- [[2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism]] (`paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism`) for Si-anode degradation interpretation that explicitly couples microscopy observations with ReaxFF analysis.
 
-## Related pages
+## Related protocols and debates
 
-- [[reaxff-family]]
-- [[graphene-nanocarbon]]
-- [[themes-index]]
+- Protocol: [[reaxff-parameterization-workflow]] for practical checks on training-data scope, optimization assumptions, and validation expectations before extending to new interface chemistries.
+- Debate: [[transferability-reactive-ff]] for cross-chemistry and cross-regime transferability limits that directly affect battery-interface inference quality.
+- Debate: [[reaxff-vs-mlip-accuracy]] for when a reactive force-field route is preferable versus alternative interatomic-modeling strategies.
+- Adjacent navigation: [[theme-oxides-silica-ceramics]] and [[themes-index]] for broader materials context beyond battery-specific interface questions.
+
+## Failure modes and interpretation pitfalls
+
+A common failure mode is over-generalizing a ReaxFF result from one interface chemistry to another without checking whether the target reactions and charge states were represented in training and validation.
+
+Another pitfall is reading mechanism-level confidence into thinly constrained outputs when the paper itself only supports narrower conclusions. In this corpus, claims should stay tied to the specific paper context and not be promoted to universal battery-interface behavior.
+
+A third pitfall is conflating pathway discovery with predictive ranking. Reactive trajectories can propose plausible decomposition or degradation routes, but ranking rates, selectivity, or long-timescale outcomes typically requires additional validation.
+
+??? info "MAS / retrieval"
+    - Stable id: `concept:batteries-interfaces-reaxff`
+    - Query synonyms: "battery interface reaxff", "lithium electrolyte decomposition reaxff", "LATP transport reaxff", "Si anode degradation reactive MD"
+    - Canonical tags: `domain:batteries-electrochemistry`, `method:reaxff`, `task:application`
+    - Primary source anchors: `paper:2018shin-physical-che-development-reaxff`, `paper:2020hossain-j-chem-phys-lithium-electrolyte-solvation`, `paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism`
+    - Refresh policy: update `source_refs` and pathway guidance when battery-interface or electrolyte-focused ReaxFF papers are added to the corpus.

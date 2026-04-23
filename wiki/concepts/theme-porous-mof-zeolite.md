@@ -2,7 +2,7 @@
 id: concept:theme-porous-mof-zeolite
 type: concept
 title: "Theme: porous media, MOFs, and zeolites (corpus touchpoints)"
-updated: "2026-04-21"
+updated: "2026-04-23"
 confidence: med
 canonical_tags:
   - domain:porous-mof-zeolite
@@ -27,52 +27,58 @@ supported_by:
 
 !!! abstract "TL;DR"
 
-    This cluster is a **routing hub** for **porous** and **confined** reactive environments. The KB’s **explicit** MOF/zeolite paper count is **smaller** than for **oxides** or **catalysis**; many links are **adjacent** (catalytic surfaces, silica, carbon nanostructures). Prefer [[paper-index-by-domain]] for authoritative coverage.
+    This theme hub is a corpus-scoped routing page for porous and confined reactive environments. In this knowledge base, explicit MOF and zeolite coverage is still thinner than oxide and catalysis coverage, so most reliable entry points are adjacent papers on catalytic surfaces, carbon nanostructures, and silica or silicate interfaces.
 
 ## Scope (in / out)
 
-**In corpus:** papers tagged `domain:porous-mof-zeolite` **plus** **neighboring** catalysis and surface notes where **confinement** or **porous support** is part of the story.
+**In corpus:** pages tagged `domain:porous-mof-zeolite` plus neighboring catalysis and surface papers where confinement or porous support is part of the modeled chemistry.
 
-**Out of scope:** claims about specific **MOF** structures **not** present on a wiki page.
+**Out of scope:** specific MOF topology behavior, zeolite framework comparisons, or transferability claims that are not explicitly documented on linked paper pages.
+
+## How this theme is organized in the corpus
+
+This page is organized as a navigation spine with two evidence-backed routes: (1) catalytic or reactive-surface questions with porous-context adjacency, and (2) silica or silicate surface chemistry that often maps to pore-wall environments in mesostructured systems. Use [[paper-index-by-domain]] to confirm current domain coverage before drawing broader conclusions.
 
 ## Literature review (this knowledge base)
 
-**Honest corpus scope:** vanDuinWiki is **ReaxFF-centric**; **MOF** and **zeolite** entries may be **sparse** relative to bulk oxides. This section tells you **where to look** and **what is adjacent**.
+This is a corpus review, not a full field review. The current evidence base here is ReaxFF-heavy and skewed toward adjacent catalytic and silica-interface chemistry rather than dense, named MOF or zeolite framework benchmarking.
 
 ### Catalytic surfaces and confined reactants
 
-[[2015broqvist-venue-jp5b01597]] (CO₂ hydrogenation) and [[2013neyts-venue-c3nr00153a]] (carbon surface reactions) are the KB’s strongest **catalysis** anchors that often **pair** with **porous catalyst** discussions in the broader literature. Here, treat them as **entry points** when the user question is **surface chemistry inside a porous medium** rather than **bulk micropore diffusion** (which may not be modeled explicitly on the page).
+[[2015broqvist-venue-jp5b01597]] and [[2013neyts-venue-c3nr00153a]] are the most direct in-corpus anchors when the practical question is "which reactive-surface results can inform porous catalyst reasoning?" They are strongest for mechanism-level surface reactivity and weaker for explicit micropore transport claims.
 
 ### Silica, glasses, and nanopore-like surface chemistry
 
-[[2013muri-venue-jp3086649]] and [[2019hahn-j-phys-chem-surface-reactivity]] document **silica / silicate** surface chemistry relevant to **mesoporous silica** and **glass** surfaces. [[2018ho-venue-paper]] may add **oxide** surface context—follow the paper note.
+[[2013muri-venue-jp3086649]] and [[2019hahn-j-phys-chem-surface-reactivity]] provide silica or silicate surface chemistry that is often the best available proxy in this corpus for pore-wall reactivity questions in oxide-rich porous systems.
 
-### What the KB does not promise
+### Coverage boundary reminders
 
-If a **specific MOF name** or **zeolite framework** is not on a paper page, **do not infer** parameters or mechanisms from this hub alone.
+If a specific MOF or zeolite framework is not represented by a paper page, this hub should be used for routing only, not for parameter or mechanism claims.
 
 ## Analysis and cross-cutting patterns
 
-This hub often **routes** readers to **catalysis** and **silica** anchors because explicit **MOF** parameter sets are **not** dense in the corpus—treat **confinement** claims as **paper-local**.
+Across the current pages, the repeated pattern is methodological adjacency: porous questions are most often answered via catalytic surface papers and silica-interface papers rather than framework-specific force-field studies. As a result, confinement conclusions should be treated as paper-local unless multiple porous-domain pages converge on the same claim.
+
+## Debates, tensions, and limitations
+
+- Transferability of reactive force fields to open-metal-site or framework-specific chemistry remains a known tension; this corpus currently supports that discussion only where linked paper pages and [[transferability-reactive-ff]] make it explicit.
+- Scope is limited by sparse framework-resolved MOF and zeolite notes, so absence of a result here should be treated as a corpus gap rather than negative evidence.
 
 ## Gaps and open directions (corpus view)
 
-Add **named** MOF/zeolite slugs here when their wiki notes are **curated**; until then, prefer honest **adjacency** language over implied coverage.
-
-## Debates, tensions, and cross-references
-
-- **Force field transferability** to **open-metal-site** MOFs is **contentious** in the wider field; the KB addresses it only where paper pages do—see [[transferability-reactive-ff]].  
-- **Adjacent themes:** [[theme-catalysis-surfaces]], [[theme-water-silica-geo]] (hydrated pores), [[theme-oxides-silica-ceramics]].
-
-## Representative entry points
-
-- **Catalysis (porous adjacency):** [[2015broqvist-venue-jp5b01597]], [[2013neyts-venue-c3nr00153a]].  
-- **Silica / glass surfaces:** [[2013muri-venue-jp3086649]], [[2019hahn-j-phys-chem-surface-reactivity]].  
-- **Domain listing:** [[paper-index-by-domain]] (`domain:porous-mof-zeolite`).
+Priority gap-filling for this hub is straightforward: add curated, named MOF and zeolite paper pages with explicit methods and findings, then replace adjacency-first routing with framework-specific pathways.
 
 ## Methods and limitations
 
-**Reactive MD** in **micropores** requires **large** cells and **long** timescales for **adsorption/desorption** equilibria; many studies focus on **local** active sites instead.
+Reactive MD in confined porous systems often requires larger cells and longer sampling for adsorption or desorption equilibration than local-surface studies. Because many current corpus anchors emphasize surface-reactivity mechanisms, users should verify whether each linked page actually reports pore-scale transport behavior before generalizing.
+
+## Representative entry points
+
+- **If your question is reactive chemistry on porous supports:** start with [[2015broqvist-venue-jp5b01597]] and [[2013neyts-venue-c3nr00153a]].
+- **If your question is pore-wall behavior in silica-like systems:** start with [[2013muri-venue-jp3086649]] and [[2019hahn-j-phys-chem-surface-reactivity]].
+- **If your question needs corpus-wide coverage checks first:** open [[paper-index-by-domain]] and filter around `domain:porous-mof-zeolite`.
+- **Adjacent synthesis hubs:** [[theme-catalysis-surfaces]], [[theme-water-silica-geo]], [[theme-oxides-silica-ceramics]], [[transferability-reactive-ff]].
+- **Domain listing:** [[paper-index-by-domain]] (`domain:porous-mof-zeolite`).
 
 ??? info "MAS / retrieval"
 

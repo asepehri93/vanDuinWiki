@@ -15,18 +15,22 @@ evaluates: []
 
 <!-- id:methodprotocol:<slug> -->
 
-## One-paragraph summary
+## Summary
 
-## Prerequisites
+## Inputs and prerequisites
 
-<!-- Software, inputs, expertise level. -->
+<!-- Software, datasets, expertise level, assumptions. -->
 
-## Steps
+## Procedure
 
-<!-- Numbered or clear substeps; cite papers that used similar workflows. -->
+<!-- Ordered steps with rationale and parameter expectations. -->
 
-## Expected outputs and checks
+## Validation checks and acceptance criteria
 
-## Pitfalls and troubleshooting
+## Failure modes and mitigations
 
-## Key references
+## Variants and when to choose them
+
+## Outputs and downstream links
+
+## Evidence anchors

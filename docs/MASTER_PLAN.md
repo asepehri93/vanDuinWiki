@@ -6,6 +6,8 @@ This file is the **single canonical roadmap** after paper-level curation is comp
 
 - **Phase 4 first pass:** Every `wiki/papers/{slug}.md` has curated prose (no mechanical stub phrase / pending tag), `paper_keywords`, Methods/Findings, and machine indexes regenerated as needed. See [`outputs/curation_batches/`](../outputs/curation_batches/) approvals.
 - **Chunk pipeline:** [`scripts/build_chunks.py`](../scripts/build_chunks.py) can rebuild [`indexes/chunks.jsonl`](../indexes/chunks.jsonl) from `wiki/`.
+- **Synthesis-layer pass (themes + entry points + debates + protocols):** blueprint and execution completed with grounded website prose and MAS routing hooks. See [`outputs/SYNTHESIS_LAYER_BLUEPRINTS.md`](../outputs/SYNTHESIS_LAYER_BLUEPRINTS.md) and [`outputs/SYNTHESIS_LAYER_COMPLETION.md`](../outputs/SYNTHESIS_LAYER_COMPLETION.md).
+- **Paper-to-theme assignment gate:** deterministic coverage report now tracks that each `paper:` slug maps to at least one theme (`0` unassigned). See [`outputs/paper_theme_coverage.md`](../outputs/paper_theme_coverage.md) and [`outputs/paper_theme_assignments.json`](../outputs/paper_theme_assignments.json).
 
 ## Phase: rich papers + analysis-driven theme hubs
 

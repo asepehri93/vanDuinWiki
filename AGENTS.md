@@ -82,12 +82,63 @@ Theme pages serve **two audiences**: a **MAS / retrieval** spine (structured `id
 
 **Pre-writing artifact:** For large hub upgrades, store a per-hub analysis under `outputs/theme_plans/{hub-slug}.md` (inventory, sub-themes, section map, draft `source_refs`, corpus gaps) before or alongside prose edits—see [`docs/MASTER_PLAN.md`](docs/MASTER_PLAN.md) *Phase: rich papers + analysis-driven theme hubs*.
 
+### Cross-cutting entry-point pages (intent hubs)
+
+Cross-cutting entry points live as ordinary **`concept` pages** in `wiki/concepts/` (without the `theme-` prefix). They are query-first pages for humans and MAS routing, e.g. "where to start for electrolyte stability" or "which papers to read first for reactive MD transferability."
+
+**Required section template for entry-point hubs:**
+
+1. **`!!! abstract` or lead** — Plain-language framing of the research intent and why it matters.
+2. **`## Scope and user intent`** — What user questions this page answers; what it does not attempt.
+3. **`## Start-here pathways`** — Distinct pathways ("if your goal is X, start with Y"), with explicit wikilinks.
+4. **`## Decision levers and trade-offs`** — Variables that drive method/material choice; corpus-scoped.
+5. **`## Canonical starting papers`** — Short, evidence-grounded starter set (`[[paper-slug]]` + one-line reason).
+6. **`## Related protocols and debates`** — Links to `wiki/protocols/` and `wiki/debates/` pages that narrow execution choices.
+7. **`## Failure modes and interpretation pitfalls`** — Common mistakes, confounders, and what readers should verify.
+8. **`??? info "MAS / retrieval"`** — Query synonyms, stable id, and update notes for `source_refs`.
+
+Entry-point pages may synthesize and compare, but all substantive scientific statements must remain traceable to `source_refs` and linked `paper:` pages.
+
+### Debate pages (evidence-structured disagreement)
+
+Debates in `wiki/debates/` should represent **real disagreements** in the corpus, not artificial two-sided summaries.
+
+**Required section template for debate pages:**
+
+1. **`!!! abstract` or lead** — Neutral statement of the debate question.
+2. **`## Position statements`** — Position A/B(/C) with one-sentence claims.
+3. **`## Evidence by position`** — Corpus evidence mapped to each position (paper ids + locators where possible).
+4. **`## Scope conditions and applicability`** — When each position is likely valid.
+5. **`## Shared ground`** — What all positions agree on.
+6. **`## What evidence would resolve this`** — Discriminating experiments/simulations that could decide the question.
+7. **`## Practical implications for modeling choices`** — How the debate affects method/protocol selection now.
+
+Keep debate tone balanced and explicit about uncertainty; do not force false symmetry when evidence is one-sided.
+
+### Protocol pages (actionable method playbooks)
+
+Protocol pages in `wiki/protocols/` are operational guides for reusable workflows.
+
+**Required section template for protocol pages:**
+
+1. **`## Summary`** — Purpose, applicability, and scope boundaries.
+2. **`## Inputs and prerequisites`** — Data, software, expertise, and assumptions.
+3. **`## Procedure`** — Ordered steps with parameter expectations and rationale.
+4. **`## Validation checks and acceptance criteria`** — What counts as a successful run.
+5. **`## Failure modes and mitigations`** — Known breakpoints and corrective actions.
+6. **`## Variants and when to choose them`** — Branches for different systems/objectives.
+7. **`## Outputs and downstream links`** — Which pages or decisions this protocol should feed.
+8. **`## Evidence anchors`** — Key supporting papers and locators.
+
+Protocols must be concrete enough to execute and transparent about assumptions and limitations.
+
 ### Reader-facing layer (static site / GitHub Pages)
 
 The same markdown is published via **MkDocs** (see `mkdocs.yml`). Conventions:
 
 - **Math in the static site:** `mkdocs.yml` enables **MathJax** (see `wiki/javascripts/mathjax.js`) with **pymdownx.arithmatex** (`generic: true`). Use standard inline math as `\( ... \)` and display as `\[ ... \]` in markdown so formulas render on GitHub Pages.
 - Prefer **objective, third-person** prose on paper pages (avoid “the authors …” as a repeated crutch; describe methods and results directly). When expanding from `normalized/extracts/`, remove publisher boilerplate (COI, correspondence footers, figure captions pasted into abstract text).
+- For website-facing synthesis pages (`theme`, entry-point, debate, protocol), use **full, explicit sentences** with grounded wording. Avoid telegraphic fragments, shorthand bullets that hide assumptions, and unexplained abbreviations.
 - Put a **plain-language lead** immediately after the `<!-- id:... -->` HTML comment (or use `!!! abstract "..."` for a visible blurb).
 - Keep **YAML front matter** machine-complete; use **`??? info "Maintainers"`** or **`!!! note`** for operator-only reminders so casual readers skim the science first.
 - **Paper** pages may include **`## Reader notes (navigation)`** with wikilinks to theme hubs and docs benchmarks—avoid new scientific claims there unless cited elsewhere on the page.
@@ -190,6 +241,7 @@ Use **`## Methods`** as the **primary protocol narrative** for the publication. 
 - After bulk edits to `year` or `canonical_tags` across `wiki/papers/`, run `python3 scripts/generate_papers_indexes.py` to refresh [`wiki/concepts/paper-index-by-year.md`](wiki/concepts/paper-index-by-year.md), [`wiki/concepts/paper-index-by-domain.md`](wiki/concepts/paper-index-by-domain.md), and [`wiki/javascripts/papers_corpus.json`](wiki/javascripts/papers_corpus.json) (used by the [paper corpus browser](wiki/concepts/paper-corpus-browser.md)). To remove mistaken verbatim extract paste blocks, use [`scripts/strip_verbatim_extract_blocks.py`](scripts/strip_verbatim_extract_blocks.py) (operator-only cleanup).
 - **Methods/Findings blueprint audit:** [`scripts/validate_paper_methods_blueprint.py`](scripts/validate_paper_methods_blueprint.py) emits [`outputs/paper_methods_blueprint_backlog.md`](outputs/paper_methods_blueprint_backlog.md) and optional `--write-batches` lists; per-slug check: `--check-slug SLUG` (exit **0** when clean).
 - **Final wiki quality pass (PDF-grounded prose):** Deterministic slug lists — `python3 scripts/write_quality_pass_batches.py` → `outputs/curation_batches/quality-final-wave{1–5}-part{01–15}-of-15.txt`. Sub-agent instructions: [`outputs/QUALITY_PASS_AGENT_BRIEF.md`](outputs/QUALITY_PASS_AGENT_BRIEF.md).
+- **Paper-to-theme coverage gate:** `python3 scripts/check_paper_theme_coverage.py` emits [`outputs/paper_theme_coverage.md`](outputs/paper_theme_coverage.md) and [`outputs/paper_theme_assignments.json`](outputs/paper_theme_assignments.json). Every `paper:` slug must map to **at least one** theme assignment.
 
 ## ID conventions (stable)
 

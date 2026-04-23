@@ -21,14 +21,22 @@ evidence:
 
 <!-- id:debate:<slug> -->
 
-## One-paragraph summary
+!!! abstract "Debate question"
 
-## Positions
+    State the central disagreement in one grounded paragraph.
 
-## Evidence summary
+## Position statements
 
-<!-- Map evidence entries to positions; avoid unsourced balance. -->
+## Evidence by position
 
-## Open questions
+<!-- Map each cited paper to one or more positions with a short rationale. -->
+
+## Scope conditions and applicability
+
+## Shared ground
+
+## What evidence would resolve this
+
+## Practical implications for modeling choices
 
 ## Key references

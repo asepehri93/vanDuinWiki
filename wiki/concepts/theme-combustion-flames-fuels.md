@@ -24,64 +24,64 @@ supported_by:
   - "paper:2018qifan-combustion-a-reaxff-simulations"
   - "paper:2018jain-j-phys-chem-understanding-combustion"
   - "paper:2017joshi-combustion-a-observation-deflagration"
+  - "paper:2021lele-fuel-297-202-reaxff-molecular"
+  - "paper:2025li-fuel-404-202-critical-nanoparticle"
 ---
 
 <!-- id:concept:theme-combustion-flames-fuels -->
 
 !!! abstract "TL;DR"
 
-    This hub gathers **fuel** and **combustion-forward** simulations documented in vanDuinWiki—**high-temperature oxidation**, **flame-relevant** chemistry, and **soot**/**coke** stories—**separately** from [[theme-pyrolysis-combustion-organics]], which foregrounds **slow thermal** pyrolysis and **carbonaceous** decomposition when that is the paper’s emphasis. Many papers are cross-listed; follow each **`[[slug]]`** for authoritative scope.
+    This theme hub summarizes how the current corpus treats fuel combustion and flame-relevant chemistry, with emphasis on reactive MD studies of high-temperature oxidation, deflagration-related behavior, and coke- or soot-adjacent reaction networks. It is intentionally paired with [[theme-pyrolysis-combustion-organics]], because several papers can be read through either a combustion-first or pyrolysis-first lens depending on the question.
 
 ## Scope (in / out)
 
-**In corpus:** notes whose **headline** is **combustion**, **flame**, **deflagration**, **oxidizer-rich** high-T organic networks, or **petroleum coke** under **combustion** framing.
-
-**Out of scope here:** **heterogeneous catalysis** on well-defined catalysts (see [[theme-catalysis-surfaces]]); **slow** coal **pyrolysis** without combustion framing (see pyrolysis theme first).
+In scope are corpus pages where combustion is the stated framing: flame chemistry, deflagration, oxidizer-rich high-temperature fuel networks, and petroleum-coke oxidation discussed as combustion behavior. Out of scope are catalyst-focused heterogeneous reaction studies that are better centered in [[theme-catalysis-surfaces]], and slow thermal decomposition studies that are primarily pyrolysis narratives in [[theme-pyrolysis-combustion-organics]].
 
 ## How this theme is organized in the corpus
 
-Use **`domain:fuel-combustion`** and **`domain:organics-polymers-pyrolysis`** tags on paper pages together with this hub: the **first** `domain:` tag still drives [[paper-index-by-domain]], so combustion-first papers may appear under organics—this page compensates for that sort ambiguity.
+The corpus uses both `domain:fuel-combustion` and `domain:organics-polymers-pyrolysis` for some overlapping studies. Because domain index views can privilege one primary domain tag, this hub acts as a retrieval bridge so combustion-relevant papers remain discoverable even when they are filed under adjacent organic or pyrolysis categories elsewhere.
 
 ## Literature review (this knowledge base)
 
 ### Coke, sulfur, and high-T oxidation
 
-[[2018qifan-combustion-a-reaxff-simulations]] develops **petroleum coke** chemistry with explicit **combustion** framing in the KB summary—pair with [[theme-pyrolysis-combustion-organics]] when the same **C/H/O/S** network is discussed as **pyrolysis**.
+[[2018qifan-combustion-a-reaxff-simulations]] is the core petroleum-coke anchor in this theme. In the corpus framing, it connects sulfur-containing C/H/O/S chemistry to combustion-relevant high-temperature oxidation pathways. The same underlying chemistry can also appear in pyrolysis discussions, so cross-reading with [[theme-pyrolysis-combustion-organics]] is often necessary for interpretation.
 
 ### Combustion phenomenology and reactive pathways
 
-[[2018jain-j-phys-chem-understanding-combustion]] and [[2017joshi-combustion-a-observation-deflagration]] anchor **combustion** and **deflagration** threads. [[2025li-fuel-404-202-critical-nanoparticle]] appears in **fuel**-oriented venues; read the paper note for the exact **system** and **claims**.
+[[2018jain-j-phys-chem-understanding-combustion]] and [[2017joshi-combustion-a-observation-deflagration]] provide the main combustion and deflagration-oriented thread in this corpus slice. They are useful as conceptual entry points for reaction-network reasoning and qualitative combustion behavior in reactive simulations. [[2025li-fuel-404-202-critical-nanoparticle]] is included as a fuel-adjacent combustion context, but users should rely on the associated paper page for exact system boundaries and claim strength.
 
 ### Aviation and fuel molecules
 
-[[2021lele-fuel-297-202-reaxff-molecular]] documents **aviation-fuel** bicyclic **decomposition** with Arrhenius-style reporting—use for **high-T fuel** chemistry; when the question is **slow pyrolysis** of large carbonaceous models, prefer the pyrolysis hub’s coal-centric anchors.
+[[2021lele-fuel-297-202-reaxff-molecular]] contributes a molecular-level aviation-fuel decomposition example with high-temperature kinetics framing. Within this theme, it functions as a bridge between combustion chemistry questions and fuel-specific mechanism exploration. For questions centered on slow thermal conversion of larger carbonaceous feedstocks, the pyrolysis hub remains the better first stop.
 
 ## Analysis and cross-cutting patterns
 
-Where papers report **barriers** and **temperature** windows, treat comparisons as **paper-local** unless the same paper explicitly benchmarks models. **ReaxFF** combustion studies in this corpus often emphasize **reaction network** exploration over **experimental flame-speed** matching—check each note.
+Across the current corpus, combustion-oriented ReaxFF studies are stronger at exploring possible reaction pathways than at reproducing full experimental flame diagnostics. Reported barriers, temperature windows, and kinetic trends should therefore be interpreted as study-local unless the originating paper explicitly performs cross-model or experiment-facing benchmarking. A recurring pattern is methodological value for hypothesis generation, paired with explicit transferability limits for quantitative prediction outside the trained or validated regime.
 
 ## Debates, tensions, and limitations
 
-- **Pyrolysis vs combustion** boundaries are **not** always sharp in tags—use both hubs and the paper page.  
-- **Transferability** of reactive parameters: [[transferability-reactive-ff]], [[reaxff-family]].  
-- **MLIPs** vs ReaxFF for organics: [[reaxff-vs-mlip-accuracy]], [[theme-ml-atomistic-potentials]].
+The boundary between pyrolysis and combustion is not always clean in tagging or narrative emphasis, so retrieval frequently requires checking both this hub and [[theme-pyrolysis-combustion-organics]]. Parameter transferability remains a standing tension for reactive force fields, especially when moving across fuel classes, oxidizer conditions, or thermodynamic regimes; see [[transferability-reactive-ff]] and [[reaxff-family]]. A second active tension is how ReaxFF compares with MLIP-style alternatives for organic combustion chemistry, discussed in [[reaxff-vs-mlip-accuracy]] and [[theme-ml-atomistic-potentials]].
 
 ## Gaps and open directions (corpus view)
 
-Not every **fuel** paper in the KB is yet summarized here; expand this narrative as additional **`domain:fuel-combustion`** pages are curated. **Experimental** flame diagnostics are rarely reproduced in atomistic detail—state limitations per paper.
-
-## Representative entry points
-
-- **Petroleum coke / combustion:** [[2018qifan-combustion-a-reaxff-simulations]].  
-- **Combustion MD surveys:** [[2018jain-j-phys-chem-understanding-combustion]].  
-- **Deflagration:** [[2017joshi-combustion-a-observation-deflagration]].  
-- **Aviation fuel:** [[2021lele-fuel-297-202-reaxff-molecular]].  
-- **Fuel index:** [[paper-index-by-domain]] (`domain:fuel-combustion`, `domain:organics-polymers-pyrolysis`).
+The combustion slice is still incomplete relative to the full corpus, and this hub should expand as additional `domain:fuel-combustion` paper pages are curated to blueprint depth. The corpus also remains thinner on direct links between atomistic outputs and experimental flame observables, which limits confident cross-paper synthesis on quantitative combustion performance. In practical terms, this page should continue to emphasize what is present in curated notes and avoid extrapolating beyond paper-level evidence.
 
 ## Methods and limitations
 
-**Reactive MD** trajectories may be **short** relative to laboratory **residence times**; **ignition** and **branching** chemistry require **careful** interpretation against the cited source.
+Most evidence in this hub is derived from reactive atomistic simulations and review-style synthesis rather than one-to-one laboratory flame replication. As a result, combustion interpretations should be read with attention to simulation timescale limits, sampling constraints, and force-field transferability assumptions stated on each paper page. Where a linked page is metadata-thin or fuel-adjacent rather than flame-centered, this hub treats it as contextual support rather than definitive combustion evidence.
+
+## Representative entry points
+
+- For petroleum-coke combustion framing, start with [[2018qifan-combustion-a-reaxff-simulations]].
+- For combustion-mechanism overview and reactive MD context, start with [[2018jain-j-phys-chem-understanding-combustion]].
+- For deflagration-focused context, start with [[2017joshi-combustion-a-observation-deflagration]].
+- For aviation-fuel molecular decomposition under high-temperature conditions, start with [[2021lele-fuel-297-202-reaxff-molecular]].
+- For broader discovery across domain tags, use [[paper-index-by-domain]] with `domain:fuel-combustion` and related organics/pyrolysis labels.
 
 ??? info "MAS / retrieval"
 
-    **id:** `concept:theme-combustion-flames-fuels`. Prefer `domain:fuel-combustion` when ingesting **combustion-first** papers; cross-link [[theme-pyrolysis-combustion-organics]] when both themes apply.
+    **id:** `concept:theme-combustion-flames-fuels`.
+    Prefer `domain:fuel-combustion` for combustion-first pages and add cross-links to [[theme-pyrolysis-combustion-organics]] when both framings are valid.
+    Refresh `source_refs` and `supported_by` whenever new combustion-focused paper pages are promoted from stubs to evidence-bearing summaries.

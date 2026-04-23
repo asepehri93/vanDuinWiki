@@ -1,10 +1,10 @@
 ---
 id: concept:<slug>
 type: concept
-title: "<Short concept title>"
+title: "<Cross-cutting entry-point title>"
 updated: "YYYY-MM-DD"
 confidence: med
-canonical_tags: [domain:reactive-md, method:reaxff, task:review]
+canonical_tags: [task:review]
 candidate_tags: []
 source_refs:
   - paper_id: "paper:<slug>"
@@ -16,15 +16,15 @@ supported_by:
 
 <!-- id:concept:<slug> -->
 
-!!! abstract "TL;DR"
+!!! abstract "Who this helps"
 
-    One paragraph in grounded prose. State scope and avoid uncited claims.
+    Explain the user intent this page serves and why the pathway matters.
 
 ## Scope and user intent
 
 ## Start-here pathways
 
-<!-- If your goal is X, start with [[...]] -->
+<!-- Explicit routes: if goal A, start with [[...]] then [[...]] -->
 
 ## Decision levers and trade-offs
 
@@ -36,4 +36,4 @@ supported_by:
 
 ??? info "MAS / retrieval"
 
-    Stable id, query aliases, and refresh notes for source_refs.
+    Include query aliases, stable id hints, and source_ref refresh notes.

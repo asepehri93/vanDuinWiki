@@ -13,12 +13,43 @@ source_refs: []
 
 !!! abstract "Interactive table"
 
-    The table below loads **`papers_corpus.json`** (generated from each paper’s YAML + optional `[[theme-…]]` wikilinks). **Sort** by year, title, domain, or slug; **filter** by year, primary **domain** tag, **theme hub** link, **group affiliation**, **confidence**, and free-text **search** (title, slug, venue, tags).
+    This page is a navigation entry point for exploring the local paper corpus with sortable and filterable metadata. It helps readers and agents decide where to start, without introducing new scientific claims beyond curated paper metadata and existing wiki links.
 
-## How this differs from static indexes
+## Scope and user intent
 
-- **[All papers by year](paper-index-by-year.md)** and **[by domain](paper-index-by-domain.md)** are plain Markdown tables (good for printing and diffs).
-- **This page** is for **exploring** the same corpus with **client-side** filters. Regenerate data after bulk metadata edits: `python3 scripts/generate_papers_indexes.py`.
+This page answers practical "where do I begin?" questions for corpus navigation, such as "Which domain clusters are represented?", "Which papers are group-affiliated?", and "Which theme hubs already connect a paper?".
+It does not attempt to provide a literature review, methodological recommendations, or scientific conclusions; those belong on paper, theme, protocol, and debate pages.
+
+## Start-here pathways
+
+If your goal is chronological orientation, start with a year filter and sort by newest first, then branch into [All papers by year](paper-index-by-year.md) for static snapshots.
+If your goal is thematic orientation, filter by domain and theme link first, then open the relevant `[[theme-...]]` hubs for cross-paper synthesis.
+If your goal is curation triage, filter by confidence and group affiliation to prioritize pages that are most actionable for internal updates.
+If your goal is broad discovery, use free-text search on titles, slugs, venues, and tags, then pivot to linked paper pages for source-grounded details.
+
+## Decision levers and trade-offs
+
+Year filtering emphasizes recency but can hide foundational older references that remain central in a domain.
+Domain filtering increases topical precision but depends on the first `domain:*` canonical tag, so classification quality influences recall.
+Theme filtering quickly surfaces cross-links but under-represents papers that have not yet been linked to a `[[theme-...]]` page.
+Confidence and group-only filters support operational prioritization, but they are curation metadata rather than direct quality scores of the underlying science.
+
+## Canonical starting papers
+
+This browser is intentionally metadata-driven and does not nominate fixed "starter papers" on its own.
+Use the filtered table to identify candidate papers, then open each `wiki/papers/*.md` page for methods/findings context and evidence-grounded interpretation.
+For static, corpus-wide entry points, use [All papers by year](paper-index-by-year.md) and [All papers by domain](paper-index-by-domain.md).
+
+## Related protocols and debates
+
+After identifying a paper subset here, continue through `wiki/protocols/` when you need executable workflow guidance, and through `wiki/debates/` when you need evidence-structured disagreement analysis.
+This page is intentionally a routing layer, so it links readers outward instead of duplicating protocol or debate content.
+
+## Failure modes and interpretation pitfalls
+
+A missing theme link does not mean a paper is irrelevant to that theme; it can also indicate that cross-linking is incomplete.
+A paper with limited metadata can still be scientifically important, so final judgment should be made on the paper page and source-backed sections.
+Filter combinations can become overly restrictive, so clear one or more controls when result counts drop unexpectedly.
 
 <div markdown="0" id="paper-corpus-root">
 
@@ -89,3 +120,8 @@ source_refs: []
 | **Themes** | `[[theme-…]]` wikilinks anywhere in the paper body (hub cross-links) |
 
 Papers with **no** `[[theme-…]]` link still appear; use **Theme → Any theme link** and rely on domain/year search.
+
+??? info "MAS / retrieval"
+    Stable id: `concept:paper-corpus-browser`.
+    Primary retrieval hooks are slug, title, year, venue, `canonical_tags`, confidence, group affiliation, and detected `[[theme-...]]` links exported into `wiki/javascripts/papers_corpus.json`.
+    Refresh this page's backing data after bulk edits to paper frontmatter or tags by running `python3 scripts/generate_papers_indexes.py`.

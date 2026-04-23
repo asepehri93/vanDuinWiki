@@ -57,6 +57,8 @@ When evidence supports it (default: **≥3 papers** for a concept):
 - Every substantive statement on synthesis pages needs `source_refs` or citations per [`AGENTS.md`](../AGENTS.md).
 - Optional [`wiki/debates/`](../wiki/debates/) only when disagreement is real and cited.
 
+**Current status note (2026-04-23):** A full synthesis-layer wave (themes, cross-cutting entry points, debates, and protocols) has been completed using grounded prose standards and MAS routing cues. See [`outputs/SYNTHESIS_LAYER_COMPLETION.md`](../outputs/SYNTHESIS_LAYER_COMPLETION.md).
+
 ### Stage D — Cross-linking and index (LLM, optional mechanical assist)
 
 - Add `[[wikilinks]]` between papers and entity pages; keep titles unique where possible.
@@ -67,6 +69,7 @@ When evidence supports it (default: **≥3 papers** for a concept):
 
 - LLM or human review before setting `confidence: high` on synthesis pages.
 - Track progress against KPIs in [`PHASE0.md`](PHASE0.md) (coverage, connectivity, grounding).
+- For synthesis routing completeness, run `python3 scripts/check_paper_theme_coverage.py` and verify no unassigned papers in [`outputs/paper_theme_coverage.md`](../outputs/paper_theme_coverage.md).
 
 ### Rich paper pages + theme hub waves (corpus-deepening)
 
