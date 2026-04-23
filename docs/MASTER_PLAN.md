@@ -76,6 +76,8 @@ flowchart LR
 - KPIs: [`PHASE0.md`](PHASE0.md)
 - Wave 2 detail: [`PHASE4_RUNBOOK.md`](PHASE4_RUNBOOK.md) (Post-first-pass section)
 - Retrieval commands: [`PHASE5_RUNBOOK.md`](PHASE5_RUNBOOK.md), [`indexes/README.md`](../indexes/README.md)
+- Session bootstrap: [`SESSION_PRIMER.md`](SESSION_PRIMER.md)
+- Operations handbook: [`KB_OPERATIONS_MANUAL.md`](KB_OPERATIONS_MANUAL.md)
 - Gap log: [`outputs/phase4_gaps.md`](../outputs/phase4_gaps.md)
 - Connectivity status: [`outputs/wave2_connectivity_status.md`](../outputs/wave2_connectivity_status.md), [`outputs/connectivity_report.md`](../outputs/connectivity_report.md)
 - Phase 5 reports: [`outputs/phase5_retrieval_report.md`](../outputs/phase5_retrieval_report.md), [`outputs/phase5_iteration_notes.md`](../outputs/phase5_iteration_notes.md)

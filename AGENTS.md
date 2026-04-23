@@ -16,6 +16,8 @@ A **computational chemistry** knowledge base for a research group: educational s
 **Not allowed:** using Python (or any script) to **invent** scientific claims, summaries, or production tag assignments without an LLM or human authoring that content. [`scripts/corpus_profile.py`](scripts/corpus_profile.py) is **mechanical registration** only (Phase 3); it does not replace LLM-led wiki compilation (Phase 4).
 
 Full Phase 4 workflow: [`docs/PHASE4_RUNBOOK.md`](docs/PHASE4_RUNBOOK.md).
+New-session bootstrap: [`docs/SESSION_PRIMER.md`](docs/SESSION_PRIMER.md).
+Maintenance handbook: [`docs/KB_OPERATIONS_MANUAL.md`](docs/KB_OPERATIONS_MANUAL.md).
 
 ## Phase 0: KPIs and benchmarks
 
