@@ -82,11 +82,20 @@ nav:
       - ReaxFF family: forcefields/reaxff-family.md
       - Batteries & interfaces: concepts/batteries-interfaces-reaxff.md
       - Graphene & nanocarbon: materials/graphene-nanocarbon.md
+      - Reactive MD method selection: concepts/entrypoint-reactive-md-method-selection.md
+      - Battery interface design: concepts/entrypoint-battery-interface-design.md
+      - Model validation & benchmarking: concepts/entrypoint-model-validation-benchmarking.md
   - Debates:
       - Transferability of reactive FF: debates/transferability-reactive-ff.md
       - ReaxFF vs MLIPs: debates/reaxff-vs-mlip-accuracy.md
+      - Sampling depth vs trajectory length: debates/sampling-depth-vs-trajectory-length.md
+      - Explicit vs implicit electrolyte modeling: debates/explicit-vs-implicit-electrolyte-modeling.md
   - Protocols:
       - ReaxFF parameterization trail: protocols/reaxff-parameterization-workflow.md
+      - Reactive MD application setup: protocols/reactive-md-application-setup.md
+      - Model benchmarking & validation: protocols/model-benchmarking-and-validation.md
+      - Battery interface reactivity workflow: protocols/battery-interface-reactivity-workflow.md
+      - Uncertainty & limitation reporting: protocols/uncertainty-and-limitation-reporting.md
 
 extra_javascript:
   - javascripts/mathjax.js
