@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014spanjers-physical-che-illuminating-surface",
+  "manifest": {
+    "source_path": "papers/Spanjer_PCCP_Pd_cluster_2014.pdf",
+    "sha256": "cf56905fa03d99d23454153614ece9438c78779dd904b86335cf4559dfa34bf6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c4cp02146k",
+    "title": "Illuminating surface atoms in nanoclusters by differential X-ray absorption spectroscopy",
+    "year": 2014,
+    "authors": "Charles S. Spanjers",
+    "venue": "Physical Chemistry Chemical Physics (2014), doi:10.1039/C4CP02146K"
+  },
+  "pdf_path": "papers/Spanjer_PCCP_Pd_cluster_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014spanjers-physical-che-illuminating-surface_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014spanjers-physical-che-illuminating-surface.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

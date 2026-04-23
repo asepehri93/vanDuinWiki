@@ -29,13 +29,8 @@ group_affiliation: true
 
 <!-- id:paper:2015kroes-venue-research -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+??? info "Curators"
+    Duplicate **ASAP** PDF lineage for the same **JCTC** article as [[2015kroes-venue-ct5b00292]]; cite that page for integrated protocol text if this proof/header layout is confusing.
 
 ## Summary
 
@@ -43,17 +38,19 @@ Kroes *et al.* benchmark **single- and double-vacancy** physics in a **(10,0) zi
 
 ## Methods
 
-- **Plane-wave pseudopotential DFT** via **CPMD** for nanotube supercells (Γ-only sampling noted).
-- **Classical potentials** evaluated on the same defect motifs with convergence checks on supercell sizes (special attention to a **5r8r5r-Z** double-vacancy case).
+This **ASAP** PDF (`papers/Kroes_JCTC_2015.pdf`) is a second corpus upload of the same **JCTC** article as [[2015kroes-venue-ct5b00292]] (DOI `10.1021/acs.jctc.5b00292`). The manuscript’s **Methods** are unchanged: **spin-polarized** **plane-wave DFT** in **CPMD** with **PBE** and **BLYP** (selected **PBE0** checks), **Γ-only** sampling, and **classical** energy benchmarks on **(10,0)** zigzag **single-wall** **CNT** models with **single** and **double** vacancies using **AIREBO**, **LCBOPI**, **ReaxFF15**, **REBO** (mostly **SI**), and **Tersoff** (also largely **SI**), with **formation energies** referenced to the **carbon chemical potential** defined in the paper. **ReaxFF15** enters through **static** energies and **barriers** on the **small tetragonal PBC** supercells (**~359–598** atoms depending on defect), not long **finite-temperature ReaxFF MD**; the separate **~100,000-atom** **high-temperature AIREBO MD** plus **annealing** is only used to propose motifs that are then **relaxed** in **DFT**. **Finite-temperature NVT/NPT production for the small-cell ReaxFF15 benchmarks:** **N/A —** those rows are **static** energies and **barrier** workflows, not thermostatted **NVT** trajectories on the **(10,0)** defect cells. **Hydrostatic pressure targets during those static evaluations:** **N/A —** not reported as **NPT** **pressure** control for the **ReaxFF15** comparison path (see [[2015kroes-venue-ct5b00292]] for timestep/thermostat detail on the exploratory **AIREBO** scouting MD).
 
 ## Findings
 
 - Some **long-ranged relaxations** require large cells for both **DFT** and **ReaxFF** in specific double-vacancy configurations described in the extract.
+- The abstract warns that **barriers** and **reconstruction** sequences for **single-** and **double-vacancy** **CNT** defects are **not** consistent across **empirical** **carbon** models, so **ReaxFF**-trained **kinetic** **Monte Carlo** or **coarse** **models** must inherit this **uncertainty** unless re-parameterized against **QM** for the specific **defect** **class**.
 
 ## Limitations
 
 - Benchmark scope is a **single chirality/diameter** nanotube; transferability of conclusions to **metallic** tubes or **wide** diameter regimes is not established here.
 - ASAP header placeholders appear in the extract; use **DOI** for bibliographic certainty.
+- **Curvature** **strain** in **small-diameter** **CNTs** can amplify **defect** **energies** relative to **planar** **graphene**; **kinetic** **models** calibrated here should be **re-tested** on **larger-diameter** **tubes** before **composite** **applications**.
+- **Interstitial** **dopants** and **endohedral** **species** can pin **vacancies** differently than **pristine** **(10,0)** **supercells** modeled in the **JCTC** benchmark.
 
 ## Relevance to group
 

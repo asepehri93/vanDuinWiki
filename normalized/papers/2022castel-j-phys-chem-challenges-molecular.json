@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022castel-j-phys-chem-challenges-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/ZIF_ReaxFF_AIMD_comparison_JPCC_2022.pdf",
+    "sha256": "7a2ac8b3ddd7d6db979b1b8d40a293480d17f3387b4cfd93c4026b6cf90814b4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Challenges in Molecular Dynamics of Amorphous ZIFs Using Reactive Force Fields",
+    "year": 2022,
+    "authors": "Nicolas Castel and François-Xavier Coudert",
+    "venue": "J. Phys. Chem. C 2022.126:19532-19541"
+  },
+  "pdf_path": "papers/ReaxFF_others/ZIF_ReaxFF_AIMD_comparison_JPCC_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022castel-j-phys-chem-challenges-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022castel-j-phys-chem-challenges-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

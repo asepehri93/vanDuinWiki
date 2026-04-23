@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022dupuis-physical-che-condensation-growth",
+  "manifest": {
+    "source_path": "papers/Dupuis_Condensation_SiOH4_AlOH3_PCCP_2022.pdf",
+    "sha256": "cd90786c680838855c63bbefaf7537cd0ac87439268becfdd132d7d4bcbabfa4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Condensation and growth of amorphous aluminosilicate nanoparticles via an aggregation process",
+    "year": 2022,
+    "authors": "Romain Dupuis",
+    "venue": "Physical Chemistry Chemical Physics (2022), 24, 9229-9235, doi:10.1039/D1CP05412K"
+  },
+  "pdf_path": "papers/Dupuis_Condensation_SiOH4_AlOH3_PCCP_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022dupuis-physical-che-condensation-growth_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022dupuis-physical-che-condensation-growth.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

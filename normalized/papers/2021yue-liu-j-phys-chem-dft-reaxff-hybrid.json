@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021yue-liu-j-phys-chem-dft-reaxff-hybrid",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Liu_AIMD_REaxFF_jpclett_2021.pdf",
+    "sha256": "9119a4fb1546c9806df8218cdea6cb1428f96727d8d8c57ddb5c13b18be9605a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "The DFT-ReaxFF Hybrid Reactive Dynamics Method with Application to the Reductive Decomposition Reaction of the TFSI and DOL Electrolyte at a Lithium–Metal Anode Surface",
+    "year": 2021,
+    "authors": "Yue Liu, Peiping Yu, Yu Wu, Hao Yang, Miao Xie, Liyuan Huai, William A Goddard, and Tao Cheng",
+    "venue": "J. Phys. Chem. Lett. 2021.12:1300-1306"
+  },
+  "pdf_path": "papers/ReaxFF_others/Liu_AIMD_REaxFF_jpclett_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021yue-liu-j-phys-chem-dft-reaxff-hybrid_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021yue-liu-j-phys-chem-dft-reaxff-hybrid.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

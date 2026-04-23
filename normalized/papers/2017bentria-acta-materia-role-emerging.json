@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017bentria-acta-materia-role-emerging",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bentria_ActaMateriala_2017.pdf",
+    "sha256": "edbe7909d319632b9abdc6c7e5cc0364b7c69a45dbe28da5e6dd2125f3a7e383",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "The role of emerging grain boundary at iron surface, temperature and hydrogen on metal dusting initiation",
+    "year": 2017,
+    "authors": "El Tayeb Bentria",
+    "venue": "Acta Materialia, 135 (2017) 340-347. doi:10.1016/j.actamat.2017.06.049"
+  },
+  "pdf_path": "papers/ReaxFF_others/Bentria_ActaMateriala_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017bentria-acta-materia-role-emerging_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017bentria-acta-materia-role-emerging.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

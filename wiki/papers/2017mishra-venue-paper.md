@@ -39,34 +39,35 @@ group_affiliation: true
 
 <!-- id:paper:2017mishra-venue-paper -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-This **review** introduces **CEMFF**, a web database cataloging **atomistic force fields** used for **cementitious minerals** (**C-S-H**, **portlandite**, **C\(_3\)S**, etc.), spanning **Born–Mayer–Huggins**, **ClayFF**, **IFF**, **ReaxFF**, **UFF**, and specialized **cement** parameterizations. For each entry, operators summarize **functional forms**, **benchmarks**, and **validation** against **experiment**/**QM**. **Adri C. T. van Duin** coauthors alongside a broad **international** consortium (**ETH**, **EPFL**, **Rice**, **MIT**, etc.).
+Atomistic simulations of **cementitious** materials—**C–S–H**, **portlandite**, **C\(_3\)S**, and related phases—are scattered across dozens of **force-field** families with inconsistent validation. This **Cement and Concrete Research** review introduces **CEMFF**, a web database cataloging **atomistic potentials** applied to cementitious minerals, summarizing **functional forms**, **benchmarks**, and **validation** against **experiment** and **quantum** references for each entry. The scope spans **Born–Mayer–Huggins**, **ClayFF**, **IFF**, **ReaxFF**, **UFF**, and specialized cement parameterizations. **Adri C. T. van Duin** coauthors alongside an international consortium, positioning **reactive** options where **bond-making/breaking** is essential. The local **`pdf_path`** is a **proof** PDF; confirm pagination against the **final** issue when citing page-level details.
 
 ## Methods
 
-- **Survey** of literature **parameterizations** with systematic **comparison** philosophy (database `http://cemff.epfl.ch` referenced in abstract).
+**Force-field training / fitting.** Same **cementitious force-field survey** as **`[[2017mishra-cement-and-c-cemff-force]]`** (**DOI 10.1016/j.cemconres.2017.09.003**); this slug tracks **proof** PDF bytes only.
+
+**MD application (atomistic dynamics).** **Literature-level** summary of how surveyed groups run **classical** and **reactive MD** for **cement** phases; **no** new unified **MD** dataset accompanies the review text.
+
+**Static QM / DFT.** **DFT** and broader **QM** benchmarks appear as **reference** data in the surveyed **fitting** stories summarized in the tables.
+
+**Review / database framing.** **CEMFF** registry narrative (**http://cemff.epfl.ch**) plus **community upload** guidance; **prefer `[[2017mishra-cement-and-c-cemff-force]]`** when citing **VOR** pagination. The abstract inventories **Born–Mayer–Huggins**, **IFF**, **ClayFF**, **C–S–H FF**, **CementFF**, **GULP**-style ionics, **ReaxFF**, and **UFF** as representative families applied to **C₃S**, **portlandite**, and **C–S–H** models.
 
 ## Findings
 
-- Highlights diversity of **FF** choices and **validation** gaps when transferring potentials across **chemistries** and **interfaces**.
-- Positions **ReaxFF** among options when **bond-making/breaking** chemistry is essential.
+The review highlights **diversity** of force-field choices and **validation gaps** when moving potentials between **chemistries**, **water models**, and **interface** configurations. It explicitly positions **ReaxFF** among options when **reactive** chemistry cannot be neglected, while warning that **reactive** cost and training scope must match the modeling question. The overarching message is **pragmatic**: practitioners need **property-targeted** selection guidance rather than a single universal cement force field. For knowledge-base maintenance, treat **CEMFF** as a living inventory: when new cementitious parameterizations appear in the literature, the database entry (not this static article alone) may update faster than the review text, so verify current entries at the EPFL site when planning simulations.
 
 ## Limitations
 
-- **Proof** PDF ingest—confirm **pagination** vs **final** issue; database contents evolve independently of the article.
+**Proof** ingest may differ in layout from the final article; the **database** evolves independently of the paper’s static snapshot.
+
+## Reader notes (MAS / retrieval)
+
+Database-first queries should still verify **CEMFF** entries at the live site; treat this review as narrative context, not a live parameter dump.
 
 ## Relevance to group
 
-Places **van Duin**’s **reactive cement-related** developments in community-wide **FF** governance context.
+Situates **van Duin** **reactive** cement-related developments within community-wide **FF** governance and tooling.
 
 ## Citations and evidence anchors
 

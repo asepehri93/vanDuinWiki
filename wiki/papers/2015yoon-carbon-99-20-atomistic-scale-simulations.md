@@ -25,7 +25,6 @@ pdf_path: "papers/Yoon_Carbon_2015.pdf"
 extraction_quality: "good"
 group_affiliation: true
 ---
-
 <!-- id:paper:2015yoon-carbon-99-20-atomistic-scale-simulations -->
 
 ## Evidence and attribution
@@ -42,28 +41,15 @@ The study uses ReaxFF to simulate supersonic impact of nanoscale silica and nick
 
 ## Methods
 
-- **Reactive MD:** ReaxFF (C-2013 parameter set discussed in context of prior graphene studies) in LAMMPS-style large-scale impact simulations.
-- **Systems:** Pristine and defective graphene sheets; SiO2 and Ni projectiles at supersonic initial velocities.
-- **Analysis:** Crack topology, armchair vs zigzag edge counts, \(E_p^*\) from projectile kinetic energy loss vs mass.
+**LAMMPS ReaxFF** (`papers/Yoon_Carbon_2015.pdf`, §2) merges **C-2013** carbon parameters with published **Si/O/C/H** and **Ni/O/C/H** subsets for projectile chemistry. **Hydrogen-terminated** single-layer **graphene** sheets (**~380 Å × 360 Å**) are **pristine** or contain **mono-vacancies** or **polycrystalline** patches (**~25 Å** grain size). **Spherical amorphous silica** (**~48 Å** diameter) and **fcc Ni** (**~38 Å**) projectiles impact along the surface normal. **In-plane PBC**, **H-passivated** edges with **edge C atoms fixed** mimic supported samples. After **0.1 K** minimization and **300 K** equilibration (including defective models where noted), production is **NVE** microcanonical penetration with **0.05 fs** timestep and initial projectile speed **5 km s⁻¹** (authors state this exceeds typical **~1 km s⁻¹** experiments to remain tractable at the modeled scale). **Pressure** in the shock direction is not a fixed **GPa** setpoint but emerges from the **NVE** piston; lateral **stress** relaxes according to the periodic **slab** constraints in §2. No thermostat or barostat during **NVE** impact; no electric field or enhanced sampling. **Specific penetration energy** \(E_p^\*\) comes from projectile **kinetic-energy loss** per mass; **armchair vs zigzag** edges and **5|7** rings are tracked (abstract, §3).
 
-Reactive impact simulations treat bond formation and rupture explicitly across the projectile–graphene interface; supersonic silica and nickel projectiles are compared under the protocols described in the primary article.
+**Force-field training:** **N/A —** literature merges are used.
 
-<!-- enrich-from-extract:v2 -->
-
-- Then we analyzed the impact by using ReaxFF reactive force ﬁeld method, which is capable of describing the entire system.
-- Here, we simulated the impact of silica and nickel projectiles with a supersonic initial velocity on graphene.
-
+**Static QM / DFT:** **N/A —** not the primary modality.
 
 ## Findings
 
-ReaxFF reproduces chemomechanical coupling between Ni or silica projectiles and graphene, including fracture patterns that nonreactive carbon potentials omit. Simulated \(E_p^*\) magnitudes align with experimental trends; maximum deformation diameter before crack initiation correlates with \(E_p^*\). Defect content and projectile composition modulate crack morphology and energy uptake. Quantitative \(E_p^*\) from the simulations agrees in order of magnitude with Lee et al. (Science 2014) for multilayer graphene. During penetration, pentagon–heptagon pairs appear at crack edges, and edge reactivity depends on pre-crack deformation of graphene; defects and projectile identity shift the specific penetration energy \(E_p^*\).
-
-### Additional results (article abstract)
-
-- The values of Ep * obtained in our simulations were in general agreement with the recent experimental values reported by Lee et al. [Science 2014, 346, (6213), 1092 e1096].
-- During the process of projectile penetration, we identi ﬁed various atomistic features, such as the formation of pentagon/heptagon pairs at the edges of the cracks, and the preferential crack edges that are affected by the deformability of graphene before crack initiation.
-- Effects of defects in graphene and the material type of the projectile on speci ﬁc penetration energy ( E p * ) also were addressed.
-
+**ReaxFF** captures **reactive** **oxidation** and fracture **mechanisms** for **Ni** or **silica** impact on **graphene**, beyond fixed-bond carbon models (`papers/Yoon_Carbon_2015.pdf`). Simulated **\(E_p^\*\)** is the same **order of magnitude** as **Lee et al., Science 2014** **experimental** multilayer-graphene microparticle impacts—a **benchmark comparison** noted in the abstract. **Pentagon–heptagon** defects appear at crack edges; **pre-crack deformability** and **defect** content (**mono-vacancy**, **grain boundary**) **sensitivity** shifts **\(E_p^\*\)** and morphology, as does **projectile** chemistry (**Ni** vs **silica**). **Limitations** in **§2** include **single-layer** models versus **multilayer** tests and **higher simulated impact speed** than typical experiment. **Corpus honesty**: tabulated **\(E_p^\*\)** values and time-resolved **react**ion counts belong in the journal **PDF** figures; this page stays at abstract precision.
 
 ## Limitations
 
@@ -83,5 +69,3 @@ Demonstrates ReaxFF for **2D carbon under extreme mechanical loading** with van 
 
 - [[reaxff-family]]
 - [[graphene-nanocarbon]]
-- Graphene fracture and reactive impact mechanics
-- ReaxFF carbon (C-2013) for nanomechanics

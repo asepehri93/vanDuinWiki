@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018yilmaz-polymer-154-investigating-structure",
+  "manifest": {
+    "source_path": "papers/Yilmaz_Kevlar_Polymer_2018.pdf",
+    "sha256": "69009358dabd4c387475227b92da856050e0f3a626f3e5d59f40d2128b6f453c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Investigating structure property relations of poly (p-phenylene terephthalamide) fibers via reactive molecular dynamics simulations",
+    "year": 2018,
+    "authors": "Dundar E. Yilmaz",
+    "venue": "Polymer, 154 (2018) 172-181. doi:10.1016/j.polymer.2018.09.001"
+  },
+  "pdf_path": "papers/Yilmaz_Kevlar_Polymer_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018yilmaz-polymer-154-investigating-structure_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4938
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018yilmaz-polymer-154-investigating-structure.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

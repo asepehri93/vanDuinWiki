@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015rimsza-journal-of-n-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Rimsza_J_NonCrystSolid_2016.pdf",
+    "sha256": "a54fd6fe5b478baed6d6dd01ff6823aae131b7930f8b5d05d05c6161bc678b4f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular dynamics simulations of nanoporous organosilicate glasses using Reactive Force Field (ReaxFF)",
+    "year": 2015,
+    "authors": "J.M. Rimsza",
+    "venue": "Journal of Non-Crystalline Solids, 431 (2016) 103-111. doi:10.1016/j.jnoncrysol.2015.04.031"
+  },
+  "pdf_path": "papers/ReaxFF_others/Rimsza_J_NonCrystSolid_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015rimsza-journal-of-n-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015rimsza-journal-of-n-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Shchygol_JCTC_2019.pdf",
     "sha256": "18acd9bfa94d26e0924b0a4777ff8c4d7a5b4295b343422f66905110bb49090f",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019ganna-shchygol-j-chem-theor-reaxff-parameter_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019ganna-shchygol-j-chem-theor-reaxff-parameter.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

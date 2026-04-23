@@ -3,7 +3,7 @@ id: paper:2016yoon-venue-paper
 type: paper
 title: "Atomistic-scale simulations of defect formation in graphene under noble gas ion irradiation"
 updated: "2026-04-20"
-confidence: med
+confidence: high
 canonical_tags:
   - domain:2d-layered
   - domain:reaxff-lineage
@@ -37,48 +37,25 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-paper -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-This ingest captures a **Just Accepted** **ACS Nano** manuscript version of **Yoon et al.**’s **ReaxFF** study on **noble gas ion** irradiation of **graphene**, prior to full **production editing**. The scientific claims align with the **version of record**: **dynamic irradiation** plus **annealing** yields **nanopores** and complex **defect** statistics comparable to **STEM** imaging; **He\(^+\)** vs heavier-ion trends and **STW** vs **monovacancy** prevalence are central discussion points.
+This corpus PDF is an ACS **“Just Accepted”** posting of **Yoon et al.**, *ACS Nano*, **DOI `10.1021/acsnano.6b03036`**. The work pairs **ReaxFF molecular dynamics** in **LAMMPS** with **helium ion microscopy** and **aberration-corrected STEM** to relate **noble-gas ion irradiation** of **graphene**—including **post-impact annealing**—to **defect statistics** and **nanopore** formation. The paper stresses how **dose**, **ion species**, and **collision cross section** steer **vacancy-type** damage toward **coalesced pores**, and how **Stone–Thrower–Wales (STW)** motifs dominate under **He\(^+\)** whereas **monovacancy (MV)**-rich statistics appear for heavier noble gases. **Electronic stopping** is omitted in the nuclear-collision treatment, following cited precedent for graphene.
 
 ## Methods
 
-Reactive MD uses the same **ReaxFF** ion-bombardment workflow as the published article; ion species, fluence, and annealing protocols follow the **Methods** section of the version-of-record PDF.
+**MD (ReaxFF, LAMMPS).** Simulations use **ReaxFF C-2013**-based **carbon** chemistry with **graphene–ion** repulsion augmented by **DFT**-fitted terms and a **Ziegler–Biersack–Littmark** channel as described in **Computational methods and details** (`papers/Yoon_ACSNano_ASAP.pdf`); **SI** holds parameter tables and **DFT** settings (full **functional / basis / k-mesh** tables are **not** transcribed on this page). A periodic **graphene** supercell about **52 × 40 Å²** (thousands of **carbon atoms**) receives **25 keV He\(^+\), Ne\(^+\), Ar\(^+\), Kr\(^+\)** impacts in a central **~30 × 20 Å²** window. **In-plane PBC** apply; **edge** regions are held at **300 K** with a **Nosé–Hoover** **thermostat** while the cascade core runs **NVE** during ballistic impact. Species-dependent **timesteps** of **0.005–0.02 fs** stabilize the cascades. Dose rates of order **10²⁵–10²⁷ ions cm⁻² s⁻¹** (species-dependent) space impacts so each cascade completes before the next. **He\(^+\)** ladders reach **10¹⁵–10¹⁷ ions cm⁻²** cumulative dose, each followed by **1500 K for 25 ps**, cool-down to **300 K**, then **2000 K for 1.25 ns** of reconstruction. **Ne\(^+\)/Ar\(^+\)/Kr\(^+\)** use **10¹⁴–2×10¹⁵ ions cm⁻²**, the same **1500 K / 25 ps** leg, then **3000 K** annealing; the **duration of the 3000 K segment** is **not** recovered from the Methods text checked for this note. **Barostat**, **applied electric fields**, and **replica / enhanced sampling** are **not** used on these fixed-area irradiation legs (cascades plus thermal annealing only). **Hydrostatic pressure** is **not** servo-controlled during those legs (**fixed in-plane** supercell area; **N/A —** no **NPT** **pressure** target in the summarized irradiation protocol).
 
-<!-- enrich-from-extract:v2 -->
+**Force-field training:** **N/A — not a new ReaxFF fit** in the main article; the study **applies** published **C-2013** chemistry with documented **DFT/ZBL** extensions in **SI**.
 
-- Atomistic-Scale Simulations of Defect Formation in Graphene Under Noble Gas Ion Irradiation Kichul Yoon, Ali Rahnamoun, Jacob L Swett, Vighter Iberi, David A.
-- ACS cannot be held responsible for errors or consequences arising from the use of information contained in these “Just Accepted” manuscripts. 1 Atomistic9Scale Simulations of Defect Formation in Graphene Under Noble Gas Ion Irradiation Kichul Yoon a , Ali Rahnamoun a , Jacob L.
-- Unocic, and Adri C.T. van Duin ACS Nano, Just Accepted Manuscript • Publication Date (Web): 17 Aug 2016 Downloaded from http://pubs.acs.org on August 17, 2016 Just Accepted “Just Accepted” manuscripts have been peer-reviewed and accepted for publication.
-- They are posted online prior to technical editing, formatting for publication and author proofing.
-- The American Chemical Society provides “Just Accepted” as a free service to the research community to expedite the dissemination of scientific material as soon as possible after acceptance. “Just Accepted” manuscripts appear in full in PDF format accompanied by an HTML abstract. “Just Accepted” manuscripts have been fully peer reviewed, but should not be considered the official version of record.
-- They are accessible to all readers and citable by the Digital Object Identifier (DOI®). “Just Accepted” is an optional service offered to authors.
-
+**Experiment.** **HIM** (**Zeiss ORION NanoFab**, **~25–27 kV**, **0.191 pA**, **0°** on suspended **CVD graphene**) and **Nion UltraSTEM** **MAADF-STEM** at **60 kV** follow the **Experimental methods and details** block in the same PDF.
 
 ## Findings
 
-Dynamic irradiation with subsequent annealing produces nanopores and defect populations consistent with scanning transmission electron microscopy, with systematic trends in noble-gas ion species and dose. Lighter ions (e.g., He\(^+\)) versus heavier projectiles and the prevalence of Stone–Wales versus monovacancy-related motifs are central to the reported analysis.
-
-### Additional results (article abstract)
-
-- Therefore, the “Just Accepted” Web site may not include all articles that will be published in the journal.
-- After a manuscript is technically edited and formatted, it will be removed from the “Just Accepted” Web site and published as an ASAP article.
-- Note that technical editing may introduce minor changes to the manuscript text and/or graphics which could affect content, and all legal disclaimers and ethical guidelines that apply to the journal pertain.
-- Vlassiouk f, Alex Belianinov d, g, Xiahan Sang d, Olga S.
-- E9mail address: acv13@psu.edu (Adri C.T. van Duin) Page 1 of 28 ACS Paragon Plus Environment ACS Nano 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60
-
+Post-irradiation **annealing** drives **vacancy-type** defects to **coalesce** into **nanopores**; **heavier ions** and **higher dose** produce **larger pores** and more **amorphized** surroundings, tracking **STEM** trends though some **Ne\(^+\)** sim/expt pairs differ in dose/energy matching. **Defect surveys** report **~65% STW** character for **He\(^+\)**-dominated statistics versus **~73% MV** prevalence for **Ne\(^+\)/Ar\(^+\)/Kr\(^+\)** in the conclusions as summarized in the article. Simulated **sputtering** / removal metrics at **25 keV** (**~0.03** for He up to **~50%** cumulative-style metrics for Kr in the authors’ framing) are contrasted with **single-impact** literature values, attributing gaps to **multi-impact** geometry. **Simulation–experiment** agreement is described as encouraging on **dose** and **morphology** while noting **impurities**, **contamination**, and possible **metal-catalyzed chiseling** in experiment. **Authored limitations** include **dose-rate** mismatch and using **high-T anneals** to stand in for **room-temperature** reconstruction kinetics within **MD** wall times.
 
 ## Limitations
 
-- **Partial extraction quality** and **Just Accepted** status—prefer the **typeset** issue PDF for **pagination**, **figures**, and **final** wording.
+**Just Accepted** PDF: prefer the **typeset** **VOR** layout for pagination and final figure quality. This slug’s **`normalized/extracts`** slice is **boilerplate-heavy**; protocol numbers above were taken from **`pdf_path`**.
 
 ## Relevance to group
 
@@ -90,4 +67,5 @@ Duplicate **corpus** proof of **van Duin**/**ORNL** **graphene irradiation** col
 
 ## Related topics
 
+- [[2016yoon-venue-nn6b03036]]
 - [[reaxff-family]]

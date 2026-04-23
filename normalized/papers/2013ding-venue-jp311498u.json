@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013ding-venue-jp311498u",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Ding_JPC_2013_heptane_ReaxFF.pdf",
+    "sha256": "baa0fd95e8f4e32f341b3933da7cb3a5cc23aa3dce816174ef6a23e4f6245778",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp311498u",
+    "title": "A reactive molecular dynamics study of n-heptane pyrolysis at high temperature",
+    "year": 2013,
+    "authors": [
+      "Ding, Junxia",
+      "Zhang, Liang",
+      "Zhang, Yan",
+      "Han, Ke-Li"
+    ],
+    "venue": "The Journal of Physical Chemistry A"
+  },
+  "pdf_path": "papers/ReaxFF_others/Ding_JPC_2013_heptane_ReaxFF.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013ding-venue-jp311498u_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013ding-venue-jp311498u.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

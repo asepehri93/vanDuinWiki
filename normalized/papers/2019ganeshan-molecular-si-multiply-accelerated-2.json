@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019ganeshan-molecular-si-multiply-accelerated-2",
+  "manifest": {
+    "source_path": "papers/Ganeshan_Hossain_MolSym_2019_forNSF.pdf",
+    "sha256": "f6353cef6f20713a88d58fc445be2e5ac5f963eeebca6d8874b3cf5ad40b94f6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Multiply accelerated ReaxFF molecular dynamics: coupling parallel replica dynamics with collective variable hyper dynamics",
+    "year": 2019,
+    "authors": "Karthik Ganeshan",
+    "venue": "Molecular Simulation, 2019. doi:10.1080/08927022.2019.1646911"
+  },
+  "pdf_path": "papers/Ganeshan_Hossain_MolSym_2019_forNSF.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019ganeshan-molecular-si-multiply-accelerated-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5369
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019ganeshan-molecular-si-multiply-accelerated-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

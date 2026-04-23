@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019shi-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/2020.01 Modeling Carbon fiber oxidation under high temperature by ReaxFF based molecular dynamics simulation.pdf",
+    "sha256": "338ffa836991f71f7fcc0c1ed653e1d1daf91e82b743fbcff91ae57f572e3ef7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2019,
+    "authors": "Linyuan Shi",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/2020.01 Modeling Carbon fiber oxidation under high temperature by ReaxFF based molecular dynamics simulation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019shi-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7293
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019shi-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

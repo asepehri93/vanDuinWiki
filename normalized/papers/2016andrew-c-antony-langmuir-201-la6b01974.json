@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016andrew-c-antony-langmuir-201-la6b01974",
+  "manifest": {
+    "source_path": "papers/Others/2016_Antony_Langmuir.pdf",
+    "sha256": "a5d7dec99f20aa098795dd6f88235a4937845052824c73ff616306e3cf531b75",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "la6b01974 1..10",
+    "year": 2016,
+    "authors": "Andrew C. Antony, Tao Liang, Sneha A. Akhade, Michael J. Janik, Simon R. Phillpot, and Susan B. Sinnott",
+    "venue": "Langmuir 2016.32:8061-8070"
+  },
+  "pdf_path": "papers/Others/2016_Antony_Langmuir.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016andrew-c-antony-langmuir-201-la6b01974_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016andrew-c-antony-langmuir-201-la6b01974.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

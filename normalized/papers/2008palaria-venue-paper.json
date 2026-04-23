@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2008palaria-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Palaria_Klimeck_Strachan_PRB2008_Structures and energetics of silicon nanotubes from molecular dynamics and density functional theory.pdf",
+    "sha256": "3c853e0904e59f5ca23e7a0ca1ade47962d78fcc7c8fd00fa2b907a97811d831",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevB.78.205315",
+    "title": null,
+    "year": 2008,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Palaria_Klimeck_Strachan_PRB2008_Structures and energetics of silicon nanotubes from molecular dynamics and density functional theory.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2008palaria-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2008palaria-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

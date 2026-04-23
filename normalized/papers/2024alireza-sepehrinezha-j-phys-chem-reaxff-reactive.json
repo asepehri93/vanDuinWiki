@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024alireza-sepehrinezha-j-phys-chem-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/Sepehrinezhad_ZnMgO_JPCC_2024.pdf",
+    "sha256": "0a35d43bc1ace6b09b1f8196130e38e5e97bd4f648b07f3d3afd3c25ec71dea1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.4c02233",
+    "title": "ReaxFF Reactive Force Field for Exploring Electronically Switchable Polarization in Zn1–xMgxO Ferroelectric Semiconductors",
+    "year": 2024,
+    "authors": "Alireza Sepehrinezhad, Steven M. Baksa, Ismaila Dabo, and Adri C.T. van Duin",
+    "venue": "J. Phys. Chem. C 2024.128:12534-12543"
+  },
+  "pdf_path": "papers/Sepehrinezhad_ZnMgO_JPCC_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024alireza-sepehrinezha-j-phys-chem-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024alireza-sepehrinezha-j-phys-chem-reaxff-reactive.md",
+  "updated": "2026-04-21T18:36:52Z"
+}

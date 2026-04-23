@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016tomas-carbon-109-2-graphitization-amorphous",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Thomas_Marks_Carbon_comparison_Carbon_2016.pdf",
+    "sha256": "de80f8b9408fcc5f2826aaadc3f30e2beb21ea61c5413255b6b1e7d1943c2905",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Graphitization of amorphous carbons: A comparative study of interatomic potentials",
+    "year": 2016,
+    "authors": "Carla de Tomas",
+    "venue": "Carbon, 109 (2016) 681-693. doi:10.1016/j.carbon.2016.08.024"
+  },
+  "pdf_path": "papers/ReaxFF_others/Thomas_Marks_Carbon_comparison_Carbon_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016tomas-carbon-109-2-graphitization-amorphous_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016tomas-carbon-109-2-graphitization-amorphous.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

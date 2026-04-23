@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019sengul-venue-water-x2010",
+  "manifest": {
+    "source_path": "papers/SENGUL_et_al-2019-Angewandte_Chemie_International_Edition.pdf",
+    "sha256": "dfddab84da8855de5765085662fd811fafb1bc94cce75d65361f3cfd75785c3e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/anie.201904738",
+    "title": "Water&#x2010;mediated surface diffusion mechanism enabling the Cold Sintering Process: A combined computational and experimental study",
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/SENGUL_et_al-2019-Angewandte_Chemie_International_Edition.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019sengul-venue-water-x2010_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6579
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019sengul-venue-water-x2010.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

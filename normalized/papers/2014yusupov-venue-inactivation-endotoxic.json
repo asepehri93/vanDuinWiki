@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014yusupov-venue-inactivation-endotoxic",
+  "manifest": {
+    "source_path": "papers/Yusupov_PlasmaProcPoly_2014.pdf",
+    "sha256": "d5f956a3a268a505f4f94cc1c132840a53b2a18c1efe278a790ae2f029921051",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/ppap.201400064",
+    "title": "Inactivation of the Endotoxic Biomolecule Lipid A by Oxygen Plasma Species: A Reactive Molecular Dynamics Study",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Yusupov_PlasmaProcPoly_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014yusupov-venue-inactivation-endotoxic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014yusupov-venue-inactivation-endotoxic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Liu_AlF_etching_JPCC_2019.pdf",
     "sha256": "bf9a5e02f4dd35b3e74d1360d81465ab696811f32921e1092cbe255e977f654f",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019liu-j-phys-chem-formation-alfx_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019liu-j-phys-chem-formation-alfx.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

@@ -3,12 +3,18 @@ id: paper:2015golkaram-materials-di-revealing-graphene
 type: paper
 title: "Revealing graphene oxide toxicity mechanisms: a reactive molecular dynamics study"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags:
   - domain:2d-layered
   - method:reactive-md-generic
   - task:application
   - scale:atomistic
+paper_keywords:
+  - keyword:reaxff-application
+  - keyword:reactive-md
+  - keyword:graphene-carbon
+  - keyword:water-interfaces
+  - keyword:lammps
 source_refs: []
 doi: "10.1016/j.md.2015.10.001"
 year: 2015
@@ -24,34 +30,35 @@ group_affiliation: true
 
 <!-- id:paper:2015golkaram-materials-di-revealing-graphene -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-The corpus registers an **Elsevier *Materials Discovery* proof PDF** for a reactive MD study titled **“Revealing graphene oxide toxicity mechanisms: A reactive molecular dynamics study”** by **Golkaram** and **van Duin** (see graphical abstract line in the extract). However, the normalized **p1–2 extract** contains **only author-query boilerplate** and does **not** include abstract, methods, or results text, so **scientific claims cannot be excerpt-grounded** beyond the title/authorship metadata already present in `normalized/papers/2015golkaram-materials-di-revealing-graphene.json`.
+**Golkaram** and **van Duin** report **ReaxFF-based reactive MD** simulations aimed at **atomistic mechanisms** by which **graphene oxide (GO)** functional groups interact with a **model peptide helix**, interpreted as proxies for biocompatibility/toxicity-relevant chemistry (DOI **10.1016/j.md.2015.10.001**). The study progresses from **isolated functional-group** motifs (**epoxide**, **hydroxyl**, **carboxyl**) to a **combined** GO model, then examines **adhesion**, **secondary-structure disruption**, and **solution acidification** metrics discussed in the article.
 
 ## Methods
 
-Not recoverable from the current extract (proof front matter only).
+### MD application (atomistic dynamics)
+
+Simulations use **ReaxFF reactive MD** (article text). A **12-residue α-helix** serves as a compact peptide proxy, with a **mutated sequence** (**A…W → …G** substitution in Methods) to show trends are not sequence-unique. **Graphene** sheets in a **~29.56 Å × 34.16 Å** periodic **supercell** host oxygenated motifs at **C₉₆O₇**, **C₉₆(OH)₇**, **C₉₆(COOH)₇**, and **combined** layouts; explicit **water** plus peptide yields **thousands of atoms** in the largest cells (exact **atom** counts in the **PDF**). Peptides start **~3 Å** from the surface. After **1 K** minimization and equilibration (Methods), production **NVT** runs use **Verlet** integration, **0.1 fs** timestep, **200 ps** segments, and a **Berendsen thermostat** (**100 fs** damping) per the **uncorrected proof** text. **Engine (LAMMPS vs ADF):** **N/A —** not spelled out in the proof excerpt used here; confirm in the **version-of-record** PDF if package identification is required. **External stress loading / hydrostatic pressure:** **N/A —** not part of this constant-volume peptide–GO protocol.
+
+### Force-field training
+
+**N/A —** applies **ReaxFF**; parameter lineage is described via citations in the article rather than as a new parameterization performed in this manuscript.
+
+### Static QM / DFT
+
+**N/A for the main MD trajectories** — the discussion cites **DFT** mainly as supporting context for **H-bond energetics** comparisons where noted in the article.
 
 ## Findings
 
-Not recoverable from the current extract (proof front matter only).
+**Epoxide** motifs can promote **water attack** that yields **hydroxyl** pairs on the sheet; the narrative links such chemistry to **ROS-prone** scenarios discussed relative to biophysical **oxidation** literature. **Carboxyl**-rich patches can **acidify** the local environment, **protonate** acidic residues such as **Asp**, and engage **Cys** **thiol** chemistry (including **disulfide-related** disruption) as illustrated in figures. The **combined** GO model discusses **competition or cooperation** between **epoxide** and **carboxyl** groups in **adhesion**, **loss of secondary structure**, and **pH drift** metrics reported in the article. **Sensitivity** to functional-group density is intentionally high to magnify signals—a **limitation** for quantitative dosimetry versus polydisperse **experiment**. **Corpus honesty:** this repo’s **proof PDF** may differ from the final **Materials Discovery** layout; cite the **PDF** for numbers.
 
 ## Limitations
 
-- **No substantive article extract** is available on disk for this slug; regenerate `normalized/extracts/2015golkaram-materials-di-revealing-graphene_p1-2.txt` from article pages (not the query form).
-- A separate wiki entry may exist for a later non-proof PDF variant; keep **hashes and paths** distinct when reconciling.
+The local corpus file is an **uncorrected proof PDF**; prefer the **final *Materials Discovery*** PDF for pagination/wording. Functional-group densities are intentionally **high/exaggerated** to magnify signals, so quantitative dosimetry should not be extrapolated linearly to dilute, polydisperse GO samples without additional modeling.
 
 ## Relevance to group
 
-**Adri C. T. van Duin** is a co-author; the intended topic (per title) is **graphene oxide toxicity** via **reactive MD**, aligning with **ReaxFF** biomolecular/nanocarbon extension directions once extracts exist.
+**Adri C. T. van Duin** co-authors a **reactive MD** contribution on **graphene oxide** biointerface chemistry in *Materials Discovery*, consistent with the group’s broader **nanocarbon** and **ReaxFF** application portfolio.
 
 ## Citations and evidence anchors
 

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022i-ponomarev-j-phys-chem-new-reactive",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Ponomarev_MoS2_NaCl_JPC_2022.pdf",
+    "sha256": "e1bee4c7f41c739b041690c90ff2794b05d56268b67f18bb8b360463d676f33c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.2c01075",
+    "title": "New Reactive Force Field for Simulations of MoS2 Crystallization",
+    "year": 2022,
+    "authors": "I. Ponomarev, T. Polcar, and P. Nicolini",
+    "venue": "J. Phys. Chem. C 0.0"
+  },
+  "pdf_path": "papers/ReaxFF_others/Ponomarev_MoS2_NaCl_JPC_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022i-ponomarev-j-phys-chem-new-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022i-ponomarev-j-phys-chem-new-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

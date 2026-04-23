@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021murali-gopal-muralee-acs-interfacial-reactivity",
+  "manifest": {
+    "source_path": "papers/Muraleedharan_ACS_EarthSpace_2021.pdf",
+    "sha256": "3567d6ac9c50217401ae7cc187a066a7de053acf36f2b1c278c57b62659248a9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Interfacial Reactivity and Speciation Emerging from Na-Montmorillonite Interactions with Water and Formic Acid at 200 °C: Insights from Reactive Molecular Dynamics Simulations, Infrared Spectroscopy, and X-ray Scattering Measurements",
+    "year": 2021,
+    "authors": "Murali Gopal Muraleedharan, Hassnain Asgar, Seung Ho Hahn, Nabankur Dasgupta, Greeshma Gadikota, and Adri C. T. van Duin",
+    "venue": "ACS Earth Space Chem. 2021.5:1006-1019"
+  },
+  "pdf_path": "papers/Muraleedharan_ACS_EarthSpace_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021murali-gopal-muralee-acs-interfacial-reactivity_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021murali-gopal-muralee-acs-interfacial-reactivity.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

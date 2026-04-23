@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015rahnamoun-physical-che-study-thermal",
+  "manifest": {
+    "source_path": "papers/Rahnamoun_PCCP_Ice_clusters_2015.pdf",
+    "sha256": "2f49538e651503e497528cd24dfc8f2f2413fb573547eca2365368a88f34a46e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c5cp05741h",
+    "title": "Study of thermal conductivity of ice clusters after impact deposition on the silica surfaces using the ReaxFF reactive force field",
+    "year": 2015,
+    "authors": "A. Rahnamoun",
+    "venue": "Physical Chemistry Chemical Physics (2015), doi:10.1039/C5CP05741H"
+  },
+  "pdf_path": "papers/Rahnamoun_PCCP_Ice_clusters_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015rahnamoun-physical-che-study-thermal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015rahnamoun-physical-che-study-thermal.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

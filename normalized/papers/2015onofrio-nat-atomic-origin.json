@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015onofrio-nat-atomic-origin",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Strachan_group_Nature_Materials2015.pdf",
+    "sha256": "b848642bdc9ba18be2df5dda5743bb04bb2d89ea7169fb0a8319d162c976d388",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/NMAT4221",
+    "title": "Atomic origin of ultrafast resistance switching in nanoscale electrometallization cells",
+    "year": 2015,
+    "authors": "Nicolas Onofrio; David Guzman and Alejandro Strachan",
+    "venue": "Nature Materials 14, 4 (2015). doi:10.1038/nmat4221"
+  },
+  "pdf_path": "papers/ReaxFF_others/Strachan_group_Nature_Materials2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015onofrio-nat-atomic-origin_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015onofrio-nat-atomic-origin.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

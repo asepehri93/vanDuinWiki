@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020islam-journal-of-e-enhancement-wse2",
+  "manifest": {
+    "source_path": "papers/Others/Islam_Haque_J_Elec_Mat_2020.pdf",
+    "sha256": "5f2d56e56bb6e6a31c32f7d18986abc90cdcd70e5a5ab8764335f68719f4ea1c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1007/s11664-020-08087-w",
+    "title": "Enhancement of WSe2 FET Performance Using Low-Temperature Annealing",
+    "year": 2020,
+    "authors": "Zahabul Islam ",
+    "venue": "Journal of Electronic Materials, https://doi.org/10.1007/s11664-020-08087-w"
+  },
+  "pdf_path": "papers/Others/Islam_Haque_J_Elec_Mat_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020islam-journal-of-e-enhancement-wse2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020islam-journal-of-e-enhancement-wse2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

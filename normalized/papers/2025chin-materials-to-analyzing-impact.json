@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025chin-materials-to-analyzing-impact",
+  "manifest": {
+    "source_path": "papers/Chin_SnSe_Material_Today_Advances_2025.pdf",
+    "sha256": "5d09662f067f1533865f5de77253f8457c9a649347ae4ffbc6b2e20df19b0b94",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Analyzing the impact of Se concentration during the molecular beam epitaxy deposition of 2D SnSe with atomistic-scale simulations and explainable machine learning",
+    "year": 2025,
+    "authors": "Jonathan R. Chin",
+    "venue": "Materials Today Advances, 28 (2025) 100640. doi:10.1016/j.mtadv.2025.100640"
+  },
+  "pdf_path": "papers/Chin_SnSe_Material_Today_Advances_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025chin-materials-to-analyzing-impact_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025chin-materials-to-analyzing-impact.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

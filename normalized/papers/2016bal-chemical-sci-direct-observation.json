@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016bal-chemical-sci-direct-observation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bal_Neyts_CVHD.pdf",
+    "sha256": "4681ba292eb3aef7329f8f0d594fbabe8b65b48cd9634a324ca342b354951380",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Direct observation of realistic-temperature fuel combustion mechanisms in atomistic simulations",
+    "year": 2016,
+    "authors": "Kristof M. Bal",
+    "venue": "Chemical Science (2016), 7, 5280-5286, doi:10.1039/C6SC00498A"
+  },
+  "pdf_path": "papers/ReaxFF_others/Bal_Neyts_CVHD.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016bal-chemical-sci-direct-observation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016bal-chemical-sci-direct-observation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

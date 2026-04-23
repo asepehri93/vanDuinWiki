@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015verners-venue-paper",
+  "manifest": {
+    "source_path": "papers/Verners_CompMatSci_2015_proof.pdf",
+    "sha256": "40e8d0fce98ddf51d927a5ee54ce4fddd10e7fa8c2640ce364a36e92d216cf31",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Verners_CompMatSci_2015_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015verners-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1859
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015verners-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017fa-venue-acam",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Chinese_Coal_Abstracts/Investigation of N Transfer during Coal Pyrolysis and Combustion by Using ReaxFF Molecular Dynamics.pdf",
+    "sha256": "f464c270f65bc3010de03aab5b980f8ff9345bec50287fca5698e38f01693a01",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ACAM",
+    "year": 2017,
+    "authors": "FA",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Chinese_Coal_Abstracts/Investigation of N Transfer during Coal Pyrolysis and Combustion by Using ReaxFF Molecular Dynamics.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017fa-venue-acam_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017fa-venue-acam.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

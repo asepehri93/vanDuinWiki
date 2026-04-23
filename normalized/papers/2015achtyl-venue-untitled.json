@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015achtyl-venue-untitled",
+  "manifest": {
+    "source_path": "papers/Achtyl_NatureComm_2015_proof.pdf",
+    "sha256": "2dc2bc3ba04e3b4c788a8c97421828bfc074bdb6977738d60f42d9dbb023e4a7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/ncomms7539",
+    "title": "untitled",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Achtyl_NatureComm_2015_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015achtyl-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015achtyl-venue-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

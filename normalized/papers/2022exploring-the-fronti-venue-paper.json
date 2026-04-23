@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022exploring-the-fronti-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/exploring-the-frontiers-of-chemistry-with-a-general-reactive-machine-learning-potential.pdf",
+    "sha256": "37713c4ff26de2ae6f7fd359e9da642580cab157e7f159f97caa1d1063fc05ab",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2022,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/exploring-the-frontiers-of-chemistry-with-a-general-reactive-machine-learning-potential.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022exploring-the-fronti-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022exploring-the-fronti-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

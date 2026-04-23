@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Others/C-GeM_Leven_2019.pdf",
     "sha256": "4fefc06bacfadd178f054e476e321fc47185090e51dd9086ee8531c8a66c2b7c",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019leven-j-phys-chem-gem-coarse-grained_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019leven-j-phys-chem-gem-coarse-grained.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

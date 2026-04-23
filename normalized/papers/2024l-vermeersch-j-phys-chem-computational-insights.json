@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024l-vermeersch-j-phys-chem-computational-insights",
+  "manifest": {
+    "source_path": "papers/Vermeersch_JPCA_DielsAlder_2024.pdf",
+    "sha256": "e3aa19f2455c8b23e342c12aaddc7250a3d536d07cf5143fb862cb56ba09289f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Computational Insights into Tunable Reversible Network Materials: Accelerated ReaxFF Kinetics of Furan-Maleimide Diels–Alder Reactions for Self-Healing and Recyclability",
+    "year": 2024,
+    "authors": "L. Vermeersch, T. Wang, N. Van den Brande, F. De Vleeschouwer, and A. C. T. van Duin",
+    "venue": "J. Phys. Chem. A 2024.128:10431-10439"
+  },
+  "pdf_path": "papers/Vermeersch_JPCA_DielsAlder_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024l-vermeersch-j-phys-chem-computational-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024l-vermeersch-j-phys-chem-computational-insights.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20180000-0002-1722-5631-j-phys-chem-development-reaxff",
+  "manifest": {
+    "source_path": "papers/Hahn_NaSiOx_JPCC_2018_online.pdf",
+    "sha256": "1a9c05337dd865fde073654a42472ff598931f9a6852c46b7d8f190d50debc52",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of a ReaxFF Reactive Force Field for NaSiOx/Water Systems and Its Application to Sodium and Proton Self-Diffusion",
+    "year": 2018,
+    "authors": "Seung Ho Hahn (ORCID: 0000-0002-1722-5631); Jessica Rimsza (ORCID: 0000-0003-0492-852X); Louise Criscenti (ORCID: 0000-0002-5212-7201); Wei Sun; Lu Deng; Jincheng Du (ORCID: 0000-0003-4805-7498); Tao Liang (ORCID: 0000-0002-5867-9939); Susan B. Sinnott; Adri C. T. van Duin (ORCID: 0000-0002-3478-4945)",
+    "venue": "J. Phys. Chem. C 0.0:null-null"
+  },
+  "pdf_path": "papers/Hahn_NaSiOx_JPCC_2018_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20180000-0002-1722-5631-j-phys-chem-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20180000-0002-1722-5631-j-phys-chem-development-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

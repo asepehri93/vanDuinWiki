@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018harpale-carbon-130-2-ablative-thermal",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Harpale_Levin_Ablative_pyrolysis_Carbon_2018.pdf",
+    "sha256": "1406db0f480b436016cef297b9600591f1bd10f546741704523fa269b6d7a397",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Ablative thermal protection systems: Pyrolysis modeling by scale-bridging molecular dynamics",
+    "year": 2018,
+    "authors": "Abhilash Harpale",
+    "venue": "Carbon, 130 (2018) 315-324. doi:10.1016/j.carbon.2017.12.099"
+  },
+  "pdf_path": "papers/ReaxFF_others/Harpale_Levin_Ablative_pyrolysis_Carbon_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018harpale-carbon-130-2-ablative-thermal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018harpale-carbon-130-2-ablative-thermal.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

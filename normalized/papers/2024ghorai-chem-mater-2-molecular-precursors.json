@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024ghorai-chem-mater-2-molecular-precursors",
+  "manifest": {
+    "source_path": "papers/Others/From Molecular Precursors to MoS2 Monolayers NanoscaleMechanism of Organometallic Chemical Vapor Deposition.pdf",
+    "sha256": "04cb720dfe872bca8aeecd9a491cec11455538221df06a87e841cd90ca113281",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "From Molecular Precursors to MoS2 Monolayers: Nanoscale Mechanism of Organometallic Chemical Vapor Deposition",
+    "year": 2024,
+    "authors": "Sagar Ghorai and Ananth Govind Rajan",
+    "venue": "Chem. Mater. 2024.36:2698-2710"
+  },
+  "pdf_path": "papers/Others/From Molecular Precursors to MoS2 Monolayers NanoscaleMechanism of Organometallic Chemical Vapor Deposition.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024ghorai-chem-mater-2-molecular-precursors_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024ghorai-chem-mater-2-molecular-precursors.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

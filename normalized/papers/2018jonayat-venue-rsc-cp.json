@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Jonayat_PCCP_2018_galley.pdf",
     "sha256": "45dffebb6a2b4e1ce48bfe6cb9ecef5336866a14006f717dd9fb441c74d3bf9f",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018jonayat-venue-rsc-cp_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 5026
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018jonayat-venue-rsc-cp.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019lu-journal-of-c-structure-activity",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Kuan_Lu_JCat_2019_CO_Fe.pdf",
+    "sha256": "43a889283f7890c9dc53bb23c59d41f54d36cc3b53d8cf1af8ec512c14832faa",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "The structureâ€“activity relationship of Fe nanoparticles in CO adsorption and dissociation by reactive molecular dynamics simulations",
+    "year": 2019,
+    "authors": "Kuan Lu",
+    "venue": "Journal of Catalysis, 374 (2019) 150-160. doi:10.1016/j.jcat.2019.04.010"
+  },
+  "pdf_path": "papers/ReaxFF_others/Kuan_Lu_JCat_2019_CO_Fe.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019lu-journal-of-c-structure-activity_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019lu-journal-of-c-structure-activity.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

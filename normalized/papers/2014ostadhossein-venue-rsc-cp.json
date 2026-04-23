@@ -1,0 +1,33 @@
+{
+ "paper_id": "paper:2014ostadhossein-venue-rsc-cp",
+ "manifest": {
+  "source_path": "papers/Ostadhossein_PCCP_LiSi_proof.pdf",
+  "sha256": "d95ad9dff270ad9e795c6fcaea4c7ad2a4f8b103fbd4e1e7bc70a8576e5ab9af",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1039/c4cp05198j",
+  "title": "Stress effects on the initial lithiation of crystalline silicon nanowires: reactive molecular dynamics simulations using ReaxFF",
+  "year": 2014,
+  "authors": [
+   "Alireza Ostadhossein",
+   "Ekin D. Cubuk",
+   "Georgios A. Tritsaris",
+   "Efthimios Kaxiras",
+   "Sulin Zhang",
+   "Adri C. T. van Duin"
+  ],
+  "venue": "Physical Chemistry Chemical Physics"
+ },
+ "pdf_path": "papers/Ostadhossein_PCCP_LiSi_proof.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014ostadhossein-venue-rsc-cp_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 3488
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014ostadhossein-venue-rsc-cp.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

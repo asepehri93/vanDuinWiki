@@ -2,7 +2,7 @@
 id: concept:theme-ml-atomistic-potentials
 type: concept
 title: "Theme: machine learning atomistic potentials (corpus touchpoints)"
-updated: "2026-04-20"
+updated: "2026-04-21"
 confidence: med
 canonical_tags:
   - domain:ml-atomistic
@@ -50,6 +50,14 @@ This is intentionally **short** because the KB’s **primary** methodological sp
 ### Baselines: ReaxFF development papers as comparison anchors
 
 When contrasting **MLIPs** to **reactive classical** models, the KB’s **development** narratives on [[2018shin-physical-che-development-reaxff]], [[2015lloyd-surface-scie-development-reaxff]], and the overview [[reaxff-family]] supply **what ReaxFF optimizes for** (bond-order, training sets, transferability limits).
+
+## Analysis and cross-cutting patterns
+
+The KB’s **ML atomistic** coverage is **thin** relative to ReaxFF; where **NN potentials** appear, **training-set scope** and **validation** details on the paper page are the primary guardrails—avoid hub-level generalization beyond cited notes.
+
+## Gaps and open directions (corpus view)
+
+**Equivariant** and **Allegro-class** workflows are not uniformly represented—track `domain:ml-atomistic` in [[paper-index-by-domain]] and expand this hub as new notes land.
 
 ## Debates, tensions, and cross-references
 

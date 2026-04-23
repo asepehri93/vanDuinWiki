@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016osti-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Osti_ACS_AMI_Water_Mxene_SI_2016.pdf",
+    "sha256": "86ead778c0ad9dcda0629155a697e24c13765de79ebad8eae116a3fc366902a2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - 2076829_File000002_34769459.docx",
+    "year": 2016,
+    "authors": " ",
+    "venue": null
+  },
+  "pdf_path": "papers/Osti_ACS_AMI_Water_Mxene_SI_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016osti-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3267
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016osti-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

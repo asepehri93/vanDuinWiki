@@ -1,0 +1,32 @@
+{
+ "paper_id": "paper:2014reaxff-venue-reactive-molecular",
+ "manifest": {
+  "source_path": "papers/ReaxFF_others/ReaxFF_lipids_plasma_Neyts_coworkers_2014.pdf",
+  "sha256": "140f48558daeb79d65df8f5a7181ebdd5ef35a7d073d98f1fbc0a5c350fffe60",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1002/ppap.201400084",
+  "title": "Reactive molecular dynamics simulations for a better insight in plasma medicine",
+  "year": 2014,
+  "authors": [
+   "Annemie Bogaerts",
+   "Maksudbek Yusupov",
+   "Jonas Van der Paal",
+   "Christof C. W. Verlackt",
+   "Erik C. Neyts"
+  ],
+  "venue": "Plasma Processes and Polymers"
+ },
+ "pdf_path": "papers/ReaxFF_others/ReaxFF_lipids_plasma_Neyts_coworkers_2014.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014reaxff-venue-reactive-molecular_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014reaxff-venue-reactive-molecular.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

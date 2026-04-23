@@ -1,0 +1,33 @@
+{
+ "paper_id": "paper:2014ong-venue-research",
+ "manifest": {
+  "source_path": "papers/Ong_JPCB_IL_DFT_ReaxFF_2014_proof.pdf",
+  "sha256": "9b819669b8064e558f9cb99583f4b94f7f5feb24010fb09ce7fbaeef7a79fd4a",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1021/jp508184f",
+  "title": "Lithium ion solvation and diffusion in bulk organic electrolytes from first-principles and classical reactive molecular dynamics",
+  "year": 2015,
+  "authors": [
+   "Mitchell T. Ong",
+   "Osvalds Verners",
+   "Erik W. Draeger",
+   "Adri C. T. van Duin",
+   "Vincenzo Lordi",
+   "John E. Pask"
+  ],
+  "venue": "Journal of Physical Chemistry B"
+ },
+ "pdf_path": "papers/Ong_JPCB_IL_DFT_ReaxFF_2014_proof.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014ong-venue-research_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014ong-venue-research.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

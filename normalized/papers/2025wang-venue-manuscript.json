@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025wang-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Wang_JPC_letters_2025_MoS2_phonons_galley.pdf",
+    "sha256": "9db3e0fcee4f42cc3bd88eb1283bad3a3ecc22c1f87d9800a8744612b2ce90e7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpclett.5c00464",
+    "title": "New ReaxFF Reactive Force Field Optimized for Vibrational and Thermal Properties of Molybdenum Disulfide",
+    "year": 2025,
+    "authors": "Tao Wang, Juan M. Marmolejo-Tejada, Martín A. Mosquera, Vincent H. Crespi, Adri C. T. van Duin",
+    "venue": "The Journal of Physical Chemistry Letters"
+  },
+  "pdf_path": "papers/Wang_JPC_letters_2025_MoS2_phonons_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025wang-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025wang-venue-manuscript.md",
+  "updated": "2026-04-25T12:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014zhou-physical-che-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/TingTingZou_Goddard_PETN_SI_PCCP2014.pdf",
+    "sha256": "31a1d4ffd58a9c30c5b348473c29a4f868c4d6d59bfa726783e162efec8b24a4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF reactive molecular dynamics on silicon pentaerythritol tetranitrate crystal validates the mechanism for the colossal sensitivity",
+    "year": 2014,
+    "authors": "Tingting Zhou",
+    "venue": "Physical Chemistry Chemical Physics (2014), 16, 23779-23791, doi:10.1039/C4CP03781B"
+  },
+  "pdf_path": "papers/ReaxFF_others/TingTingZou_Goddard_PETN_SI_PCCP2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014zhou-physical-che-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014zhou-physical-che-reaxff-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

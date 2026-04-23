@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019pnas-waterispolymer-venue-liquid-water",
+  "manifest": {
+    "source_path": "papers/Others/PNAS-WaterIsPolymer.pdf",
+    "sha256": "298481e616bc4dff409bc1659fd7bf2c635e075e34a6416a6a7bacec17da9ed5",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Liquid water is a dynamic polydisperse branched polymer",
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/PNAS-WaterIsPolymer.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019pnas-waterispolymer-venue-liquid-water_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019pnas-waterispolymer-venue-liquid-water.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

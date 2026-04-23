@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20180000-0002-5319-0990-x-defect-design",
+  "manifest": {
+    "source_path": "papers/Yilmaz_potato_stamp_JPC_2018_proof.pdf",
+    "sha256": "18c6f46cfa8c1133249be55d94cfc4032b2656f267d7889426978c287fc8a9b3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Defect Design of Two-Dimensional MoS2 Structures by Using a Graphene Layer and Potato Stamp Concept",
+    "year": 2018,
+    "authors": "Dundar E. Yilmaz (ORCID: 0000-0002-5319-0990)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Yilmaz_potato_stamp_JPC_2018_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20180000-0002-5319-0990-x-defect-design_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20180000-0002-5319-0990-x-defect-design.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

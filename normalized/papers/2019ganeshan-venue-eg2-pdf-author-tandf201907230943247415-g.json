@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019ganeshan-venue-eg2-pdf-author-tandf201907230943247415-g",
+  "manifest": {
+    "source_path": "papers/Ganeshan_Hossain_MolSym_2019_proof.pdf",
+    "sha256": "0d9d42c48feec2fbb028914790b772aa8019c594f8dc3b35ac6ea8a97c8e180c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "eg2-pdf-AUTHOR-TandF201907230943247415-GMOS1646911 1..9",
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Ganeshan_Hossain_MolSym_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019ganeshan-venue-eg2-pdf-author-tandf201907230943247415-g_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7377
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019ganeshan-venue-eg2-pdf-author-tandf201907230943247415-g.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

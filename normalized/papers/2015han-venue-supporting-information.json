@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015han-venue-supporting-information",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Pai_BNCH_PCCP_2016_SupportingInformation.pdf",
+    "sha256": "56c2bb7f276093677ba9492e872d884fb6e02b87753e5a5b193bbc9030a0f3e9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Supporting Information",
+    "year": 2015,
+    "authors": "Sang Soo Han",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Pai_BNCH_PCCP_2016_SupportingInformation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015han-venue-supporting-information_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 890
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015han-venue-supporting-information.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

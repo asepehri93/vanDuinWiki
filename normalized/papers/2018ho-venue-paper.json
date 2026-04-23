@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Hahn_NaSiOx_JPCC_2018_SI.pdf",
     "sha256": "4f729f601bd851419c83d1c153fdb43a83feaefb481b74760abd1973e3fd9c3d",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018ho-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 3659
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018ho-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

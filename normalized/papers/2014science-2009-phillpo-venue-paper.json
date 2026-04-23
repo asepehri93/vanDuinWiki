@@ -1,0 +1,29 @@
+{
+ "paper_id": "paper:2014science-2009-phillpo-venue-paper",
+ "manifest": {
+  "source_path": "papers/Others/Science-2009-Phillpot-1634-5.pdf",
+  "sha256": "38644a90e1dbd0542dc72d6cec9393d8438dab4e8b6c0dd4aab2eb63c0fb0f6b",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1126/science.1177794",
+  "title": "Simulating multifunctional structures",
+  "year": 2009,
+  "authors": [
+   "Simon R. Phillpot",
+   "Susan B. Sinnott"
+  ],
+  "venue": "Science"
+ },
+ "pdf_path": "papers/Others/Science-2009-Phillpot-1634-5.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014science-2009-phillpo-venue-paper_p1-2.txt",
+  "quality": "partial",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 7118
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014science-2009-phillpo-venue-paper.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

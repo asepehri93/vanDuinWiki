@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019ashraf-j-phys-chem-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/Ashraf_JPC_C_2019_polymeroxidation.pdf",
+    "sha256": "c866735dc9a8d1140590c4887175fac23663716f86e838c4ef62a3609e8baebf",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.9b03739",
+    "title": "Reactive Molecular Dynamics Simulations of the Atomic Oxygen Impact on Epoxies with Different Chemistries",
+    "year": 2019,
+    "authors": "Chowdhury Ashraf; Aniruddh Vashisth; Charles E. Bakis; Adri C. T. van Duin",
+    "venue": "J. Phys. Chem. C 2019.123:15145-15156"
+  },
+  "pdf_path": "papers/Ashraf_JPC_C_2019_polymeroxidation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019ashraf-j-phys-chem-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019ashraf-j-phys-chem-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

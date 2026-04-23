@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012castro-marcano-combustion-a-combustion-illinois",
+  "manifest": {
+    "source_path": "papers/Castro_CombFlame_coal_2012.pdf",
+    "sha256": "31ec3343a0bf9156a7fe121bf555a2b2e6f74b25153aaa0cc6766169cd8aa5eb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Combustion of an Illinois No. 6 coal char simulated using an atomistic char representation and the ReaxFF reactive force field",
+    "year": 2012,
+    "authors": "Fidel Castro-Marcano",
+    "venue": "Combustion and Flame, 159 (2012) 1272-1285. doi:10.1016/j.combustflame.2011.10.022"
+  },
+  "pdf_path": "papers/Castro_CombFlame_coal_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012castro-marcano-combustion-a-combustion-illinois_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012castro-marcano-combustion-a-combustion-illinois.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

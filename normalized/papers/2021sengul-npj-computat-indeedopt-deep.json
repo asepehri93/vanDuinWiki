@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021sengul-npj-computat-indeedopt-deep",
+  "manifest": {
+    "source_path": "papers/Sengul_npj_CompMat_2021_INDEED_opt.pdf",
+    "sha256": "6f35591d5936a4764ab8aeb7e95d2ea1a251839884af05cca6df2fa6ee7de5bd",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-021-00534-4",
+    "title": "INDEEDopt: a deep learning-based ReaxFF parameterization framework",
+    "year": 2021,
+    "authors": "Mert Y. Sengul",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-021-00534-4"
+  },
+  "pdf_path": "papers/Sengul_npj_CompMat_2021_INDEED_opt.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021sengul-npj-computat-indeedopt-deep_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021sengul-npj-computat-indeedopt-deep.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025hamdy-arkoub-acs-surface-orientation-dependent",
+  "manifest": {
+    "source_path": "papers/Arkoub-et-al-2025-surface-orientation-dependent-corrosion-behavior-of-nicr-alloys-in-molten-flinak-salt.pdf",
+    "sha256": "cb2cd1b9e9bc1c90a08343341ebf84cb97870484426891e839f7e9a6eaad830f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Surface Orientation-Dependent Corrosion Behavior of NiCr Alloys in Molten FLiNaK Salt",
+    "year": 2025,
+    "authors": "Hamdy Arkoub, Daniel Flynn, Adri C.T. van Duin, and Miaomiao Jin",
+    "venue": "ACS Appl. Mater. Interfaces 2025.17:38708-38719"
+  },
+  "pdf_path": "papers/Arkoub-et-al-2025-surface-orientation-dependent-corrosion-behavior-of-nicr-alloys-in-molten-flinak-salt.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025hamdy-arkoub-acs-surface-orientation-dependent_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025hamdy-arkoub-acs-surface-orientation-dependent.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

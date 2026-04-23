@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018vashisth-venue-paper",
+  "manifest": {
+    "source_path": "papers/Vashisth_Polymer_2018_proof.pdf",
+    "sha256": "ac60ebe91546bf2d050d4376fde977c326a62ecbfa4da7abfa6b2dbeb8a4c2ac",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Vashisth_Polymer_2018_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018vashisth-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018vashisth-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -27,57 +27,23 @@ pdf_path: "papers/Islam_JCTC_eReaxFF_2016.pdf"
 extraction_quality: "good"
 group_affiliation: true
 ---
-
 <!-- id:paper:2016islam-venue-ct6b00432 -->
-
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
 ## Summary
 
-The article introduces **eReaxFF**, an extension of **ReaxFF** that treats **electrons explicitly** in a **pseudoclassical** formulation integrated with **ACKS2-derived** charge/electronic-structure approximations, targeting **orders-of-magnitude** speedups over conventional **quantum chemistry dynamics**. Training emphasizes **electron affinities** for representative **hydrocarbon radicals**, with **MD demonstrations** comparing **eReaxFF** to **Ehrenfest**-style references for selected cases. The study argue that **literature ReaxFF parameters** remain largely **transferable** into the new framework, lowering adoption friction.
+The paper introduces **eReaxFF**, extending **ReaxFF** with **pseudoclassical explicit electrons** (and holes) while retaining the bond-order reactive framework. **ACKS2** (atom-condensed Kohn–Sham DFT to second order) is integrated for charge-related quantities. The authors train the extension so that **electron affinities (EAs)** of saturated, unsaturated, and radical species track experiment and selected **DFT** checks, then illustrate **explicit-electron molecular dynamics** on conjugated hydrocarbon radicals and compare to **Ehrenfest** reference dynamics. The abstract emphasizes **orders-of-magnitude** cost reduction relative to **quantum chemistry dynamics** and states that **literature ReaxFF parameters** largely transfer into **eReaxFF** with optimization focused on explicit-electron-related terms.
 
 ## Methods
 
-- **Formulation + integration** of explicit electronic degrees of freedom with **ReaxFF** energy expressions.
-- **ACKS2** coupling for charge-related quantities as described in the paper.
-- **Proof-of-principle MD** on radical systems with **EA benchmarks**.
+**MD application (Section IV.A).** Two conjugated hydrocarbon radicals, **C₁₂H₁₉•** and **C₁₄H₂₃•**, carry an extra electron on the conjugated segment to mimic an excited state. After **NVT** relaxation at **1 K**, **NVT** production runs at **400**, **500**, and **600 K** use a **Berendsen** thermostat (**100 fs** damping), **velocity Verlet** integration, and **Δt = 0.1 fs**, probing temperature-driven electron migration among the conjugated chain, aliphatic linker, and radical site; the same setups are compared to **Ehrenfest** reference dynamics. Section IV.A and Figures 3–4 discuss **multi‑ps** evolution of energy and charge localization rather than a single headline production length. Gas-phase radical models do not use **NPT** barostats, applied electric fields, or bias-based enhanced sampling in the protocol described. Boundary conditions are not spelled out on the opening pages summarized here; the indexed **JCTC** text does not name a commercial MD package.
 
-<!-- enrich-from-extract:v2 -->
+**Force-field formulation and training.** **eReaxFF** retains the standard ReaxFF bonded and nonbonded decomposition while adding explicit electron–nuclear couplings for pseudoclassical carriers and integrating **ACKS2** for charge-related quantities (Sections I–II). Training targets electron affinities across bonding classes; a successive one-parameter search minimizes weighted squared error against literature EA data, adjusting only explicit-electron-related parameters (including Gaussian electron width) while leaving the bulk of literature ReaxFF parameters fixed. **M06-2X/aug-cc-pVTZ** calculations in **Jaguar 7.5** provide spot checks for selected unsaturated species where **eReaxFF** and experiment disagree, showing DFT also underestimates those EAs in the cases discussed.
 
-- We present a computational tool, eReaxFF, for simulating explicit electrons within the framework of the standard ReaxFF reactive force ﬁeld method.
-- We treat electrons explicitly in a pseudoclassical manner that enables simulation several orders of magnitude faster than quantum chemistry (QC) methods, while retaining the ReaxFF transferability.
-- We delineate here the fundamental concepts of the eReaxFF method and the integration of the Atom- condensed Kohn −Sham DFT approximated to second order (ACKS2) charge calculation scheme into the eReaxFF.
-- As a proof-of-principle, we performed a set of molecular dynamics (MD) simulations with an explicit electron model for representative hydrocarbon radicals.
-- We establish a good qualitative agreement of EAs of various species with experimental data, and MD simulations with eReaxFF agree well with the corresponding Ehrenfest dynamics simulations.
-- The standard ReaxFF parameters available in the literature are transferrable to the eReaxFF method.
-- The computationally economic eReaxFF method will be a useful tool for studying large-scale chemical and physical systems with explicit electrons as an alternative to computationally demanding QC methods.
-- Approximate QC based methodsfor example, density functional theory (DFT) or Tight-Binding (TB) schemes have been developed as computationally advantageous alternatives to truly ab initio methods.
-- Even with such appr oximations, nonadiabatic dynamics using time-dependent DFT are quite expensive and are limited to a relatively small number of atoms ( ∼1000) and short time scales ( ∼1 ps). 1,2 Force ﬁeld (FF) based methods have also been developed as an alternative to QC methods.
-- FF methods use simpli ﬁed functional forms and provide much better computational performance, enabling simulations to access much larger scales, of order nanometers in length and nanoseconds in time.
-
+**Static QM as a standalone campaign.** **N/A** — DFT supports EA training and validation only.
 
 ## Findings
 
-- **Qualitative EA trends** align with **experiment** for multiple species in the benchmark suite presented.
-- **eReaxFF MD** tracks **Ehrenfest** references more closely than naïve classical alternatives in the tests highlighted in the abstract.
-- Positions the method as a bridge toward **large-scale redox, polarization, and battery-interface** problems that strain implicit-charge reactive models.
-
-### Additional results (article abstract)
-
-- The eFF has been parametrized only for a limited number of elements in the periodic table, and the primary application areas are materials that are subjected to extreme pressure and temperature apart from the complexity of the reactive systems. 7,8 The ability of the LEWIS method to describe atomic electron a ﬃ nities (EA) and ionization potentials (IP) of the ﬁrst three row elements is encouraging, still such description for molecules is not available. 12,13 The low- temperature dynamics of liquid water 9,11 and prediction of ground state con ﬁgurations of some chemical species 14 indicate the promising capabilities of the LEWIS method, but, the challenge of describing complex reactions or high-temperature dynamics with an acceptable level of accuracy is yet to be demonstrated.
-- However, most of the available force ﬁeld methods provide a substitute for the electronic structure and are typically nonreactive in nature, implying the absence of explicit electrons and their impact on system geometry and energy, as well as the inability to simulate bond breaking and formation.
-- An accurate description of these phenomena requires an explicit treatment of electron degrees of freedom, which must be within the classical framework of the classical potentials.
-- Recently, a number of force ﬁeld methods have been developed that include aspects of explicit valence electrons, like the electron force ﬁeld (eFF) 7,8 and LEWIS9−11 force ﬁeld.
-- There also exists alternate methods to couple covalent and electrostatic interactions through split-charge equilibration (SQE) 15,16 for describing charge transfer in reactive dynamics, 17 without an explicit electron treatment.
-- To the best of our knowledge, no classical force ﬁeld method with access to explicit electrons has been employed to simulate complex reactive events.
-- The treatment of an explicit electron within the classical framework can only capture the “particle” nature of the “wave- particle dual ” nature of the electron
-
+The abstract reports qualitatively correct electron affinities versus experiment for the training set and good agreement between **eReaxFF** MD and **Ehrenfest** dynamics for the radical demonstrations, while conventional ReaxFF fails many of the same EA targets (Figure 2). Section IV.A describes how temperature changes the timescale for electron migration from the polyacetylene-like segment toward the radical site, including transient localization on the aliphatic linker at elevated temperature; the **400 / 500 / 600 K** comparison for **C₁₂H₁₉•** illustrates thermally accelerated pathways that are rarer at lower temperature. The authors note that full quantum calculations delocalize the added electron more than the pseudoclassical treatment—an explicit limitation—and position **eReaxFF** as a large-scale alternative to costly time-dependent DFT nonadiabatic dynamics.
 
 ## Limitations
 

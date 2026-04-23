@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022mao-venue-d2nr00203e",
+  "manifest": {
+    "source_path": "papers/Mao_Nanoscale_PAN_blend_carbonfibers_2022.pdf",
+    "sha256": "3af19116af3c2e394bc141175a3b423dbb18dd5bdfb1622c48a28e050e536c0a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/d2nr00203e",
+    "title": "d2nr00203e 6357..6372 ++",
+    "year": 2022,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Mao_Nanoscale_PAN_blend_carbonfibers_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022mao-venue-d2nr00203e_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022mao-venue-d2nr00203e.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018kim-acs-activity-selectivity",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Kim_Han_Ru_NH3)ACI_AMI_2018.pdf",
+    "sha256": "ec5bf6a861ccb3a40d2f37371dd6f6b5d39a46b419ffd80ad0fad9f9559134c5",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Activity, Selectivity, and Durability of Ruthenium Nanoparticle Catalysts for Ammonia Synthesis by Reactive Molecular Dynamics Simulation: The Size Effect",
+    "year": 2018,
+    "authors": "Sung-Yup Kim; Hong Woo Lee; Sung Jin Pai; Sang Soo Han",
+    "venue": "ACS Appl. Mater. Interfaces 2018.10:26188-26194"
+  },
+  "pdf_path": "papers/ReaxFF_others/Kim_Han_Ru_NH3)ACI_AMI_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018kim-acs-activity-selectivity_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018kim-acs-activity-selectivity.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

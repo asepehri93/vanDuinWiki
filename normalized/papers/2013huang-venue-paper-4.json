@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013huang-venue-paper-4",
+  "manifest": {
+    "source_path": "papers/Huang_Joshi_MOF_JCPSA6_138_3_034102_1.pdf",
+    "sha256": "f1e622236c903442b8bac73d9c2ccee333f6d1f47315b676f89b4c9e4ed0f723",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4774332",
+    "title": null,
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Huang_Joshi_MOF_JCPSA6_138_3_034102_1.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013huang-venue-paper-4_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6020
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013huang-venue-paper-4.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

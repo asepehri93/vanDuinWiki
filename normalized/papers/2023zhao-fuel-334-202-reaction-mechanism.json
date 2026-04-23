@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023zhao-fuel-334-202-reaction-mechanism",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zhao_Al_NP_PVDF_Fuel_2023.pdf",
+    "sha256": "6c9b8cfc30e5bc621dee4d2e0ce6494bf8d1ffaec3e77ad61a1fd19bccfa68af",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "The reaction mechanism of Al NPs/PVDF high energy fuel: A ReaxFF MD and DFT study meshing together laser-ignition experimental verification",
+    "year": 2023,
+    "authors": "Xiaolong Zhao",
+    "venue": "Fuel, 334 (2023) 126730. doi:10.1016/j.fuel.2022.126730"
+  },
+  "pdf_path": "papers/ReaxFF_others/Zhao_Al_NP_PVDF_Fuel_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023zhao-fuel-334-202-reaction-mechanism_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7941
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023zhao-fuel-334-202-reaction-mechanism.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

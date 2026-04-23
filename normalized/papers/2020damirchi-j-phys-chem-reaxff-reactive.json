@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020damirchi-j-phys-chem-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/Damirchi_JPC_2020_CNT_polymer.pdf",
+    "sha256": "2bd6cd8cdbf7e1364d03751c4b55e1e362513135c855a43e0d7b130b176b153c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF Reactive Force Field Study of Polymerization of a Polymer Matrix in a Carbon Nanotube-Composite System",
+    "year": 2020,
+    "authors": "Behzad Damirchi; Matthew Radue; Krishan Kanhaiya; Hendrik Heinz; Gregory M. Odegard; Adri C. T. van Duin",
+    "venue": "J. Phys. Chem. C 2020.124:20488-20497"
+  },
+  "pdf_path": "papers/Damirchi_JPC_2020_CNT_polymer.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020damirchi-j-phys-chem-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020damirchi-j-phys-chem-reaxff-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -40,15 +40,31 @@ C-GeM introduces a coarse-grained electron picture in which each atom has a posi
 
 ## Methods
 
-Coarse-grained electron model with Gaussian charge distributions; energy minimization over shell positions for given nuclear geometry. Validation against reference electrostatic properties and selected dissociation scenarios.
+### Model definition (not ReaxFF QM training) (A)
+
+**C-GeM** assigns each atom a **positive core** plus a **Gaussian “electron shell”**; **shell** positions are **relaxed** in the field of fixed **nuclei** using **electronegativity**-linked **core–shell** energetics so the resulting **charge distribution** reproduces **molecular electrostatic potentials (ESP)** and **intermolecular** interactions without full **Kohn–Sham** solves at every **geometry**.
+
+### Validation scenarios (C-style benchmarks)
+
+Tests on **H/C/O/Cl** molecular sets compare **ESP** accuracy to references; selected **dissociation** cases (e.g. **HCl** in different environments) probe **qualitative** **ionic** vs **neutral** products.
+
+### Molecular dynamics coupling (B)
+
+**Not a production MD engine paper**—the emphasis is **fast ESP/interaction** evaluation as an alternative to **reactive charge equilibration** in some workflows.
 
 ## Findings
 
-High accuracy for electrostatic potential on tested sets; correct qualitative behavior for HCl dissociation in different environments. The approach limits unphysical long-range charge transfer compared with some classical charge models and can represent features such as sigma holes when charge is not strictly atom-centered.
+### Mechanisms / behavior
+
+Reported **high** **ESP** accuracy on tested sets and **qualitatively correct** **HCl** dissociation behavior across environments; **sigma-hole**-like features can appear when **charge** is not strictly **atom-centered**, with **reduced** spurious **long-range** charge transfer vs some classical models.
+
+### Limitations and scope
+
+Validation set is **finite** (**H/C/O/Cl** in the Letter); coupling to **large** condensed-phase **MD** and broader **chemistries** is **not** demonstrated to the same level as **ReaxFF** **parameterization** studies.
 
 ## Limitations
 
-Training/validation scope in the letter is finite (stated H/C/O/Cl set); transferability to broader chemistries and coupling to full MD for large condensed-phase systems is not the same problem as parametrizing ReaxFF.
+Training/validation scope in the letter is finite (stated H/C/O/Cl set); transferability to broader chemistries and coupling to full MD for large condensed-phase systems is not the same problem as parametrizing ReaxFF. **JPCL** communications also compress **benchmark** tables—readers should pull **numerical** **targets** and **error** metrics from the **PDF** rather than from short wiki summaries. **C-GeM** is **not** interchangeable with **QEq** or **ACKS2** without checking **energy** **units**, **cutoffs**, and **minimization** **protocols** in the original implementation notes.
 
 ## Relevance to group
 

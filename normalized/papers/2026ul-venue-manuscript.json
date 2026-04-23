@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2026ul-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Ul_Hosna_JPC_C_SiCOH_polymers_2026_galley.pdf",
+    "sha256": "9b196254fb84098e357b3b825830df47e6ebd515c42dfabe72bf5151cc5d7575",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.5c05359",
+    "title": "manuscript 1..16",
+    "year": 2026,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Ul_Hosna_JPC_C_SiCOH_polymers_2026_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2026ul-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2026ul-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

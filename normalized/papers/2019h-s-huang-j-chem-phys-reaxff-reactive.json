@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019h-s-huang-j-chem-phys-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/Huang_JCP_2019_CuZr_liquid.pdf",
+    "sha256": "00f0283c2dae54e2c43d73b057c1abc35c7c1831835720975adf0244d73e88da",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5112794",
+    "title": "ReaxFF reactive force field for molecular dynamics simulations of liquid Cu and Zr metals",
+    "year": 2019,
+    "authors": "H. S. Huang, L. Q. Ai, A. C. T. van Duin, M. Chen, and Y. J. Lü",
+    "venue": "J. Chem. Phys. 2019.151:094503"
+  },
+  "pdf_path": "papers/Huang_JCP_2019_CuZr_liquid.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019h-s-huang-j-chem-phys-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4775
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019h-s-huang-j-chem-phys-reaxff-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

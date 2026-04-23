@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017patrito-venue-research",
+  "manifest": {
+    "source_path": "papers/Patrito_Zhang_SiC_ACS_AMI_2017_proof.pdf",
+    "sha256": "b91d4058a6c6f84f731317b803d770a528c949b85c4e00a9185d1508b4521e9f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..13",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Patrito_Zhang_SiC_ACS_AMI_2017_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017patrito-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017patrito-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019amar-m-kamat-nat-bioinspired-cilia",
+  "manifest": {
+    "source_path": "papers/Others/Kamat-graphene-flow-sensor-2019.pdf",
+    "sha256": "37653b290a0305647fe24913078a728eb1b5b0e765c89e3b27c3e55de6c3c408",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.3390/nano9070954",
+    "title": "Bioinspired Cilia Sensors with Graphene Sensing Elements Fabricated Using 3D Printing and Casting",
+    "year": 2019,
+    "authors": "Amar M. Kamat, Yutao Pei and Ajay G.P. Kottapalli",
+    "venue": "Sensor designs found in nature are optimal due to their evolution over millions of years, making them well-suited for sensing applications. However, replicating these complex, three-dimensional (3D), biomimetic designs in artificial and flexible sensors using conventional techniques such as lithography is challenging. In this paper, we introduce a new processing paradigm for the simplified fabrication of flexible sensors featuring complex and bioinspired structures. The proposed fabrication workflow entailed 3D-printing a metallic mold with complex and intricate 3D features such as a micropillar and a microchannel, casting polydimethylsiloxane (PDMS) inside the mold to obtain the desired structure, and drop-casting piezoresistive graphene nanoplatelets into the predesigned microchannel to form a flexible strain gauge. The graphene-on-PDMS strain gauge showed a high gauge factor of 37 as measured via cyclical tension-compression tests. The processing workflow was used to fabricate a flow sensor inspired by hair-like ‘cilia’ sensors found in nature, which comprised a cilia-inspired pillar and a cantilever with a microchannel that housed the graphene strain gauge. The sensor showed good sensitivity against both tactile and water flow stimuli, with detection thresholds as low as 12 m in the former and 58 mm/s in the latter, demonstrating the feasibility of our method in developing flexible flow sensors."
+  },
+  "pdf_path": "papers/Others/Kamat-graphene-flow-sensor-2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019amar-m-kamat-nat-bioinspired-cilia_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019amar-m-kamat-nat-bioinspired-cilia.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

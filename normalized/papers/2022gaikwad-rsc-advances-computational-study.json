@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022gaikwad-rsc-advances-computational-study",
+  "manifest": {
+    "source_path": "papers/Gaikwad_Odegard_CNT_crosslinking_RSC_Advances_2022_28945.pdf",
+    "sha256": "4a6bb93853c459e4e77d5678be4f9ab6ca6a5ff79c04dc43875e86f1e7c3f545",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Computational study of effect of radiation induced crosslinking on the properties of flattened carbon nanotubes",
+    "year": 2022,
+    "authors": "Prashik S. Gaikwad",
+    "venue": "RSC Advances (2022), 12, 28945-28953, doi:10.1039/D2RA05550C"
+  },
+  "pdf_path": "papers/Gaikwad_Odegard_CNT_crosslinking_RSC_Advances_2022_28945.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022gaikwad-rsc-advances-computational-study_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022gaikwad-rsc-advances-computational-study.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018zeng-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zeng_2018_ReacNetGen__an_Automatic_Reaction_Network_Generator_for_Reactive_Molecular_Dynamic_Simulations_v2.pdf",
+    "sha256": "8d4d2de4d4fedeef566b044b966c14feea56e28cee8fce09f4fb08a4b8b74906",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.26434/chemrxiv.7421534.v2",
+    "title": null,
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Zeng_2018_ReacNetGen__an_Automatic_Reaction_Network_Generator_for_Reactive_Molecular_Dynamic_Simulations_v2.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018zeng-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5211
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018zeng-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

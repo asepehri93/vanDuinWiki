@@ -49,30 +49,25 @@ The work introduces **quenched MD** with **ReaxFF** to build **three-dimensional
 
 ## Methods
 
-- **Reactive force field** **MD** with **quench** schedules emulating **chlorine** **etching**-inspired carbon restructuring (parameterization details in paper).
-- **Structural** and **adsorption** validation against **experimental** references cited internally.
+**1 — MD application (quenched ReaxFF MD + optional NPT compression in LAMMPS).** **Reactive MD (ReaxFF)** is run in **LAMMPS** to generate **3D carbide-derived carbon (CDC)** models using a **quenched MD (QMD)** schedule from **3500 K → 3000 K** on **fluid-like randomized initial carbon** cells (**20000 atoms** per sample in the reported **QMD-x** series, **~6.5–7.5 nm** cubic **periodic** boxes). **Quench duration** is varied (**5–500 ps**), giving nominal **quench rates ~100–1 K ps⁻¹** as described in the Computational Details section. **NVT** integration uses a **Nosé–Hoover thermostat** (**~100.5 fs** damping per the article text) with **Δt = 0.5 fs**. For selected models, a **post-quench NPT compression** step is applied (**3000 K**, **~20 000 atm** in the excerpted protocol) using the **Shinoda–Rahman**-style **NPT** integrator in **LAMMPS** with **Δt = 0.5 fs** and **stated damping** values for **temperature/pressure** control, intended to **shift pore-size distributions** toward experimental targets without destroying short-range **graphitic** motifs. **GCMC nitrogen adsorption** (also **LAMMPS**) is used to compare **simulated vs experimental** isotherms after structural generation. **N/A — electric field**: not part of the described QMD workflow.
 
-<!-- enrich-from-extract:v2 -->
+**2 — Force-field training / fitting.** **N/A — new QM refit in this paper**: the authors apply a **published ReaxFF carbon** parameterization (cited combination of references in the article) suitable for **amorphous/porous carbon** QMD workflows.
 
-- These materials are heterogenous, non-ideal structures and include several important parameters that govern their performance.
-- Therefore, a realistic model of the CDC structure is needed in order to study these systems and their nanoscale and macroscale properties with molecular simulation.
-- We report the use of the ReaxFF reactive force ﬁeld in a quenched molecular dynamics routine to generate atomistic CDC models.
-- We report a novel atomistic model of carbide-derived carbons (CDCs), which are nanoporous carbons with high speciﬁc surface areas, synthesis-dependent degrees of graphitization, and well-ordered, tunable porosities.
-- These properties make CDCs viable substrates in several energy-relevant applications, such as gas storage media, electrochemical capacitors, and catalytic supports.
+**3 — Static QM / DFT.** **QSDFT** and related **experimental PDF/STEM** comparisons appear in the analysis pipeline, but **DFT** is **not** the on-the-fly **structure generator** for the QMD samples.
 
+**4 — Review / non-simulation framing.** **N/A**: primary modeling paper. **Proof PDF** (`papers/Thompson_C_2017-proof.pdf`) may show placeholder metadata; confirm **final DOI/issue** via publisher records (**sibling:** **`[[2017matthew-w-thompson-we-report-a-atomistic-carbide-derived-2]]`** when populated).
 
 ## Findings
 
-- **CDC** models reproduce key **structural** signatures and respond physically to **compression** refinements.
-- **Non-hexagonal** ring content is pronounced, potentially informing **electronic**/**capacitance** differences vs simpler nanoporous carbon models.
+**Outcomes and mechanisms.** **QMD** models reproduce **g(r)**, **pore-size distributions**, and **adsorption** metrics that **track experimental CDC data** better than simplistic **slit-pore** baselines. **Ring statistics** show abundant **non-hexagonal** rings, distinguishing **CDC** models from many **activated-carbon**-like constructs at comparable mean pore sizes.
 
-### Additional results (article abstract)
+**Comparisons.** **Simulated N\(_2\) isotherms** and **QSDFT-reduced pore metrics** are compared to **experimental** CDC benchmarks; **STEM** images provide qualitative structural anchors in the article figures.
 
-- Ring size distributions of this model demonstrate the prevalence of non-hexagonal carbon rings in CDCs.
-- The pair distribution function, pore size distribution, and adsorptive properties of this model are reported and corroborated with experimental data.
-- Simulations demonstrate that compressing the system after quenching changes the pore size distribution to better match the experimental target.
-- These effects may contrast the properties of CDCs against those of activated carbons with similar pore size distributions and explain higher energy densities of CDC-based supercapacitors.
+**Sensitivity and design levers.** **Quench rate** strongly controls **amorphous vs ordered** character (**faster quenches → more stringy/amorphous**; **slower quenches → more six-membered rings and larger pores** as summarized in the Results). **Post-quench compression** shifts **pore-size distributions** toward **sub-nanometer** targets while preserving much of the **local bonding** learned at slower quenches.
 
+**Limitations and outlook (as authored).** The manuscript stresses that **simulation quench rates** lack a **direct one-to-one** mapping to **chlorine-etching** laboratory timescales; compression is likewise a **targeting device**, not a literal **synthesis** replica.
+
+**Corpus / PDF honesty.** This page summarizes the **proof PDF** in-repo; operators should align **DOI**/**pagination** with the **published MDPI *C*** article when wiring automation.
 
 ## Limitations
 

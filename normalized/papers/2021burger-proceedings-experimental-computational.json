@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021burger-proceedings-experimental-computational",
+  "manifest": {
+    "source_path": "papers/Burger_Zhu_Combustion_Looping_ProcCombInst_2021.pdf",
+    "sha256": "dd20a76d6b4497755083d072b35e9dc796b02ec3c93727ae527a1c3ab5b45f04",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.proci.2020.06.006",
+    "title": "Experimental and computational investigations of ethane and ethylene kinetics with copper oxide particles for Chemical Looping Combustion",
+    "year": 2021,
+    "authors": "Christopher Burger",
+    "venue": "Proceedings of the Combustion Institute, Corrected proof. doi:10.1016/j.proci.2020.06.006"
+  },
+  "pdf_path": "papers/Burger_Zhu_Combustion_Looping_ProcCombInst_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021burger-proceedings-experimental-computational_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021burger-proceedings-experimental-computational.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

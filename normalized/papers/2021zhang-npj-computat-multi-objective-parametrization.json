@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021zhang-npj-computat-multi-objective-parametrization",
+  "manifest": {
+    "source_path": "papers/Others/Zhang_Paci_Mendoza_npjCompMat_2D_2021.pdf",
+    "sha256": "1ffe124100cdbe1129f71d140f6868f98807a713980dcb7edc014e2a32467f84",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-021-00573-x",
+    "title": "Multi-objective parametrization of interatomic potentials for large deformation pathways and fracture of two-dimensional materials",
+    "year": 2021,
+    "authors": "Xu Zhang",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-021-00573-x"
+  },
+  "pdf_path": "papers/Others/Zhang_Paci_Mendoza_npjCompMat_2D_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021zhang-npj-computat-multi-objective-parametrization_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021zhang-npj-computat-multi-objective-parametrization.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

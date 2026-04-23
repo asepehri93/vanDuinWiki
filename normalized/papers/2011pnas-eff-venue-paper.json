@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011pnas-eff-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/PNAS-eFF_2011-Kim-15101-5.pdf",
+    "sha256": "f116c77b01122bd0d5dabbda5bf9d85c6530f049571b70fd918957ae8f8c2319",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "201110322 15101..15105",
+    "year": 2011,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/PNAS-eFF_2011-Kim-15101-5.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011pnas-eff-venue-paper_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011pnas-eff-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

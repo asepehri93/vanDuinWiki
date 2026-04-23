@@ -31,6 +31,8 @@ All schemas, ID rules, frontmatter contracts, and ingest policy are defined in [
 
 **Phase 4 (wiki compilation):** [`docs/PHASE4_RUNBOOK.md`](docs/PHASE4_RUNBOOK.md) — LLM-led paper and entity pages, linking, and normalized JSON enrichment.
 
+**Operator roadmap (connectivity Wave 2 + Phase 5 loop + Phase 8 scope):** [`docs/MASTER_PLAN.md`](docs/MASTER_PLAN.md)
+
 ## Phases
 
-This repo follows a phased master plan: Phase 0–3 are documented in-repo (KPIs, IA/schema, taxonomy, corpus profiling); **Phase 4** is LLM-led wiki compilation ([`docs/PHASE4_RUNBOOK.md`](docs/PHASE4_RUNBOOK.md)); **Phase 5** is hybrid retrieval and benchmark grading ([`docs/PHASE5_RUNBOOK.md`](docs/PHASE5_RUNBOOK.md), [`indexes/README.md`](indexes/README.md)); later phases cover publication/export.
+This repo follows a phased master plan: Phase 0–3 are documented in-repo (KPIs, IA/schema, taxonomy, corpus profiling); **Phase 4** is LLM-led wiki compilation ([`docs/PHASE4_RUNBOOK.md`](docs/PHASE4_RUNBOOK.md)); **Phase 5** is hybrid retrieval and benchmark grading ([`docs/PHASE5_RUNBOOK.md`](docs/PHASE5_RUNBOOK.md), [`indexes/README.md`](indexes/README.md)); **Phase 8** is public/export policy ([`docs/PHASE8_EXPORT.md`](docs/PHASE8_EXPORT.md)). The **single roadmap** tying these together after the first-pass compile is [`docs/MASTER_PLAN.md`](docs/MASTER_PLAN.md).

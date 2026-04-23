@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017aussems-chemical-sci-atomistic-simulations",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Aussems_ReaxFF_graphene_H.pdf",
+    "sha256": "f2b6e782331d445fbed49b2c87d2a8e5bfee2674358b33bf17316ab0ec634660",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic simulations of graphite etching at realistic time scales",
+    "year": 2017,
+    "authors": "D. U. B. Aussems",
+    "venue": "Chemical Science (2017), 8, 7160-7168, doi:10.1039/C7SC02763J"
+  },
+  "pdf_path": "papers/ReaxFF_others/Aussems_ReaxFF_graphene_H.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017aussems-chemical-sci-atomistic-simulations_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017aussems-chemical-sci-atomistic-simulations.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

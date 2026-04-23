@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025zhang-venue-paper",
+  "manifest": {
+    "source_path": "papers/Zhang_Yuwei_AlFHO_JCP_2025_galley.pdf",
+    "sha256": "94771f5b80cdc58715cd48760aba97fa42c674942034e83758dfbd2aac737c63",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0260909",
+    "title": null,
+    "year": 2025,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Zhang_Yuwei_AlFHO_JCP_2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025zhang-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6345
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025zhang-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

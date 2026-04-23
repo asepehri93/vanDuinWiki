@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024moradifar-matter-corre-thermally-induced",
+  "manifest": {
+    "source_path": "papers/Moradifar_SeBiTe_Matter_2024.pdf",
+    "sha256": "3ec1f8c6a5db2c51189cf7f09acc4e2cb6c319ef3ebb783e873f0e74eabe34f1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.matt.2024.08.006",
+    "title": "Thermally induced structural evolution and nanoscale interfacial dynamics in Bi-Sb-Te layered nanostructures",
+    "year": 2024,
+    "authors": "Parivash Moradifar",
+    "venue": "Matter, Corrected proof. doi:10.1016/j.matt.2024.08.006"
+  },
+  "pdf_path": "papers/Moradifar_SeBiTe_Matter_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024moradifar-matter-corre-thermally-induced_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5615
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024moradifar-matter-corre-thermally-induced.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

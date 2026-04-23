@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023takamoto-journal-of-m-towards-universal",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/TeaNet_2023_J_Materionomics.pdf",
+    "sha256": "3d9c6cd0730104a19bfdef533e496a5e5eb468a1da6a8d0b9bab5cbd59438cdb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Towards universal neural network interatomic potential",
+    "year": 2023,
+    "authors": "So Takamoto",
+    "venue": "Journal of Materiomics, Corrected proof. doi:10.1016/j.jmat.2022.12.007"
+  },
+  "pdf_path": "papers/ReaxFF_others/TeaNet_2023_J_Materionomics.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023takamoto-journal-of-m-towards-universal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023takamoto-journal-of-m-towards-universal.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

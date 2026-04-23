@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016neyts-venue-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Neyts_et_al-2017-Plasma_Processes_and_Polymers.pdf",
+    "sha256": "e4e505ae2bb752bc13d8b7a520395c4d586f936f237366a4098be91c13f238f0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular Dynamics Simulations for Plasma-Surface Interactions",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Neyts_et_al-2017-Plasma_Processes_and_Polymers.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016neyts-venue-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7539
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016neyts-venue-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

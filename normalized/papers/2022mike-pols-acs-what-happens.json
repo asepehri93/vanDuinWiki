@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Pols_ACS_AMI_CsPbI3_2022.pdf",
     "sha256": "4e0e54fed3c25412da77fa2c0185d06ca01bc4874dafa1d54c8d2bfd154fa7f8",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2022mike-pols-acs-what-happens_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2022mike-pols-acs-what-happens.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

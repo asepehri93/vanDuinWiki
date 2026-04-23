@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025fazlioglu-yalcin-npj-computat-multi-physics-predictive",
+  "manifest": {
+    "source_path": "papers/Yalcin_Nayir_TIPP_npjCompMat_2025.pdf",
+    "sha256": "1cd804aebc36836dbb84a3100c71f640167c9dbb3f6f317967612e20da51aac7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-025-01782-4",
+    "title": "Multi-physics predictive framework for thermolysis of titanium(IV)-isopropoxide",
+    "year": 2025,
+    "authors": "Benazir Fazlioglu-Yalcin",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-025-01782-4"
+  },
+  "pdf_path": "papers/Yalcin_Nayir_TIPP_npjCompMat_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025fazlioglu-yalcin-npj-computat-multi-physics-predictive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025fazlioglu-yalcin-npj-computat-multi-physics-predictive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

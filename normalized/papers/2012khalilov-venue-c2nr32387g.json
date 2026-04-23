@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012khalilov-venue-c2nr32387g",
+  "manifest": {
+    "source_path": "papers/Khalilov_Nanoscale-2013-5-719.pdf",
+    "sha256": "8bbe9d4d6553b3d183146d34333fe6ae6394dd2cb6f2c1c15731f0ade4089ecf",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "C2NR32387G 719..725",
+    "year": 2012,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Khalilov_Nanoscale-2013-5-719.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012khalilov-venue-c2nr32387g_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012khalilov-venue-c2nr32387g.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

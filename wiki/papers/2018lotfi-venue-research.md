@@ -45,18 +45,29 @@ group_affiliation: true
 
 ## Methods
 
-- **ReaxFF reactive MD** of **multi-strand lubricant** systems with explicit **gas**, **water**, and **NP** interfaces.
-- **High-temperature** protocol (article uses **1500 K** in the abstract text) to access **reaction events** within accessible MD timescales.
+**Force field.** **ReaxFF** covers **PFPE** **C/F/O** chemistry together with gas-phase **O\(_2\)**, **H\(_2\)O**, and **oxide nanoparticle** surfaces (**SiO\(_2\)**, **goethite**, **Fe\(_2\)O\(_3\)**) as enumerated in *J. Phys. Chem. C* (`papers/Lotfi_JPC_C_2018_proof.pdf` is an **ACS proof**; reconcile tables and figure callouts with the version-of-record when citing numbers).
 
+**Reactive MD (degradation cells).** **LAMMPS** **ReaxFF MD** of **multi-strand Demnum-class D4OH** lubricant places explicit **O\(_2\)**, **H\(_2\)O**, and **nanoparticle** contacts in periodic **supercells** (**atom** totals in **Methods**/figures). **Pretreatment:** **nanoparticles** see **dry** vs **wet** **air** exposure before **thermal degradation** runs to vary **surface hydroxylation** / adsorption. **PBC:** **three-dimensional PBC** for bulk reactive cells (**N/A — any frozen boundary layers** per **Methods** if used). **Ensemble:** **NVT**/**NVE**-style thermalized **reactive** sampling for the high-temperature **degradation** windows (exact label per stage in **Methods**). **Thermostat / barostat / timestep:** **N/A — not transcribed** from this proof-ingest note—import from the **VOR** PDF after DOI reconciliation. **Duration / stages:** **nanosecond**-scale **production** segments at **1500 K** (abstract) with preceding **equilibration** in **Methods** (exact **ps/ns** in **PDF**); **1500 K** is a **kinetic accelerator**, not an HDD operating temperature. **Pressure:** **N/A — not highlighted** in the abstract-level summary used here. **Electric field:** **N/A — not used**. **Enhanced sampling:** **N/A — not indicated** for this degradation study.
+
+**Analysis.** **Fragmentation** products and **relative degradation** rates are compared across **oxide** types and **pretreatments** using the article’s **figures** and **tables**.
+
+**Experiments / context.** **Industrial** motivation appears via coauthor affiliations; **primary** evidence summarized here is **computational**—confirm any laboratory claims in the full article.
 ## Findings
 
-- **Water** is the **dominant accelerant** among the small-molecule oxidants treated.
-- **Nanoparticle pretreatment** changes **surface hydroxylation / adsorption** and thereby modulates **degradation rates**.
+**Outcomes.** **Water** is the **dominant accelerant** among the small-molecule oxidants treated in the abstract-level comparison. **Nanoparticle pretreatment** (dry vs wet **air** exposure) shifts **surface hydroxylation / adsorption** and modulates **degradation** rankings across **SiO\(_2\)**, **goethite**, and **Fe\(_2\)O\(_3\)**. **O\(_2\)**-only environments give comparatively **minor acceleration** vs **H\(_2\)O**-containing cases.
 
+**Comparisons / sensitivity.** The study contrasts **oxide** identity and **pretreatment** state under the shared **high-T** MD protocol (**1500 K** in the abstract).
+
+**Limitations / outlook.** **Proof PDF** path (`papers/Lotfi_JPC_C_2018_proof.pdf`); confirm final figure numbering against the **VOR** before citing tabulated rates.
+
+**Corpus honesty.** This slug tracks an **ACS proof** ingest for DOI **10.1021/acs.jpcc.7b09660**; detailed fragmentation statistics should be anchored to the **published** article PDF where it diverges from proof layout.
 ## Limitations
 
 - **Elevated temperature** is a **kinetic accelerator**, not a direct **operating temperature** of devices; extrapolation requires **care**.
 - **PFPE chemistry** is complex; **quantitative** product distributions may be **force-field sensitive**.
+- **Catalyst** **metals**, **lubricant** **additives**, and **laser-assisted** **heating** in **real** **HDD** **tests** introduce **degradation** **channels** beyond **O\(_2\)**/**H\(_2\)O**/**oxide** **NP** scenarios in the **simulation** **matrix**.
+- **Tribocharging**, **meniscus** **films**, and **shear** **rates** at **head–disk** **contacts** couple **mechanochemistry** to **thermal** **hotspots** in ways not fully represented by **isothermal** **bulk** **ReaxFF** **cells**.
+- **FEP**/**Zdol**-class **PFPE** **blends** used in **some** **HDD** **formulations** may show **branching** **scission** not captured by **single** **D4OH** **strand** **models**.
 
 ## Relevance to group
 

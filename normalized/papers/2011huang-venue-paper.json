@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011huang-venue-paper",
+  "manifest": {
+    "source_path": "papers/Huang_grapene_tear_PhysRevB_2012.pdf",
+    "sha256": "f2404a06299ff0444276e91ff6f732d64bd030af25bd04d9259b276ba3a14091",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevB.85.195453",
+    "title": null,
+    "year": 2011,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Huang_grapene_tear_PhysRevB_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011huang-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011huang-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

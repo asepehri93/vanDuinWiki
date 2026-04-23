@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20230000-0003-1296-7051-x-development-application",
+  "manifest": {
+    "source_path": "papers/Mohammadtabar_JPCC_NiMoS2_2023_galley.pdf",
+    "sha256": "f812908102d725a4d9b9a059b8a83b6f37f7af4fd8e727734cbbfcbd02e2fed3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.3c00668",
+    "title": "Development and Application of a ReaxFF Reactive Force Field for Ni-Doped MoS2",
+    "year": 2023,
+    "authors": "Karen Mohammadtabar (ORCID: 0000-0003-1296-7051)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Mohammadtabar_JPCC_NiMoS2_2023_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20230000-0003-1296-7051-x-development-application_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20230000-0003-1296-7051-x-development-application.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

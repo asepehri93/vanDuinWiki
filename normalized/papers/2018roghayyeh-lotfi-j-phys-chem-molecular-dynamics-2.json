@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018roghayyeh-lotfi-j-phys-chem-molecular-dynamics-2",
+  "manifest": {
+    "source_path": "papers/Lotfi_Lubricant_surfaces_JPC_C_2018.pdf",
+    "sha256": "30076823a9db83558b8572fa9a60106b6eb089b4dfc47a92940bf4ba1e96f0b3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular Dynamics Simulations of Perfluoropolyether Lubricant Degradation in the Presence of Oxygen, Water, and Oxide Nanoparticles using a ReaxFF Reactive Force Field",
+    "year": 2018,
+    "authors": "Roghayyeh Lotfi, Adri C. T. van Duin, and Mousumi Mani Biswas",
+    "venue": "J. Phys. Chem. C 2018.122:2684-2695"
+  },
+  "pdf_path": "papers/Lotfi_Lubricant_surfaces_JPC_C_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018roghayyeh-lotfi-j-phys-chem-molecular-dynamics-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018roghayyeh-lotfi-j-phys-chem-molecular-dynamics-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

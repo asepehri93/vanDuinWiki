@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20200000-0002-5262-6086-x-simulations-biodegradation",
+  "manifest": {
+    "source_path": "papers/Dasgupta_hydrolysis_JPC_2020_proof.pdf",
+    "sha256": "057fb4991a27e36b2bd22d9f1bcd89b1295d7c676e42e401233fc488e2e1bb0b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcb.0c03008",
+    "title": "Simulations of the Biodegradation of Citrate-Based Polymers for Artificial Scaffolds Using Accelerated Reactive Molecular Dynamics",
+    "year": 2020,
+    "authors": "Nabankur Dasgupta (ORCID: 0000-0002-5262-6086)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Dasgupta_hydrolysis_JPC_2020_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20200000-0002-5262-6086-x-simulations-biodegradation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20200000-0002-5262-6086-x-simulations-biodegradation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

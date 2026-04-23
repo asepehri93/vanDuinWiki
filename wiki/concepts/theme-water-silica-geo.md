@@ -2,7 +2,7 @@
 id: concept:theme-water-silica-geo
 type: concept
 title: "Theme: water at silica and geochemical interfaces (ReaxFF corpus)"
-updated: "2026-04-20"
+updated: "2026-04-21"
 confidence: med
 canonical_tags:
   - domain:water-silica-geo
@@ -56,6 +56,14 @@ Corpus-limited review: each **bold claim** about mechanisms should be checked on
 ### Catalytic aqueous chemistry overlap
 
 [[2015broqvist-venue-jp5b01597]] connects when **liquid-like** or **hydrogen-bonding** environments participate in **C–O** chemistry; cross-read [[theme-catalysis-surfaces]].
+
+## Analysis and cross-cutting patterns
+
+**Interfacial water** structure recurs across **oxide**, **glass**, and **electrolyte** notes; **electrostatic** and **coverage** details remain **publication-specific**.
+
+## Gaps and open directions (corpus view)
+
+**Field-scale** geochemistry and **long** transport paths are **not** typically captured in atomistic notes here—use this hub for **interface**-resolved stories in the KB.
 
 ## Debates, tensions, and cross-references
 

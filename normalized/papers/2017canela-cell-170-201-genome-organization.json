@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017canela-cell-170-201-genome-organization",
+  "manifest": {
+    "source_path": "papers/Others/Cell_from Mahdi_Aug5_2017.pdf",
+    "sha256": "f62686213b9ffc0361699b7c9ecfbd0ba2a672eee1960a27c576424985e49295",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.cell.2017.06.034",
+    "title": "Genome Organization Drives Chromosome Fragility",
+    "year": 2017,
+    "authors": "Andres Canela",
+    "venue": "Cell, 170 (2017) 507-529. doi:10.1016/j.cell.2017.06.034"
+  },
+  "pdf_path": "papers/Others/Cell_from Mahdi_Aug5_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017canela-cell-170-201-genome-organization_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6071
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017canela-cell-170-201-genome-organization.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

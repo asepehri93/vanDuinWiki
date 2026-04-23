@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023fortunato-x-choice-electrolyte",
+  "manifest": {
+    "source_path": "papers/Fortunato_JPCC_Titanate_H2SO4_H3PO4_2023_proof.pdf",
+    "sha256": "221aee963e32f97d48f29e08100e5ca82cb7106780b734e31be8a855aa308580",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.3c01057",
+    "title": "Choice of Electrolyte Impacts the Selectivity of Proton-Coupled Electrochemical Reactions on Hydrogen Titanate",
+    "year": 2023,
+    "authors": "Jenelle Fortunato",
+    "venue": " "
+  },
+  "pdf_path": "papers/Fortunato_JPCC_Titanate_H2SO4_H3PO4_2023_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023fortunato-x-choice-electrolyte_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023fortunato-x-choice-electrolyte.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

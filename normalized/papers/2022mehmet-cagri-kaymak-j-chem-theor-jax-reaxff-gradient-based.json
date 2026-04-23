@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Kaymak_JAX_JCTC_2022.pdf",
     "sha256": "b88485f0e074898eed5df2acca339046a27e660593fe7cfdae585048954813e9",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2022mehmet-cagri-kaymak-j-chem-theor-jax-reaxff-gradient-based_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2022mehmet-cagri-kaymak-j-chem-theor-jax-reaxff-gradient-based.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021morrow-energy-fuels-evaluating-ability",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Morrow_Harrison_Hydrocarbons_AIREBO_ReaxFF_OPLS.energyfuels_2021.pdf",
+    "sha256": "67efdf673aa84d861010286912a6c001de4f0973d7859b54794b2d0944247036",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.energyfuels.0c03363",
+    "title": "Evaluating the Ability of Selected Force Fields to Simulate Hydrocarbons as a Function of Temperature and Pressure Using Molecular Dynamics",
+    "year": 2021,
+    "authors": "Brian H. Morrow and Judith A. Harrison",
+    "venue": "Energy Fuels 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/Morrow_Harrison_Hydrocarbons_AIREBO_ReaxFF_OPLS.energyfuels_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021morrow-energy-fuels-evaluating-ability_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021morrow-energy-fuels-evaluating-ability.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015o-connor-venue-airebo-m-reactive",
+  "manifest": {
+    "source_path": "papers/Others/OConnor_Andzelm_AIREBO_m.pdf",
+    "sha256": "8e7f75142d1ac0d5f8c9e5c88839931b91742004e52adcc32a045b8524540327",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4905549",
+    "title": "AIREBO-M: A reactive model for hydrocarbons at extreme pressures",
+    "year": 2015,
+    "authors": "Thomas C. O’Connor",
+    "venue": null
+  },
+  "pdf_path": "papers/Others/OConnor_Andzelm_AIREBO_m.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015o-connor-venue-airebo-m-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7218
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015o-connor-venue-airebo-m-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

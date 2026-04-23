@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020banerjee-nano-lett-20-strain-modulated",
+  "manifest": {
+    "source_path": "papers/Others/Banerjee_ACS_Nano_2020_graphene_strain.pdf",
+    "sha256": "4ca0947fb209bc0af57665f527a2b05830de159819c61be21bdec3c72b32d4c1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Strain Modulated Superlattices in Graphene",
+    "year": 2020,
+    "authors": "Riju Banerjee; Viet-Hung Nguyen; Tomotaroh Granzier-Nakajima; Lavish Pabbi; Aurelien Lherbier; Anna Ruth Binion; Jean-Christophe Charlier; Mauricio Terrones; Eric William Hudson",
+    "venue": "Nano Lett. 2020.20:3113-3121"
+  },
+  "pdf_path": "papers/Others/Banerjee_ACS_Nano_2020_graphene_strain.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020banerjee-nano-lett-20-strain-modulated_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020banerjee-nano-lett-20-strain-modulated.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

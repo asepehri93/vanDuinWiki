@@ -1,0 +1,38 @@
+{
+  "paper_id": "paper:2013somers-catalysis-to-temperature-influence-2",
+  "manifest": {
+    "source_path": "papers/Somers_CatalysisToday_2013_online.pdf",
+    "sha256": "a42c9002f93df7aa1f781cadb9911383652f627c78dbeb0978e08070f07425d0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.cattod.2013.02.010",
+    "title": "Temperature influence on the reactivity of plasma species on a nickel catalyst surface: An atomic scale study",
+    "year": 2013,
+    "authors": [
+      "W. Somers",
+      "A. Bogaerts",
+      "A. C. T. van Duin",
+      "S. Huygh",
+      "K. M. Bal",
+      "E. C. Neyts"
+    ],
+    "venue": "Catalysis Today"
+  },
+  "pdf_path": "papers/Somers_CatalysisToday_2013_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013somers-catalysis-to-temperature-influence-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "Ni(111)", "CHx", "H2", "plasma catalysis"],
+  "claims": [
+    {
+      "text": "ReaxFF MD of CHx impacts on Ni(111) shows strong H2 formation only at >=~1400 K; at 1600 K H2 is the most frequent species; subsurface C mobility rises with temperature.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013somers-catalysis-to-temperature-influence-2", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013somers-catalysis-to-temperature-influence-2.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

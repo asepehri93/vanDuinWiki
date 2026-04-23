@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Others/Li_metal_NN_2023.pdf",
     "sha256": "e2839bb59367e3945b8edf83e8b03693275e249a5bb75b54b6e1b58f0cc5b646",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2023li-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 3748
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2023li-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

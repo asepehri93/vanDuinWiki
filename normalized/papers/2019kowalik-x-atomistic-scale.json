@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019kowalik-x-atomistic-scale",
+  "manifest": {
+    "source_path": "papers/Kowalik_JPCB_2019_CHON_polymer_proof.pdf",
+    "sha256": "beada20388c9385eca5c309728e4fc941db32055fb11cd3690fe537eebac48a9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic Scale Analysis of the Carbonization Process for C/H/O/N-Based Polymers with the ReaxFF Reactive Force Field",
+    "year": 2019,
+    "authors": "Malgorzata Kowalik",
+    "venue": " "
+  },
+  "pdf_path": "papers/Kowalik_JPCB_2019_CHON_polymer_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019kowalik-x-atomistic-scale_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019kowalik-x-atomistic-scale.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

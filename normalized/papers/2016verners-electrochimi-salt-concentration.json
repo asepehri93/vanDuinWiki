@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016verners-electrochimi-salt-concentration",
+  "manifest": {
+    "source_path": "papers/Verners_Electrochimica_Acta_2016.pdf",
+    "sha256": "7f1380cd0d42545eaacac4b7e57e0bbb07660b5ff32660ee7ef88785a20a3d17",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Salt concentration effects on mechanical properties of LiPF6/poly(propylene glycol) diacrylate solid electrolyte: Insights from reactive molecular dynamics simulations",
+    "year": 2016,
+    "authors": "Osvalds Verners",
+    "venue": "Electrochimica Acta, 221 (2016) 115-123. doi:10.1016/j.electacta.2016.10.035"
+  },
+  "pdf_path": "papers/Verners_Electrochimica_Acta_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016verners-electrochimi-salt-concentration_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016verners-electrochimi-salt-concentration.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -2,7 +2,7 @@
 id: paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism
 type: paper
 title: "Revisiting Mechanism of Silicon Degradation in Li-Ion Batteries: Effect of Delithiation Examined by Microscopy Combined with ReaxFF"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: high
 canonical_tags:
   - domain:batteries-electrochemistry
@@ -33,6 +33,7 @@ group_affiliation: true
 
 <!-- id:paper:2025carl-erik-l-foss-j-phys-chem-revisiting-mechanism -->
 
+
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -47,14 +48,13 @@ Combining electron microscopy of cycled Si electrodes with ReaxFF modeling, this
 
 ## Methods
 
-- **Experiment:** Microscopy-focused characterization of Si electrode components under electrochemical cycling (delithiation emphasis in interpretation).
-- **Simulation:** ReaxFF molecular dynamics to probe atomistic processes consistent with observed morphological changes (details in main text and SI).
-
+- **Experiment:** Microscopy-focused characterization of Si electrode components under electrochemical cycling (delithiation emphasis in interpretation). Imaging targets **morphological evolution** of **Si** and **SEI**-associated features across cycling, providing mesoscale context for where **Si** appears to redistribute relative to the **electrolyte** interface.
+- **Simulation:** **ReaxFF** **molecular dynamics** in **LAMMPS**-class or group **reactive MD** engines (per **SI**), with **3D PBC** **periodic** **unit cells** as built for (de)lithiation **slabs**; **0.1–0.25 fs**-class **time step** and **NVT** or **NVE** **stages** with **Nose-Hoover**-style or **Langevin** **thermostats** at **room** **~300 K** and related **temperature** ramps as in the **PDF**; **~ps** **ns** **trajectory** **duration** in short windows. The runs connect **lithiation/delithiation** **rearrangements** to **microscopy**; **N/A** — **1 atm** **NPT** / **anisotropic stress** for the quoted validation runs; **N/A** — **metadynamics**; **N/A** — **external electric field** in the protocol summarized for this page.
 ## Findings
 
 - Degradation mechanisms discussed in the literature often center lithiation stress and cracking; this work highlights experimental evidence for ongoing morphological change where **delithiation** is implicated as a dominant driver of Si migration and SEI-embedded Si structures.
 - Reframes design considerations for Si anodes toward models that treat **reversed** electrochemical steps and interfacial chemistry more explicitly.
-
+- The Letter’s framing is explicitly **mechanistic**: it argues that **delithiation**-associated processes can reorganize **Si** within and near the **SEI**, so **capacity fade** and **impedance growth** narratives should not assume **particle cracking** during **lithiation** is the only operative pathway.
 ## Limitations
 
 - Complex electrode microstructures and long-time cycling chemistry challenge direct one-to-one mapping from finite MD to device-scale behavior; microscopy provides mesoscale context that simulations complement rather than fully replicate.

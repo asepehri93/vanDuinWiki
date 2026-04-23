@@ -19,6 +19,7 @@ group_affiliation: true
 
 <!-- id:paper:2012jeon-venue-rsc-cp -->
 
+
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -33,11 +34,37 @@ group_affiliation: true
 
 ## Methods
 
-**ReaxFF** trajectories for **Fe–O** oxidation with optional **electric field** protocol as defined in the article; detailed timestep, system sizes, and field coupling follow **`[[2012jeon-venue-rsc-cp-2]]`**.
+**Corpus / PDF role:** This slug points to a **galley/proof PDF** (`papers/Jeon_PCCP_2012_galley.pdf`). For **version-of-record** **protocol** detail (**supercell sizes**, **1 fs** integration to **1 ns**, **10 MV/cm** field implementation, **Arrhenius** **O diffusion** post-processing), use **`[[2012jeon-venue-rsc-cp-2]]`** and **`papers/Jeon_PCCP_Iron_Efield_2013.pdf`**.
+
+### 1 — MD application (atomistic dynamics) (high level; verify VOR)
+
+At the article level (as summarized on **`[[2012jeon-venue-rsc-cp-2]]`**): **ReaxFF** simulations study **dry O₂-driven oxidation** on **Fe(100)**, **Fe(110)**, and **Fe(111)** with **controlled O₂ insertion**, including runs at **300 K** and **900 K**, and optional **~10 MV/cm** **normal electric fields** at **300 K** implemented via **charge–field coupling** in the **ReaxFF** energy/force framework (Eqs. (6)–(9) on the VOR page).
+
+- **Engine / code:** **ReaxFF** **reactive MD**; **N/A —** MD engine not confirmed from this **galley** file in this KB pass—see VOR page.
+- **System size & composition:** **N/A —** exact **Fe** slab atom counts not duplicated here—see **`[[2012jeon-venue-rsc-cp-2]]`**.
+- **Boundaries / periodicity:** **PBC** **slab** models with vacuum padding along the surface normal are used on the VOR page; **N/A —** explicit box vectors not copied here from the galley PDF.
+- **Ensemble:** **NVT** (VOR page).
+- **Timestep:** **1 fs** (VOR page).
+- **Duration / stages:** **~1 ns** oxidation segment plus shorter reference relaxations on the VOR page; **N/A —** not re-verified against the galley PDF bytes here.
+- **Thermostat / barostat:** **N/A —** thermostat/barostat algorithm naming not copied here—see VOR **`pdf_path`**.
+- **Temperature:** **300 K** and **900 K** campaigns (VOR summary).
+- **Pressure / stress:** **N/A — hydrostatic pressure** control not emphasized in the VOR summary copied here.
+- **Electric field:** **~10 MV/cm** normal field cases at **300 K** (VOR summary).
+- **Replica / enhanced sampling:** **N/A —** not used (VOR summary).
+
+### 2 — Force-field training
+
+**N/A —** application/follow-up analysis of an **Fe–O** **ReaxFF** description; see VOR for parameter lineage citations.
+
+### 3 — Static QM / DFT-only
+
+**N/A —** not the paper type.
 
 ## Findings
 
-**Orientation-dependent** oxidation kinetics, a **two-stage** growth picture (fast initial uptake vs slower thickening), **O diffusion** barriers from high-temperature fits (values above), and **field-assisted** early kinetics with limited change to final thermochemistry—consistent with the VOR summary page.
+**Same scientific conclusions** as **`[[2012jeon-venue-rsc-cp-2]]`**: **facet-dependent** oxidation kinetics, **two-stage** growth (**fast** **O** **interstitial** ingress then **slowing**/ **saturation**), **non-stoichiometric** early oxide, **Arrhenius** **O** **diffusion** barriers **~0.32/0.26/0.28 eV** (**no field**) and **~0.33/0.24/0.23 eV** (**10 MV/cm**), and **field** effects strongest in **early** stages.
+
+- **Retrieval note:** cite figures/tables from the **final** PDF on **`[[2012jeon-venue-rsc-cp-2]]`**; keep this page for **duplicate-PDF** provenance only.
 
 ## Limitations
 
@@ -45,7 +72,7 @@ Prefer **`[[2012jeon-venue-rsc-cp-2]]`** for figure references and any post-proo
 
 ## Relevance to group
 
-Canonical technical narrative: **`[[2012jeon-venue-rsc-cp-2]]`**.
+Canonical technical narrative: **`[[2012jeon-venue-rsc-cp-2]]`**. Operators maintaining the graph should prefer linking simulation details (timestep, supercell vectors, field implementation) from the **version-of-record** page to avoid duplicating numbers that may differ between **galley** and **final** PDFs.
 
 ## Citations and evidence anchors
 

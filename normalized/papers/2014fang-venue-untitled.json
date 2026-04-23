@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014fang-venue-untitled",
+  "manifest": {
+    "source_path": "papers/Fang_J_App_Phys_NiO_diffusion_2014.pdf",
+    "sha256": "01f253d0c09556b57888615abd2b370eca18cf2dfaed111cbf2e2e01ddde74af",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4861380",
+    "title": "First-principles studies on vacancy-modified interstitial diffusion mechanism of oxygen in nickel, associated with large-scale atomic simulation techniques",
+    "year": 2014,
+    "authors": ["Fang, H. Z.", "Shang, S. L.", "Wang, Y.", "Liu, Z. K.", "Alfonso, D.", "Alman, D. E.", "Shin, Y. K.", "Zou, C. Y.", "van Duin, A. C. T.", "Lei, Y. K.", "Wang, G. F."],
+    "venue": "Journal of Applied Physics"
+  },
+  "pdf_path": "papers/Fang_J_App_Phys_NiO_diffusion_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014fang-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014fang-venue-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

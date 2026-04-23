@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20210000-0002-8962-1473-x-illuminating-invisible",
+  "manifest": {
+    "source_path": "papers/Hickey_NanoLetters_WS2_GBs_2021_galley.pdf",
+    "sha256": "316abc7ddf0cf3ea4cfcb3e5048210f168bfe5862f13d12dd36a4c22cd3a020e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.nanolett.1c01517",
+    "title": "Illuminating Invisible Grain Boundaries in Coalesced Single-Orientation WS2 Monolayer Films",
+    "year": 2021,
+    "authors": "Danielle Reifsnyder Hickey (ORCID: 0000-0002-8962-1473)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Hickey_NanoLetters_WS2_GBs_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20210000-0002-8962-1473-x-illuminating-invisible_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7139
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20210000-0002-8962-1473-x-illuminating-invisible.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

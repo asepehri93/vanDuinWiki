@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018jonayat-acs-discovery-descriptors",
+  "manifest": {
+    "source_path": "papers/Jonayat_MetalOxides_ML_ACS_AEM_2018.pdf",
+    "sha256": "be189a19ac74a0fdfe5bfaf7fdff844d3a109d1fdc6fa6142b20399a4515aeb4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Discovery of Descriptors for Stable Monolayer Oxide Coatings through Machine Learning",
+    "year": 2018,
+    "authors": "A. S. M. Jonayat; Adri C. T. van Duin; Michael J. Janik",
+    "venue": "ACS Appl. Energy Mater. 2018.1:6217-6226"
+  },
+  "pdf_path": "papers/Jonayat_MetalOxides_ML_ACS_AEM_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018jonayat-acs-discovery-descriptors_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018jonayat-acs-discovery-descriptors.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

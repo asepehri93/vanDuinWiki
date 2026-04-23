@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019khajeh-j-phys-chem-statistical-analysis",
+  "manifest": {
+    "source_path": "papers/Khajeh_FeO_Phosphate_JPCC_2019.pdf",
+    "sha256": "572f469a0bde9d7ff2f8776262f5b53d43dc078af73c94df795ac2e8f63cfac9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Statistical Analysis of Tri-Cresyl Phosphate Conversion on an Iron Oxide Surface Using Reactive Molecular Dynamics Simulations",
+    "year": 2019,
+    "authors": "Arash Khajeh; Xiaoli Hu; Karen Mohammadtabar; Yun Kyung Shin; Adri C. T. van Duin; Stephen Berkebile; Ashlie Martini",
+    "venue": "J. Phys. Chem. C 2019.123:12886-12893"
+  },
+  "pdf_path": "papers/Khajeh_FeO_Phosphate_JPCC_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019khajeh-j-phys-chem-statistical-analysis_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019khajeh-j-phys-chem-statistical-analysis.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021bang-materials-to-morphological-chemical",
+  "manifest": {
+    "source_path": "papers/Bang_ZnO_coldsintering_MaterialsTodayChemistry_2022.pdf",
+    "sha256": "ef350290f96be30fe6165270482a449c19fad10ddf3060f3b7beafc5e86ffb68",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Morphological and chemical evolution of transient interfaces during zinc oxide cold sintering process",
+    "year": 2021,
+    "authors": "S.H. Bang",
+    "venue": "Materials Today Chemistry, 24 (2022) 100925. doi:10.1016/j.mtchem.2022.100925"
+  },
+  "pdf_path": "papers/Bang_ZnO_coldsintering_MaterialsTodayChemistry_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021bang-materials-to-morphological-chemical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021bang-materials-to-morphological-chemical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

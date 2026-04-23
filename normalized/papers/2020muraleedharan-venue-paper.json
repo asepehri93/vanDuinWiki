@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020muraleedharan-venue-paper",
+  "manifest": {
+    "source_path": "papers/Muraleedharan_ActaMater_2020_Cation_Leaching_proof.pdf",
+    "sha256": "a1e3d3ba4cf561113986620bf90c9571f0f85f2c7f465e10dd747d8711e252b8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Muraleedharan_ActaMater_2020_Cation_Leaching_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020muraleedharan-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6170
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020muraleedharan-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

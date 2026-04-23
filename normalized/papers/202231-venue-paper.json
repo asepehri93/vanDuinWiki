@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:202231-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/31_is_gpt_3_all_you_need_for_mach.pdf",
+    "sha256": "711713565f6bdcaff7842116c5f27d538c802a342e82152f2b560062f6bd4201",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2022,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/31_is_gpt_3_all_you_need_for_mach.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/202231-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6185
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/202231-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

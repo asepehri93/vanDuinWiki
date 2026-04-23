@@ -1,0 +1,17 @@
+2013bryantsev-venue-research
+2013castro-marcano-combustion-a-comparison-thermal
+2013castro-marcano-combustion-a-comparison-thermal-2
+2013castro-venue-paper
+2013ch006-venue-ch006
+2013chapter6-venue-untitled
+2013chapter6-venue-untitled-2
+2013diao-journal-of-a-reaxff-reactive
+2013diao-journal-of-a-reaxff-reactive-2
+2013ding-venue-jp311498u
+2013dlc-venue-untitled
+2013eldhose-venue-parameterization-reactive
+2013epoxide-venue-paper
+2013gouissem-computationa-reactive-force-field
+2013gouissem-computationa-reactive-force-field-2
+2013grossman-venue-acs-nn
+2013hartke-gnuplot-plot-exp-eps

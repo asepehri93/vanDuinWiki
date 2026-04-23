@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021hosseinizadeh-nat-few-fs-resolution",
+  "manifest": {
+    "source_path": "papers/Others/Hosseinizadeh_et_al-2021-Nature.pdf",
+    "sha256": "bcb3dc872877dc782e2c66d7a76a02b4f36d20d6c67a7f4630540349c55d2222",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Few-fs resolution of a photoactive protein traversing a conical intersection",
+    "year": 2021,
+    "authors": "A. Hosseinizadeh",
+    "venue": "Nature, doi:10.1038/s41586-021-04050-9"
+  },
+  "pdf_path": "papers/Others/Hosseinizadeh_et_al-2021-Nature.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021hosseinizadeh-nat-few-fs-resolution_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021hosseinizadeh-nat-few-fs-resolution.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

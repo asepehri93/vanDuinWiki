@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023gallegos-carbon-trend-establishing-physical",
+  "manifest": {
+    "source_path": "papers/Gallegos_Carbon_Trends_2023_100290.pdf",
+    "sha256": "e790f170bada93459f9a0b129440b87aecd0a1a7247a385ba3f2ea2946ae16c4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Establishing Physical and Chemical Mechanisms of Polymerization and Pyrolysis of Phenolic Resins for Carbon-Carbon Composites",
+    "year": 2023,
+    "authors": "Ivan Gallegos",
+    "venue": "Carbon Trends, 12 (2023) 100290. doi:10.1016/j.cartre.2023.100290"
+  },
+  "pdf_path": "papers/Gallegos_Carbon_Trends_2023_100290.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023gallegos-carbon-trend-establishing-physical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023gallegos-carbon-trend-establishing-physical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

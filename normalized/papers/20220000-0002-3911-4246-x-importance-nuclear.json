@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20220000-0002-3911-4246-x-importance-nuclear",
+  "manifest": {
+    "source_path": "papers/Ganeshan_PIMD_2022_JCTC_galley.pdf",
+    "sha256": "210df31e8a0f310201f07f5015830f4e75b89d4f1ebbfc307dc76338740f83d0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jctc.2c00771",
+    "title": "Importance of Nuclear Quantum Effects on Aqueous Electrolyte Transport under Confinement in Ti3C2 MXenes",
+    "year": 2022,
+    "authors": "Karthik Ganeshan (ORCID: 0000-0002-3911-4246)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Ganeshan_PIMD_2022_JCTC_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20220000-0002-3911-4246-x-importance-nuclear_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20220000-0002-3911-4246-x-importance-nuclear.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

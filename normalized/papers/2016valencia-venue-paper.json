@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016valencia-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Valencia_JPhysChemC_2016_PdH.pdf",
+    "sha256": "f8fbdbff995509daf34b7e39523f42c03fc232b5408a13db8344069cfddb5699",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.6b07895",
+    "title": null,
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Valencia_JPhysChemC_2016_PdH.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016valencia-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3446
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016valencia-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

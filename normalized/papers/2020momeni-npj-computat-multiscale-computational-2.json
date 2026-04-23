@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020momeni-npj-computat-multiscale-computational-2",
+  "manifest": {
+    "source_path": "papers/Momeni_2D_review_NPJ_CompMat_proof.pdf",
+    "sha256": "227fd62a0c89c880268e2f915effc94d5ff7c8e5f1de4392a30f876b0bfb3235",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-020-0280-2",
+    "title": "Multiscale computational understanding and growth of 2D materials: a review",
+    "year": 2020,
+    "authors": "Kasra Momeni",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-020-0280-2"
+  },
+  "pdf_path": "papers/Momeni_2D_review_NPJ_CompMat_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020momeni-npj-computat-multiscale-computational-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020momeni-npj-computat-multiscale-computational-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

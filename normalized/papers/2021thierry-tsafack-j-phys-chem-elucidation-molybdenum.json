@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021thierry-tsafack-j-phys-chem-elucidation-molybdenum",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Tsafack_MoO3_S2_JPC_A_2021_online.pdf",
+    "sha256": "10fbcc067036ed16db6888a297554ae00b62219932e0f2a8a56c5534080e37ca",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpca.0c06964",
+    "title": "Elucidation of Molybdenum Trioxide Sulfurization: Mechanistic Insights into Two-Dimensional Molybdenum Disulfide Growth",
+    "year": 2021,
+    "authors": "Thierry Tsafack, Stephen F. Bartolucci, and Joshua A. Maurer",
+    "venue": "J. Phys. Chem. A 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/Tsafack_MoO3_S2_JPC_A_2021_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021thierry-tsafack-j-phys-chem-elucidation-molybdenum_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021thierry-tsafack-j-phys-chem-elucidation-molybdenum.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

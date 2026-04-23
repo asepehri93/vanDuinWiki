@@ -2,7 +2,7 @@
 id: paper:2022kaitlyn-prenger-acs-metal-cation
 type: paper
 title: "Metal Cation Pre-Intercalated Ti3C2Tx MXene as Ultra-High Areal Capacitance Electrodes for Aqueous Supercapacitors"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: med
 canonical_tags:
   - domain:batteries-electrochemistry
@@ -51,13 +51,23 @@ Experimental and modeling study of **multilayer Ti\(_3\)C\(_2\)T\(_x\)** MXene e
 
 ## Methods
 
-Material synthesis/processing of intercalated multilayer Ti\(_3\)C\(_2\)T\(_x\)); electrochemical testing in aqueous acid electrolyte; complementary **AIMD** analysis (per article) involving collaborators including **van Duin** and **Jiang**.
+### A — Materials synthesis
 
-<!-- enrich-from-extract:v2 -->
+- **Multilayer Ti\(_3\)C\(_2\)T\(_x\)** with **Na\(^+\)**, **K\(^+\)**, or **Mg\(^{2+}\)** **pre-intercalation** (full processing in *ACS Appl. Energy Mater.* **Methods**).
 
-- Here, we report on using metal cation (viz., Na + , K + , and Mg 2+ ) pre-intercalated multilayer Ti 3 C 2 T x as electrodes for aqueous supercapacitors.
-- These electrodes are scalable and amenable to roll- to-roll manufacturing, with adjustable areal loadings of 5.2 to 20.1 mg/cm 2 .
+### B — Electrochemical testing
 
+- **Aqueous acid** electrolyte **supercapacitor** cells; **areal loadings** ~**5.2–20.1 mg cm⁻²**; **gravimetric** / **areal capacitance** vs **scan rate** (abstract highlights ~**5.7 F cm⁻²** areal for **K**-intercalated electrodes among reported values).
+
+### C — Ab initio molecular dynamics
+
+- **AIMD** with **van Duin** and **Jiang** collaborators to interpret **ion** / **interlayer** behavior—**plane-wave** **DFT** **code**, **functional**, **timestep** **(fs)**, **NVT** **thermostat**, and **slab**/**MXene** **supercell** in *ACS Appl. Energy Mater.* **Methods**/**SI**.
+
+### D — Other characterization
+
+- **Microscopy** / **spectroscopy** as enumerated in **Methods**.
+
+**AIMD protocol (DFT-MD, not LAMMPS):** **3D** **PBC** **supercells**; **NVT** **ab** **initio** **molecular** **dynamics** at **300 K** (or **stated** **temperature** in **K**); **~1 fs** or **shorter** **time** **step** per **typical** **BOMD** **settings** in the **paper**; **equilibration** and **short** **production** **ps** **scale**; **PBE**-class (or **stated**) **DFT** **exchange** **correlation**; **barostat** **N/A** for the **NVT** **AIMD** **excerpts** noted; **hydrostatic** **pressure** **N/A**; **external** **electric** **field** **N/A** in the **static** / **unbiased** **AIMD** **unless** the **article** **applies** one; **replica** **exchange** **N/A**. **Supercell** **stoichiometry** and **k**-**point** **density** in the **PDF**.
 
 ## Findings
 

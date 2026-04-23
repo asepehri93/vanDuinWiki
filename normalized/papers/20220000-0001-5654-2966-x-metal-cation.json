@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20220000-0001-5654-2966-x-metal-cation",
+  "manifest": {
+    "source_path": "papers/Prenger_ACS_AEM_2022_galley.pdf",
+    "sha256": "2fa7f753936c855a32ab944e4528cafebad048ebd94d588449c86c9b35b5fe0d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsaem.2c00653",
+    "title": "Metal Cation Pre-Intercalated Ti3C2Tx MXene as Ultra-High Areal Capacitance Electrodes for Aqueous Supercapacitors",
+    "year": 2022,
+    "authors": "Kaitlyn Prenger (ORCID: 0000-0001-5654-2966)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Prenger_ACS_AEM_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20220000-0001-5654-2966-x-metal-cation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20220000-0001-5654-2966-x-metal-cation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

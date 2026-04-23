@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2026shi-advanced-mat-harnessing-chain",
+  "manifest": {
+    "source_path": "papers/Shi_Si_Lin_Mao_Hydrogel_Advanced_Materials_2026.pdf",
+    "sha256": "8cfd6cff123a7031dcc0cee2e599c980a706f72025a24f6d1400bf91f9bbcfde",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/adma.202517407",
+    "title": "Harnessing Chain Mobility via Protonation for Tough and Isotropic Hydrogel",
+    "year": 2026,
+    "authors": null,
+    "venue": "Advanced Materials 0.0:e17407"
+  },
+  "pdf_path": "papers/Shi_Si_Lin_Mao_Hydrogel_Advanced_Materials_2026.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2026shi-advanced-mat-harnessing-chain_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2026shi-advanced-mat-harnessing-chain.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

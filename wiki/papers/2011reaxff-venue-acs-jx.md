@@ -33,30 +33,38 @@ The paper introduces **ReaxFF-lg**, adding a **low-gradient (lg) long-range disp
 
 ## Methods
 
-- **Energy partition:** \(E_{\text{Reax-lg}} = E_{\text{Reax}} + E_{\text{lg}}\), with \(E_{\text{lg}}\) as pairwise **\(1/r^6\)**-like corrections built to minimally perturb valence distances.
-- **Fitting:** Dispersion coefficients with **UFF-based equilibrium vdW radii** as described; training on experimental crystal structures and sublimation-related targets.
+### 1 — MD application (atomistic dynamics)
 
-<!-- enrich-from-extract:v2 -->
+The article’s primary deliverable is a **dispersion-corrected reactive force field** and **crystal equation-of-state** validation rather than a standalone production-trajectory study on pp. 1–2 of `normalized/extracts/2011reaxff-venue-acs-jx_p1-2.txt`.
 
-- In this work, we report dispersion corrections for ReaxFF, based on this low-gradient model (ReaxFF-lg), for the energetic materials RDX, PETN, TATB, and NM plus graphite, polyethylene, solid carbon dioxide, and solid N 2, using the low temperature crystal structures to determine the lg correction parameters.
-- Here we consider densities and heats of sublimation of these materials in the training sets.
-- Then the ﬁtted parameters are extended to energetic materials and reﬁned to obtain the ﬁnal parameters.
-- METHOD AND COMPUTATIONAL DETAILS In ReaxFF-lg, the total energy of the system can be expressed as EReax-lg ¼ EReax þ Elg ð2.1Þ where EReax is the energy evaluated from the previous ReaxFF force ﬁeld: EReax ¼ Ebond þ Elp þ Eover þ Eunder þ Eval þ Epen þ Ecoa þ Etors þ Econj þ EH-bond þ EvdW þ ECoulomb ð2.2Þ and Elg is the long-range-correction terms using the low-gradient model: Elg ¼/C0 ∑ N ij, i<j Clg, ij rij6 þ dReij6 ð2.3Þ Here rij is the distance between atom i and atom j, Reij is the equilibrium vdW distance between atoms i and j, and Clg,ij is the dispersion energy correction parameter.
-- For each atomic pair ij, we use the geometric combination rules for both Reij and Clg,ij, unless the o ﬀ-diagonal parameters are listed speci ﬁcally for a particular pair.
-- Low temperature crystal structures of graphite ( P63mc),19 polyethylene (PE, Pnam),20 carbon dioxide ( Pa3),21 and solid nitrogen22 (Pa3) were selected to determine the dispersion correction parameters for ordinary organic materials.
+- **Engine / code:** **Reactive molecular dynamics (ReaxFF-RD)** is discussed as a major motivation/use-case for accurate crystal densities (Introduction); **N/A —** a specific MD integrator/package for the EOS validation runs is not named on the indexed excerpt pages.
+- **System size & composition:** Benchmark **molecular crystals** and **energetic crystals** named in the abstract: **graphite, polyethylene, CO₂(s), N₂(s), RDX, PETN, TATB, NM** (indexed excerpt).
+- **Boundaries / periodicity:** **Molecular crystals** imply **three-dimensional periodic** models for EOS work; **N/A —** explicit supercell sizes are not stated on the indexed excerpt pages.
+- **Ensemble / timestep / duration / thermostat / barostat:** **N/A —** **NVT**/**NPT**/**NVE** schedules, timestep sizes, trajectory segment lengths, and thermostat/barostat algorithms are not stated on the indexed excerpt pages for the EOS validation protocol (the excerpt focuses on energy definitions and fitting inputs).
+- **Temperature:** **Room temperature** comparisons are stated for EOS vs experiment in Sec. 2 opening (extract).
+- **Pressure / stress:** **Pressure–volume** / **phase transition** language appears for **RDX** (**α–γ**) in the abstract; **N/A —** full stress-control protocol details are not on the indexed excerpt pages.
+- **Electric field:** **N/A —** not indicated in the indexed excerpt.
+- **Replica / enhanced sampling:** **N/A —** not indicated in the indexed excerpt.
 
+### 2 — Force-field training
+
+- **Parent FF / elements:** **ReaxFF** with the standard valence + **vdW + Coulomb** partition in Eq. (2.2) of the article (extract).
+- **QM reference / training philosophy:** The introduction states prior **ReaxFF** development used **consistent QM** training, commonly **B3LYP-flavor DFT** with **6-31G\*\*** for molecular training data, and notes systematic **London dispersion** underbinding for **molecular solids** at practical DFT levels (Introduction, extract).
+- **Training set / targets:** **Low-temperature crystal structures** for **graphite (P63mc), polyethylene (Pnam), CO₂ (Pa3), N₂ (Pa3)** are used to determine **lg** parameters for “ordinary organic” motifs; **densities** and **heats of sublimation** enter the training discussion; parameters are then extended/refined for **RDX, PETN, TATB, NM** (Sec. 2, extract).
+- **Functional form / optimization variables:** **ReaxFF-lg** defines \(E_{\text{Reax-lg}}=E_{\text{Reax}}+E_{\text{lg}}\) with \(E_{\text{lg}}\) as a pairwise long-range correction built from **\(r_{ij}^{-6}\)**-like terms using **\(R_{e,ij}\)** and **\(C_{\text{lg},ij}\)** (Eqs. (2.1)–(2.3), extract). **Geometric combination rules** apply unless off-diagonals are explicitly listed; **\(d=1.0\)** is used; **\(R_e\)** is taken from **UFF** vdW radii and **only \(C_{\text{lg}}\)** is fitted (extract).
+- **Reference data used for validation:** After fitting, the authors report **equations of state** compared to **experiment at room temperature** (Sec. 2 opening + abstract, extract).
 
 ## Findings
 
-- Substantially improved **equilibrium volumes** and **equations of state** for selected molecular crystals and energetic materials after lg correction.
-- Detailed validation example for **RDX** phase transition pressure/density compared to experiment (per abstract).
+**Outcomes and mechanisms:** **ReaxFF-lg** reduces the average **equilibrium volume** error for the listed benchmark systems from **18.5% to 4.2%** (abstract, extract). The **lg** correction is designed to add **long-range London dispersion** while leaving short-range **valence** interactions largely intact (Introduction + Eq. (2.3) discussion, extract).
 
-### Additional results (article abstract)
+**Comparisons:** The abstract highlights **crystal structures** and **equations of state** in **good agreement** with **experiment** after correction, and gives a concrete **RDX** **α–γ** transition benchmark (**~4.8 GPa** and **~2.18 g/cm³** from **ReaxFF-lg** vs **~3.9 GPa** and **~2.21 g/cm³** experimentally in the abstract wording, extract).
 
-- To validate the ReaxFF- lg method, we calculated the equations of state of these materials and compared the results with results from experiments at room temperature. 2.
-- Here d is a scaling factor, but we set d = 1.0 since we found no need for scaling in this work.
-- Re is taken as the vdW radii in the Universal force ﬁeld (UFF)18 (convenient since these values are de ﬁned in UFF up to element 103, Lr), as shown in Table 1, and only the Clg parameters are ﬁtted.
-- Graphite and polyethylene are prototypes for determining the dispersion corrections for C/C0 C, C/C0 H, H/C0 H and were used previously for studying or testing the vdW interactions.23,24 Carbon dioxide and solid nitrogen are molecular c
+**Sensitivity and design levers:** The correction is parameterized from **low-temperature** reference crystals and then applied to **energetic** chemistries; the **α–γ RDX** case shows sensitivity of **transition pressure/density** to the dispersion treatment (abstract, extract).
+
+**Limitations and outlook (authored tone):** The introduction frames the underlying issue as **DFT-for-solids** dispersion errors propagating into **ReaxFF** training when **vdW** terms were not trained for long-range attraction; **ReaxFF-lg** is proposed as a pragmatic extension (Introduction, extract).
+
+**Corpus / KB honesty:** Numeric transition values above follow the **abstract** on the indexed excerpt pages; full tables, weighting schemes, and any additional validation cases require **`pdf_path`** beyond pp. 1–2.
 
 
 ## Limitations

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023gaikwad-npj-computat-enhancing-faradaic",
+  "manifest": {
+    "source_path": "papers/Gaikwad_npj_CompMat_SOFC_review_2023_galley.pdf",
+    "sha256": "76ce411546ff88eed0a9cc4ac44cd77fbfff6696127069fc33132a83409c11ed",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-023-01044-1",
+    "title": "Enhancing the Faradaic efficiency of solid oxide electrolysis cells: progress and perspective",
+    "year": 2023,
+    "authors": "Prashik S. Gaikwad",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-023-01044-1"
+  },
+  "pdf_path": "papers/Gaikwad_npj_CompMat_SOFC_review_2023_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023gaikwad-npj-computat-enhancing-faradaic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023gaikwad-npj-computat-enhancing-faradaic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

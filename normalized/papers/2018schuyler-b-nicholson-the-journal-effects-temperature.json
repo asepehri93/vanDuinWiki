@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018schuyler-b-nicholson-the-journal-effects-temperature",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Alaghemandi_JCP_H2_O2_2018.pdf",
+    "sha256": "0e91df89b62e5cb42ea8c68a7693c7602fe96db4a9fadc2b5f2d87770dcfb910",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5012760",
+    "title": "Effects of temperature and mass conservation on the typical chemical sequences of hydrogen oxidation",
+    "year": 2018,
+    "authors": "Schuyler B. Nicholson, Mohammad Alaghemandi, Jason R. Green",
+    "venue": "The Journal of Chemical Physics 2018.148:044102"
+  },
+  "pdf_path": "papers/ReaxFF_others/Alaghemandi_JCP_H2_O2_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018schuyler-b-nicholson-the-journal-effects-temperature_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6845
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018schuyler-b-nicholson-the-journal-effects-temperature.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

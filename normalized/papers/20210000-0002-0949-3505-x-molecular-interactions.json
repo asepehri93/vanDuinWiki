@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20210000-0002-0949-3505-x-molecular-interactions",
+  "manifest": {
+    "source_path": "papers/Duong_Shin_ACS_AMI_COF_2021_galley.pdf",
+    "sha256": "788a7c45b93d0854d58b8a032a32112204a14be3d0a9d7cd8a4e4fba01fa509e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.1c10866",
+    "title": "Molecular Interactions and Layer Stacking Dictate Covalent Organic Framework Effective Pore Size",
+    "year": 2021,
+    "authors": "Phuoc H. H. Duong (ORCID: 0000-0002-0949-3505)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Duong_Shin_ACS_AMI_COF_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20210000-0002-0949-3505-x-molecular-interactions_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20210000-0002-0949-3505-x-molecular-interactions.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

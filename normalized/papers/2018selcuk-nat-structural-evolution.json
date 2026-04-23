@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018selcuk-nat-structural-evolution",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Selcuk_Selloni_NatureMaterials_2018_TiO2_H2.pdf",
+    "sha256": "bde882511727947fc4eff4154c3240c14756e8052ef9d68a0cee86d10322d79e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41563-018-0135-0",
+    "title": "Structural evolution of titanium dioxide during reduction in high-pressure hydrogen",
+    "year": 2018,
+    "authors": "Sencer Selcuk",
+    "venue": "Nature Materials, doi:10.1038/s41563-018-0135-0"
+  },
+  "pdf_path": "papers/ReaxFF_others/Selcuk_Selloni_NatureMaterials_2018_TiO2_H2.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018selcuk-nat-structural-evolution_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018selcuk-nat-structural-evolution.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

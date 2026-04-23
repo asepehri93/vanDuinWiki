@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Leven_JCTC_2021_proof.pdf",
     "sha256": "2af780b7b3479d96a6cf081f6cf50fcee3f87097e6dd37f4de750f7500b0e7ae",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1021/acs.jctc.1c00118",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2021leven-x-recent-advances_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2021leven-x-recent-advances.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

@@ -1,0 +1,17 @@
+2014hu-nat-proton-transport
+2014huygh-computationa-development-reaxff
+2014islam-physical-che-reaxff-molecular
+2014islam-venue-paper
+2014islam-venue-paper-2
+2014islam-venue-paper-3
+2014islam-venue-rsc-cp
+2014joshi-physical-che-reactive-molecular
+2014joshi-venue-rsc-cp
+2014khalilov-nanoscale20-venue-c4nr00669k
+2014kroes-venue-paper
+2014kylasa-jcp-puremd-gpu-reactive
+2014lam-venue-parental-mental
+2014leven-venue-paper
+2014li-rdxdetonation-apl-venue-paper
+2014li-venue-paper
+2014lisi-venue-abstract-atomistic

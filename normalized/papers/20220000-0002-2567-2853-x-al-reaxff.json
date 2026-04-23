@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20220000-0002-2567-2853-x-al-reaxff",
+  "manifest": {
+    "source_path": "papers/Gao_Zhu_PVDF_Al_JPC_2022_galley.pdf",
+    "sha256": "52404b752f82517e33d63613ec88e7693ed58a1028b0fbe48591c9c3f8e40f9b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.2c02043",
+    "title": "C/H/O/F/Al ReaxFF Force Field Development and Application to Study the Condensed-Phase Poly(vinylidene fluoride) and Reaction Mechanisms with Aluminum",
+    "year": 2022,
+    "authors": "Yawei Gao (ORCID: 0000-0002-2567-2853)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Gao_Zhu_PVDF_Al_JPC_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20220000-0002-2567-2853-x-al-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20220000-0002-2567-2853-x-al-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

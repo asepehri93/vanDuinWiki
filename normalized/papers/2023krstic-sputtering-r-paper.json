@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023krstic-sputtering-r-paper",
+  "manifest": {
+    "source_path": "papers/Krstic_FrontInPhysics_LiH_2023_galley.pdf",
+    "sha256": "49eef4b993ef6ff439dd1a3509d8d96f7931afed58270f19742b06d1a9de5d5e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2023,
+    "authors": "P.S. Krstic",
+    "venue": "Sputtering, reflection, and retention processes at amorphous and crystalline lithium hydride surfaces due to impact of low energy (1–100 eV) hydrogen and deuterium atoms over the range of 0o −85o angle of incidence at 300 K surface temperature were investigated by atomistic computational methods."
+  },
+  "pdf_path": "papers/Krstic_FrontInPhysics_LiH_2023_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023krstic-sputtering-r-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6130
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023krstic-sputtering-r-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

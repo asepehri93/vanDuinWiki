@@ -43,26 +43,16 @@ The work develops a B/N/O/H **ReaxFF** description to study **vacancy-defective 
 
 ## Methods
 
-Reactive MD with ReaxFF (bond order + charge equilibration) for B/N/O/H; setups include water nanodroplets on defective sheets, confined water between sheets, and elevated-temperature trajectories to probe dynamics near pores.
+**1 — MD application.** **ReaxFF** **molecular dynamics** in **LAMMPS** models **h-BN** **nanosheets** with **boron**/**nitrogen** **vacancies** plus **water** as **nanodroplets** or under **confinement** between sheets; **3D** **PBC** **slabs** of order 10³+ **atoms**; **NVT** **thermostat**; **sub-fs** **timestep**; **ps**–**ns** **equilibration** and **ramped** or **cooled** **stages** at controlled **temperature** (**K**). Cases include **contact-angle** **measurements** vs **pore** **diameter** and **T**; **compressive** **loading** between sheets; and **reactive** **H₂O** **dynamics** at **defects**. **Barostat / hydrostatic** **pressure** control: **N/A** in the excerpted droplet/confined protocols. **N/A — external** **macroscopic** **electric** **field**; **N/A — umbrella** in the main **trajectories** highlighted.
 
-<!-- enrich-from-extract:v2 -->
+**2 — Force-field training (B/N/O/H).** A **B/N/O/H** **ReaxFF** is **fit** to **DFT**/**QM** **reaction** and **energetic** **benchmarks** for **defect** **h-BN** and **water**-mediated **bond** rearrangement (details, **k-mesh** where relevant, and **optimization** weights in *PCCP*).
 
-- In this work, the authors have developed a reactive force field (ReaxFF) to investigate the eﬀect of water molecules on the interfacial interactions with vacancy defective hexagonal boron nitride (h-BN) nanosheets by introducing parameters suitable for the B/N/O/H chemistry.
-- Initially, molecular dynamics simulations were performed to validate the structural stability and hydrophobic nature of h-BN nanosheets.
-- Simulations at elevated temperatures were carried out to explore the water molecule trajectory near the functionalized h-BN pores, and it was observed that the intermolecular hydrogen bonds lead to agglomeration of water molecules near these pores when the temperature was lowered to room temperature.
-- The study was extended to observe the eﬀect of pore sizes and temperatures on the contact angle made by a water nanodroplet on h-BN nanosheets, and it was concluded that the contact angle would be less at higher temperatures and larger pore sizes.
-
-
+**3 — Experiments. N/A.**
 ## Findings
 
-Pristine h-BN nanosheets are treated as structurally stable and hydrophobic in the validation-style discussion; near **boron/nitrogen vacancies**, water can dissociate with terminal N/B sites participating in H- and OH-containing products. Under compression between sheets, water **layers**; fracture can **nucleate from vacancy defects**. Simulations explore how **contact angle** depends on **temperature** and **pore size** (higher T and larger pores associated with smaller contact angles in the trends reported).
+Pristine h-BN nanosheets are treated as structurally stable and hydrophobic in the validation-style discussion; near **boron/nitrogen vacancies**, water can dissociate with terminal N/B sites participating in H- and OH-containing products. Under compression between sheets, water **layers**; fracture can **nucleate from vacancy defects**. The abstract further states that the **terminal** **N** and **B** at vacancies bind **H** and **OH**, respectively, that **layered** water forms under **compression** between two sheets, and that **fracture** **nucleation** is tied to **defects**—all framed in the **PCCP** context of **desalination**- and **underwater**-device relevance. **Contact angle** trends **decrease** with **higher** **temperature** and **larger** **pores** in the nanodroplet studies.
 
-### Additional results (article abstract)
-
-- The water molecule dissociation mechanism in the vicinity of vacancy defective h-BN nanosheets was investigated, and it was shown that the terminal nitrogen and boron atoms bond with a hydrogen atom and hydroxyl group, respectively.
-- Furthermore, it is predicted that the water molecules arrange themselves in layers when compressed in between two h-BN nanosheets, and the h-BN nanosheet fracture nucleates from the vacancy defect site.
-- This study provides important information for the use of h-BN nanosheets in nanodevices for water desalination and underwater applications, as these h-BN nanosheets possess the desired adsorption capability and structural stability.
-
+**Comparisons, sensitivity, PDF.** The paper relates **trends** in **wetting** to **T** and **pore** **geometry**; absolute **kinetics** and **angle** **values** must follow the **VOR** **PCCP** file.
 
 ## Limitations
 

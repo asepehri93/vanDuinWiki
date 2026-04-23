@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhong-energy-fuels-reductive-gaseous",
+  "manifest": {
+    "source_path": "papers/Zhong_EnergyFuels_Coke_2019.pdf",
+    "sha256": "c359b1b7236975c13fc0edb57f8b0e0357300f1edff93bae6e87c4c8f2be39bc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reductive Gaseous (H2/NH3) Desulfurization and Gasification of High-Sulfur Petroleum Coke via Reactive Force Field Molecular Dynamics Simulations",
+    "year": 2019,
+    "authors": "Qifan Zhong; Yu Zhang; Sharmin Shabnam; Jin Xiao; Adri C. T. van Duin; Jonathan P. Mathews",
+    "venue": "Energy Fuels 2019.33:8065-8075"
+  },
+  "pdf_path": "papers/Zhong_EnergyFuels_Coke_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhong-energy-fuels-reductive-gaseous_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhong-energy-fuels-reductive-gaseous.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

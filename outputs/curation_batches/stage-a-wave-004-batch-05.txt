@@ -1,0 +1,35 @@
+2018khajeh-langmuir-201-mechanochemical-association
+2018kumar-langmuir-201-thermodynamics-alkanethiol
+2019fedkin-j-phys-chem-development-reaxff
+2020kirchhoff-small-2020-1-simulations-oxidation
+2021verma-venue-paper
+2015pai-physical-che-development-reaxffcbn
+2018dengpan-dong-j-phys-chem-grotthuss-versus
+2018smith-j-chem-phys-less-is
+2022c-cile-a-c-chazot-nano-lett-0-molecular-alignment
+2015vanleeuwen-nat-antisymmetry-distortions
+2016muller-venue-ct6b00461
+20180000-0002-5255-7340-j-phys-chem-isotope-effects
+2018yang-j-phys-chem-enabling-computational-2
+2020dasgupta-venue-total-number
+2022lee-npj-computat-dynamic-observation
+2022lee-npj-computat-dynamic-observation-2
+2005earl-venue-rsc-cp
+20120674-venue-s0883769412000954-indd
+2015betsy-m-rice-j-chem-theor-parameterizing-complex
+2019dasgupta-computationa-reaxff-molecular-2
+2020hu-npj-computat-predicting-synthesizable
+2022uene-computationa-growth-mechanism
+2023monti-venue-d3nr02760k
+2023nabankur-dasgupta-j-phys-chem-hydrophobic-nanoconfinement
+2013somers-catalysis-to-temperature-influence-2
+2019akbarian-venue-paper
+2022momeni-npj-computat-computational-framework
+2023gaikwad-journal-of-t-modeling-dynamic
+2012weismiller-proceedings-using-molecular
+2013odegard-chemical-phy-predicting-mechanical-2
+
+# ---
+# Enriched: 2026-04-21 — Rich wiki pass (30/30). NON_PRIMARY_ARTICLE_PAPER_SLUGS.md section D extended for
+# proof/galley/duplicate slugs in this batch; corpus catalog links (GitHub + local) on affected paper pages.
+# Chunks: python3 scripts/build_chunks.py

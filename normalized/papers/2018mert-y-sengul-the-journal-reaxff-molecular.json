@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018mert-y-sengul-the-journal-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Sengul_aceticacid_water_JCP_2018.pdf",
+    "sha256": "daeb3e1add7e37d52b00533624e790b6a9336af8f8b4fcb04eded8c3439c224f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5025932",
+    "title": "ReaxFF molecular dynamics simulation of intermolecular structure formation in acetic acid-water mixtures at elevated temperatures and pressures",
+    "year": 2018,
+    "authors": "Mert Y. Sengul, Clive A. Randall, Adri C. T. van Duin",
+    "venue": "The Journal of Chemical Physics 2018.148:164506"
+  },
+  "pdf_path": "papers/Sengul_aceticacid_water_JCP_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018mert-y-sengul-the-journal-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6643
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018mert-y-sengul-the-journal-reaxff-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

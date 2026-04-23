@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016rimsza-venue-research",
+  "manifest": {
+    "source_path": "papers/Rimsza_JPCC-water-silica-proof.pdf",
+    "sha256": "2bfb535ed1eaf78b6b63de345b20d3f311c0a0d45d18d41de16d802b65e47286",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..14",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Rimsza_JPCC-water-silica-proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016rimsza-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016rimsza-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

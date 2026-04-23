@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018jonayat-langmuir-201-predicting-monolayer",
+  "manifest": {
+    "source_path": "papers/Jonayat_MetalOxides_DFT_Langmuir_2018.pdf",
+    "sha256": "d28ce12a4c45f18e50b46e8e45427b81a12d4754c06d7ba7534f30bfecb83554",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Predicting Monolayer Oxide Stability over Low-Index Surfaces of TiO2 Polymorphs Using ab Initio Thermodynamics",
+    "year": 2018,
+    "authors": "A. S. M. Jonayat; Siqi Chen; Adri C. T. van Duin; Michael Janik",
+    "venue": "Langmuir 2018.34:11685-11694"
+  },
+  "pdf_path": "papers/Jonayat_MetalOxides_DFT_Langmuir_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018jonayat-langmuir-201-predicting-monolayer_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018jonayat-langmuir-201-predicting-monolayer.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Shabnam_PCCP_Ni_soot_2019.pdf",
     "sha256": "7329f8a1300deec0579b23731e09b8e154eb42f162a25d3d1dbf5dd3587c7b78",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019shabnam-physical-che-evaluation-effect_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019shabnam-physical-che-evaluation-effect.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

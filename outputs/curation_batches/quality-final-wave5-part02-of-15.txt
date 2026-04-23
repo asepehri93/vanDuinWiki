@@ -1,0 +1,17 @@
+2021wei-proceedings-kinetics-hydrolysis
+2021wilkinson-acta-materia-hybrid-machine
+2021ya-feng-acs-one-dimensional-van
+2021yue-liu-j-phys-chem-dft-reaxff-hybrid
+2021zare-physical-che-reactive-force
+2021zhang-npj-computat-multi-objective-parametrization
+2021zi-zhao-fuel-297-202-boudouard-reaction
+20220000-0001-5654-2966-x-metal-cation
+20220000-0002-1068-9599-x-manuscript
+20220000-0002-1558-1560-x-reaxff-force
+20220000-0002-2567-2853-x-al-reaxff
+20220000-0002-3911-4246-x-importance-nuclear
+20220000-0003-3454-6960-x-origin-nonclassical
+202231-venue-paper
+2022advanced-advanced-sci-exploring-physics
+2022aman-gupta-biomacromole-cellulose-nanocrystals
+2022annurev-physchem-082-venue-paper

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019rahnamoun-polymer-176-chemical-dynamics",
+  "manifest": {
+    "source_path": "papers/Rahnamound_Kapton_eBeam_Polymer2019.pdf",
+    "sha256": "02c1f2263512b96b37bfe4ff634e82d161ade880da087426183027175753aee7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Chemical dynamics characteristics of Kapton polyimide damaged by electron beam irradiation",
+    "year": 2019,
+    "authors": "Ali Rahnamoun",
+    "venue": "Polymer, 176 (2019) 135-145. doi:10.1016/j.polymer.2019.05.035"
+  },
+  "pdf_path": "papers/Rahnamound_Kapton_eBeam_Polymer2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019rahnamoun-polymer-176-chemical-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019rahnamoun-polymer-176-chemical-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

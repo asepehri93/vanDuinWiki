@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018mclean-j-phys-chem-boron-nitride",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/McLean_Page_BN_CVD_JPC_2018.pdf",
+    "sha256": "682bdc2ee043a62577eae13476c8773c54ab042b0d51e6518188b61110017288",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Boron Nitride Nucleation Mechanism during Chemical Vapor Deposition",
+    "year": 2018,
+    "authors": "Ben McLean; Grant B. Webber; Alister J. Page",
+    "venue": "J. Phys. Chem. C 2018.122:24341-24349"
+  },
+  "pdf_path": "papers/ReaxFF_others/McLean_Page_BN_CVD_JPC_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018mclean-j-phys-chem-boron-nitride_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7966
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018mclean-j-phys-chem-boron-nitride.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

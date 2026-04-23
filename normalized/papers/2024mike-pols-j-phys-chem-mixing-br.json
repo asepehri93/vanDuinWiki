@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024mike-pols-j-phys-chem-mixing-br",
+  "manifest": {
+    "source_path": "papers/Pols_JPCC_2024_IBr_Perovskites_online.pdf",
+    "sha256": "2165f96a9a676bc5bc8737b88f8f4ff7d30c3c02006594ea95108629066f4ea6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.4c00563",
+    "title": "Mixing I and Br in Inorganic Perovskites: Atomistic Insights from Reactive Molecular Dynamics Simulations",
+    "year": 2024,
+    "authors": "Mike Pols, Adri C. T. van Duin, Sofía Calero, and Shuxia Tao",
+    "venue": "J. Phys. Chem. C 0.0"
+  },
+  "pdf_path": "papers/Pols_JPCC_2024_IBr_Perovskites_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024mike-pols-j-phys-chem-mixing-br_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024mike-pols-j-phys-chem-mixing-br.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

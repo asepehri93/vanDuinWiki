@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016senftle-npj-computat-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/Senftle_npjcompumats201511.pdf",
+    "sha256": "695bd87b0c35860c9b56f84487d6f05fe8cb8004592b92b366950fbe380abc4a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/npjcompumats.2015.11;",
+    "title": "The ReaxFF reactive force-field: development, applications and future directions",
+    "year": 2016,
+    "authors": "Thomas P Senftle",
+    "venue": "npj Computational Materials,  (2015). doi:10.1038/npjcompumats.2015.11"
+  },
+  "pdf_path": "papers/Senftle_npjcompumats201511.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016senftle-npj-computat-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016senftle-npj-computat-reaxff-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013sen-venue-paper",
+  "manifest": {
+    "source_path": "papers/Sen_ApplPhysLett_2013_Al_wires.pdf",
+    "sha256": "78ddcf75c4f48190a3f54c79a6560311a77e779f51f75e0b503a102c85f8ce7f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4790181",
+    "title": "Oxidation induced softening in Al nanowires",
+    "year": 2013,
+    "authors": ["Fatih G. Sen", "Yue Qi", "Adri C. T. van Duin", "Ahmet T. Alpas"],
+    "venue": "Applied Physics Letters"
+  },
+  "pdf_path": "papers/Sen_ApplPhysLett_2013_Al_wires.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013sen-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "aluminum", "oxide shell", "nanowire", "Young's modulus"],
+  "claims": [
+    {
+      "text": "Amorphous oxide shell on Al nanowires has Young's modulus about 26 GPa; composite modulus shows size dependence with softer response below ~100 nm diameters modeled.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013sen-venue-paper", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013sen-venue-paper.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

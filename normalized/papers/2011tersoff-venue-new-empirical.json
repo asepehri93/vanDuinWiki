@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011tersoff-venue-new-empirical",
+  "manifest": {
+    "source_path": "papers/Others/Tersoff_PhysRevB.37.6991.pdf",
+    "sha256": "32789f2dff1b3f231599b28418ed698af5582aac602251fe034537e7a7c910e0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "New empirical approach for the structure and energy of covalent systems",
+    "year": 2011,
+    "authors": "J. Tersoff",
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Tersoff_PhysRevB.37.6991.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011tersoff-venue-new-empirical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011tersoff-venue-new-empirical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

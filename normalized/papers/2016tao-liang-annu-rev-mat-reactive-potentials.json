@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016tao-liang-annu-rev-mat-reactive-potentials",
+  "manifest": {
+    "source_path": "papers/Liang_AnnuRev_Reax_COMB_2013.pdf",
+    "sha256": "b40cc0b037263a003c6e0704b7c40fcd344f509cc09dd4f502aeeeb9f2aee9d2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1146/annurev-matsci-071312-121610",
+    "title": "Reactive Potentials for Advanced Atomistic Simulations",
+    "year": 2016,
+    "authors": "Tao Liang, Yun Kyung Shin, Yu-Ting Cheng, Dundar E. Yilmaz, Karthik Guda Vishnu, Osvalds Verners, Chenyu Zou, Simon R. Phillpot, Susan B. Sinnott, and Adri C.T. van Duin",
+    "venue": "Annu. Rev. Mater. Res. 2013.43:109-129"
+  },
+  "pdf_path": "papers/Liang_AnnuRev_Reax_COMB_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016tao-liang-annu-rev-mat-reactive-potentials_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6484
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016tao-liang-annu-rev-mat-reactive-potentials.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

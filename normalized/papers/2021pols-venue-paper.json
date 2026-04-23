@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021pols-venue-paper",
+  "manifest": {
+    "source_path": "papers/Pols_JPC_Letters_CsPbI3_perovskiites_SI.pdf",
+    "sha256": "0b7ed0316ffe7002d3e7b0ed2fa5b0c84c1fa71c51f00adfaf985ff2876fd1a0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2021,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Pols_JPC_Letters_CsPbI3_perovskiites_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021pols-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1834
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021pols-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

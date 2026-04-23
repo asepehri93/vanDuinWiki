@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018dengpan-dong-j-phys-chem-grotthuss-versus",
+  "manifest": {
+    "source_path": "papers/Dong_WeiZhang_vanDuin_Bedrov_Grotthus_JPC_Letters_2018.pdf",
+    "sha256": "02a85ea5683850ad77e24155451ef403aa5955cdc09cea2ce2d3135e1ea0b106",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Grotthuss versus Vehicular Transport of Hydroxide in Anion-Exchange Membranes: Insight from Combined Reactive and Nonreactive Molecular Simulations",
+    "year": 2018,
+    "authors": "Dengpan Dong, Weiwei Zhang, Adri C. T. van Duin, and Dmitry Bedrov",
+    "venue": "J. Phys. Chem. Lett. 2018.9:825-829"
+  },
+  "pdf_path": "papers/Dong_WeiZhang_vanDuin_Bedrov_Grotthus_JPC_Letters_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018dengpan-dong-j-phys-chem-grotthuss-versus_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018dengpan-dong-j-phys-chem-grotthuss-versus.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

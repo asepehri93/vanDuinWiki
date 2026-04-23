@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023krstic-venue-jap23-ps-00954-aq",
+  "manifest": {
+    "source_path": "papers/Krstic_JAP_2023_H_Li_galley.pdf",
+    "sha256": "95b8f86ad97c4fd580a89f248c95b25b2ef75963092dd39d3d697d067551dc5f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "JAP23-PS-00954_AQ 1..2",
+    "year": 2023,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Krstic_JAP_2023_H_Li_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023krstic-venue-jap23-ps-00954-aq_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2531
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023krstic-venue-jap23-ps-00954-aq.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

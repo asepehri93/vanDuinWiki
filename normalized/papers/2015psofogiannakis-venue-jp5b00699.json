@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Psofogiannakis_JPCC_2015.pdf",
     "sha256": "18feeef1f056fe0036c3209080ba474780c732df7289a731b4575f231b600d2c",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015psofogiannakis-venue-jp5b00699_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015psofogiannakis-venue-jp5b00699.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

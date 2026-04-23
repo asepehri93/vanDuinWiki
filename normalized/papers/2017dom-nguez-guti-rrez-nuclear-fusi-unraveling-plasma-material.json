@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017dom-nguez-guti-rrez-nuclear-fusi-unraveling-plasma-material",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Dominguez_Gutierrez_NuclFusion_2017.pdf",
+    "sha256": "b986c2ce957a58192c4bc7d62c954fb5eb86daa4ea8c83adac2af9a2658ff11b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/1741-4326/aa7b17",
+    "title": "Unraveling the plasma-material interface with real time diagnosis of dynamic boron conditioning in extreme tokamak plasmas",
+    "year": 2017,
+    "authors": "F. Javier Domínguez-Gutiérrez",
+    "venue": "Nuclear Fusion, 57 (2017) aa7b17. doi: 10.1088/1741-4326/aa7b17"
+  },
+  "pdf_path": "papers/ReaxFF_others/Dominguez_Gutierrez_NuclFusion_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017dom-nguez-guti-rrez-nuclear-fusi-unraveling-plasma-material_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017dom-nguez-guti-rrez-nuclear-fusi-unraveling-plasma-material.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

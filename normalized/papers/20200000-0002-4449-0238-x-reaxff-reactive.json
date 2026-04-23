@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20200000-0002-4449-0238-x-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/Damirchi_JPC_2020_CNT_polymer_galley.pdf",
+    "sha256": "8b9a0cd834a873e8ade690c5af8fd397ea71f40135f92461ef2ddd7f7d6ccb4d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.0c03509",
+    "title": "ReaxFF Reactive Force Field Study of Polymerization of a Polymer Matrix in a Carbon Nanotube-Composite System",
+    "year": 2020,
+    "authors": "Behzad Damirchi (ORCID: 0000-0002-4449-0238)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Damirchi_JPC_2020_CNT_polymer_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20200000-0002-4449-0238-x-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20200000-0002-4449-0238-x-reaxff-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

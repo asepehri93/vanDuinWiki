@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024akshay-gharpure-acs-upcycling-plastic",
+  "manifest": {
+    "source_path": "papers/Gharpure_Kowalik_ACS_SusChemEng_Upcycling_Plastic_2024.pdf",
+    "sha256": "8563d7255c1dcabe63fee8c51db24da1f7f0d7e45551ea594c0896c00ecaf689",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acssuschemeng.3c07783",
+    "title": "Upcycling Plastic Waste into Graphite Using Graphenic Additives for Energy Storage: Yield, Graphitic Quality, and Interaction Mechanisms via Experimentation and Molecular Dynamics",
+    "year": 2024,
+    "authors": "Akshay Gharpure, Malgorzata Kowalik, Randy L. Vander Wal, and Adri C.T. van Duin",
+    "venue": "ACS Sustainable Chem. Eng. 0.0"
+  },
+  "pdf_path": "papers/Gharpure_Kowalik_ACS_SusChemEng_Upcycling_Plastic_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024akshay-gharpure-acs-upcycling-plastic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024akshay-gharpure-acs-upcycling-plastic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -2,7 +2,7 @@
 id: concept:theme-oxides-silica-ceramics
 type: concept
 title: "Theme: oxides, silica, and ceramic surfaces (ReaxFF corpus)"
-updated: "2026-04-20"
+updated: "2026-04-21"
 confidence: med
 canonical_tags:
   - domain:oxides-ceramics
@@ -58,6 +58,14 @@ The KB documents **QM-motivated extensions** of ReaxFF for **oxygen interacting 
 ### Overlap with batteries, water, and catalysis
 
 **Solid electrolyte** oxide chemistry connects outward to [[batteries-interfaces-reaxff]] and [[2018shin-physical-che-development-reaxff]]. **Aqueous films and silica** connect to [[theme-water-silica-geo]] and [[2013muri-venue-jp3086649]]. **Catalyst supports** and **surface reactions** intersect [[theme-catalysis-surfaces]] (e.g. [[2015broqvist-venue-jp5b01597]], [[2013neyts-venue-c3nr00153a]]).
+
+## Analysis and cross-cutting patterns
+
+**Oxidation** and **hydroxylation** stories often share the same **Si/O/H** or **Ni/O** parameter lines across papers; treat **quantitative** barrier comparisons as **local** to each publication unless it explicitly combines models. [[theme-reactive-md-corpus]] lists **method-level** threads that cut across this domain hub.
+
+## Gaps and open directions (corpus view)
+
+Many `domain:oxides-ceramics` slugs in [[paper-index-by-domain]] are not yet woven into this narrative—expand bullets as those paper notes mature. **Non-ReaxFF** oxide studies exist in the KB but may sit outside this **reactive** theme unless a note bridges them.
 
 ## Debates, tensions, and cross-references
 

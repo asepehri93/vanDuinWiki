@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018hanson-venue-supporting-online",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/pnas.1701383115.sapp.pdf",
+    "sha256": "8923c83740d940b6ed0b7e102c03a8991810abb5bd7980c142407259f9f22a60",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1073/pnas",
+    "title": "Supporting Online Material for",
+    "year": 2018,
+    "authors": "Brooks Hanson",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/pnas.1701383115.sapp.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018hanson-venue-supporting-online_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1596
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018hanson-venue-supporting-online.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

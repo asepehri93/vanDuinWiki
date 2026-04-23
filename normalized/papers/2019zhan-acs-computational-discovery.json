@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhan-acs-computational-discovery",
+  "manifest": {
+    "source_path": "papers/Others/MXene_ACS_AMI_CompMat_review_Kent_Jiang_2019.pdf",
+    "sha256": "896d47c33edb1751393e520ed51e8909e947e0bb42615123d7375dd151efeb91",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Computational Discovery and Design of MXenes for Energy Applications: Status, Successes, and Opportunities",
+    "year": 2019,
+    "authors": "Cheng Zhan; Weiwei Sun (ORCID: 0000-0002-5535-0660); Yu Xie (ORCID: 0000-0002-7782-5428); De-en Jiang (ORCID: 0000-0001-5167-0731); Paul R. C. Kent (ORCID: 0000-0001-5539-4017)",
+    "venue": "ACS Appl. Mater. Interfaces 0.0:null-null"
+  },
+  "pdf_path": "papers/Others/MXene_ACS_AMI_CompMat_review_Kent_Jiang_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhan-acs-computational-discovery_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhan-acs-computational-discovery.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

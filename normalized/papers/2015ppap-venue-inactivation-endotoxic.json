@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/PPaP_2015_Yusupov-Lipid A.PDF",
     "sha256": "f0e09561531dd7a348592a5469855314c62f4062b0e79705004477cfecbdef59",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1002/ppap.201400064wileyonlinelibrary.com",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015ppap-venue-inactivation-endotoxic_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015ppap-venue-inactivation-endotoxic.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

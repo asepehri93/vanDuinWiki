@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021shin-computationa-impact-three-body",
+  "manifest": {
+    "source_path": "papers/Shin_CompMatSci_NiCr_metal_2021.pdf",
+    "sha256": "1deeb92dd0bb1bb9d9ac2f8294c1cf5b481c599841444218a6246d6698b13167",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Impact of three-body interactions in a ReaxFF force field for Ni and Cr transition metals and their alloys on the prediction of thermal and mechanical properties",
+    "year": 2021,
+    "authors": "Yun Kyung Shin",
+    "venue": "Computational Materials Science, 197 (2021) 110602. doi:10.1016/j.commatsci.2021.110602"
+  },
+  "pdf_path": "papers/Shin_CompMatSci_NiCr_metal_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021shin-computationa-impact-three-body_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021shin-computationa-impact-three-body.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

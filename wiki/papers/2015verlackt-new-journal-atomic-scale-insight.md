@@ -12,6 +12,10 @@ canonical_tags:
   - task:application
   - scale:atomistic
 candidate_tags: []
+paper_keywords:
+  - keyword:reaxff-application
+  - keyword:reactive-md
+  - keyword:water-interfaces
 source_refs: []
 doi: "10.1088/1367-2630/17/10/103005"
 year: 2015
@@ -30,7 +34,6 @@ pdf_path: "papers/Verlackt_njp_DNA_2015.pdf"
 extraction_quality: "good"
 group_affiliation: true
 ---
-
 <!-- id:paper:2015verlackt-new-journal-atomic-scale-insight -->
 
 ## Evidence and attribution
@@ -43,16 +46,19 @@ group_affiliation: true
 
 ## Summary
 
-**Plasma-medicine-motivated reactive MD** with **ReaxFF** is used to follow **·OH attack on DNA** in explicit **aqueous solution**, focusing on **bond-making/breaking events** that are inaccessible to non-reactive force fields. The publication frames **reactive oxygen species (ROS)** chemistry at **atomistic resolution** and connects simulation observables to **plasma–liquid interface** contexts where hydroxyl radicals are abundant. Penn State contributors (**Shin, Golkaram, van Duin**) anchor the **ReaxFF methodology** side of an international collaboration led by **Antwerp**-based groups.
+This *New Journal of Physics* article uses ReaxFF reactive molecular dynamics to follow how reactive oxygen species, especially hydroxyl radicals, attack a short DNA duplex in explicit water at room temperature—chemistry that fixed-bond force fields cannot represent. The motivation is plasma-medicine and oxidative-stress contexts where short-lived radicals reach biomolecules in solution. The work is a collaboration between Antwerp-led groups and Penn State contributors on the reactive force-field side. The abstract emphasizes bond-making and bond-breaking at nucleobases and backbone sites rather than elastic deformation of a frozen topology.
 
 ## Methods
 
-- **ReaxFF molecular dynamics** of DNA fragments solvated with explicit water, with radical species introduced consistent with the article’s protocol sections.
-- Validation and parameter scope are described relative to **QM benchmarks** in the original paper.
+Reactive molecular dynamics uses **ReaxFF in LAMMPS** on a **12 base-pair** DNA dodecamer in explicit water in a **33 × 33 × 48 Å** three-dimensionally periodic **supercell** at roughly **~1 g mL⁻¹** liquid density, with reactive oxygen species added for impact trajectories. After minimization, the protocol ramps temperature **0 → 300 K over 100 ps**, holds **300 K for 200 ps**, then continues **NVT** equilibration for **300 ps** total with a **Nosé–Hoover** thermostat (coupling **25 fs**). Production consists of **15** independent **500 ps** impact trajectories at **300 K** with **0.25 fs** timestep. No barostat, controlled pressure, electric field, or enhanced sampling is used; electrostatics follow the ReaxFF formulation (Coulomb plus QEq-style charges) with parameter lineage cited in the article.
+
+**Force-field training:** **N/A —** the work **applies** a published **CH(O/N)**-class ReaxFF parametrization adapted for DNA and cites prior biomolecular parametrizations; it does not report a new global ReaxFF optimization.
+
+**Static QM / DFT:** **N/A —** the centerpiece is ReaxFF dynamics; DFT appears through citations to prior validation of related parametrizations, not as new barrier or pathway production calculations in this study.
 
 ## Findings
 
-- The work documents **radical-induced bond cleavage / modification pathways** on DNA building blocks and discusses mechanistic implications for **ROS damage** scenarios (see article body for specific reaction channels and statistics).
+The trajectories show **·OH**-driven bond-making and bond-breaking at nucleobases and backbone sites, including **8-OH-adduct** radicals on the path to **8-oxoGuanine**- and **8-oxoAdenine**-like motifs, **H-abstraction from amines**, and **partial opening** of loose DNA ends in water, as discussed with figures in `papers/Verlackt_njp_DNA_2015.pdf`. **H₂O₂** and **HO₂** are in the reactive set; the abstract notes **H₂O₂** is largely unreactive on the simulated time scale relative to **·OH**. The paper is simulation-forward: plasma–DNA experiments motivate the problem but are not used as quantitative fits at abstract level. **Fifteen** parallel runs sample stochastic attack; **OH-terminated** terminal bases are excluded from analyzed reaction statistics so end effects do not dominate pathway counts. Population timelines and numerical details should be read from the journal figures; the authors discuss force-field bias in rare channels and the gap to long biological timescales in the Discussion.
 
 ## Limitations
 
@@ -67,6 +73,11 @@ Demonstrates **ReaxFF deployment outside traditional materials catalysis**—her
 
 - Title page and abstract in `papers/Verlackt_njp_DNA_2015.pdf`; **DOI:** `10.1088/1367-2630/17/10/103005`.
 
+## Reader notes (navigation)
+
+- Soft-matter / plasma-medicine ReaxFF; compare method surveys under [[theme-reactive-md-corpus]].
+
 ## Related topics
 
 - [[reaxff-family]]
+- [[theme-reactive-md-corpus]]

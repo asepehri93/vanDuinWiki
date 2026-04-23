@@ -1,0 +1,30 @@
+{
+ "paper_id": "paper:2014rossi-2014-doi-10-reduced-yield",
+ "manifest": {
+  "source_path": "papers/Rossi_AdvModSimEng_2014_ZrI.pdf",
+  "sha256": "114c8863ad2becf7f29cdfb2da1142de49a7d73ecf32ecb1cd35f0a3ecc5fb68",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1186/s40323-014-0019-z",
+  "title": "Reduced yield stress for zirconium exposed to iodine: reactive force field simulation",
+  "year": 2014,
+  "authors": [
+   "Matthew L. Rossi",
+   "Christopher D. Taylor",
+   "Adri C. T. van Duin"
+  ],
+  "venue": "Advanced Modeling and Simulation in Engineering Sciences"
+ },
+ "pdf_path": "papers/Rossi_AdvModSimEng_2014_ZrI.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014rossi-2014-doi-10-reduced-yield_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 7245
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014rossi-2014-doi-10-reduced-yield.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

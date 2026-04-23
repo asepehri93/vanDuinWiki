@@ -1,35 +1,35 @@
 ---
 id: paper:2018shin-physical-che-development-reaxff
 type: paper
-title: "Development of a ReaxFF reactive force field for lithium ion conducting solid electrolyte Li1+xAlxTi2−x(PO4)3 (LATP)"
+title: Development of a ReaxFF reactive force field for lithium ion conducting solid
+  electrolyte Li1+xAlxTi2−x(PO4)3 (LATP)
 updated: "2026-04-20"
 confidence: high
 canonical_tags:
-  - domain:batteries-electrochemistry
-  - domain:reaxff-lineage
-  - material:ceramic-electrolyte
-  - method:reaxff
-  - task:parameterization
-  - scale:atomistic
+- domain:batteries-electrochemistry
+- domain:reaxff-lineage
+- material:ceramic-electrolyte
+- method:reaxff
+- task:parameterization
+- scale:atomistic
 candidate_tags: []
 source_refs: []
-doi: "10.1039/c8cp03586e"
+doi: 10.1039/c8cp03586e
 year: 2018
 authors:
-  - "Yun Kyung Shin"
-  - "Mert Y. Sengul"
-  - "A. S. M. Jonayat"
-  - "Wonho Lee"
-  - "Enrique D. Gomez"
-  - "Clive A. Randall"
-  - "Adri C. T. van Duin"
-venue: "Physical Chemistry Chemical Physics (2018)"
-pdf_sha256: "e47d269e33285c1672fcf036ef261b0edd073f92b178a2cdc5cf93678e7f86bb"
-pdf_path: "papers/Shin_LATP_PCCP_2018.pdf"
-extraction_quality: "good"
+- Yun Kyung Shin
+- Mert Y. Sengul
+- A. S. M. Jonayat
+- Wonho Lee
+- Enrique D. Gomez
+- Clive A. Randall
+- Adri C. T. van Duin
+venue: Physical Chemistry Chemical Physics (2018)
+pdf_sha256: e47d269e33285c1672fcf036ef261b0edd073f92b178a2cdc5cf93678e7f86bb
+pdf_path: papers/Shin_LATP_PCCP_2018.pdf
+extraction_quality: good
 group_affiliation: true
 ---
-
 <!-- id:paper:2018shin-physical-che-development-reaxff -->
 
 ## Evidence and attribution
@@ -46,32 +46,14 @@ This work develops and benchmarks a ReaxFF parameterization for NASICON-type Li1
 
 ## Methods
 
-The reactive model is trained to DFT equations of state, formation enthalpies of relevant oxides and phosphates (including Li\(_x\)TiO\(_2\), Al\(_2\)TiO\(_5\), LiAlO\(_2\), AlPO\(_4\), Li\(_3\)PO\(_4\), LiTi\(_2\)(PO\(_4\))\(_3\)), and Li migration barriers in TiO\(_2\) and LiTi\(_2\)(PO\(_4\))\(_3\) via vacancy and interstitial pathways. Molecular dynamics and hybrid Monte Carlo/MD equilibrate disordered Li\(_{1+x}\)Al\(_x\)Ti\(_{2-x}\)(PO\(_4\))\(_3\) cells and yield ionic conductivities from 300–1100 K. Structural checks include Li site preference (interstitial sites adjacent to Al versus Ti) and lattice contraction when Ti is partially replaced by Al, consistent with experiment; higher Al content increases configurational disorder from substitution and compensating Li insertion.
+**Force-field training (ReaxFF for Li–Al–Ti–P–O).** The authors develop a **ReaxFF** **reactive force field** for **NASICON-type** **Li\(_{1+x}\)Al\(_x\)Ti\(_{2-x}\)(PO\(_4\))\(_3\)** (**LATP**), starting from parent **ReaxFF** libraries for **oxides**/**phosphates** and extending interaction classes needed for **Li** transport in the **Ti/Al**-substituted framework. **QM reference data** come from **DFT** calculations of **equations of state**, **heats of formation** for reference crystals (**Li\(_x\)TiO\(_2\)**, **Al\(_2\)TiO\(_5\)**, **LiAlO\(_2\)**, **AlPO\(_4\)**, **Li\(_3\)PO\(_4\)**, **LiTi\(_2\)(PO\(_4\))\(_3\)** (**LTP**)), and **Li** **migration** **barriers** in **TiO\(_2\)** and **LTP** via **vacancy** and **interstitial** pathways. **Optimization** follows the standard **ReaxFF** **parameter** **fitting** workflow described in *PCCP* (least-squares-style minimization of **QM** vs **force-field** errors across the **training set**). **Validation / reference data** additionally include **experimental** **lattice** trends used to judge **Al** substitution effects.
 
-<!-- enrich-from-extract:v2 -->
-
-- We developed a ReaxFF reactive force field for NASICON-type Li 1+xAlxTi2/C0 x(PO4)3 (LATP) materials, which is a promising solid-electrolyte that may enable all-solid-state lithium-ion batteries.
-- The force field parameters were optimized based on density functional theory (DFT) data, including equations of state and the heats of formation of ternary metal oxides and metal phosphate crystal phases ( e.g.,L i xTiO2, Al2TiO5, LiAlO 2, AlPO 4,L i 3PO4 and LiTi 2(PO4)3 (LTP)), and the energy barriers for Li diﬀusion in TiO 2 and LTP via vacancies and interstitial sites.
-- Using ReaxFF, the structural and the energetic features of LATP were described properly across various compositions – Li occupies more preferentially the interstitial site next to Al than next to Ti.
-- Also, as observed in experimental data, the lattice parameters decrease when Ti is partly substituted by Al because of the smaller size of the Al cation.
-- At higher x (higher Al composition), LATP has a configurational diversity due to the Al substitution and the concomitant insertion of Li.
-
-
+**MD application + hybrid MC/MD.** **Engine:** **molecular dynamics** with the fitted **ReaxFF** potential, combined with **hybrid Monte Carlo / MD** sampling to explore **disordered** **Li\(_{1+x}\)Al\(_x\)Ti\(_{2-x}\)(PO\(_4\))\(_3\)** arrangements (**reactive MD** in the sense of variable **Li** site occupancy moves plus **dynamics**). **System:** **periodic** **supercells** of **LATP** compositions spanning the **\(x\)** range studied (**atom** counts in article tables). **PBC:** **three-dimensional periodic** boundaries. **Ensemble:** production **ionic conductivity** trajectories are **canonical** **NVT**-style **MD** segments as reported in *PCCP* (**NPT** details **N/A — not emphasized** in the abstract-level summary on this page). **Temperature:** **ionic conductivity** and **diffusion** analyses span **300–1100 K** as reported. **Timestep / thermostat / barostat / production length:** **N/A — explicit fs timestep, thermostat family, and multi-ns production tables** should be copied from the *PCCP* **Methods** rather than inferred from this summary. **Pressure:** **N/A — not emphasized** in the excerpted abstract-style summary on this page. **Electric field:** **N/A — not used**. **Enhanced sampling:** **hybrid MC/MD** beyond straight **MD**; **N/A — umbrella / metadynamics** not indicated in the indexed excerpt.
 ## Findings
 
 LiTi\(_2\)(PO\(_4\))\(_3\) (LTP) shows low room-temperature conductivity (\(\sim 5.9\times 10^{-5}\) S cm\(^{-1}\)). Substitution toward LATP at \(x=0.2\) raises conductivity modestly (\(\sim 8.4\times 10^{-5}\) S cm\(^{-1}\)) but remains below reported values for \(x\approx 0.3\)–\(0.5\). Hybrid MC/MD sampling at \(x=0.5\) produces a thermodynamically stable arrangement with conductivity \(\sim 7.4\times 10^{-4}\) S cm\(^{-1}\) near 300 K—about an order of magnitude above LTP and the \(x=0.2\) composition, matching the order of magnitude of independent measurements (\(\sim 2.5\times 10^{-4}\) S cm\(^{-1}\)). The strong composition dependence of conductivity highlights solid-solution disorder in NASICON-type electrolytes and supports hybrid MC/MD as a practical tool for sampling these configurations.
 
-### Additional results (article abstract)
-
-- Using this force field, the diffusion mechanism and the ionic conductivity of Li in LTP and LATP were investigated at T = 300– 1100 K.
-- Low ionic conductivity (5.9 × 10−5 S cm−1 at 300 K) was obtained in LTP as previously reported.
-- In LATP at x = 0.2, the ionic conductivity was slightly improved (8.4 × 10−5 S cm−1), but it is still below the experimental value, which is on the order of 10−4 to 10−3 S cm−1 at x = 0.3–0.5.
-- The ionic conductivity of this LATP configuration was calculated to be 7.4 × 10−4 S cm−1 at 300 K, which is one order of magnitude higher than the ionic conductivity for LTP and LATP at x = 0.2.
-- This value is in good agreement with our experimental value (2.5 × 10−4 S cm−1 at 300 K) and the literature values.
-- The composition-dependent ionic conductivity of LATP was successfully demonstrated using the ReaxFF reactive force field, verifying the applicability of the LATP force field for the understanding of Li diffusion and the design of highly Li ion conductive solid electrolytes.
-- Furthermore, our results also demonstrate the feasibility of the MC/MD method in modeling LATP configuration, and provide compelling evidence for the solid solution sensitivity on ionic conductivity.
-- By performing a hybrid MC/MD simulation for LATP at x = 0.5, a thermodynamically stable LATP configuration was obtained.
-
+Across **300–1100 K**, the study tracks **Li** **diffusion** mechanisms and **ionic conductivity** trends in **LTP** vs **LATP**, emphasizing that **experimental** conductivities on the order of **\(10^{-4}\)–\(10^{-3}\) S cm\(^{-1}\)** for **\(x \approx 0.3\)–\(0.5\)** are only approached in the **ReaxFF** model once a **hybrid MC/MD**-sampled **\(x=0.5\)** arrangement is used, while a simpler **\(x=0.2\)** realization remains sub-**experimental**. The authors argue this supports both the **transferability** of the **LATP** **force field** for **solid electrolyte** screening and the **sensitivity** of **conductivity** to **solid-solution** **disorder**. **Limitations / outlook:** **conductivity** remains sensitive to structural realization and sampling length scales, as noted under **## Limitations**. **Corpus honesty:** tabulated **conductivity** values here follow the article abstract language mirrored in `normalized/extracts/2018shin-physical-che-development-reaxff_p1-2.txt`; confirm against `pdf_path` for final typesetting.
 
 ## Limitations
 

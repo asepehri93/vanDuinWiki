@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023chaney-chem-mater-2-reaxff-simulation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/chaney-lu-2023-reaxff-simulation-of-pyrolysis-behaviors-of-polysiloxane-precursors-with-different-carbon-content.pdf",
+    "sha256": "443bb28ad004299714bcc1d1924579ebb700c3e4ef7273a9e4bf602687d12bb9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF Simulation of Pyrolysis Behaviors of Polysiloxane Precursors with Different Carbon Content",
+    "year": 2023,
+    "authors": "Harrison Chaney and Kathy Lu",
+    "venue": "Chem. Mater. 2023.35:3902-3910"
+  },
+  "pdf_path": "papers/ReaxFF_others/chaney-lu-2023-reaxff-simulation-of-pyrolysis-behaviors-of-polysiloxane-precursors-with-different-carbon-content.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023chaney-chem-mater-2-reaxff-simulation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023chaney-chem-mater-2-reaxff-simulation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

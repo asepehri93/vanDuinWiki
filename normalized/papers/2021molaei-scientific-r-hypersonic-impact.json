@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021molaei-scientific-r-hypersonic-impact",
+  "manifest": {
+    "source_path": "papers/Others/Molaei_C3N_BC3_impact_SciRep_2021.pdf",
+    "sha256": "e8a3846bdaaa0185667b039c432b293cdbbf12fd2eea4fcf3960f5226ed867e1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41598-021-86537-z",
+    "title": "Hypersonic impact properties of pristine and hybrid single and multi-layer C3N and BC3 nanosheets",
+    "year": 2021,
+    "authors": "Fatemeh Molaei ",
+    "venue": "Scientific Reports, https://doi.org/10.1038/s41598-021-86537-z"
+  },
+  "pdf_path": "papers/Others/Molaei_C3N_BC3_impact_SciRep_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021molaei-scientific-r-hypersonic-impact_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021molaei-scientific-r-hypersonic-impact.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

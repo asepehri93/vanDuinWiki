@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2009borodin-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/Borodin_IL_polarizable.pdf",
+    "sha256": "833af7b0a3083e888c7494f5c1deb15ca298485ab714f4223fcae56fda9b772f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2009,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Borodin_IL_polarizable.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2009borodin-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2009borodin-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

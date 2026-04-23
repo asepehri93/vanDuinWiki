@@ -39,23 +39,76 @@ group_affiliation: true
 
 ## Summary
 
-ReaxFF MD pyrolyzes a >50,000-atom Illinois No. 6 coal molecular model (728 molecule assembly) at 2000 K for 250 ps until roughly 60% of cross-links break. Initiation involves hydroxyl release, hydroaromatic dehydrogenation, and heteroatom-linked bond scission; major products include light hydrocarbons, oxygenates, and alkylated aromatics consistent with experiment. Organic sulfur enhances fragmentation versus a sulfur-free control by weakening C–S relative to C–C bonds, accelerating gas and tar generation (abstract; article header, extract).
+The study applies **ReaxFF reactive molecular dynamics** to pyrolyze a **large-scale molecular assembly** of **Illinois No. 6 coal** represented by **728** diverse molecules in a simulation cell exceeding **50,000 atoms**. Pyrolysis is conducted at **2000 K** for **250 ps** and continued until roughly **60%** of **cross-links** have been thermally cleaved, a condition chosen so that chemistry occurs within a tractable simulation time at this elevated temperature. Initiation chemistry is attributed in the abstract to **hydroxyl release**, **dehydrogenation of hydroaromatic** moieties, and **cleavage of heteroatom-containing cross-links**. Reported **volatile** product classes include **hydrogen**, **methyl**, **ethylene**, **acetylene**, **formaldehyde**, **ethynol**, **alkylphenols**, **alkylnaphthalenes**, and **alkylnaphthols**, described as consistent with **experimental** tar and gas signatures. **Molecular-weight distributions** shift toward **lower** molar mass as thermal fragmentation proceeds, and **tar structural motifs** are compared with **literature** data.
 
 ## Methods
 
-Large-scale reactive MD with documented ReaxFF coal chemistry; comparative sulfur-free rerun for mechanistic attribution (abstract, extract).
+### Relationship to other ingests
+
+- Same **JAAP** article and scientific protocol as **`[[2014castro-marcano-journal-of-a-pyrolysis-large-scale]]`**, but this `pdf_path` points at an **Elsevier proof** PDF (`papers/Castro_JAAP_3246_proofs.pdf`).
+
+### ReaxFF coal pyrolysis setup
+
+- **ReaxFF** **reactive MD** with the group’s **coal/CHONS** parameterization tracks **bond-order**-based bond formation/scission in the assembled **Illinois No. 6** molecular model (**abstract** on sibling page).
+
+### Thermal schedule and stopping criterion
+
+- **2000 K** for **250 ps**, continued until **~60%** of **cross-links** are disrupted (**abstract**).
+
+### Sulfur-free control
+
+- A **sulfur-free** duplicate model is run under the same schedule to isolate **organic sulfur** chemistry effects (**abstract**).
+
+### Canonical detail
+
+- For **timestep/thermostat** and **analysis** scripts, use the **final JAAP** issue PDF on **`[[2014castro-marcano-journal-of-a-pyrolysis-large-scale]]`** when available—not proof boilerplate alone.
+
+### 1 — MD application (ReaxFF reactive MD)
+
+- **Engine / code:** **Reactive molecular dynamics** with **ReaxFF** per the shared **JAAP** abstract; **specific MD package** is **N/A in the pages 1–2 extract**—confirm in the **final** PDF.
+- **System size & composition:** **>50,000 atoms**; **728** diverse **Illinois No. 6** molecules (abstract; extract for sibling slug).
+- **Boundaries / periodicity / ensemble / timestep / thermostat / barostat:** **N/A —** not stated in the indexed extract; confirm in the **version-of-record** PDF.
+- **Duration / stages:** **250 ps** at **2000 K** until **~60%** of **cross-links** are disrupted **primarily by thermolysis** (abstract).
+- **Temperature:** **2000 K** (abstract).
+- **Pressure / electric field / enhanced sampling:** **N/A —** not summarized in the abstract excerpt used here.
+
+### 2 — Force-field training
+
+**N/A —** application paper in the abstract framing (parameter provenance in the main text).
+
+### 3 — Static QM
+
+**N/A —** not the primary methodology in the abstract framing summarized here.
 
 ## Findings
 
-Abstract details product classes, molecular weight shift, differential heterocycle decomposition percentages, and accelerated kinetics with sulfur present.
+### 1 — Outcomes and mechanisms
+
+The abstract reports that **heteroatom-linked** cross-links (**sulfurated** and **oxygenated**) thermally degrade more extensively than purely **alkyl** linkages, indicating higher **reactivity** near **heteroatoms**. **Sulfur form** analysis distinguishes **aliphatic sulfur** as more rapidly mobilized than **thiophenic sulfur**, matching qualitative **experimental** expectations. Quantitative **heterocycle** decomposition extents in the abstract include **~57%** for **pyrrolic**, **~47%** for **thiophenic**, and **~29%** for **furanic** five-membered rings in the surveyed structures. Comparing **sulfur-bearing** versus **sulfur-free** trajectories, **aryl/alkyl C–S** bonds are found weaker than corresponding **C–C** bonds, so **C–S** cleavage yields **greater fragmentation** and higher evolution of **inorganic gases** and **tars** when sulfur is present—interpreted as **sulfur** accelerating **pyrolysis kinetics** in this model. The authors position **ReaxFF** plus representative **coal** structures as a practical probe of complex **pyrolysis** chemistry despite known force-field limitations.
+
+### 2 — Comparisons
+
+Qualitative alignment of **volatile/tar** chemistry and **sulfur speciation** trends with **experiment** is stated in the abstract (same scientific text as the issue PDF).
+
+### 3 — Sensitivity
+
+**Sulfur-free** duplicate trajectories isolate **organic sulfur** effects on **gas/tar** generation rates (abstract).
+
+### 4 — Limitations (authored framing)
+
+High **T** and short **ps** window vs laboratory **pyrolysis** timescales; see **## Limitations** for corpus-specific **proof-PDF** caveats.
+
+### 5 — Corpus / KB honesty
+
+This slug’s `pdf_path` is an **Elsevier proof** (`papers/Castro_JAAP_3246_proofs.pdf`). Prefer **`[[2014castro-marcano-journal-of-a-pyrolysis-large-scale]]`** for **version-of-record** bytes and for **Methods** details not carried in short extracts.
 
 ## Limitations
 
-Single high-temperature short-time window; proof-stage manuscript with author-query boilerplate on page 1.
+The corpus **`pdf_path`** is an **Elsevier proof** (`Castro_JAAP_3246_proofs.pdf`) with **author-query** boilerplate on **page 1**; pagination and figure placement may differ from the final issue. A single **high-temperature**, **short-time** window cannot represent full **reactor** residence-time distributions or **pressure** effects in industrial **pyrolysis**.
 
 ## Relevance to group
 
-van Duin and Russo coauthorship on ReaxFF for fossil energy/pyrolysis chemistry aligned with group coal and combustion modeling.
+van Duin and Russo coauthorship on **ReaxFF** for **fossil** **energy** and **coal** **devolatilization** chemistry aligned with group **combustion** and **pyrolysis** modeling.
 
 ## Citations and evidence anchors
 

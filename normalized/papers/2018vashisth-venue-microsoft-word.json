@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018vashisth-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Vashisth_JPC_bondboost_2018_SI.pdf",
+    "sha256": "3f210692bd0a5d06b618cc8f35f5ecf51d8961a0e93f8165038bbfb56c8dd00d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - 2790906_File000001_49999605.docx",
+    "year": 2018,
+    "authors": " ",
+    "venue": null
+  },
+  "pdf_path": "papers/Vashisth_JPC_bondboost_2018_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018vashisth-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7193
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018vashisth-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015y-lmaz-computationa-modeling-failure",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/1-s2.0-S0927025615004206-main-4.pdf",
+    "sha256": "2aec0628127de042fbc55f7a20a4bbc58f81d81b865497d559cbed7b66a238bd",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Modeling failure mechanisms of poly(p-phenylene terephthalamide) fiber using reactive potentials",
+    "year": 2015,
+    "authors": "DÃ¼ndar E. YÄ±lmaz",
+    "venue": "Computational Materials Science, 109 (2015) 183-193. doi:10.1016/j.commatsci.2015.07.010"
+  },
+  "pdf_path": "papers/ReaxFF_others/1-s2.0-S0927025615004206-main-4.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015y-lmaz-computationa-modeling-failure_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015y-lmaz-computationa-modeling-failure.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

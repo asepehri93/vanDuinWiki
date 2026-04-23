@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024dasgupta-carbon-221-2-computationally-guided",
+  "manifest": {
+    "source_path": "papers/Dagupta_Mao_mesopores_Carbon_2024.pdf",
+    "sha256": "631d87774036b5ade2922dc6331699d13a03f6e9f1022ebff120548ec7f2b989",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Computationally guided synthesis of carbon coated mesoporous silica materials",
+    "year": 2024,
+    "authors": "Nabankur Dasgupta",
+    "venue": "Carbon, 221 (2024) 118891. doi:10.1016/j.carbon.2024.118891"
+  },
+  "pdf_path": "papers/Dagupta_Mao_mesopores_Carbon_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024dasgupta-carbon-221-2-computationally-guided_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024dasgupta-carbon-221-2-computationally-guided.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

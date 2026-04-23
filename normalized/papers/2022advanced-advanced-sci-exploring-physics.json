@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022advanced-advanced-sci-exploring-physics",
+  "manifest": {
+    "source_path": "papers/Others/Advanced Science - 2022 - Liu - Exploring Physics of Ferroelectric Domain Walls in Real Time Deep Learning Enabled.pdf",
+    "sha256": "5d5f10eb2a0aeae5c1277e4dc3d203ab341997ab2dba8d1d8adaeae6ab58029d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/advs.202203957",
+    "title": "Exploring Physics of Ferroelectric Domain Walls in Real Time: Deep Learning Enabled Scanning Probe Microscopy",
+    "year": 2022,
+    "authors": null,
+    "venue": "Advanced Science 2022.9:2203957"
+  },
+  "pdf_path": "papers/Others/Advanced Science - 2022 - Liu - Exploring Physics of Ferroelectric Domain Walls in Real Time Deep Learning Enabled.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022advanced-advanced-sci-exploring-physics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022advanced-advanced-sci-exploring-physics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

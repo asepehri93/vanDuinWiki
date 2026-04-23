@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018zhang-venue-untitled",
+  "manifest": {
+    "source_path": "papers/Zhang_HeavyWater_JPC_Letters_2018_SI.pdf",
+    "sha256": "fd23cfd6b0a91f50f076b52c99fa299c9c4a1173429c7fa0e5bea447c7ac4598",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Untitled",
+    "year": 2018,
+    "authors": "Weiwei Zhang",
+    "venue": null
+  },
+  "pdf_path": "papers/Zhang_HeavyWater_JPC_Letters_2018_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018zhang-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2062
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018zhang-venue-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

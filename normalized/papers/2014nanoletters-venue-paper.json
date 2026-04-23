@@ -1,0 +1,34 @@
+{
+ "paper_id": "paper:2014nanoletters-venue-paper",
+ "manifest": {
+  "source_path": "papers/ReaxFF_others/NanoLetters_Shenoy_et_al_2014.pdf",
+  "sha256": "8fd7d8e73f5a730b5b30cc80a6a60487bd581c44c1f0269202077efe2a28949e",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1021/nl502147t",
+  "title": "Fluorination of graphene enhances friction due to increased corrugation",
+  "year": 2014,
+  "authors": [
+   "Qunyang Li",
+   "Xin Z. Liu",
+   "Sang-Pil Kim",
+   "Vivek B. Shenoy",
+   "Paul E. Sheehan",
+   "Jeremy T. Robinson",
+   "Robert W. Carpick"
+  ],
+  "venue": "Nano Letters"
+ },
+ "pdf_path": "papers/ReaxFF_others/NanoLetters_Shenoy_et_al_2014.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014nanoletters-venue-paper_p1-2.txt",
+  "quality": "partial",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 3307
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014nanoletters-venue-paper.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Islam_PCCP_LiS_2014.pdf",
     "sha256": "2d41456bb91442675e451b81a994f8366567f12421c47c845e1bdd7ce2a09cb7",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1039/c4cp04532g",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2014islam-physical-che-reaxff-molecular_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2014islam-physical-che-reaxff-molecular.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

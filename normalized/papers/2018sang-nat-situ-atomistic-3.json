@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018sang-nat-situ-atomistic-3",
+  "manifest": {
+    "source_path": "papers/Xiahan_Nature_Comm_MXene_defect_2018_galley.pdf",
+    "sha256": "1dabf1f43d93ec96915f3f8f5c6fe46d599c628fd20745f8a6f83364cd2394fc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41467-018-04610-0",
+    "title": "In situ atomistic insight into the growth mechanisms of single layer 2D transition metal carbides",
+    "year": 2018,
+    "authors": "Xiahan Sang",
+    "venue": "Nature Communications, doi:10.1038/s41467-018-04610-0"
+  },
+  "pdf_path": "papers/Xiahan_Nature_Comm_MXene_defect_2018_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018sang-nat-situ-atomistic-3_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018sang-nat-situ-atomistic-3.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

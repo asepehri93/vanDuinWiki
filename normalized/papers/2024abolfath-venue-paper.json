@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024abolfath-venue-paper",
+  "manifest": {
+    "source_path": "papers/Abolfath_Water_nanobubble_EurPhysD_2024_galley.pdf",
+    "sha256": "224262cd9776f149d5457ffa9100b0e974d0c65d9b914d9965ae0cf5b3f2731d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2024,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Abolfath_Water_nanobubble_EurPhysD_2024_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024abolfath-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4404
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024abolfath-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018patra-acs-defect-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/acsnano_MoS2_ReaxFF_ML_Terrones_2018.pdf",
+    "sha256": "829b5dfbeda616a0856d5605b16cf53c3edd7511db65754d43cae2e77c231e6a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Defect Dynamics in 2-D MoS2 Probed by Using Machine Learning, Atomistic Simulations, and High-Resolution Microscopy",
+    "year": 2018,
+    "authors": "Tarak K. Patra; Fu Zhang; Daniel S. Schulman; Henry Chan; Mathew J. Cherukara; Mauricio Terrones; Saptarshi Das; Badri Narayanan; Subramanian K. R. S. Sankaranarayanan",
+    "venue": "ACS Nano 2018.12:8006-8016"
+  },
+  "pdf_path": "papers/ReaxFF_others/acsnano_MoS2_ReaxFF_ML_Terrones_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018patra-acs-defect-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018patra-acs-defect-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -11,6 +11,8 @@ These are **starting targets**; tighten after the first full compile and retriev
 | **Coverage** | Fraction of rows in `raw/MANIFEST.jsonl` that have a valid `normalized/papers/{slug}.json` **and** a `wiki/papers/{slug}.md` with matching `paper_id` and `pdf_sha256`. | **≥ 95%** |
 | **Bibliography completeness** | Among covered papers, fraction with `year` and (`title` or resolvable `doi`) in the normalized record. | **≥ 98%** |
 | **Connectivity** | Fraction of `paper` pages linked (wikilink or `related_ids` / backlinks) from **≥ 1** of: `concept`, `material`, `forcefield`, `methodprotocol`. | **≥ 80%** at end of Phase 4; **≥ 50%** acceptable after first linking pass |
+
+**Milestone note:** Per-paper curation (Phase 4 first pass) can be **complete** while this connectivity fraction is still below target. Close the gap in **Phase 4 Wave 2** (theme hubs, incoming links)—see [`MASTER_PLAN.md`](MASTER_PLAN.md) and [`PHASE4_RUNBOOK.md`](PHASE4_RUNBOOK.md).
 | **Grounding (synthesis pages)** | On `concept` / `material` / `forcefield` / `methodprotocol` / `debate` pages: fraction of `##`-level sections that include at least one `source_refs` entry or explicit `paper_id` citation. | **≥ 90%** |
 | **High-confidence orphans** | Count of synthesis pages with `confidence: high` and empty `source_refs` (and no inline citations). | **0** |
 | **Retrieval benchmark pass rate** | Fraction of **frozen v1** benchmark questions for which a retrieval+answer workflow returns relevant supporting `paper_id`s or entity pages in the top set (see grading rubric in Phase 5). | **≥ 70%** overall once indexes exist; **≥ 50%** on the “force field / protocol existence” subset |
@@ -59,6 +61,7 @@ The file [`benchmarks/WARMUP_CANDIDATE_QUESTIONS.md`](benchmarks/WARMUP_CANDIDAT
 
 ## Handoff
 
+- **Operator roadmap (post first-pass):** [`MASTER_PLAN.md`](MASTER_PLAN.md) — connectivity audit, Phase 5 retrieval loop, Wave 2 themes, Phase 8 export outline.
 - **Phase 1:** Schema and folders — [`AGENTS.md`](../AGENTS.md).
 - **Phase 2:** Canonical tags and governance — [`TAXONOMY_GOVERNANCE.md`](TAXONOMY_GOVERNANCE.md), [`taxonomy/canonical_tags.yml`](../taxonomy/canonical_tags.yml).
 - **Phase 3:** Corpus profiling — [`PHASE3_RUNBOOK.md`](PHASE3_RUNBOOK.md), [`../outputs/corpus_profile_2026-04.md`](../outputs/corpus_profile_2026-04.md); reconcile benchmarks and taxonomy per [`../outputs/taxonomy_phase3_review.md`](../outputs/taxonomy_phase3_review.md).

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhong-fuel-257-201-reaxff-md",
+  "manifest": {
+    "source_path": "papers/Zhong_Fuel_2019_S_N_removal.pdf",
+    "sha256": "734e41af2bb56c677bf97a290b629be761ff1806fd466992cf492a2dcefc9c4a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF MD simulations of petroleum coke CO2 gasification examining the S/N removal mechanisms and CO/CO2 reactivity",
+    "year": 2019,
+    "authors": "Qifan Zhong",
+    "venue": "Fuel, 257 (2019) 116051. doi:10.1016/j.fuel.2019.116051"
+  },
+  "pdf_path": "papers/Zhong_Fuel_2019_S_N_removal.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhong-fuel-257-201-reaxff-md_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhong-fuel-257-201-reaxff-md.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

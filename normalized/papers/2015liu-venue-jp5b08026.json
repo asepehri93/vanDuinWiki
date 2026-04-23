@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015liu-venue-jp5b08026",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Liu_carbyne_JPCC_2015.pdf",
+    "sha256": "e3bf1abd590fe81343ba2a42ef01bc5a91d356caa8dc8ea0419dc419bd97ed2d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp5b08026 1..9",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Liu_carbyne_JPCC_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015liu-venue-jp5b08026_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015liu-venue-jp5b08026.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

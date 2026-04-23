@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021zi-zhao-fuel-297-202-boudouard-reaction",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/ZiZhao_Fuel_2021_graphene_wrinkles_Bouduard.pdf",
+    "sha256": "4a5e7cedb87f41e3c3bf1381b244d8abd2d997e3b2e253f4b6c6e8dcc9d5e3fc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Boudouard reaction accompanied by graphitization of wrinkled carbon layers in coke gasification: A theoretical insight into the classical understanding",
+    "year": 2021,
+    "authors": "Ding Zi-Zhao",
+    "venue": "Fuel, 297 (2021) 120747. doi:10.1016/j.fuel.2021.120747"
+  },
+  "pdf_path": "papers/ReaxFF_others/ZiZhao_Fuel_2021_graphene_wrinkles_Bouduard.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021zi-zhao-fuel-297-202-boudouard-reaction_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021zi-zhao-fuel-297-202-boudouard-reaction.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

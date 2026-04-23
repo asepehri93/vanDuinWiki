@@ -1,0 +1,33 @@
+{
+  "paper_id": "paper:2017lloyd-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Lloyd_AKMC_Ag_ZnO_JCP_2017.pdf",
+    "sha256": "aae3a81ec88c88d75dd26a368487a54c5e92794f928acbf10e7bf6765a961d0a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4986402",
+    "title": "Reaction pathways in atomistic models of thin film growth",
+    "year": 2017,
+    "authors": [
+      "Adam L. Lloyd",
+      "Ying Zhou",
+      "Miao Yu",
+      "Chris Scott",
+      "Roger Smith",
+      "Steven D. Kenny"
+    ],
+    "venue": "J. Chem. Phys."
+  },
+  "pdf_path": "papers/ReaxFF_others/Lloyd_AKMC_Ag_ZnO_JCP_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017lloyd-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5473
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017lloyd-venue-paper.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

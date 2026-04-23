@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019fedkin-x-development-reaxff",
+  "manifest": {
+    "source_path": "papers/Fedkin_JPCA_Electrolyte_2019_proof.pdf",
+    "sha256": "7151580d3fef2df218d7ca9d6404244db639396ab094117c77ceb021b47ce10e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of the ReaxFF Methodology for Electrolyte–Water Systems",
+    "year": 2019,
+    "authors": "Mark V. Fedkin",
+    "venue": " "
+  },
+  "pdf_path": "papers/Fedkin_JPCA_Electrolyte_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019fedkin-x-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019fedkin-x-development-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

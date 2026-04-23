@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019wilkinson-x-topological-control",
+  "manifest": {
+    "source_path": "papers/Wilkinson_Water_Silica_JPCL_2019_proof.pdf",
+    "sha256": "95f3e4d53bff3917a554d7e0a42444ded5e0c054306db93f0fc0120619250582",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Topological Control of Water Reactivity on Glass Surfaces: Evidence of a Chemically Stable Intermediate Phase",
+    "year": 2019,
+    "authors": "Collin J. Wilkinson",
+    "venue": " "
+  },
+  "pdf_path": "papers/Wilkinson_Water_Silica_JPCL_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019wilkinson-x-topological-control_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019wilkinson-x-topological-control.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

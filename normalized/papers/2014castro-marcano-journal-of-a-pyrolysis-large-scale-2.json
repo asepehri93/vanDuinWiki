@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Castro_JAAP_3246_proofs.pdf",
     "sha256": "4c03f50a358cf49794bdedf63e99766e95e64fe7d52ebfe2941c10b0fe04a45b",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1016/j.jaap.2014.07.011",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2014castro-marcano-journal-of-a-pyrolysis-large-scale-2_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 7016
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2014castro-marcano-journal-of-a-pyrolysis-large-scale-2.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

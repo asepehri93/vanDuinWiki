@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018jonayat-physical-che-first-principles-study",
+  "manifest": {
+    "source_path": "papers/Jonayat_Metaloxide_confined_PCCP_2018.pdf",
+    "sha256": "51253e6a40e2f7ff4eaafb92b7d294eb804f1d0ac3344135958ab6b6bef0820a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A first-principles study of stability of surface confined mixed metal oxides with corundum structure (Fe2O3, Cr2O3, V2O3)",
+    "year": 2018,
+    "authors": "A. S. M. Jonayat",
+    "venue": "Physical Chemistry Chemical Physics (2018), 20, 7073-7081, doi:10.1039/C8CP00154E"
+  },
+  "pdf_path": "papers/Jonayat_Metaloxide_confined_PCCP_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018jonayat-physical-che-first-principles-study_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018jonayat-physical-che-first-principles-study.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024yongjian-yang-j-phys-chem-adsorption-co2",
+  "manifest": {
+    "source_path": "papers/Yang_Shin_JPC_2024_CO2_MOF_GCGC.pdf",
+    "sha256": "68e518e3c2bd0b1247b3c1e2c6a82086845792e3ee315ff916e96d4e1c82121e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.3c07183",
+    "title": "Adsorption of CO2 by Amine-Functionalized Metal–Organic Frameworks Using GCMC and ReaxFF-Based Metadynamics Simulations",
+    "year": 2024,
+    "authors": "Yongjian Yang, Yun Kyung Shin, Hideaki Ooe, Urara Hasegawa, Setsuko Yamane, Hayata Yamada, Adri C.T. van Duin, Yasuhiro Murase, and John C. Mauro",
+    "venue": "J. Phys. Chem. C 0.0"
+  },
+  "pdf_path": "papers/Yang_Shin_JPC_2024_CO2_MOF_GCGC.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024yongjian-yang-j-phys-chem-adsorption-co2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7339
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024yongjian-yang-j-phys-chem-adsorption-co2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

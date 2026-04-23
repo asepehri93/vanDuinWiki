@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018min-j-phys-chem-grafting-functional",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Min_LixSiO2_Polymer_JPCC_2018.pdf",
+    "sha256": "b7f9dfda28cbd03d2c5da3199adb19585844c26d016abe5f3ee3e12dfd1861d7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Grafting Functional Groups in Polymeric Binder toward Enhancing Structural Integrity of LixSiO2 Anode during Electrochemical Cycling",
+    "year": 2018,
+    "authors": "Kyoungmin Min; Aravind R. Rammohan; Sung Hoon Lee; Sushmit Goyal; Hyunhang Park; Ross Stewart; Xiaoxia He; Eunseog Cho",
+    "venue": "J. Phys. Chem. C 2018.122:17190-17198"
+  },
+  "pdf_path": "papers/ReaxFF_others/Min_LixSiO2_Polymer_JPCC_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018min-j-phys-chem-grafting-functional_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018min-j-phys-chem-grafting-functional.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

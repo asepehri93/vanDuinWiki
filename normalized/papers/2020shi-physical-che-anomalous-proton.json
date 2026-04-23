@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020shi-physical-che-anomalous-proton",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/LeShi_proton_graphene_oxide_PCCP_2020.pdf",
+    "sha256": "85d5f08feac1b8328f916890705a2c032115f1b6525bf97cdb585e78937034f9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Anomalous proton conduction behavior across a nanoporous two-dimensional conjugated aromatic polymer membrane",
+    "year": 2020,
+    "authors": "Le Shi",
+    "venue": "Physical Chemistry Chemical Physics (2020), 22, 2978-2985, doi:10.1039/c9cp06372b"
+  },
+  "pdf_path": "papers/ReaxFF_others/LeShi_proton_graphene_oxide_PCCP_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020shi-physical-che-anomalous-proton_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020shi-physical-che-anomalous-proton.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

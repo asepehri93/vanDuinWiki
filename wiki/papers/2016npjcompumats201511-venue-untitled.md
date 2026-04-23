@@ -38,6 +38,8 @@ group_affiliation: true
 
 <!-- id:paper:2016npjcompumats201511-venue-untitled -->
 
+Community review of the ReaxFF reactive force field: formalism, parameterization culture, software ecosystem, and cross-domain applications led by van Duin and collaborators.
+
 ## Evidence and attribution
 
 !!! note "Authority of statements"
@@ -48,22 +50,19 @@ group_affiliation: true
 
 ## Summary
 
-This **npj Computational Materials** review synthesizes the **ReaxFF** formalism—**bond-order-based reactive energetics**, **charge equilibration**, and **parameterization workflows**—and surveys major **application domains** (catalysis, materials degradation, combustion-related chemistry, electrochemistry-adjacent interfaces, and software scaling). The ingested PDF in this workspace is primarily an **editorial query / proof artifact** in the extracted text layer, but the bibliographic identity matches the widely cited **community overview** of **ReaxFF** co-led by **van Duin** with a large **multi-institution** author list.
+This *npj Computational Materials* article (DOI `10.1038/npjcompumats.2015.11`) is the widely cited community overview of ReaxFF co-led by van Duin with a large multi-institution author list: it synthesizes the reactive force-field formalism (bond-order-dependent valence and penalties, nonbonded terms, variable charge treatments), QM-driven parameterization practice, software and HPC coupling, and representative application domains from catalysis through degradation, combustion-related chemistry, and electrochemical interfaces. Some corpus ingests of `papers/NPJCOMPUMATS201511.pdf` carry noisy text extraction; cite the publisher **PDF/HTML** for clean section numbering, figures, and SI pointers.
 
 ## Methods
 
-Narrative review with **illustrative simulation examples** and **literature integration** (see full article for figure-guided tour).
+As a **review**, the manuscript’s “methods” are bibliographic and pedagogical: milestones in ReaxFF development, the bond-order energy expression and charge models (including QEq-style treatments), workflows for training against QM data, validation culture, and software coupling to community MD engines such as LAMMPS where the article discusses them. It does not center on one new production MD trajectory, one new public parameter release, or one new static QM benchmark as primary authored data—worked examples point to cited primary papers for timesteps, ensembles, system sizes, and training details.
 
 ## Findings
 
-- Summarizes **historical development** and **conceptual structure** of **ReaxFF** potentials.
-- Highlights **validation practices** and **representative successes/limitations** across fields.
-- Discusses **future directions** including tighter **QM coupling**, **software acceleration**, and **domain-specific parameter extensions** (e.g., polarizable variants such as **eReaxFF**).
+The review explains how bond-order reactive models enable large-scale reactive MD, surveys application domains and recurring successes in complex materials chemistry, and records limitations around subset transferability and accuracy versus QM or experiment for selected barriers and energies. Outlook material in the published text discusses trends such as tighter QM coupling in fitting, faster integrators and hardware-aware implementations, and extensions like eReaxFF for explicit carriers; quantitative statements should be taken from the publisher version-of-record and its references, not from the query-form PDF text sometimes ingested for this slug.
 
 ## Limitations
 
-- High-level review: readers still need **primary parameterization papers** for any specific **element subset**.
-- **Proof-stage PDF** may not be the cleanest reading copy; prefer the **publisher HTML/PDF** when available.
+High-level synthesis: any specific element subset or application still requires the cited primary parameterization and validation papers. The corpus copy tied to this slug may be a pre-layout or query-heavy PDF; prefer the publisher version-of-record for pagination and figures.
 
 ## Relevance to group
 
@@ -76,3 +75,7 @@ Flagship **outreach and onboarding** document for the **ReaxFF ecosystem** direc
 ## Related topics
 
 - [[reaxff-family]]
+
+## Reader notes (navigation)
+
+Prefer publisher HTML/PDF for clean pagination when citing sections.

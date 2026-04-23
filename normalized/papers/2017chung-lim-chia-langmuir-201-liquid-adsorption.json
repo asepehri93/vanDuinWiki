@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017chung-lim-chia-langmuir-201-liquid-adsorption",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Chia_Langmuir_Fe2O3_organic_2017.pdf",
+    "sha256": "f31ad95a27db2f3985f474765798777e46f6aa78f9ea595b945f59dfcf376090",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Liquid Adsorption of Organic Compounds on Hematite α-Fe2O3 Using ReaxFF",
+    "year": 2017,
+    "authors": "Chung-Lim Chia, Carlos Avendaño, Flor R. Siperstein, and Sorin Filip",
+    "venue": "Langmuir 2017.33:11257-11263"
+  },
+  "pdf_path": "papers/ReaxFF_others/Chia_Langmuir_Fe2O3_organic_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017chung-lim-chia-langmuir-201-liquid-adsorption_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017chung-lim-chia-langmuir-201-liquid-adsorption.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

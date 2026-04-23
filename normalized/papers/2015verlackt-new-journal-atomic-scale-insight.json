@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Verlackt_njp_DNA_2015.pdf",
     "sha256": "6ef38a20f390e494e1218c7d79b95f941e2597d3370307c9bfc207cc3351fb35",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1088/1367-2630/17/10/103005",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015verlackt-new-journal-atomic-scale-insight_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 5069
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015verlackt-new-journal-atomic-scale-insight.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

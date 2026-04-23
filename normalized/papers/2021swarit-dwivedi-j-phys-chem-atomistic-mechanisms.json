@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021swarit-dwivedi-j-phys-chem-atomistic-mechanisms",
+  "manifest": {
+    "source_path": "papers/Dwivedi_MOF_thermal_JPC_letters_2021.pdf",
+    "sha256": "81ea79b4a48cf9cebb54f8ead140712e9551dc953fb723e0a94f152c8534789d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic Mechanisms of Thermal Transformation in a Zr-Metal Organic Framework, MIL-140C",
+    "year": 2021,
+    "authors": "Swarit Dwivedi, Malgorzata Kowalik, Nilton Rosenbach, Dalal S. Alqarni, Yun Kyung Shin, Yongjian Yang, John C. Mauro, Akshat Tanksale, Alan L. Chaffee, and Adri C.T. van Duin",
+    "venue": "J. Phys. Chem. Lett. 2021.12:177-184"
+  },
+  "pdf_path": "papers/Dwivedi_MOF_thermal_JPC_letters_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021swarit-dwivedi-j-phys-chem-atomistic-mechanisms_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021swarit-dwivedi-j-phys-chem-atomistic-mechanisms.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

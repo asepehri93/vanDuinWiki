@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020c-ulises-gonzalez-va-j-phys-chem-investigation-atomistic",
+  "manifest": {
+    "source_path": "papers/Gonzales_Valle_JPCC_Al2O3_polymer.pdf",
+    "sha256": "e093ea66e739c77668cf3ed4584759b1c51743c80853b8e6d7315fbdbf7cd7da",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Investigation into the Atomistic Scale Mechanisms Responsible for the Enhanced Dielectric Response in the Interfacial Region of Polymer Nanocomposites",
+    "year": 2020,
+    "authors": "C. Ulises Gonzalez-Valle, Seung Ho Hahn, Murali Gopal Muraleedharan, Q.M. Zhang, Adri C.T. van Duin, and Bladimir Ramos-Alvarado",
+    "venue": "J. Phys. Chem. C 2020.124:11558-11563"
+  },
+  "pdf_path": "papers/Gonzales_Valle_JPCC_Al2O3_polymer.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020c-ulises-gonzalez-va-j-phys-chem-investigation-atomistic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020c-ulises-gonzalez-va-j-phys-chem-investigation-atomistic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

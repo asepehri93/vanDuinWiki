@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2007nanoparticles-venue-doi-s1748-0132",
+  "manifest": {
+    "source_path": "papers/Others/Nanoparticles_heat_generation.pdf",
+    "sha256": "669c5ca8a8ee18c7277bfdf3bc6d81b3b79eb8f58862d29a2f17421055c14d95",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "doi:10.1016/S1748-0132(07)70017-8",
+    "year": 2007,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Nanoparticles_heat_generation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2007nanoparticles-venue-doi-s1748-0132_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7610
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2007nanoparticles-venue-doi-s1748-0132.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

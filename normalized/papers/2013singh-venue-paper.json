@@ -1,0 +1,38 @@
+{
+  "paper_id": "paper:2013singh-venue-paper",
+  "manifest": {
+    "source_path": "papers/Singh_Srinivasan_etal_PRB_Fluorographene_2013_proof.pdf",
+    "sha256": "3ccdd8f1ca81c1f0c0a5ce151b14d2d20d3fd14c7d1c591d9ac56b5dbc287041",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevB.87.104114",
+    "title": "Thermal properties of fluorinated graphene",
+    "year": 2013,
+    "authors": [
+      "Sandeep Kumar Singh",
+      "S. Goverapet Srinivasan",
+      "M. Neek-Amal",
+      "S. Costamagna",
+      "Adri C. T. van Duin",
+      "F. M. Peeters"
+    ],
+    "venue": "Physical Review B"
+  },
+  "pdf_path": "papers/Singh_Srinivasan_etal_PRB_Fluorographene_2013_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013singh-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "fluorinated graphene", "Young's modulus", "rippling"],
+  "claims": [
+    {
+      "text": "Fluorinated graphene shows suppressed thermal rippling vs graphene; effective Young's moduli about 273 N/m (armchair) and 250 N/m (zigzag) in the reported flake tests.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013singh-venue-paper", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013singh-venue-paper.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

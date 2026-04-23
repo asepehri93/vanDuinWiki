@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015hegoi-manzano-acs-am5b02505",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Manzano_CaO_H2O_ACS_AMI_2015.pdf",
+    "sha256": "711499c8437a084c6ec4cad0bb433535430b5949b1042867462955d07dd0d1aa",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "am5b02505 1..8",
+    "year": 2015,
+    "authors": "Hegoi Manzano, Engin Durgun, Iñigo López-Arbeloa, and Jeffrey C. Grossman",
+    "venue": "ACS Appl. Mater. Interfaces 2015.7:14726-14733"
+  },
+  "pdf_path": "papers/ReaxFF_others/Manzano_CaO_H2O_ACS_AMI_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015hegoi-manzano-acs-am5b02505_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015hegoi-manzano-acs-am5b02505.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

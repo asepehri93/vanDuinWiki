@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020kwon-fuel-279-202-reaxff-based-molecular-2",
+  "manifest": {
+    "source_path": "papers/Kwon_Lele_Fuel_2020_Jetfuel.pdf",
+    "sha256": "b141d1bebb6aab24c9ca372e642975086c052ce273f28e206951bbb3f4a023f1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF-based molecular dynamics study of bio-derived polycyclic alkanes as potential alternative jet fuels",
+    "year": 2020,
+    "authors": "Hyunguk Kwon",
+    "venue": "Fuel, 279 (2020) 118548. doi:10.1016/j.fuel.2020.118548"
+  },
+  "pdf_path": "papers/Kwon_Lele_Fuel_2020_Jetfuel.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020kwon-fuel-279-202-reaxff-based-molecular-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020kwon-fuel-279-202-reaxff-based-molecular-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

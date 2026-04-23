@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016valerie-j-alstadt-j-phys-chem-jp6b06968",
+  "manifest": {
+    "source_path": "papers/Others/Friedman_Kubicki_acid_kaolinite_JPCA_2016.pdf",
+    "sha256": "6eb856f18410ab2e187e875fce207a910a5778622fa83b04cb356745f95999af",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp6b06968 1..8",
+    "year": 2016,
+    "authors": "Valerie J. Alstadt, James D. Kubicki, and Miriam Arak Freedman",
+    "venue": "J. Phys. Chem. A 2016.120:8339-8346"
+  },
+  "pdf_path": "papers/Others/Friedman_Kubicki_acid_kaolinite_JPCA_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016valerie-j-alstadt-j-phys-chem-jp6b06968_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016valerie-j-alstadt-j-phys-chem-jp6b06968.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

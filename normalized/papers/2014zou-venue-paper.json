@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Zou_ActaMater_2014_proof.pdf",
     "sha256": "0ee9d3295e02079e7ea7ea26fee55140f2e01ac4ee7ba4de6b83430556d8cb82",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2014zou-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 1503
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2014zou-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

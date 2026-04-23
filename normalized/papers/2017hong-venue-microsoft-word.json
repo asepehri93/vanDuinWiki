@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017hong-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hong_MoS2_acs.nanolett_2017_SI.pdf",
+    "sha256": "9454a2eec9c2429be2b48ca63aea43d350fef2db8e974fcfe7919d9f3f9febb9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - 2452820_File000002_42562904.docx",
+    "year": 2017,
+    "authors": " ",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Hong_MoS2_acs.nanolett_2017_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017hong-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3742
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017hong-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

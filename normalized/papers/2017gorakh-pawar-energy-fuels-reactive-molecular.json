@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017gorakh-pawar-energy-fuels-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Pawar_Kerogen_Energy_Fuels_2017.pdf",
+    "sha256": "d4c51eb3a1f5a0c9174a3eb49065afbf62d8f3c5f408f0337ddb0c49909c2ca8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reactive Molecular Dynamics Simulation of Kerogen Thermal Maturation and Cross-Linking Pathways",
+    "year": 2017,
+    "authors": "Gorakh Pawar, Paul Meakin, and Hai Huang",
+    "venue": "Energy Fuels 2017.31:11601-11614"
+  },
+  "pdf_path": "papers/ReaxFF_others/Pawar_Kerogen_Energy_Fuels_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017gorakh-pawar-energy-fuels-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017gorakh-pawar-energy-fuels-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

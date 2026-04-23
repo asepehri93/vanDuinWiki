@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014srinivasan-venue-paper",
+  "manifest": {
+    "source_path": "papers/Srinivasan_Carbon_2014_proof.pdf",
+    "sha256": "59870b5d61532a90786d8138940759037546fe8fae34bbf64adcb4d9c31fcfd3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Srinivasan_Carbon_2014_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014srinivasan-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1849
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014srinivasan-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

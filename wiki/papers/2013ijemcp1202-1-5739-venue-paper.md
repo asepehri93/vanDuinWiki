@@ -3,7 +3,7 @@ id: paper:2013ijemcp1202-1-5739-venue-paper
 type: paper
 title: "Reactive force fields: Concepts of ReaxFF and applications to high-energy materials"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags: [domain:reaxff-lineage, domain:organics-polymers-pyrolysis, method:reaxff, task:review, scale:atomistic]
 candidate_tags: []
 source_refs: []
@@ -29,19 +29,23 @@ group_affiliation: true
 
 ## Summary
 
-This review-style article (Begell House journal) explains how **nonreactive force fields** are extended toward **bond formation/dissociation** via **bond order vs distance** concepts, framed specifically around **ReaxFF** and its use for **energetic materials** (keywords: **ReaxFF, molecular dynamics, nitramine, metals**). The introduction lays out the **QM vs FF cost gap** (~million×) and a **multiscale hierarchy** figure concept: QM on ~100 atoms trains an FF usable for MD on **~10⁹ atoms**, enabling pathways toward mesoscale models. It previews applications to **nitramines, binders, and metallic high-energy materials**.
+This **review-style** chapter (*International Journal of Energetic Materials and Chemical Propulsion* **12(2)**, **95–118**, **2013**) introduces **reactive force fields** by contrasting **quantum mechanics (QM)** with **classical force fields (FFs)**. QM affords **high accuracy** on **small** systems (the text cites **roughly 100–1000 atoms** as typical accurate QM reach) but becomes prohibitive for **nanosecond dynamics** on **large** assemblies, whereas **nonreactive FFs** enable **large-scale MD** yet normally **cannot** describe **bond breaking and formation**. The authors explain how **bond order versus distance** relationships extend traditional FF concepts so that **connectivity can evolve** during dynamics, using **ReaxFF** as the exemplar line. The stated **keywords** emphasize **ReaxFF**, **molecular dynamics**, **nitramines**, and **metals**, and the abstract promises **applications to energetic materials** including **nitramines**, **binders**, and **metallic** high-energy compositions. The **introduction** sketches a **multiscale ladder**: QM on **~100 atoms** trains an FF that accelerates MD by **~10⁶**, reaching **~10⁹-atom** MD, with a further hop to **mesoscale** descriptions where each element may represent **hundreds–thousands** of atoms toward **10¹²** particles—framing materials design workflows that bridge scales.
 
 ## Methods
 
-- Pedagogical overview: **ReaxFF energy partitioning**, transferability goals, and training philosophy (details continue beyond the partial extract).
+This **review-style** chapter (*Int. J. Energetic Materials and Chemical Propulsion* **12(2)**, **95–118**, **2013**; **`papers/IJEMCP1202(1)-5739.pdf`**) is **didactic** rather than a single numerical **MD** benchmark paper. On the indexed **`normalized/extracts/2013ijemcp1202-1-5739-venue-paper_p1-2.txt`** pages, the authors contrast **QM** with classical **FFs**, introduce **bond-order**-based reactive formulations (**ReaxFF** as the exemplar), and outline how **EEM-like** charges and **vdW/Coulomb** terms enter reactive Hamiltonians. They also discuss **transferability** across **covalent**, **metallic**, and **ionic** regimes—still at the **conceptual** level on the excerpt.
+
+**Literature scope & comparison protocol (review):** Later sections (not captured in the checked-in **p1–2** extract) reportedly cover **nitramine**, **binder**, and **metallic** energetic examples with their own simulation tables. This wiki does **not** paste those tables: treat every concrete **LAMMPS** **timestep** (**fs**), **NVT**/**NPT** choice, **PBC** **supercell** **atom** counts, **Berendsen**/**Nosé–Hoover** **thermostat** settings, **barostat**/**pressure** targets, **temperature** ramps, **electric field** cases, and **replica**/**enhanced sampling** recipes as **chapter-specific** facts that must be copied from the **full PDF** when needed, not inferred here.
 
 ## Findings
 
-- Positions ReaxFF as a practical bridge for **reactive dynamics** in energetics when QM is too expensive.
+The **opening sections** position **ReaxFF** as a bridge between **QM** accuracy on **~100–1000 atoms** and **molecular dynamics** reach on far larger **reactive** systems, emphasizing **bond topology updates** during **decomposition**/**deflagration**-class chemistry relevant to **energetic materials** R&D. The abstract/**Sec. 1** preview **applications** to **nitramines**, **binders**, and **metals**, but those **case studies** are not summarized numerically on this page.
+
+**Comparisons & sensitivity (review-level):** The text argues that **temperature**, **density**, and **composition** levers change how severely **bond-breaking** cascades occur in formulated **energetics**—quantitative trends live in later **PDF** sections. **Limitations & outlook:** The chapter stresses **force-field** **limitations** and the need to validate each **application** against **experiment** or targeted **QM**. **Corpus honesty:** With only **`p1–2`** text under `normalized/extracts/`, this entry cannot quote later **nitramine** benchmarks; reopen **`papers/IJEMCP1202(1)-5739.pdf`** for **version-of-record** details and any **DOI** once registered in metadata.
 
 ## Limitations
 
-- Extraction **partial**; lacks the later application sections’ specifics.
+**Extraction_quality** is **partial** (`normalized/extracts/2013ijemcp1202-1-5739-venue-paper_p1-2.txt` covers **title page and Sec. 1** only). **DOI** is absent in front matter—use **journal bibliographic data** (volume/issue/pages above) for citation until a DOI is registered in metadata.
 
 ## Relevance to group
 

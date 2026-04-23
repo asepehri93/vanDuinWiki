@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021gupta-journal-of-c-coke-resistant",
+  "manifest": {
+    "source_path": "papers/Gupta_Coke_Resistant_Catalysts_J_Catalysis_2021.pdf",
+    "sha256": "3c3779fd48f8593c66bdefbb4b25d1ee0175e17c112fdc4c40ebf6a4ce2d9ac2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Coke resistant catalyst for hydrogen production in a versatile, multi-fuel, reformer",
+    "year": 2021,
+    "authors": "Prashant Gupta",
+    "venue": "Journal of Catalysis, 402 (2021) 177-193. doi:10.1016/j.jcat.2021.08.031"
+  },
+  "pdf_path": "papers/Gupta_Coke_Resistant_Catalysts_J_Catalysis_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021gupta-journal-of-c-coke-resistant_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021gupta-journal-of-c-coke-resistant.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022mao-venue-fnano-2022-1034795",
+  "manifest": {
+    "source_path": "papers/Mao_MoS2_TiO2_Frontiers_Nano_2022.pdf",
+    "sha256": "e915a04c49f504242081cc0b7e9f5715f38f98b4745909f69b93b507f0a41d55",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.3389/fnano.2022.1034795",
+    "title": "fnano-2022-1034795 1..18",
+    "year": 2022,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Mao_MoS2_TiO2_Frontiers_Nano_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022mao-venue-fnano-2022-1034795_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022mao-venue-fnano-2022-1034795.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

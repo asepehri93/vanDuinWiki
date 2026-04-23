@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018zhang-acs-considerations-utilizing",
+  "manifest": {
+    "source_path": "papers/Others/MoS2_NaCl_ACS_AMI_2018.pdf",
+    "sha256": "1c22dd1a155cb7d258c0986b17e97787409764eab0a1aa2a60809c416dfcd00f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Considerations for Utilizing Sodium Chloride in Epitaxial Molybdenum Disulfide",
+    "year": 2018,
+    "authors": "Kehao Zhang; Brian M. Bersch; Fu Zhang; Natalie C. Briggs; Shruti Subramanian; Ke Xu; Mikhail Chubarov; Ke Wang; Jordan O. Lerach; Joan M. Redwing; Susan K. Fullerton-Shirey; Mauricio Terrones; Joshua A. Robinson",
+    "venue": "ACS Appl. Mater. Interfaces 2018.10:40831-40837"
+  },
+  "pdf_path": "papers/Others/MoS2_NaCl_ACS_AMI_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018zhang-acs-considerations-utilizing_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018zhang-acs-considerations-utilizing.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

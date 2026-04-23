@@ -43,27 +43,27 @@ Hybrid reactive MD with uniform acceptance force-bias Monte Carlo (MD/UFMC) is u
 
 ## Methods
 
-State-of-the-art hybrid MD/UFMC with the same ReaxFF line as prior Ni(111) graphene work (Meng et al., cited in text). Ni(100) is chosen because polycrystalline Ni often exposes (100) after synthesis. The manuscript contrasts unrealistically high flux in pure MD with the UFMC-modulated sampling (introduction, extract pages 1–2).
+**1 — MD application (hybrid MD / UFMC):** The study uses **state-of-the-art hybrid MD** with **uniform acceptance force-bias Monte Carlo (UFMC)** together with the same **ReaxFF** **Ni/C** chemistry line as prior **Ni(111)** graphene growth work (**Meng et al.**, cited in-text). Growth is simulated on **Ni(100)** rather than the more stable **Ni(111)** facet because, on **poly-Ni** substrates, literature cited in the article argues that **(100)** becomes abundant after **graphene synthesis** alongside **(110)** and **(111)** directions, and **Ni(100)** is less closely packed than **Ni(111)** (`papers/Neyts_Nanoscale_2013.pdf`; **`normalized/extracts/2013neyts-venue-c3nr00153a_p1-2.txt`**). The manuscript contrasts **unrealistically high precursor flux** accessible in pure **MD** with **UFMC-modulated** sampling.
 
-<!-- enrich-from-extract:v2 -->
+**MD numerics not in p1–2 extract:** **N/A —** **timestep**, **supercell atom** totals, **periodic** (**PBC**) details, whether hybrid segments use **NVE**, **NVT**, or **NPT**, **picosecond**/**nanosecond** **production duration**, **thermostat**/**barostat** damping, **target pressure**, **temperature** set points beyond the abstract’s **900 K** mention, and **electric field** are not quoted from the indexed excerpt; read **Nanoscale** **Methods** (**`papers/Neyts_Nanoscale_2013.pdf`**) for authoritative settings.
 
-- In this work, we have deliberately chosen to simulate the growth on the Ni(100) facet, instead of the more stable Ni(111) facet, since it is known that on poly-Ni substrates, the most abundant (110) direction, in addition to the (100) and (111) directions, is transformed into the most abundant (100) direc- tion aer graphene synthesis. 26 Note that the Ni(100) surface is less closely packed compared to the Ni(111) structure.
-- Experimentally, it is known that in the segregation process of graphene on nickel surfaces, typically multiple graphene layers are formed. 3,27 This is a direct consequence of the relatively high solubility of carbon in bulk nickel, of about 2.7 at% at the eutectic point (1600 K) and 0.9 at% at about 900 K.
-- In the subsurface region, the solubility is even much higher, reaching up to 25%, corresponding to the metastable Ni 3C composi- tion.20,28 Limiting the amount of carbon that can dissolve in the nickel might therefore avoid the formation of multiple layers and therefore result in single-layer graphene growth.
+**Replica / enhanced sampling:** **UFMC** is an **accelerated** **Monte Carlo** augmentation of **MD** (not umbrella/metadynamics); details of **move classes** and **acceptance** bias belong in the **PDF**.
 
+**2 — Force-field training:** **N/A —** **ReaxFF** is **inherited** from prior **Ni/C** growth parametrizations as cited.
+
+**3 — Static QM / DFT-only:** **N/A —** primary tool is **hybrid reactive MD/UFMC** for growth under driven flux.
 
 ## Findings
 
-Simulations predict nearly continuous graphene layers at 900 K and above under the modeled high-flux conditions. The discussion ties carbon solubility in Ni and subsurface saturation ideas to limiting multilayer growth and enabling single-layer formation (abstract; introduction).
+**Outcomes and mechanisms:** **Simulations** predict **nearly continuous graphene** layers at **900 K** and above under the modeled **high-flux** conditions. The **introduction** ties **carbon solubility** in **Ni** (**~2.7 at%** at the **eutectic** **1600 K**, **~0.9 at%** near **900 K**) and much higher **subsurface** solubility (up to **~25%**, **Ni\(_3\)C**-related literature in the text) to why **segregation** routes often yield **multilayer** graphene experimentally, and discusses strategies to **limit bulk dissolution** (e.g., **thinner Ni films**, rapid **saturation** of near-surface layers before **bulk diffusion**) to favor **single-layer** formation.
 
-### Additional results (article abstract)
+**Comparisons:** The **Ni(100)** choice and **solubility** arguments are framed against **experimental** **segregation** literature and prior **simulation** work on **Ni(111)** (citations in **`papers/Neyts_Nanoscale_2013.pdf`**).
 
-- There- fore, the carbon di ﬀusion barriers for segregation will be smaller on the Ni(100) surface.
-- In this scenario, advantage is taken of the relatively high barrier for di ﬀusion of surface adsorbed carbon into the bulk of the nickel substrate and for di ﬀusion from the bulk to the surface, which has an overall value of about 2.33 eV. 31 In this paper, we demonstrate that such a rapid saturation indeed lea
-- The most straightforward way to accomplish this would be to reduce the thickness of the nickel lm.
-- However, while physical vapor deposited nickel lms as thin as 1 nm have previously been used for CNT synthesis 29,30 such thin lms inevitably form clusters when heated.
-- Alternatively, the dissolution of carbon in the lm may also be limited by very rapidly saturating the upper layers of the lm, before di ﬀusion to the bulk takes place.
+**Sensitivity / design levers:** **Temperature** (**≥ ~900 K** in the abstract-level prediction), **effective precursor flux** (**MD** vs **UFMC**), and **Ni film thickness / saturation kinetics** appear as levers in the indexed discussion.
 
+**Limitations and outlook:** **UFMC** does not map one-to-one to a single **physical time** scale; modeled **fluxes** can remain above typical **CVD** experiments (**introduction** themes).
+
+**Corpus honesty:** Ground claims in **`normalized/extracts/2013neyts-venue-c3nr00153a_p1-2.txt`**; fragmented lines in the legacy extract dump are **not** quoted verbatim as standalone evidence.
 
 ## Limitations
 

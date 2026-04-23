@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015psofogiannakis-surface-scie-development-reaxff",
+  "manifest": {
+    "source_path": "papers/Psofogiannakis_SiGeH_SurfSci_2015.pdf",
+    "sha256": "53a56a5eec80c54c5a5cf1c766b97249a47a2dbb0c80b78b6813418ee1a6b511",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of a ReaxFF reactive force field for Si/Ge/H systems and application to atomic hydrogen bombardment of Si, Ge, and SiGe (100) surfaces",
+    "year": 2015,
+    "authors": "George Psofogiannakis",
+    "venue": "Surface Science, Corrected proof. doi:10.1016/j.susc.2015.08.019"
+  },
+  "pdf_path": "papers/Psofogiannakis_SiGeH_SurfSci_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015psofogiannakis-surface-scie-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015psofogiannakis-surface-scie-development-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

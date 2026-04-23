@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Lele_BN_JPCA_2022_galley.pdf",
     "sha256": "55d6e3549d765a19ecf0c0fb8632be91b3bdff30b11cde86d7bbc70ada4967d6",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1021/acs.jpca.1c09648",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/20220000-0002-1558-1560-x-reaxff-force_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/20220000-0002-1558-1560-x-reaxff-force.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

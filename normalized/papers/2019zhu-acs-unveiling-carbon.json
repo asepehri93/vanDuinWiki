@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhu-acs-unveiling-carbon",
+  "manifest": {
+    "source_path": "papers/Zhu_ACS_AMI_2019_PAN_CarbonFiber.pdf",
+    "sha256": "698399184701995e8f4ebba7c6ff5f6af6d57137655f0c535c7d357fda1a3254",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Unveiling Carbon Ring Structure Formation Mechanisms in Polyacrylonitrile-Derived Carbon Fibers",
+    "year": 2019,
+    "authors": "Jiadeng Zhu; Zan Gao; Malgorzata Kowalik; Kaushik Joshi; Chowdhury M. Ashraf; Mikhail I. Arefev; Yosyp Schwab; Clifton Bumgardner; Kenneth Brown; Diana Elizabeth Burden; Liwen Zhang; James W. Klett; Leonid V. Zhigilei; Adri C. T. van Duin; Xiaodong Li",
+    "venue": "ACS Appl. Mater. Interfaces 2019.11:42288-42297"
+  },
+  "pdf_path": "papers/Zhu_ACS_AMI_2019_PAN_CarbonFiber.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhu-acs-unveiling-carbon_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhu-acs-unveiling-carbon.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

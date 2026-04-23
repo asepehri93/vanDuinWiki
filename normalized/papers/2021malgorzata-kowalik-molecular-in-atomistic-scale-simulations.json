@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021malgorzata-kowalik-molecular-in-atomistic-scale-simulations",
+  "manifest": {
+    "source_path": "papers/Kowalik_Catalysts_2021_Graphene_Cu.pdf",
+    "sha256": "95662d8a20d72d036b306ddda25526d98417dfbd9252fb92b2d9e6788f3b4543",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic-Scale Simulations on Graphene Bending Near a Copper Surface",
+    "year": 2021,
+    "authors": "Malgorzata Kowalik, Md Jamil Hossain, Aditya Lele, Wenbo Zhu, Riju Banerjee, Tomotaroh Granzier-Nakajima, Mauricio Terrones, Eric W. Hudson and Adri C. T. van Duin",
+    "venue": "Molecular insights into graphene-catalyst surface interactions can provide useful information for the efficient design of copper current collectors with graphitic anode interfaces. As graphene bending can affect the local electron density, it should reflect its local reactivity as well. Using ReaxFF reactive molecular simulations, we have investigated the possible bending of graphene in vacuum and near copper surfaces. We describe the energy cost for graphene bending and the binding energy with hydrogen and copper with two different ReaxFF parameter sets, demonstrating the relevance of using the more recently developed ReaxFF parameter sets for graphene properties. Moreover, the draping angle at copper step edges obtained from our atomistic simulations is in good agreement with the draping angle determined from experimental measurements, thus validating the ReaxFF results."
+  },
+  "pdf_path": "papers/Kowalik_Catalysts_2021_Graphene_Cu.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021malgorzata-kowalik-molecular-in-atomistic-scale-simulations_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021malgorzata-kowalik-molecular-in-atomistic-scale-simulations.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

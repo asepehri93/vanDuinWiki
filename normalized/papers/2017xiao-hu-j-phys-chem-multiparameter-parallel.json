@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017xiao-hu-j-phys-chem-multiparameter-parallel",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hu_Copper_JPCC_2017.pdf",
+    "sha256": "53af45c5bea8a058ad0957e10c068fa70b954076ab0e2db2945d288580732366",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Multiparameter and Parallel Optimization of ReaxFF Reactive Force Field for Modeling the Atomic Layer Deposition of Copper",
+    "year": 2017,
+    "authors": "Xiao Hu, Jörg Schuster, and Stefan E. Schulz",
+    "venue": "J. Phys. Chem. C 2017.121:28077-28089"
+  },
+  "pdf_path": "papers/ReaxFF_others/Hu_Copper_JPCC_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017xiao-hu-j-phys-chem-multiparameter-parallel_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017xiao-hu-j-phys-chem-multiparameter-parallel.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

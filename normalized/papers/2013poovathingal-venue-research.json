@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2013poovathingal-venue-research",
+  "manifest": {
+    "source_path": "papers/Poovathingal_Srinivasan_etal_HOPG_oxidation_JPCA_2013_galley.pdf",
+    "sha256": "8f4477153f07e618a6da3735935fd8c933dbc5da2072718f3c611455de3bdcc9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp3125999",
+    "title": "Large scale computational chemistry modeling of the oxidation of highly oriented pyrolytic graphite",
+    "year": 2013,
+    "authors": [
+      "Savio Poovathingal",
+      "Thomas E. Schwartzentruber",
+      "Sriram Goverapet Srinivasan",
+      "Adri C. T. van Duin"
+    ],
+    "venue": "The Journal of Physical Chemistry A"
+  },
+  "pdf_path": "papers/Poovathingal_Srinivasan_etal_HOPG_oxidation_JPCA_2013_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013poovathingal-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "HOPG", "graphene", "atomic oxygen"],
+  "claims": [
+    {
+      "text": "Galley PDF for DOI 10.1021/jp3125999; same scientific content as paper:2013poovathingal-venue-jp3125999.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013poovathingal-venue-research", "section": "Corpus note" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013poovathingal-venue-research.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

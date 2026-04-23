@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016le-nanotechnolo-mechanical-properties-2",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/le_2016_borophene_nanotechnology.pdf",
+    "sha256": "810f56b1099879f1238f9f2e9a72acce974c3ff9f80b5527cb8137ca6e250b92",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mechanical properties of borophene films: a reactive molecular dynamics investigation",
+    "year": 2016,
+    "authors": "Minh Quy Le",
+    "venue": "Nanotechnology, 27(2016) 445709. doi:10.1088/0957-4484/27/44/445709"
+  },
+  "pdf_path": "papers/ReaxFF_others/le_2016_borophene_nanotechnology.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016le-nanotechnolo-mechanical-properties-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5440
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016le-nanotechnolo-mechanical-properties-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

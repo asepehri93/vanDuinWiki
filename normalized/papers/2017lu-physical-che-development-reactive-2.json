@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2017lu-physical-che-development-reactive-2",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Lu_PCCP_FeCx_2018.pdf",
+    "sha256": "a56d67e0ee2089fd7d2617803a558f290edfac1bdb0860801e24fe22216cb416",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/C7CP05958B",
+    "title": "Development of a reactive force field for the Fe–C interaction to investigate the carburization of iron",
+    "year": 2018,
+    "authors": [
+      "Kuan Lu",
+      "Chun-Fang Huo",
+      "Wen-Ping Guo",
+      "Xing-Wu Liu",
+      "Yuwei Zhou",
+      "Qing Peng",
+      "Yong Yang",
+      "Yong-Wang Li",
+      "Xiao-Dong Wen"
+    ],
+    "venue": "Phys. Chem. Chem. Phys."
+  },
+  "pdf_path": "papers/ReaxFF_others/Lu_PCCP_FeCx_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017lu-physical-che-development-reactive-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017lu-physical-che-development-reactive-2.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

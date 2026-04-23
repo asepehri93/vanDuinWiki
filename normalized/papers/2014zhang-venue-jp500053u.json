@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014zhang-venue-jp500053u",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zhang_Lype_vanSanten_JPCC_2014_Cobalt.pdf",
+    "sha256": "1ca7a254cc3c7a6791bfb3c7f8abea6635ffe0d527991c385e1c03160b13462a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp500053u",
+    "title": "Site Stability on Cobalt Nanoparticles: A Molecular Dynamics ReaxFF Reactive Force Field Study",
+    "year": 2014,
+    "authors": null,
+    "venue": "J. Phys. Chem. C"
+  },
+  "pdf_path": "papers/ReaxFF_others/Zhang_Lype_vanSanten_JPCC_2014_Cobalt.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014zhang-venue-jp500053u_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014zhang-venue-jp500053u.md",
+  "updated": "2026-04-21T18:36:52Z"
+}

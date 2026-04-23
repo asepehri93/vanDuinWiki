@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016pathak-physical-che-reactive-force",
+  "manifest": {
+    "source_path": "papers/Pathak_Nedea_MgCl2_hydrates_PCCP_2016.pdf",
+    "sha256": "3cbfecd5f50008b7f04731235d8ed5f990de9d934c3fe85703118bdf3178d06e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reactive force field development for magnesium chloride hydrates and its application for seasonal heat storage",
+    "year": 2016,
+    "authors": "Amar Deep Pathak",
+    "venue": "Physical Chemistry Chemical Physics (2016), 18, 15838-15847, doi:10.1039/C6CP02762H"
+  },
+  "pdf_path": "papers/Pathak_Nedea_MgCl2_hydrates_PCCP_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016pathak-physical-che-reactive-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016pathak-physical-che-reactive-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

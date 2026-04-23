@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Atmani_Energy_Fuels_2020.pdf",
     "sha256": "674ecf2e14ba2eaa0b2fb16b062171ea44fe9b25dac962344857b603b93cf9b2",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2020atmani-energy-fuels-simulating-geological_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2020atmani-energy-fuels-simulating-geological.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

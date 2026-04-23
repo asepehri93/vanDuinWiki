@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020gaoz-venue-science-journals",
+  "manifest": {
+    "source_path": "papers/GaoZ_Science_Advances_2020_graphene_reinforcement.pdf",
+    "sha256": "17c764a50db859c577e6ab0664a079ca84ba90c4a2ddcb1cd15622a8fe64a86b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Science Journals — AAAS",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/GaoZ_Science_Advances_2020_graphene_reinforcement.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020gaoz-venue-science-journals_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020gaoz-venue-science-journals.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

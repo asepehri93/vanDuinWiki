@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017mortazavi-applied-mate-strong-thermal",
+  "manifest": {
+    "source_path": "papers/Mortavazi_AMT_MoS2_thermal_2017.pdf",
+    "sha256": "06e09fe62b57e7cd4e1459d5b110d2c4ad7b5fbc4e9251d4ce2a8f61733a0e35",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Strong thermal transport along polycrystalline transition metal dichalcogenides revealed by multiscale modeling for MoS2",
+    "year": 2017,
+    "authors": "Bohayra Mortazavi",
+    "venue": "Applied Materials Today, 7 (2017) 67-76. doi:10.1016/j.apmt.2017.02.005"
+  },
+  "pdf_path": "papers/Mortavazi_AMT_MoS2_thermal_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017mortazavi-applied-mate-strong-thermal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017mortazavi-applied-mate-strong-thermal.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

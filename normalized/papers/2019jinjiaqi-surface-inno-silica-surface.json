@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019jinjiaqi-surface-inno-silica-surface",
+  "manifest": {
+    "source_path": "papers/Others/Jiaqi_Jin_Surface_Innovations_2019.pdf",
+    "sha256": "86e4ec1db69d175077e34370fb0f9e5bd0cc656879f4a052ffe1b893029281ab",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Silica surface states and their wetting characteristics",
+    "year": 2019,
+    "authors": "JinJiaqi, WangXuming, WickCollin D, DangLiem X, and MillerJan D",
+    "venue": "Surface Innovations 0.0:1-13"
+  },
+  "pdf_path": "papers/Others/Jiaqi_Jin_Surface_Innovations_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019jinjiaqi-surface-inno-silica-surface_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019jinjiaqi-surface-inno-silica-surface.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

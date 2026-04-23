@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012zou-venue-paper",
+  "manifest": {
+    "source_path": "papers/Zou_FeCOH_JOM_2012_64_1426.pdf",
+    "sha256": "ed89dac2f1280865942e152323d793d29012fc341410f7cc4abab2ef180f5a92",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1007/s11837-012-0463-5",
+    "title": null,
+    "year": 2012,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Zou_FeCOH_JOM_2012_64_1426.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012zou-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012zou-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

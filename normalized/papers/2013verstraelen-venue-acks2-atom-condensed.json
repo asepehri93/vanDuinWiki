@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2013verstraelen-venue-acks2-atom-condensed",
+  "manifest": {
+    "source_path": "papers/Others/Verstraelen_ACKS2_JCP_2013.pdf",
+    "sha256": "375aebca9b7e44eab9bd694ec1cd741669258575e911d64e38439919af4a5d8e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4791569",
+    "title": "ACKS2: Atom-condensed Kohn-Sham DFT approximated to second order",
+    "year": 2013,
+    "authors": [
+      "Toon Verstraelen",
+      "Paul W. Ayers",
+      "Veronique Van Speybroeck",
+      "Michel Waroquier"
+    ],
+    "venue": "The Journal of Chemical Physics"
+  },
+  "pdf_path": "papers/Others/Verstraelen_ACKS2_JCP_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013verstraelen-venue-acks2-atom-condensed_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T23:00:00Z"
+  },
+  "entities_mentioned": ["ACKS2", "Kohn-Sham DFT", "polarizable force field", "atomic charges"],
+  "claims": [
+    {
+      "text": "ACKS2 derives atomic charges and linear response from KS-DFT with constrained populations and a Legendre-transformed kinetic term; fixes EEM size-extensivity and dissociation charge errors.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013verstraelen-venue-acks2-atom-condensed", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013verstraelen-venue-acks2-atom-condensed.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

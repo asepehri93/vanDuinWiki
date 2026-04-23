@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017akinwande-extreme-mech-review-mechanics",
+  "manifest": {
+    "source_path": "papers/Others/Graphene_mechanical_properties_review.pdf",
+    "sha256": "a55b7a768dfd28f954dfe85fe9d2a2b286fa343796fcdebd69843fbd5b22dfcf",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A review on mechanics and mechanical properties of 2D materials---Graphene and beyond",
+    "year": 2017,
+    "authors": "Deji Akinwande ",
+    "venue": "Extreme Mechanics Letters, 13 (2017) 42-77. doi:10.1016/j.eml.2017.01.008"
+  },
+  "pdf_path": "papers/Others/Graphene_mechanical_properties_review.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017akinwande-extreme-mech-review-mechanics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017akinwande-extreme-mech-review-mechanics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

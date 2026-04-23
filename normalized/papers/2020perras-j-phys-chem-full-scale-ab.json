@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020perras-j-phys-chem-full-scale-ab",
+  "manifest": {
+    "source_path": "papers/Perras_Raju_Akbarian_MAS_JPC_Letters_2020.pdf",
+    "sha256": "b59862ea03ecb189ac8acb61114bcbff67d483c1f8e68310aa1f5696b7223331",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Full-Scale Ab Initio Simulation of Magic-Angle-Spinning Dynamic Nuclear Polarization",
+    "year": 2020,
+    "authors": "Frédéric A. Perras; Muralikrishna Raju; Scott L. Carnahan; Dooman Akbarian; Adri C. T. van Duin; Aaron J. Rossini; Marek Pruski",
+    "venue": "J. Phys. Chem. Lett. 2020.11:5655-5660"
+  },
+  "pdf_path": "papers/Perras_Raju_Akbarian_MAS_JPC_Letters_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020perras-j-phys-chem-full-scale-ab_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020perras-j-phys-chem-full-scale-ab.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

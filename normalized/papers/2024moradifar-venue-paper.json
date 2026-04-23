@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024moradifar-venue-paper",
+  "manifest": {
+    "source_path": "papers/Moradifar_SeBiTe_Matter_2024_galley.pdf",
+    "sha256": "fdbec2398989d8fab1aac755d050181df1f2ec7ac8d27281c4b7b7d68f301c74",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.matt.2024.08.006",
+    "title": null,
+    "year": 2024,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Moradifar_SeBiTe_Matter_2024_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024moradifar-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2187
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024moradifar-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

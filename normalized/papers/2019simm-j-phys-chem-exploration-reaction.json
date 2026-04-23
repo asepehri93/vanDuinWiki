@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019simm-j-phys-chem-exploration-reaction",
+  "manifest": {
+    "source_path": "papers/Others/Reaction_path_analysis_JPC_2019.pdf",
+    "sha256": "f199e3b913bb23acb1e3fac5ad3e8c8e25198a6504dfc6b736f453d57f0f8ae8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Exploration of Reaction Pathways and Chemical Transformation Networks",
+    "year": 2019,
+    "authors": "Gregor N. Simm; Alain C. Vaucher; Markus Reiher",
+    "venue": "J. Phys. Chem. A 2019.123:385-399"
+  },
+  "pdf_path": "papers/Others/Reaction_path_analysis_JPC_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019simm-j-phys-chem-exploration-reaction_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019simm-j-phys-chem-exploration-reaction.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

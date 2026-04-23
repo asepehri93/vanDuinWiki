@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2026mirakhory-j-chem-phys-dynamics-iodine",
+  "manifest": {
+    "source_path": "papers/Mirakhory_XeI_II_JCP_2026_online.pdf",
+    "sha256": "9a87a01ad3d04f342726b5ba21f81d669799e40cfe19615dab883c34b2f6c62f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0302862",
+    "title": "Dynamics of iodine geminate recombination in supercritical xenon solvent: Caging effect",
+    "year": 2026,
+    "authors": "M. Mirakhory ",
+    "venue": "J. Chem. Phys. 2026.164:094309"
+  },
+  "pdf_path": "papers/Mirakhory_XeI_II_JCP_2026_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2026mirakhory-j-chem-phys-dynamics-iodine_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6610
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2026mirakhory-j-chem-phys-dynamics-iodine.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

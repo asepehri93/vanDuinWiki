@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021penrod-j-chem-phys-using-c-dft",
+  "manifest": {
+    "source_path": "papers/Penrod_Burgess_JCP_Acetophenon_eReaxFF_2021.pdf",
+    "sha256": "b1e89d2f13d00d2e2e53f934d0cac5c885bf77eaf441909572dee7a0275976ae",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0064705",
+    "title": "Using C-DFT to develop an e-ReaxFF force field for acetophenone radical anion",
+    "year": 2021,
+    "authors": null,
+    "venue": "J. Chem. Phys. 2021.155:214104"
+  },
+  "pdf_path": "papers/Penrod_Burgess_JCP_Acetophenon_eReaxFF_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021penrod-j-chem-phys-using-c-dft_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5635
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021penrod-j-chem-phys-using-c-dft.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019wilkinson-j-phys-chem-topological-control",
+  "manifest": {
+    "source_path": "papers/Wilkinson_JPCL_2019_water_reactivity_SiO2.pdf",
+    "sha256": "5cb59db487fb82fe7de6340e9605eabaa0afe5731801295c9d7cdd314c335818",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Topological Control of Water Reactivity on Glass Surfaces: Evidence of a Chemically Stable Intermediate Phase",
+    "year": 2019,
+    "authors": "Collin J. Wilkinson; Karan Doss; Seung Ho Hahn; Nathan Keilbart; Arron R. Potter; Nicholas J. Smith; Ismaila Dabo; Adri C. T. van Duin; Seong H. Kim; John C. Mauro",
+    "venue": "J. Phys. Chem. Lett. 2019.10:3955-3960"
+  },
+  "pdf_path": "papers/Wilkinson_JPCL_2019_water_reactivity_SiO2.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019wilkinson-j-phys-chem-topological-control_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019wilkinson-j-phys-chem-topological-control.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

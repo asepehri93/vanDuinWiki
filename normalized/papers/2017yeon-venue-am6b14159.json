@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017yeon-venue-am6b14159",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Yeon_Mechanochem_ACSAMI_2017.pdf",
+    "sha256": "5c1b30edfc9b91c44646a3a368a03a1ab62c4a9e275ad732878fff9d9f83c395",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "am6b14159 1..7",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Yeon_Mechanochem_ACSAMI_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017yeon-venue-am6b14159_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017yeon-venue-am6b14159.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

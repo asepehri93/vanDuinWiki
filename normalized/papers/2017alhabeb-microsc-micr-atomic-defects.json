@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017alhabeb-microsc-micr-atomic-defects",
+  "manifest": {
+    "source_path": "papers/Xiahan_atomic_defects_and_edge_structure_in_singlelayer_ti3c2tx_mxene.pdf",
+    "sha256": "58260d1049f24d2529fa914aca59a7615c92b357b3c234878631ec6e336730d3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1017/S1431927617009187",
+    "title": "Atomic Defects and Edge Structure in Single-layer Ti3C2Tx MXene",
+    "year": 2017,
+    "authors": "Mohamed Alhabeb",
+    "venue": "Microsc. Microanal. Proceedings, (2017), 23, S1, 1704 - 1705, doi: 10.1017/S1431927617009187"
+  },
+  "pdf_path": "papers/Xiahan_atomic_defects_and_edge_structure_in_singlelayer_ti3c2tx_mxene.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017alhabeb-microsc-micr-atomic-defects_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5392
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017alhabeb-microsc-micr-atomic-defects.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

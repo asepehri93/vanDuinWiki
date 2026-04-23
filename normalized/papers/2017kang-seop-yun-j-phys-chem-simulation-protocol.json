@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017kang-seop-yun-j-phys-chem-simulation-protocol",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Kang_Seop_Yun_SiC_EC_JPC_Lett_2017.pdf",
+    "sha256": "8466ca605c26b3c8ae45a7fa82e8c38bc0cabc903f9396127b26601ade4d35a8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpclett.7b00898",
+    "title": "Simulation Protocol for Prediction of a Solid-Electrolyte Interphase on the Silicon-based Anodes of a Lithium-Ion Battery: ReaxFF Reactive Force Field",
+    "year": 2017,
+    "authors": "Kang-Seop Yun, Sung Jin Pai, Byung Chul Yeo, Kwang-Ryeol Lee, Sun-Jae Kim, and Sang Soo Han",
+    "venue": "J. Phys. Chem. Lett."
+  },
+  "pdf_path": "papers/ReaxFF_others/Kang_Seop_Yun_SiC_EC_JPC_Lett_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017kang-seop-yun-j-phys-chem-simulation-protocol_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017kang-seop-yun-j-phys-chem-simulation-protocol.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

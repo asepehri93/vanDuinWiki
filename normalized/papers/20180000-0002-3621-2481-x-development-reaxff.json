@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20180000-0002-3621-2481-x-development-reaxff",
+  "manifest": {
+    "source_path": "papers/Nayir_JPC_C_GeOx_2019_proof.pdf",
+    "sha256": "52f5030c45801872646d28c23c42368bb4d0494ffe18d2b204803274a07317f8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of a ReaxFF Reactive Force Field for Interstitial Oxygen in Germanium and Its Application to GeO2/Ge Interfaces",
+    "year": 2018,
+    "authors": "Nadire Nayir (ORCID: 0000-0002-3621-2481)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Nayir_JPC_C_GeOx_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20180000-0002-3621-2481-x-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20180000-0002-3621-2481-x-development-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

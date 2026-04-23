@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022hossain-journal-of-t-development-applications",
+  "manifest": {
+    "source_path": "papers/Hossain_eReaxFF_graphene_2022_J_ElectrochemSoc_169_110540.pdf",
+    "sha256": "f7be9b5582523667c460049ee97df2b2342cc818e012d4dd324536a2bdb92d6a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1149/1945-7111/",
+    "title": "Development and Applications of an eReaxFF Force Field for Graphitic Anodes of Lithium-Ion Batteries",
+    "year": 2022,
+    "authors": "Md Jamil Hossain",
+    "venue": "Journal of The Electrochemical Society, 169(2022) 110540. doi:10.1149/1945-7111/aca362"
+  },
+  "pdf_path": "papers/Hossain_eReaxFF_graphene_2022_J_ElectrochemSoc_169_110540.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022hossain-journal-of-t-development-applications_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7719
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022hossain-journal-of-t-development-applications.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021verma-venue-paper",
+  "manifest": {
+    "source_path": "papers/Verma_PCCP_BN_water_2021_galley.pdf",
+    "sha256": "85a5c9c3c762831bee2118b159943757682228ee17de483422da1f519b70564a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2021,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Verma_PCCP_BN_water_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021verma-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3160
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021verma-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

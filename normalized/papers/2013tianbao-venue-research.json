@@ -1,0 +1,39 @@
+{
+  "paper_id": "paper:2013tianbao-venue-research",
+  "manifest": {
+    "source_path": "papers/Tianbao_JPCA_phosphate_treibology_proof.galley.pdf",
+    "sha256": "cbad33f30b331d65ce36544cdb46bf44686d3290a3e9cf041112975cd1f541ad",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp406360u",
+    "title": "Tribochemistry of phosphoric acid sheared between quartz surfaces: A reactive molecular dynamics study",
+    "year": 2013,
+    "authors": [
+      "Da-Chuan Yue",
+      "Tian-Bao Ma",
+      "Yuan-Zhong Hu",
+      "Jejoon Yeon",
+      "Adri C. T. van Duin",
+      "Hui Wang",
+      "Jianbin Luo"
+    ],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/Tianbao_JPCA_phosphate_treibology_proof.galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013tianbao-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "phosphoric acid", "quartz", "tribochemistry", "friction"],
+  "claims": [
+    {
+      "text": "Friction coefficient correlates with interfacial hydrogen bond count; at 800–1400 K tribochemistry polymerizes phosphoric acid and generates interfacial water, reaching μ≈0.02.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013tianbao-venue-research", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013tianbao-venue-research.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

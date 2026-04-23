@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015valega-venue-jp5105328",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Valega_Thijsse_JPC_C_2015_epoxide_amine_alumina.pdf",
+    "sha256": "91681ecc0830d1dc0efde8f2f7ddf13b093a84114c409f54d7b1aac91232ad34",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp5105328 1..9",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Valega_Thijsse_JPC_C_2015_epoxide_amine_alumina.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015valega-venue-jp5105328_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015valega-venue-jp5105328.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

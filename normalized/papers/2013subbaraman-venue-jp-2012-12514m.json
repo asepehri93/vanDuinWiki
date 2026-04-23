@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013subbaraman-venue-jp-2012-12514m",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Subbaraman_JPC_C_Fe_oxidation_2013.pdf",
+    "sha256": "bbb4d9258f2988fdeefc50836c6b4c33b387a8cd88e8c6db9f1b016c75d4d8dc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp312514m",
+    "title": "Atomistic insights into early stage oxidation and nanoscale oxide growth on Fe(100), Fe(111) and Fe(110) surfaces",
+    "year": 2013,
+    "authors": ["Ram Subbaraman", "Sanket A. Deshmukh", "Subramanian K. R. S. Sankaranarayanan"],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/ReaxFF_others/Subbaraman_JPC_C_Fe_oxidation_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013subbaraman-venue-jp-2012-12514m_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "iron", "oxidation", "Fe(100)", "Fe(111)", "Fe(110)"],
+  "claims": [
+    {
+      "text": "Reactive MD with dynamic charge transfer shows logarithmic oxide growth to 1–2 nm; lowest oxidation barrier on Fe(110) (7.44 kJ/mol) vs Fe(100) and Fe(111) in the reported conditions.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013subbaraman-venue-jp-2012-12514m", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013subbaraman-venue-jp-2012-12514m.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

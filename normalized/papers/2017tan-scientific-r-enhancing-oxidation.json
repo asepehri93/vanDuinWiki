@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017tan-scientific-r-enhancing-oxidation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Tan_Pfaendter_Scientific_Reports_2017.pdf",
+    "sha256": "e9288dd957449c571f1ff900de4388cd1d52ff029943599c4f76f50244b74570",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41598-017-01945-4",
+    "title": "Enhancing the Oxidation of Toluene with External Electric Fields: a Reactive Molecular Dynamics Study",
+    "year": 2017,
+    "authors": "Shen Tan",
+    "venue": "Scientific Reports, doi:10.1038/s41598-017-01945-4"
+  },
+  "pdf_path": "papers/ReaxFF_others/Tan_Pfaendter_Scientific_Reports_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017tan-scientific-r-enhancing-oxidation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017tan-scientific-r-enhancing-oxidation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025zhenjing-liu-acs-epitaxial-formation-2",
+  "manifest": {
+    "source_path": "papers/Liu_Mao_ACSNano_Hf_graphene_2025_online.pdf",
+    "sha256": "f0b7b6f00e09b16d6776ec69a4cf55f4b3f4644fcef0ddd2f35dcedbc2a5419d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.5c04437",
+    "title": "Epitaxial Formation of Ultrathin HfO2 on Multilayer Graphene by Sequential Oxidation",
+    "year": 2025,
+    "authors": "Zhenjing Liu, Qian Mao, Varun Kamboj, Rishabh Kothari, Paul Miller, Kate Reidy, Adri C. T. van Duin, R. Jaramillo, and Frances M. Ross",
+    "venue": "ACS Nano 0.0"
+  },
+  "pdf_path": "papers/Liu_Mao_ACSNano_Hf_graphene_2025_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025zhenjing-liu-acs-epitaxial-formation-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7817
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025zhenjing-liu-acs-epitaxial-formation-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

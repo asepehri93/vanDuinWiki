@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Yeon_Langmuir_2016_SI.pdf",
     "sha256": "5a239334ee85058aa07a42859d2be4721e977ece928f3b5a1a5e4402c21c6236",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2015kim-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 1649
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2015kim-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

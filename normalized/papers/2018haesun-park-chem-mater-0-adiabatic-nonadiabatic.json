@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018haesun-park-chem-mater-0-adiabatic-nonadiabatic",
+  "manifest": {
+    "source_path": "papers/Others/Kumar_LiS_acs.chemmater_2017.pdf",
+    "sha256": "4a18704d1f119a4c7937b16531650c718c421e80cf3d5f63ade6a75d57cda64d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.chemmater.7b04618",
+    "title": "Adiabatic and Nonadiabatic Charge Transport in Li-S Batteries",
+    "year": 2018,
+    "authors": "Haesun Park, Nitin Kumar, Marko Melander, Tejs Vegge, Juan Maria Garcia Lastra, and Donald J. Siegel",
+    "venue": "Chem. Mater. 0.0:null-null"
+  },
+  "pdf_path": "papers/Others/Kumar_LiS_acs.chemmater_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018haesun-park-chem-mater-0-adiabatic-nonadiabatic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018haesun-park-chem-mater-0-adiabatic-nonadiabatic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

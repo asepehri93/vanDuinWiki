@@ -36,33 +36,53 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    Prose below summarizes the manuscript identified by `pdf_path`. For definitive program names, numerical inputs, and benchmark tables, use the full PDF (or a peer-reviewed venue of record) rather than this page alone.
 
 ## Summary
 
-Introduces **IFF-R**, a reactive extension of the Interface Force Field where harmonic bond terms are replaced by **Morse** potentials so bonds can break with prescribed dissociation energies—aiming at fracture and chemistry-aware MD without full ReaxFF expense. The manuscript claims ~50× speed over ReaxFF in their comparisons while retaining IFF-compatible nonreactive properties, and illustrates metals (Fe), ceramics (carbon nanotubes), and polymers (PAN, cellulose Iβ) with parameters anchored to experiment or MP2.
+Interface force field (IFF) models reproduce interfacial and bulk energetics for many multiphase systems, but bond rupture to failure is often out of scope. Winetrout *et al.* introduce Reactive IFF (IFF-R): selected harmonic bond terms are replaced with Morse potentials so bonds can dissociate with user-set dissociation energies and curvatures, while preserving nonreactive IFF parameters when those bonds are intact. The abstract advertises stress–strain to failure in molecular dynamics for Fe, carbon-nanotube-like models, and polymers (e.g. polyacrylonitrile, cellulose Iβ), with sample parameters from experiment and MP2 where stated, and claims about 50× higher throughput than ReaxFF in their examples. The checked-in file is an archived venue draft—confirm bibliography and any revised parameters if citing externally.
 
 ## Methods
 
-Morse-bond reactive scheme on top of IFF; demonstration MD for stress–strain to failure and bond-breaking analytics; parameter recipes for common bond types.
+### 1 — MD application (atomistic dynamics)
+
+- **Engine / code:** The abstract and first-page text describe **molecular dynamics** with **IFF/IFF-R**-compatible **bonding**; **N/A** — a specific program (e.g. LAMMPS) is not named in the indexed first pages. Confirm in `pdf_path` if a code string is required.
+- **System size & composition:** Illustrative systems from the abstract: **Fe**; a carbon-**nanotube**-like model; **polyacrylonitrile** and **cellulose** Iβ. Atom counts and supercell construction: see the full PDF and any supplement.
+- **Boundaries / periodicity:** **N/A** in the first-page **extract**; PBC in tensile/condensed demos is plausible—**verify** in the archived file.
+- **Ensemble, temperature, barostat, and pressure control:** **N/A** in the lead excerpt. Tensile **ramp** work often uses fixed **T**; **NPT** bulk pressure control and **N/A**-style hydrostatic setpoints are **not** assumed. **N/A** — isotropic NPT is not stated; anisotropic tensile load is not a bulk hydrostatic **pressure** in the same sense. Follow the full article for the load path.
+- **Timestep, duration, stages, thermostat:** **N/A** in p.1–2; pull equilibration **duration**, **ps** / **ns** **production** spans, and **thermostat** family from the VOR. Common **NVT**-class control in tensile studies is a reasonable expectation but is not in the lead excerpt.
+- **Electric field:** **N/A** in the lead excerpt.
+- **Enhanced sampling (umbrella, metadynamics, etc.):** **N/A** in the lead excerpt. Morse reactivity is a force-field form, not umbrella or metadynamics in the usual sense.
+
+### 2 — Force-field training
+
+IFF extension, not a ReaxFF refit. **Morse** **bonds** replace selected **harmonic** **bonds**; inherited Lennard–Jones and other **nonreactive** IFF **parameters** are unchanged for inactive bonds. **N/A** — this is not a global ReaxFF (ParReax, QEq) **parameter** **fit**. The abstract cites **MP2** and **experiment** to anchor dissociation-related **data** and positions **~50×** **lower** **cost** than ReaxFF in the authors’ **comparative** **runs** (stated in the **abstract**).
+
+### 3 — Static QM / DFT
+
+**MP2**-level and related **high-level** data plus **laboratory** **measurements** (per abstract) back selected Morse/IFF **choices**; not a DFT-sweep primary study in the p.1 summary sense.
+
+### 4 — Reviews, perspectives, or non-simulation studies
+
+**N/A** — methods paper with case studies, not a broad literature review (venue may be report-like).
 
 ## Findings
 
-Reported agreement for structures, surface energies, moduli, and strengths versus available references in the document; positions IFF-R as a lighter alternative when full bond-order reactive models are unnecessary.
+The **abstract** claims that computed **moduli**, **tensile** **strength**, **structures**, and **surface** **energies** track **available** **experiment** when the Morse layer is inert, keeping **nonreactive** properties close to **IFF** by design, and that throughput can exceed that of ReaxFF **trajectories** in their **side-by-side** **stated** **comparisons**. Sensitivity to Morse well depth and stiffness is inherent; detailed stress–strain to **failure** must be read from the **full** **PDF** at `pdf_path`, not retyped on this page. **Corpus / KB honesty:** `doi` in front matter is **empty**; the corpus holds an **archived** preprint—confirm a **formal** **publication** if a citation must be final.
+
+**Comparisons:** to standard IFF in nonreactive limits and to ReaxFF in **comparative** **cost** language in the **abstract**. **Limitations (authored + KB):** extract-thin; **N/A** for reproducing the full result section from p.1–2 alone.
 
 ## Limitations
 
-Not a ReaxFF paper—chemistry is constrained to how Morse bond breaking is parameterized; archived venue PDF—verify final bibliographic details if citing externally.
+IFF-R targets **localized** **bond** **scission** with Morse **bonds**; it is not a ReaxFF-style **broad** **reaction** field. Verify **bibliography** and any **tabled** parameters against a VOR or updated PDF if one exists off-repo.
 
 ## Relevance to group
 
-van Duin listed among authors; useful contrast case for when reactive FFs differ (IFF-R vs ReaxFF families).
+**van** **Duin** is a coauthor; the paper is a **contrast** to ReaxFF-family work when the chemistry is **failure**-limited rather than a full **reaction** **network** at scale.
 
 ## Citations and evidence anchors
 
-`papers/IFFR_archived_2021.pdf` — abstract and author list.
+`papers/IFFR_archived_2021.pdf` — title, abstract, author list (p.1–2 indexed in `normalized/extracts/` when present).
 
 ## Related topics
 

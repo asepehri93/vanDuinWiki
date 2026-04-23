@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014bhoi-fuel-136-201-molecular-dynamic",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Sanjukta_BrownCoal_Fuel_2014.pdf",
+    "sha256": "9d4d6429e2214653819149a68b0cb9f3783436e31f8c4ddaad37bf04dc44a41d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular dynamic simulation of spontaneous combustion and pyrolysis of brown coal using ReaxFF",
+    "year": 2014,
+    "authors": "Sanjukta Bhoi",
+    "venue": "Fuel, 136 (2014) 326-333. doi:10.1016/j.fuel.2014.07.058"
+  },
+  "pdf_path": "papers/ReaxFF_others/Sanjukta_BrownCoal_Fuel_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014bhoi-fuel-136-201-molecular-dynamic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014bhoi-fuel-136-201-molecular-dynamic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

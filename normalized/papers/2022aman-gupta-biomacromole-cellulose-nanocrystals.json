@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022aman-gupta-biomacromole-cellulose-nanocrystals",
+  "manifest": {
+    "source_path": "papers/Gupta_acs.biomacro_Cellulose_Tensile_2022.pdf",
+    "sha256": "54248f368359119b1adc308a9af70935e689b1f0f388e70c6f43facef1974809",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Cellulose Nanocrystals: Tensile Strength and Failure Mechanisms Revealed Using Reactive Molecular Dynamics",
+    "year": 2022,
+    "authors": "Aman Gupta, Ali Khodayari, Adri C. T. van Duin, Ulrich Hirn, Aart W. Van Vuure, and David Seveno",
+    "venue": "Biomacromolecules 2022.23:2243-2254"
+  },
+  "pdf_path": "papers/Gupta_acs.biomacro_Cellulose_Tensile_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022aman-gupta-biomacromole-cellulose-nanocrystals_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022aman-gupta-biomacromole-cellulose-nanocrystals.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

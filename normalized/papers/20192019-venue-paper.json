@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20192019-venue-paper",
+  "manifest": {
+    "source_path": "papers/2019_Book_2DMetalCarbidesAndNitridesMXen.pdf",
+    "sha256": "2079ab0a9db9b31da4fa5ef054e36bf3d0ae417efbc3013adf4ed65a364cbfe1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/2019_Book_2DMetalCarbidesAndNitridesMXen.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20192019-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 156
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20192019-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

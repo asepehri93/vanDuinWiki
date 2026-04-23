@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018valencia-physical-che-growth-ni",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Valencia-Phys.Chem.Chem.Phys.2018-20-16347.pdf",
+    "sha256": "1a56eb17dd0649fa9f64530ab35f6a56c8be44d130b5093a127f96a3749e5340",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Growth of Ni nanoclusters on irradiated graphene: a molecular dynamics study",
+    "year": 2018,
+    "authors": "F. J. Valencia",
+    "venue": "Physical Chemistry Chemical Physics (2018), 20, 16347-16353, doi:10.1039/C7cp08642c"
+  },
+  "pdf_path": "papers/ReaxFF_others/Valencia-Phys.Chem.Chem.Phys.2018-20-16347.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018valencia-physical-che-growth-ni_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5960
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018valencia-physical-che-growth-ni.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

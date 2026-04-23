@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20200000-0001-6534-6051-x-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/Kwon_JPC_2020_Soot_growth_galley.pdf",
+    "sha256": "7d80b82d56b0e7818f00d1c4ddddf053a7cd45bbcfdd0ab48097654a4a9003e9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpca.0c03355",
+    "title": "Reactive Molecular Dynamics Simulations and Quantum Chemistry Calculations To Investigate Soot-Relevant Reaction Pathways for Hexylamine Isomers",
+    "year": 2020,
+    "authors": "Hyunguk Kwon (ORCID: 0000-0001-6534-6051)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Kwon_JPC_2020_Soot_growth_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20200000-0001-6534-6051-x-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20200000-0001-6534-6051-x-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

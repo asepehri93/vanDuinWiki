@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018c-ulises-gonzalez-va-j-phys-chem-investigation-wetting",
+  "manifest": {
+    "source_path": "papers/Others/19. Investigation on the Wetting Behavior of 3C-SiC Surfaces Theory and Modeling.pdf",
+    "sha256": "504a0945e85d41ce59c94af0bc7ceec5ef52a3f1b7cf629137cca68b7b31ab0f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Investigation on the Wetting Behavior of 3C-SiC Surfaces: Theory and Modeling",
+    "year": 2018,
+    "authors": "C. Ulises Gonzalez-Valle, Satish Kumar, and Bladimir Ramos-Alvarado",
+    "venue": "J. Phys. Chem. C 0.0:null-null"
+  },
+  "pdf_path": "papers/Others/19. Investigation on the Wetting Behavior of 3C-SiC Surfaces Theory and Modeling.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018c-ulises-gonzalez-va-j-phys-chem-investigation-wetting_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018c-ulises-gonzalez-va-j-phys-chem-investigation-wetting.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

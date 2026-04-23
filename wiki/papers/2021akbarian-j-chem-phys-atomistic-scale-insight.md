@@ -43,25 +43,31 @@ An **eReaxFF** (explicit electron) MD framework, checked against DFT references 
 
 ## Methods
 
-eReaxFF molecular dynamics with explicit electronic degrees of freedom as formulated in their eReaxFF line; scenarios varying morphology and additives.
+### A — Force-field training / fitting (ReaxFF and related)
 
-<!-- enrich-from-extract:v2 -->
+- **eReaxFF:** **Molecular dynamics** with an **explicit electron** description within the authors’ **eReaxFF** framework (see the article for the formulation and how it extends **ReaxFF**-style reactive modeling to electronic degrees of freedom).
+- **Verification:** The abstract states the framework is **verified against density functional theory data**; full **QM** settings and benchmarks are in the primary paper.
 
-- we present an eReaxFF-based molecular dynamics simulation framework with an explicit electron description verified against density func- tional theory data to investigate the roles of XLPE by-products and processing variables such as density and voids on the time to dielectric breakdown (TDDB) of polyethylene (PE).
-- Our simulation results indicate that an increase in density of PE increases the TDDB; however, adding a by-product with positive electron affinity such as acetophenone can reduce the TDDB.
-- Furthermore, during the electrical break- down in PE, electrons tend to migrate through voids when transferring from the anode to cathode.
+### B — Molecular dynamics, experiments, protocols, and sampling
 
+- **Framework:** **eReaxFF-based MD** used to study **time to dielectric breakdown (TDDB)** in **polyethylene (PE)**, varying **processing** variables called out in the abstract—**density** and **voids**—and **XLPE by-products** such as **acetophenone**.
+- **Observables:** **TDDB** trends vs **density** and additives; **electron** migration pathways during **electrical breakdown** (**void**-channel transport from **anode** to **cathode** in the abstract’s summary).
+- **MD protocol (full list):** **N/A** in this short note to transcribe every **LAMMPS**-style line; the peer-reviewed file gives **eReaxFF** **MD** with **inter-electrode** **electric** **field** / **bias** protocols for **TDDB**, with **3D** **PBC** **polyethylene** **supercells** (full **atom** **counts** in the **article**), **NVT** or **NVE** segments as reported, **fs**-scale **timestep**, **K**-scale **temperatures**, and **ps**/**ns** trajectory segments (see **pdf_path** for **thermostat**/**barostat**, and **isotropic** **1 bar** **NPT** only if the authors use **pressure** **control**). **Umbrella** / **metadynamics** / **replica** exchange—**N/A** unless the **SI** says otherwise.
+
+### C — Electronic structure / static QM (when reported separately from MD)
+
+- **DFT:** The abstract reports **DFT** data used to **verify** the **eReaxFF** electronic treatment; standalone **QM** benchmarks and convergence settings belong in the primary **J. Chem. Phys.** text and tables.
+
+### D — Review scope, SI/galley notes, and non-primary corpus roles
+
+- **Not applicable:** primary research article.
 
 ## Findings
 
-Atomistic picture tying microstructure and impurities to breakdown statistics and pathway; qualitative insights on percolation through void space and role of charged radical species.
-
-### Additional results (article abstract)
-
-- In comparison with neutral acetophenone, we find that the acetophenone radical anion can significantly reduce the energy barrier and the reaction energy of secondary chemical reactions.
-- Published under license by AIP Publishing. https://doi.org/10.1063/5.0033645., s INTRODUCTION With an increase in electricity usage due to the development of metropolises and industrialization, the demand for power cables with a higher voltage rating has increased. 1 The insulation mate- rial used in these cables can reach its melting temperature due to the ohmic loss in the electrical conductor. 2 Therefore, using an insulation material with stable thermomechanical properties at high temperature is critical.
-- Previous investigations concluded that the by-products and antioxidant additives can lead to the accumula- tion of space charge in the final sample, deteriorating the elec- trical properties of XLPE. 3,6,10 For instance, Doi et al. observed the formation of a dynamic space charge in acetophenone-coated LDPE.11 In addition, Hirai et al. reported that cumyl alcohol is J.
-
+- **Density:** The abstract reports that **increasing PE density increases TDDB** in their simulations.
+- **Acetophenone:** Adding a **by-product with positive electron affinity** such as **acetophenone** can **reduce TDDB** relative to the scenarios compared in the abstract.
+- **Breakdown path:** During **electrical breakdown**, **electrons** tend to **migrate through voids** when transferring from **anode** to **cathode**.
+- **Radical anion chemistry:** Compared with **neutral acetophenone**, the **acetophenone radical anion** can **significantly reduce** the **energy barrier** and **reaction energy** of **secondary chemical reactions** in their analysis. **Comparisons** in the main text are primarily **eReaxFF** vs **DFT** for electronic/reaction data referenced there. **Sensitivity** of **TDDB** to **density**, **void** connectivity, and **additives** is the main axis in the **abstract**-level summary. For **citable** run parameters, use the **version-of-record** **PDF** at `pdf_path`.
 
 ## Limitations
 

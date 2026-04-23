@@ -1,0 +1,17 @@
+2019shi-venue-paper
+2019simm-j-phys-chem-exploration-reaction
+2019song-liu-nanoscale-20-predicting-preferred
+2019tingsi-venue-paper
+2019wen-j-phys-chem-atomistic-insights
+2019wilkinson-j-phys-chem-topological-control
+2019wilkinson-x-topological-control
+2019xin-qi-acs-nn9b00820
+2019xuan-journal-of-c-multi-scale-modeling
+2019xuan-venue-paper
+2019yihan-wu-journal-of-a-jap
+2019zhan-acs-computational-discovery
+2019zhang-acs-defect-controlled-nucleation
+2019zhang-carbon-159-2-converting-pbo
+2019zhang-nat-chemomechanics-transfer
+2019zhang-venue-hydroxide-transport
+2019zhong-energy-fuels-reductive-gaseous

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023nabankur-dasgupta-j-phys-chem-hydrophobic-nanoconfinement",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Dagupta_JPCL_2023_CO2_confinement.pdf",
+    "sha256": "3514a2a122f23770981b80c7dbf208283c5c49c4f5faf0642c3a7982f8ffef25",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpclett.3c00124",
+    "title": "Hydrophobic Nanoconfinement Enhances CO2 Conversion to H2CO3",
+    "year": 2023,
+    "authors": "Nabankur Dasgupta, Tuan A. Ho, Susan B. Rempe, and Yifeng Wang",
+    "venue": "J. Phys. Chem. Lett. 2023.14:1693-1701"
+  },
+  "pdf_path": "papers/ReaxFF_others/Dagupta_JPCL_2023_CO2_confinement.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023nabankur-dasgupta-j-phys-chem-hydrophobic-nanoconfinement_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 690
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023nabankur-dasgupta-j-phys-chem-hydrophobic-nanoconfinement.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020hahn-venue-atomistic-understanding",
+  "manifest": {
+    "source_path": "papers/Hahn_Surface_Wear_JACerS_2020.pdf",
+    "sha256": "d161ecdc1704167bea2c85601726eae52f9c124592e7d55d70c9b28c76b87cd8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1111/jace.17008",
+    "title": "Atomistic understanding of surface wear process of sodium silicate glass in dry versus humid environments",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Hahn_Surface_Wear_JACerS_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020hahn-venue-atomistic-understanding_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020hahn-venue-atomistic-understanding.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

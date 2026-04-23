@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019mxene-venue-paper",
+  "manifest": {
+    "source_path": "papers/MXene_Chapter_Yilmaz_Lotfi_Vlcek_proof.pdf",
+    "sha256": "f03d72d6805cf78e91c3a5d6aefd6fe005113f74fc40c0ee1419b9f3103db4b2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/MXene_Chapter_Yilmaz_Lotfi_Vlcek_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019mxene-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2206
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019mxene-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

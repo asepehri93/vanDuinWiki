@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023souza-environmenta-reaxff-based-molecular",
+  "manifest": {
+    "source_path": "papers/deSouza_PFAS_ultrasound_EnvPoll_2023.pdf",
+    "sha256": "9c68e7001f840656f0a1704dcf1a007b4668d3492d0e475660e1a56268ac73b5",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A ReaxFF-based molecular dynamics study of the destruction of PFAS due to ultrasound",
+    "year": 2023,
+    "authors": "Bruno Bezerra de Souza",
+    "venue": "Environmental Pollution, 333 (2023) 122026. doi:10.1016/j.envpol.2023.122026"
+  },
+  "pdf_path": "papers/deSouza_PFAS_ultrasound_EnvPoll_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023souza-environmenta-reaxff-based-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023souza-environmenta-reaxff-based-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

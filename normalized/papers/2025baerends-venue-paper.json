@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Baerends_ADF_JCP_2025.pdf",
     "sha256": "12b451c67ea14e862cd30b7b9feefb895db2bf83cd1fb56883b7ff5602d690a1",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1063/5.0258496",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2025baerends-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 4749
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2025baerends-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

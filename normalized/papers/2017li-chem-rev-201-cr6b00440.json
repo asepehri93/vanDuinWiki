@@ -1,0 +1,28 @@
+{
+  "paper_id": "paper:2017li-chem-rev-201-cr6b00440",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Li_Merz_ChemReview_2017_Metal_Ions.pdf",
+    "sha256": "7e42b521f518d542dfdd9b3a1a484ccf650765fccabd7a9de105c7277ffcd63c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.chemrev.6b00440",
+    "title": "Metal Ion Modeling Using Classical Mechanics",
+    "year": 2017,
+    "authors": ["Li, Pengfei", "Merz, Kenneth M., Jr."],
+    "venue": "Chem. Rev.",
+    "volume": "117",
+    "pages": "1564-1686"
+  },
+  "pdf_path": "papers/ReaxFF_others/Li_Merz_ChemReview_2017_Metal_Ions.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017li-chem-rev-201-cr6b00440_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017li-chem-rev-201-cr6b00440.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

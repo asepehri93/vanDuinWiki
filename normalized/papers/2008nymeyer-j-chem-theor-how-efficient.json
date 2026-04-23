@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2008nymeyer-j-chem-theor-how-efficient",
+  "manifest": {
+    "source_path": "papers/Others/Replica_Exchange_overview.pdf",
+    "sha256": "21762d7ba820044c605b2c48ebe822d6c039a699775f2f91fc5f404ee7447fea",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/ct7003337",
+    "title": "How Efficient Is Replica Exchange Molecular Dynamics? An Analytic Approach",
+    "year": 2008,
+    "authors": "Hugh Nymeyer",
+    "venue": "J. Chem. Theory Comput. 2008.4:626-636"
+  },
+  "pdf_path": "papers/Others/Replica_Exchange_overview.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2008nymeyer-j-chem-theor-how-efficient_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2008nymeyer-j-chem-theor-how-efficient.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

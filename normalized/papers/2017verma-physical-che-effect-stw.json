@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017verma-physical-che-effect-stw",
+  "manifest": {
+    "source_path": "papers/Others/Verma_STW_defects_AIREBO.pdf",
+    "sha256": "53a1ff37972a58836f393a68d73227b88b3f2d267698cf2dfb1cc3a1c6f40517",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "The effect of STW defects on the mechanical properties and fracture toughness of pristine and hydrogenated graphene",
+    "year": 2017,
+    "authors": "Akarsh Verma",
+    "venue": "Physical Chemistry Chemical Physics (2017), 19, 16023-16037, doi:10.1039/c7cp02366a"
+  },
+  "pdf_path": "papers/Others/Verma_STW_defects_AIREBO.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017verma-physical-che-effect-stw_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017verma-physical-che-effect-stw.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

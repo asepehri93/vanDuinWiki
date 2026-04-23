@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024feng-nat-unravelling-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Feng_Amino_IL_Tibology_Int_2025.pdf",
+    "sha256": "946f1b1a1fb3362828d718e029ef44d933fac02ec38ab5b2fe524c848aeaea68",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Unravelling molecular origins of improved tribological properties of amino acid ionic liquid water-based lubricants",
+    "year": 2024,
+    "authors": "Yang Feng",
+    "venue": "Tribology International, 201 (2025) 110268. doi:10.1016/j.triboint.2024.110268"
+  },
+  "pdf_path": "papers/ReaxFF_others/Feng_Amino_IL_Tibology_Int_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024feng-nat-unravelling-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024feng-nat-unravelling-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

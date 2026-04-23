@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021qiang-liu-acs-gamma-radiation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/liu-et-al-2021-gamma-radiation-chemistry-of-polydimethylsiloxane-foam-in-radiation-thermal-environments-experiments-and-1.pdf",
+    "sha256": "0fe019e9a57ca23d33bb9746ad481c06bdac51e05eb94aee832c434a3cc15ebc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Gamma Radiation Chemistry of Polydimethylsiloxane Foam in Radiation-Thermal Environments: Experiments and Simulations",
+    "year": 2021,
+    "authors": "Qiang Liu, Wei Huang, Bo Liu, Pu-Cheng Wang, and Hong-Bing Chen",
+    "venue": "ACS Appl. Mater. Interfaces 2021.13:41287-41302"
+  },
+  "pdf_path": "papers/ReaxFF_others/liu-et-al-2021-gamma-radiation-chemistry-of-polydimethylsiloxane-foam-in-radiation-thermal-environments-experiments-and-1.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021qiang-liu-acs-gamma-radiation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021qiang-liu-acs-gamma-radiation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

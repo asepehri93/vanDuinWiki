@@ -2,7 +2,7 @@
 id: paper:2024naoya-uene-j-phys-chem-reactive-force
 type: paper
 title: "Reactive Force Field Molecular Dynamics Studies of the Initial Growth of Boron Nitride Using BCl3 and NH3 by Atomic Layer Deposition"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: med
 canonical_tags:
   - domain:2d-layered
@@ -43,19 +43,32 @@ group_affiliation: true
 
 ## Summary
 
-Develops a **ReaxFF** description for **BN ALD** from **BCl\(_3\)** + **NH\(_3\)**, trains bonded/geometry-sensitive terms against **DFT**, and runs **cycle-resolved ReaxFF MD** mimicking **pulse–purge ALD** steps. The growth story is decomposed into **surface diffusion**, **BN cluster nucleation/growth**, **HCl formation/diffusion/desorption**, and temperature-sensitive **competition** between **3D cluster growth** vs **2D film growth** across five simulated cycles. **Substrate temperature** modulates **initial growth mode** and **film thickness**—too-high **T** accelerates **desorption** of gases/clusters, suppressing film thickening in the regimes explored.
+Develops a **ReaxFF** description for **BN ALD** from **BCl\(_3\)** + **NH\(_3\)**, trains bonded/geometry-sensitive terms against **DFT**, and runs **cycle-resolved ReaxFF MD** mimicking **pulse–purge ALD** steps. The growth story is decomposed into **surface diffusion**, **BN cluster nucleation/growth**, **HCl formation/diffusion/desorption**, and temperature-sensitive **competition** between **3D cluster growth** vs **2D film growth** across five simulated cycles. **Substrate temperature** modulates **initial growth mode** and **film thickness**—too-high **T** accelerates **desorption** of gases/clusters, suppressing film thickening in the regimes explored. **Industrial** **ALD** of **h-BN** is motivated by **dielectric** and **diffusion-barrier** applications; **BCl\(_3\)/NH\(_3\)** chemistry is **highly reactive**, so **atomistic** models must treat **halogen** **byproducts** explicitly.
 
 ## Methods
 
-DFT training data for gas-phase and surface reactions; ReaxFF optimization; **four-step** ALD loop (BCl\(_3\) pulse → purge → NH\(_3\) pulse → purge) with repeated cycling; analysis of intermediate surface species and defect/cluster metrics.
+- **QM reference / ReaxFF training:** Parameters are trained against **density functional theory** data describing **BCl\(_3\)** geometries and **BCl\(_3\)**/**NH\(_3\)** **surface** reactions that produce **BN** films and **HCl** (abstract and §2 opening in `normalized/extracts/2024naoya-uene-j-phys-chem-reactive-force_p1-2.txt`). The peer-reviewed article specifies the **DFT** program, **functional**, **basis/cutoffs**, and training sets; those details are **not fully reproduced** in the short checked-in extract (truncated mid-§2.1).
+- **ALD cycle in ReaxFF MD:** The process is modeled as **four** repeated steps: **(1)** **BCl\(_3\)** pulse, **(2)** first purge, **(3)** **NH\(_3\)** pulse, **(4)** second purge (abstract). The abstract reports **five** simulated **ALD** cycles.
+- **Growth decomposition (abstract):** **(i)** **BCl\(_3\)**/**NH\(_3\)** **surface diffusion**, **(ii)** **BN** cluster **formation/growth**, **(iii)** **HCl** formation, **(iv)** **HCl** surface diffusion, **(v)** **HCl** desorption.
+- **Reactive MD implementation:** **ReaxFF** **bond-order** dynamics as described in §2.1 of the article; **integration timestep**, **thermostat**, **substrate** **supercell** size, and **temperature** setpoints for each pulse are given in the full **PDF** at `pdf_path`—consult it for values not stated in the extract on disk.
 
+**1 — MD application (ReaxFF production).** **Engine / code:** ReaxFF **reactive MD** (§2.1; LAMMPS-class usage is typical for this corpus—confirm in the VOR **PDF**). **System and boundaries:** BCl\(_3\) and NH\(_3\) on a **surface** slab with **PBC** as defined in *Computational Methods*; **atom counts**, full **cell** vectors, and layer counts are **not** in the short **p1–2** extract (truncated mid-§2.1). **Cycle protocol (abstract):** **(1)** BCl\(_3\) pulse, **(2)** first purge, **(3)** NH\(_3\) pulse, **(4)** second purge, repeated for **five** **ALD** cycles. **Stages (abstract):** (i) **surface diffusion**, (ii) **BN** **cluster** nucleation/growth, (iii) **HCl** formation, (iv) **HCl** diffusion, (v) **HCl** desorption. **Ensemble, timestep, thermostat, total trajectory length, barostat, stress, E-field, enhanced sampling:** **N/A in this page summary** — the indexed excerpt does not list **NVT** **thermostat** coupling, **fs** **timestep**, or **ps**/**ns** **duration** of each **pulse**/**purge** (total **production** **time** per **cycle** is in the **full** **article** at **`pdf_path`**). **N/A** — no **NPT**/**barostat**, external **electric field**, or **umbrella/metadynamics** protocol is stated in the **abstract**-level text summarized here (confirm negation in the full article if needed).
+
+**2 — Force-field training.** **Parent:** ReaxFF parameterization for **B/N/Cl/H** and **BN** from **BCl\(_3\)/NH\(_3\)** **surface** reactions. **QM reference:** **DFT** (program, functional, basis, cutoffs) in §2 for **BCl\(_3\)** and surface pathways to **BN** and **HCl**—**full tables not in the p1–2 extract on disk**. **Training set and optimization:** QM **bond/angle/energy** targets and iterative ReaxFF refinement (see article §2–3). **Reference / validation data:** DFT (primary); experimental comparisons as cited by the authors.
+
+**3 — Static QM** — DFT is the **reference for fitting**, not a separate static-only **results** paper; detailed settings are in the article text/SI.
 ## Findings
 
-Mixed **3D cluster + 2D terrace** growth emerges; **moderate T** favors cluster persistence/growth while **excessive T** encourages desorption-dominated kinetics and thinner films; HCl chemistry is a first-class kinetic participant.
+**Outcomes and growth modes.** Across **five** **ALD** cycles, simulations report **coexisting** **3D** **cluster** growth and **2D** **film** growth. **HCl** formation, surface diffusion, and desorption couple to **BN** coalescence.
 
+**Comparisons and levers (temperature).** **Substrate temperature** shifts the balance: **moderate** **T** supports **BN** **cluster** formation/growth, while **excess** **T** increases **desorption** of **gas-phase** species and **BN** **clusters**, **reducing** net **film** **thickening** in the regimes highlighted in the **abstract**—so precursor flux alone does not control smoothness if **byproduct** removal is too fast.
+
+**Authored limitations.** Chamber-scale **fluid**/**reactor** **physics** and long-time **industrial** **ALD** are outside the **periodic** **slab** model (see **`## Limitations`**).
 ## Limitations
 
 Simulation duration/cycles are still far below industrial wafer-scale times; surface models omit full reactor fluid dynamics—ALD **macroscale coupling** is named as future work in the abstract.
+
+**Chamber** **wall** **reactions**, **precursor** **parasitic** **CVD**, and **wafer** **temperature** **nonuniformity** during **pump/purge** cycles are not represented in the **periodic** **slab** **ALD** **loop**; use the **ReaxFF** **trends** as **relative** **comparisons** between **temperature** **setpoints** rather than **absolute** **Å/cycle** **numbers** for **production** **tools**.
 
 ## Relevance to group
 

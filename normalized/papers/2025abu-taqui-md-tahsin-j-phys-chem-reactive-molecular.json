@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025abu-taqui-md-tahsin-j-phys-chem-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Reactive Molecular Dynamics Modeling of Collision-Induced Dissociation of 1‑Ethyl-3-methylimidazolium Tetrafluoroborate Ionic Liquid Ions[97].pdf",
+    "sha256": "e8eb8c6a729fd40a7ab1874e1411f8cfc06082a454b1d5d24156e991937d232d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpca.5c05157",
+    "title": "Reactive Molecular Dynamics Modeling of Collision-Induced Dissociation of 1-Ethyl-3-methylimidazolium Tetrafluoroborate Ionic Liquid Ions",
+    "year": 2025,
+    "authors": "Abu Taqui Md Tahsin, Stefan J. Bell, and Elaine M. Petro",
+    "venue": "J. Phys. Chem. A 0.0"
+  },
+  "pdf_path": "papers/ReaxFF_others/Reactive Molecular Dynamics Modeling of Collision-Induced Dissociation of 1‑Ethyl-3-methylimidazolium Tetrafluoroborate Ionic Liquid Ions[97].pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025abu-taqui-md-tahsin-j-phys-chem-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025abu-taqui-md-tahsin-j-phys-chem-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

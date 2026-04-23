@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018mo-zhang-j-phys-chem-modeling-polymerization",
+  "manifest": {
+    "source_path": "papers/Others/Zhang_Tao_JPCC_2018_Geopolymer_Garofalini.pdf",
+    "sha256": "04c51f8306afd8ced0fbcb9dcf569820c1d1b02aefdf711732b5c7a3a6772704",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Modeling the Polymerization Process for Geopolymer Synthesis through Reactive Molecular Dynamics Simulations",
+    "year": 2018,
+    "authors": "Mo Zhang, N. Aaron Deskins, Guoping Zhang, Randall T. Cygan, and Mingjiang Tao",
+    "venue": "J. Phys. Chem. C 2018.122:6760-6773"
+  },
+  "pdf_path": "papers/Others/Zhang_Tao_JPCC_2018_Geopolymer_Garofalini.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018mo-zhang-j-phys-chem-modeling-polymerization_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018mo-zhang-j-phys-chem-modeling-polymerization.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018morrissey-molecular-si-untitled",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/morrissey_metal_evaluation_2018.pdf",
+    "sha256": "35f2ec43f419d6820488eb2114c3efa687e898121a2ac06506a6f2a9af790bd8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1080/08927022.2018.1557333",
+    "title": "untitled",
+    "year": 2018,
+    "authors": "Liam S. Morrissey",
+    "venue": "Molecular Simulation, 2018. doi:10.1080/08927022.2018.1557333"
+  },
+  "pdf_path": "papers/ReaxFF_others/morrissey_metal_evaluation_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018morrissey-molecular-si-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6652
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018morrissey-molecular-si-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021bhamra-x-interfacial-bonding",
+  "manifest": {
+    "source_path": "papers/Bhamra_Ewen_Diamond_Rock_JPC_C_2021_galley.pdf",
+    "sha256": "19e7aef925bb506ba62f0e6170ca0756ac1f00075bc694fe08cca415fa777a5d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.1c02857",
+    "title": "Interfacial Bonding Controls Friction in Diamond–Rock Contacts",
+    "year": 2021,
+    "authors": "Jagjeevan S. Bhamra",
+    "venue": " "
+  },
+  "pdf_path": "papers/Bhamra_Ewen_Diamond_Rock_JPC_C_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021bhamra-x-interfacial-bonding_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021bhamra-x-interfacial-bonding.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

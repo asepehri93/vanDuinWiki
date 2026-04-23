@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012saha-venue-jp300581b",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Saha_Schatz_PAN_JPCB_2012.pdf",
+    "sha256": "138af2f995eb5f6c6a5331ba6c41a06dd5572fe6c67f24ad1f0128bd7375d3fe",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp300581b",
+    "title": "jp300581b 1..9",
+    "year": 2012,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Saha_Schatz_PAN_JPCB_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012saha-venue-jp300581b_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5930
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012saha-venue-jp300581b.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

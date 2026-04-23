@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020izadi-j-chem-phys-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/Izadi_JCP_2020_H_D_exchange.pdf",
+    "sha256": "d4aa72f16f0c435e5ee2b9bec7181b2f94ef562a99dd2affd06797b1818c60ba",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0008386",
+    "title": "Reactive molecular dynamics simulation for isotope-exchange reactions in H/D systems: ReaxFFHD development",
+    "year": 2020,
+    "authors": "Mohammad Ebrahim Izadi",
+    "venue": "J. Chem. Phys. 2020.152:224111"
+  },
+  "pdf_path": "papers/Izadi_JCP_2020_H_D_exchange.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020izadi-j-chem-phys-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5085
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020izadi-j-chem-phys-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

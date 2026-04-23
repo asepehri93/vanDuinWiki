@@ -3,7 +3,7 @@ id: paper:2013afif-venue-paper
 type: paper
 title: "A reactive force field for zirconium and hafnium di-boride"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags: [domain:reaxff-lineage, domain:mechanics-tribology, method:reaxff, task:parameterization, scale:atomistic]
 candidate_tags: []
 source_refs: []
@@ -29,19 +29,57 @@ group_affiliation: true
 
 ## Summary
 
-The paper develops **ReaxFF potentials for ZrB₂ and HfB₂**, motivated by **ultra-high-temperature ceramic (UHTC)** applications (hypersonics, thermal protection). Parameters are fit to **QM** data on **clusters and crystal structures** (Quantumwise for periodic phases; Gaussian09 for **Zr(BH₂)₂ / Hf(BH₂)₂** PECs per excerpt). The ReaxFF energy expression is specialized (e.g., **torsions/conjugation** omitted in the reduced form shown) while retaining **bond order**, **over/under-coordination**, **vdW**, and **Coulomb** terms. The excerpt motivates future **oxidation, creep, grain boundary** modeling once reactive potentials exist.
+Zirconium and hafnium diborides are ultra-high-temperature ceramics valued for hypersonic thermal protection, rocket nozzles, and other oxidizing, mechanically demanding environments where metallic bonding in boride frameworks confers refractory strength. The *Computational Materials Science* communication develops ReaxFF parameters for ZrB\(_2\) and HfB\(_2\) so finite-temperature reactive molecular dynamics can treat bond formation, fracture, and oxidation chemistry that nonreactive potentials cannot represent. Introduction-level properties quoted in the PDF include mass densities near 6.09 and 11.09 g cm\(^{-3}\), melting temperatures near 3300 K, and elastic moduli near 450 GPa, motivating atomistic studies of oxidation and creep once a reactive field exists for the boride chemistry space.
 
 ## Methods
 
-- **QM training sets** for geometries/energies/charges; **ReaxFF optimization**; outline of **MD validation** (Sec. 5 referenced).
+### Force-field training
+
+**Parent FF / elements:** **ReaxFF** for **ZrB\(_2\)** and **HfB\(_2\)**, using a reduced energy expression (bond, valence, over-coordination, **vdW**, **Coulomb**; torsional terms omitted as a tractability choice in this parameterization) per **§2** of **`pdf_path`**.
+
+**QM reference:** **Quantumwise** (periodic crystal phases) and **Gaussian 09** (geometry optimizations and potential-energy curves for **Zr(BH\(_2\))\(_2\)** and **Hf(BH\(_2\))\(_2\)** clusters) as stated in **§3** (`normalized/extracts/2013afif-venue-paper_p1-2.txt`). **N/A —** DFT functional, basis, and **k**-mesh details beyond the short extract—read **`pdf_path`**.
+
+**Training set:** **QM** energies and charge distributions for **ZrB\(_2\)** / **HfB\(_2\)** crystal inputs (lattice parameters **a = 3.22 Å**, **c = 3.54 Å** for **ZrB\(_2\)**; **a = 3.14 Å**, **c = 3.47 Å** for **HfB\(_2\)** in the extract) plus molecular **BH\(_2\)**-ligand scans.
+
+**Optimization:** Parameters are fit to the **QM training set** following the paper’s staged workflow (**§4** outline in the extract).
+
+**Reference data used:** **QM** cluster and crystal data enter the fit; **MD** comparisons in **§5** are described as validation against **QM** or **experiment** where cited in the article.
+
+### MD application (validation)
+
+**Engine / code:** The article references **molecular dynamics** validation using the fitted potential (**§5**); **VASP** is named for **periodic QM** work in **§3**—confirm which code drives the **MD** validation runs in **`pdf_path`**.
+
+**System size & composition:** **N/A —** supercell sizes and thermodynamic state points for **§5** MD are **not** in the p1–2 extract.
+
+**Boundaries / periodicity:** **Periodic** **ZrB\(_2\)**/**HfB\(_2\)** crystal descriptions appear in the **QM** section; **N/A —** how those map to **MD** validation cells is not excerpted here.
+
+**Ensemble (NVE / NVT / NPT):** **N/A —** not stated in `2013afif-venue-paper_p1-2.txt` for **§5 MD** validation.
+
+**Timestep / duration / thermostat / barostat:** **N/A —** not stated in `2013afif-venue-paper_p1-2.txt`.
+
+**Temperature:** Introduction quotes **melting points around 3300 K** as motivation for high-temperature materials; **N/A —** actual **MD** thermostat temperatures **not** in the excerpt.
+
+**Pressure / stress:** Introduction discusses **pressure-assisted sintering** contexts; **N/A —** explicit **MD** stress/pressure control **not** in the excerpt.
+
+**Electric field:** **N/A —** not used.
+
+**Replica / enhanced sampling:** **N/A —** not mentioned.
 
 ## Findings
 
-- States successful **parameter derivation** within ReaxFF for the boride systems per abstract; detailed numeric validation is beyond the partial extract.
+**Outcomes:** The communication reports **self-consistent ReaxFF parameters** for **ZrB\(_2\)** and **HfB\(_2\)**, enabling **reactive** simulations for **metal–boron–oxygen** environments where prior models were lacking (abstract).
+
+**Comparisons:** Fits target **QM** data described in **§3**; broader **EOS**, **defect**, and **oxidation** applications are framed as **follow-on** studies rather than fully expanded here (abstract / outline).
+
+**Sensitivity / levers:** Parameter quality depends on the chosen **QM** training coverage for each boride.
+
+**Limitations:** Short article format; **`extraction_quality: partial`**—tables and **§5** MD benchmarks live in the **PDF**.
+
+**Corpus honesty:** This page does not reproduce numerical **MD** validation metrics; use **`pdf_path`** for **§5** results.
 
 ## Limitations
 
-- Extraction **partial**; full validation metrics and failure modes require the complete article.
+Corpus metadata marks extraction quality as partial, and `confidence: med` reflects reliance on PDF reading for tables and figures—verify numerical fits directly in the journal PDF. Some circulated copies carry watermarking; cite the journal volume for authoritative pagination.
 
 ## Relevance to group
 

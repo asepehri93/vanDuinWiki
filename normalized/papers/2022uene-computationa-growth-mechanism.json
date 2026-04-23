@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022uene-computationa-growth-mechanism",
+  "manifest": {
+    "source_path": "papers/Others/Uene_BCl3_silica_DFT_CompMatSci_2023.pdf",
+    "sha256": "3976c4aad26f7d7460be4263ff8af83bd11583e224d3e1862a4917ffaa798e30",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Growth mechanism study of boron nitride atomic layer deposition by experiment and density functional theory",
+    "year": 2022,
+    "authors": "Naoya Uene",
+    "venue": "Computational Materials Science, 217 (2023) 111919. doi:10.1016/j.commatsci.2022.111919"
+  },
+  "pdf_path": "papers/Others/Uene_BCl3_silica_DFT_CompMatSci_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022uene-computationa-growth-mechanism_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022uene-computationa-growth-mechanism.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017mortavazi-venue-paper",
+  "manifest": {
+    "source_path": "papers/Mortavazi_AMT_MoS2_thermal_proof_2017.pdf",
+    "sha256": "9ca4fc8f43d182f10f6680816f103a5426952b3fb87959eda409109524d3b1b6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Mortavazi_AMT_MoS2_thermal_proof_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017mortavazi-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017mortavazi-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

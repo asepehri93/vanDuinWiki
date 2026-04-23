@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2013poovathingal-venue-jp3125999",
+  "manifest": {
+    "source_path": "papers/Poovathingal_Srinivasan_etal_HOPG_oxidation_JPCA_2013.pdf",
+    "sha256": "d5001a1a80e1f1424d4c21704a7ec9fa07f6882ce6adbf959f540819e2a84430",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp3125999",
+    "title": "Large scale computational chemistry modeling of the oxidation of highly oriented pyrolytic graphite",
+    "year": 2013,
+    "authors": [
+      "Savio Poovathingal",
+      "Thomas E. Schwartzentruber",
+      "Sriram Goverapet Srinivasan",
+      "Adri C. T. van Duin"
+    ],
+    "venue": "The Journal of Physical Chemistry A"
+  },
+  "pdf_path": "papers/Poovathingal_Srinivasan_etal_HOPG_oxidation_JPCA_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013poovathingal-venue-jp3125999_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "HOPG", "graphene", "atomic oxygen", "etch pit"],
+  "claims": [
+    {
+      "text": "Hyperthermal 5 eV O atoms on multilayer graphitic models yield etch pits and product ordering O2 > CO2 > CO; dominant pathway activation energies 0.30, 0.52, and 0.67 eV for O2, CO2, and CO channels in the analysis presented.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013poovathingal-venue-jp3125999", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013poovathingal-venue-jp3125999.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

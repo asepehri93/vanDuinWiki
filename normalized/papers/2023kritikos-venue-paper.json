@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023kritikos-venue-paper",
+  "manifest": {
+    "source_path": "papers/Kritikos_efield_combustion_JCP_2023.pdf",
+    "sha256": "dcf24cde48ae28cab171a0b9cbe79838072e2038bd1be6377b170361fdf0eefc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0134785",
+    "title": null,
+    "year": 2023,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Kritikos_efield_combustion_JCP_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023kritikos-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5675
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023kritikos-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

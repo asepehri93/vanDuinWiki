@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019gonzalez-valle-nat-spectral-mapping",
+  "manifest": {
+    "source_path": "papers/Others/Gonzalez_Valle_water_SiC_IntJHeatTransfer_2019.pdf",
+    "sha256": "2eec90e6b7a47b11fdadee5c8b02ff890d1c93b545d427e024817d8c83f3d637",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Spectral mapping of thermal transport across SiC-water interfaces",
+    "year": 2019,
+    "authors": "C. Ulises Gonzalez-Valle",
+    "venue": "International Journal of Heat and Mass Transfer, 131 (2019) 645-653. doi:10.1016/j.ijheatmasstransfer.2018.11.101"
+  },
+  "pdf_path": "papers/Others/Gonzalez_Valle_water_SiC_IntJHeatTransfer_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019gonzalez-valle-nat-spectral-mapping_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019gonzalez-valle-nat-spectral-mapping.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

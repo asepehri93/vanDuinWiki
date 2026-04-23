@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018wei-physical-che-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/Others/Wei-2018-Molecular-dynamics-simulation-on-th.pdf",
+    "sha256": "b84ed2e4a46802475a7658fa02100be06ccd7dd7137f3ea9ae2cc1c0fc1534e2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular dynamics simulation on the mechanical properties of natural-rubber-graft-rigid-polymer/rigid-polymer systems",
+    "year": 2018,
+    "authors": "Meng Wei",
+    "venue": "Physical Chemistry Chemical Physics (2018), 20, 8228-8240, doi:10.1039/C7CP07807B"
+  },
+  "pdf_path": "papers/Others/Wei-2018-Molecular-dynamics-simulation-on-th.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018wei-physical-che-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018wei-physical-che-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

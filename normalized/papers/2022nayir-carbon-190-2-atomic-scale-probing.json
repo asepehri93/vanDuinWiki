@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022nayir-carbon-190-2-atomic-scale-probing",
+  "manifest": {
+    "source_path": "papers/Nayir_Ga_graphene_Carbon_2022.pdf",
+    "sha256": "7cd622307ef9d8f18336f061107eeea18267f0b4677cd8ffabfbf141949488f6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomic-scale probing of defect-assisted Ga intercalation through graphene using ReaxFF molecular dynamics simulations",
+    "year": 2022,
+    "authors": "Nadire Nayir",
+    "venue": "Carbon, 190 (2022) 276-290. doi:10.1016/j.carbon.2022.01.005"
+  },
+  "pdf_path": "papers/Nayir_Ga_graphene_Carbon_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022nayir-carbon-190-2-atomic-scale-probing_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022nayir-carbon-190-2-atomic-scale-probing.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

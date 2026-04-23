@@ -1,0 +1,29 @@
+{
+  "paper_id": "paper:2013berdiyorov-venue-c3ra43487g",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Berdiyorov_silicene_RoySocAdv_2013.pdf",
+    "sha256": "a983525ae86a956a8fdfe3a715b1b74c8dcbd0ea7543a64ddba02afc55097791",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c3ra43487g",
+    "title": "Influence of vacancy defects on the thermal stability of silicene: a reactive molecular dynamics study",
+    "year": 2013,
+    "authors": [
+      "Berdiyorov, G. R.",
+      "Peeters, F. M."
+    ],
+    "venue": "RSC Advances"
+  },
+  "pdf_path": "papers/ReaxFF_others/Berdiyorov_silicene_RoySocAdv_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013berdiyorov-venue-c3ra43487g_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013berdiyorov-venue-c3ra43487g.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015pai-physical-che-development-reaxffcbn",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Pai_BNCH_PCCP_2016.pdf",
+    "sha256": "1d3b74a203bb4e5a1af4a73dfe521c6217c9f5d9a74487bf8338a90d85de6b96",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of the ReaxFFCBN reactive force field for the improved design of liquid CBN hydrogen storage materials",
+    "year": 2015,
+    "authors": "Sung Jin Pai",
+    "venue": "Physical Chemistry Chemical Physics (2016), 18, 1818-1827, doi:10.1039/C5CP05486A"
+  },
+  "pdf_path": "papers/ReaxFF_others/Pai_BNCH_PCCP_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015pai-physical-che-development-reaxffcbn_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7685
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015pai-physical-che-development-reaxffcbn.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

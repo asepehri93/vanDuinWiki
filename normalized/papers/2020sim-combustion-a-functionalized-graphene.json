@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020sim-combustion-a-functionalized-graphene",
+  "manifest": {
+    "source_path": "papers/Sim_CombFlame_2020_graphene_mecyhex.pdf",
+    "sha256": "458963baedd08fdf55baac1f8ba645f75af223fcc359bb18a6214c6233d483c8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Functionalized graphene sheet as a dispersible fuel additive for catalytic decomposition of methylcyclohexane",
+    "year": 2020,
+    "authors": "Hyung Sub Sim",
+    "venue": "Combustion and Flame, 217 (2020) 212-221. doi:10.1016/j.combustflame.2020.04.002"
+  },
+  "pdf_path": "papers/Sim_CombFlame_2020_graphene_mecyhex.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020sim-combustion-a-functionalized-graphene_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020sim-combustion-a-functionalized-graphene.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

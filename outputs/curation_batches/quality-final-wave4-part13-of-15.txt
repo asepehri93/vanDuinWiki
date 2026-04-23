@@ -1,0 +1,17 @@
+2021arnaud-ndayishimiye-nano-lett-20-dynamics-chemically
+2021aya-k-buckley-acs-approaching-selectivity
+2021bang-materials-to-morphological-chemical
+2021bhamra-x-interfacial-bonding
+2021boyd-nat-effects-interlayer
+2021boyd-nat-effects-interlayer-2
+2021burger-proceedings-experimental-computational
+2021daksha-computationa-automated-reaxff
+2021daniela-k-jacquel-n-acs-reactive-force
+2021danielle-reifsnyder-nano-lett-20-illuminating-invisible
+2021dewapriya-computationa-energy-absorption
+2021dong-hyun-kim-acs-molecular-dynamics
+2021du-engineering-nanomechanical-investigation
+2021dundar-e-yilmaz-j-chem-theor-machine-learning-assisted
+2021duong-separation-a-mechanistic-study
+2021evgeny-moerman-j-chem-inf-m-development-reaxff
+2021ganeshan-phys-fluids-implicit-discontinuous

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014shan-venue-research",
+  "manifest": {
+    "source_path": "papers/Shan_Thompson_AN_proof_JPCA_2014.pdf",
+    "sha256": "0ea9170ee6eb0aaf19d52d6d407bd1e8d379d991d5b41aaf401bd8f51e55ecc7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..10",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Shan_Thompson_AN_proof_JPCA_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014shan-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014shan-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

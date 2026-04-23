@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Overbury_JACS_2018_proof.pdf",
     "sha256": "5c684258b036f1d88a0b0bc2c32e44101fda2cbf3c251b761911259a052ad66a",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/20180000-0002-5137-3961-x-complexity-intercalation_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/20180000-0002-5137-3961-x-complexity-intercalation.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

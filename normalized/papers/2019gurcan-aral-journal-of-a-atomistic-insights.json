@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019gurcan-aral-journal-of-a-atomistic-insights",
+  "manifest": {
+    "source_path": "papers/Aral_Ni_nanowires_JAP_2019.pdf",
+    "sha256": "c083fe3b138fa2b42c01188235c6d08857c3f4d9fe239065af0f5c27215c0962",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5080640",
+    "title": "Atomistic insights on the influence of pre-oxide shell layer and size on the compressive mechanical properties of nickel nanowires",
+    "year": 2019,
+    "authors": "Gurcan Aral, Md Mahbubul Islam, Yun-Jiang Wang, Shigenobu Ogata, and Adri C. T. van Duin",
+    "venue": "Journal of Applied Physics 2019.125:165102"
+  },
+  "pdf_path": "papers/Aral_Ni_nanowires_JAP_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019gurcan-aral-journal-of-a-atomistic-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4827
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019gurcan-aral-journal-of-a-atomistic-insights.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

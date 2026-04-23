@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016islam-venue-research",
+  "manifest": {
+    "source_path": "papers/Islam_JCTC_eReaxFF_2016_proof.pdf",
+    "sha256": "c2feb5c0bfd1a201db42d45ec6f24537ed02aa74a59b49ca4adb27c0a67be038",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..10",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Islam_JCTC_eReaxFF_2016_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016islam-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016islam-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

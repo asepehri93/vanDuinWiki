@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025jiwoo-choi-inorg-chem-0-copper-selenides",
+  "manifest": {
+    "source_path": "papers/Choi_Kowalik_Plass_Organic_selenide_InorgChem_2025.pdf",
+    "sha256": "3bdd703182e9a987646391413ec295a212c9b9e8003124dd1a6fc942d1f37502",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.inorgchem.5c04328",
+    "title": "Copper Selenides via Anion Exchange versus Direct Growth – The Role of Diorganyl Diselenides",
+    "year": 2025,
+    "authors": "Jiwoo Choi, Benjamin A. Schmidt, Mykhailo Boleychuk, Kiran Bedi, Emily Sandoval-Arteaga, Kezia N. Almonte, Quentin M. Boussard, J. Kenneth Krebs, Malgorzata Kowalik, Adri van Duin, and Katherine E. Plass",
+    "venue": "Inorg. Chem. 0.0"
+  },
+  "pdf_path": "papers/Choi_Kowalik_Plass_Organic_selenide_InorgChem_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025jiwoo-choi-inorg-chem-0-copper-selenides_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025jiwoo-choi-inorg-chem-0-copper-selenides.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

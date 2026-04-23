@@ -1,0 +1,35 @@
+{
+  "paper_id": "paper:2013bryantsev-venue-research",
+  "manifest": {
+    "source_path": "papers/Bryantsev_FluorAmides_JPC_galley.pdf",
+    "sha256": "438c4d38415694e48ccc0464ba21a5df47412f98b0eec86794096c8a09e747d7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp402844r",
+    "title": "Investigation of fluorinated amides for solid-electrolyte interphase stabilization in Li–O₂ batteries using amide-based electrolytes (galley proof PDF)",
+    "year": 2013,
+    "authors": [
+      "Bryantsev, Vyacheslav S.",
+      "Giordani, Vincent",
+      "Walker, Wesley",
+      "Uddin, Jasim",
+      "Lee, Ilkeun",
+      "van Duin, Adri C. T.",
+      "Chase, Gregory V.",
+      "Addison, Dan"
+    ],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/Bryantsev_FluorAmides_JPC_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013bryantsev-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013bryantsev-venue-research.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

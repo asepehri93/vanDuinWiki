@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012liu-surface-scie-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Liu_Lusk_NiCH_SurfSci2012.pdf",
+    "sha256": "f57177ba717b570ade4596106600c85116c7ce43ab4a1a94fd18414ce6ca31f9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reactive molecular dynamic simulations of hydrocarbon dissociations on Ni(111) surfaces",
+    "year": 2012,
+    "authors": "Bin Liu",
+    "venue": "Surface Science, 606 (2012) 615-623. doi:10.1016/j.susc.2011.11.035"
+  },
+  "pdf_path": "papers/ReaxFF_others/Liu_Lusk_NiCH_SurfSci2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012liu-surface-scie-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012liu-surface-scie-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

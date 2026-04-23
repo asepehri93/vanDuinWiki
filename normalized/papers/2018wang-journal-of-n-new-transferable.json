@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018wang-journal-of-n-new-transferable",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Wang_Mauro_Bauchy_Borosilicate_pairpotential.pdf",
+    "sha256": "aed458b2d7bfbcb537b8163e4009e239e30e16dbb1a9949c278a860f14a7d83d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A new transferable interatomic potential for molecular dynamics simulations of borosilicate glasses",
+    "year": 2018,
+    "authors": "Mengyi Wang",
+    "venue": "Journal of Non-Crystalline Solids,Corrected proof,doi:10.1016/j.jnoncrysol.2018.04.063"
+  },
+  "pdf_path": "papers/ReaxFF_others/Wang_Mauro_Bauchy_Borosilicate_pairpotential.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018wang-journal-of-n-new-transferable_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018wang-journal-of-n-new-transferable.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

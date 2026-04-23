@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018nana-wang-j-phys-chem-insights-role",
+  "manifest": {
+    "source_path": "papers/Wang_CaO_H2O_JPCC_2018_accepted.pdf",
+    "sha256": "1dc1bfdf0979eb6b66179e2766062862ebdd4c15c7498024961810c3c5bee915",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.8b05517",
+    "title": "Insights into the Role of H2O in the Carbonation of CaO Nanoparticle with CO2",
+    "year": 2018,
+    "authors": "Nana Wang, Yuchuan Feng, Xin Guo, and Adri C.T. van Duin",
+    "venue": "J. Phys. Chem. C 0.0:null-null"
+  },
+  "pdf_path": "papers/Wang_CaO_H2O_JPCC_2018_accepted.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018nana-wang-j-phys-chem-insights-role_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2924
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018nana-wang-j-phys-chem-insights-role.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

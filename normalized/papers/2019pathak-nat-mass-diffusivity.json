@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019pathak-nat-mass-diffusivity",
+  "manifest": {
+    "source_path": "papers/Pathak_IJHMT_2020_heat_storage.pdf",
+    "sha256": "d4832adab5de5e957fda599e4168bbd20e3ba7de0ec308d7b252ca07deedfb98",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mass diffusivity and thermal conductivity estimation of chloride-based salt hydrates for thermo-chemical heat storage: A molecular dynamics study using the reactive force field.",
+    "year": 2019,
+    "authors": "Amar Deep Pathak",
+    "venue": "International Journal of Heat and Mass Transfer, 149 (2020) 119090. doi:10.1016/j.ijheatmasstransfer.2019.119090"
+  },
+  "pdf_path": "papers/Pathak_IJHMT_2020_heat_storage.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019pathak-nat-mass-diffusivity_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019pathak-nat-mass-diffusivity.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

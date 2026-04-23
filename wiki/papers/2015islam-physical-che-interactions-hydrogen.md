@@ -29,27 +29,29 @@ group_affiliation: true
 
 <!-- id:paper:2015islam-physical-che-interactions-hydrogen -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-Islam *et al.* study **hydrogen embrittlement (HE)** phenomena in **α-iron**, **cementite (Fe\(_3\)C)**, and **ferrite–cementite** interfaces using a **merged ReaxFF Fe/C/H** description: they combine an **Fe/C/H** parameterization originally aimed at **Fischer–Tropsch** surface chemistry with updated **carbon parameters** from a specified Srinivasan–van Duin–Ganesh **J. Phys. Chem. A** line, refitting **Fe/C** interactions on the same training manifold. Simulations include **hydrogen diffusion** in ferrite and cementite, **hydrogen-induced decohesion** metrics (work of separation vs hydrogen content at the interface), **MD**-observed **hydrogen accumulation** at interfaces, and **grand canonical Monte Carlo (GCMC)**-style exploration of **nanovoid** growth in α-iron framed in the extract as part of the mechanistic portfolio.
+Islam *et al.* use a **merged and refit ReaxFF Fe/C/H** model to study **hydrogen embrittlement**-relevant scenarios in **α-iron (ferrite)**, **Fe\(_3\)C (cementite)**, and **ferrite–cementite** interfaces, including **hydrogen diffusion** coefficients in the bulk phases, **hydrogen accumulation** at an interface with a **vacancy cluster**, **work-of-separation** trends versus **hydrogen content**, and **nanovoid / vacancy-cluster** behavior explored in part with a **grand canonical Monte Carlo (GCMC)** vacancy-swap scheme. The parameter line merges the **Fischer–Tropsch Fe/C/H** training of **Zou, van Duin, Sorescu** with updated **carbon** parameters from **Srinivasan, van Duin, Ganesh**, followed by a **refit of Fe–C** interactions against the **original training manifold** as stated in the article.
 
 ## Methods
 
-- **ReaxFF MD** for hydrogen in **Fe** and **Fe\(_3\)C** phases and at **interfaces** with defects (vacancy cluster scenario referenced).
-- **GCMC**-related protocol mentioned for nanovoid studies (see paper body for ensemble details).
+**Force-field training (Fe/C/H merge + refit).** The baseline **Fe/C/H** description follows the **Fischer–Tropsch**-oriented parametrization of **Zou, van Duin, and Sorescu** (*Top. Catal.* 2012) for **iron**, **carbide**, and **hydrocarbon-surface** training targets. **Carbon** parameters are updated to the **Srinivasan–van Duin–Ganesh** line (*J. Phys. Chem. A* 2015), and **Fe–C** bonds and selected **Fe–C–H** angle terms are **refit** so that errors relative to the **original training data** remain at the same level as the pre-merge field (tables of key parameters appear in the paper/ESI).
+
+**MD application — hydrogen diffusion in bulk phases.** **NVT** molecular dynamics with **Δt = 0.25 fs** and a thermostat **damping constant of 500 fs** (as written in the article) is used to extract **hydrogen diffusion coefficients** in **bcc iron** and **cementite** at **300, 400, 500, and 600 K**. Supercells up to **18 × 18 × 18** bcc unit cells are explored with **hydrogen concentration** ranging from **10⁻⁴** to **10⁻²** (H:Fe ratio definition in the paper). **PBC** is used in all directions; **conjugate-gradient** relaxation precedes production sampling as described.
+
+**MD application — vacancy void + interface models.** Additional **NVT** setups treat **hydrogen** in **α-iron** containing a **spherical void** (**10 Å** diameter) carved from an **8 × 8 × 8** supercell with **20** hydrogen atoms (protocol in Section 4.3), and **ferrite–cementite** interface models used for **work-of-separation** calculations versus **hydrogen loading**.
+
+**Grand canonical / Monte Carlo vacancy sampling.** A **GCMC**-style **vacancy swap** move (Metropolis acceptance) on an **8 × 8 × 8** **α-iron** supercell initialized with **50** **monovacancies** explores **vacancy clustering** motifs; moves swap **vacancy** content with **lattice sites** when energetically favored, as described in the text around Fig. 6.
+
+Diffusion and interface segments use **multi-nanosecond** **NVT** horizons (exact durations per figure in *PCCP*). **Barostat / NPT pressure control, applied electric fields, and umbrella or replica-exchange MD:** **N/A —** not used in the **constant-volume** protocols summarized above. **MD engine (package name):** **N/A —** the publisher **PDF** text layer searched for this curation does **not** name an MD code (only **ReaxFF**-based protocols); confirm in the **ESI** if a specific integrator package is required for reproduction.
 
 ## Findings
 
-- **Diffusion coefficients** for hydrogen in ferrite and cementite phases are reported in the abstract framing as supporting subsequent interface decohesion analysis.
-- **Work of separation** decreases with increasing hydrogen concentration at the **ferrite–cementite** interface, interpreted as **hydrogen-assisted decohesion** behavior consistent with experimental expectations cited in the introduction.
+**Diffusion and solvation trends.** The paper reports **hydrogen diffusion coefficients** for **ferrite** and **cementite** across the **temperature** and **concentration** grids above, and discusses **site preference** (**T-site vs O-site**) and **barrier** estimates for **T–T** and **T–O–T** hops compared to literature **DFT**.
+
+**Interfaces and decohesion.** **Work of separation** for the **ferrite–cementite** interface **decreases** with increasing **interfacial hydrogen** content, supporting a **hydrogen-induced decohesion** interpretation; **MD** trajectories show **hydrogen accumulation** at the interface, described as **consistent with experimental** expectations.
+
+**Defect clustering.** The **GCMC** section reports coalescence into **large vacancy clusters** (sizes quoted in the figure caption/text), linked qualitatively to **nanovoid** formation evidence discussed by the authors.
 
 ## Limitations
 

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020di-zhang-j-am-chem-so-ja9b12845",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/DiZhang_JACS_2020_carbonfilm_growth.pdf",
+    "sha256": "55c504d06e9cbcbfae7e8de07f39bd9e5a9e4b6ce9a0a9159f7536ddc444328a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ja9b12845 1..11",
+    "year": 2020,
+    "authors": "Di Zhang, Linfa Peng, Xiaobo Li, Peiyun Yi, and Xinmin Lai",
+    "venue": "J. Am. Chem. Soc. 2020.142:2617-2627"
+  },
+  "pdf_path": "papers/ReaxFF_others/DiZhang_JACS_2020_carbonfilm_growth.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020di-zhang-j-am-chem-so-ja9b12845_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020di-zhang-j-am-chem-so-ja9b12845.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

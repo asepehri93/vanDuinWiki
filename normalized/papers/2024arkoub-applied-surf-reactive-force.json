@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024arkoub-applied-surf-reactive-force",
+  "manifest": {
+    "source_path": "papers/Arkoub_Dwivedi_FLiNaK_salts_AppSurfSci_2024.pdf",
+    "sha256": "2689bf7eeb4a811c6442458d6143fa3a8871371cc2dd7188a8d97e323726d3f3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A reactive force field approach to modeling corrosion of NiCr alloys in molten FLiNaK salts",
+    "year": 2024,
+    "authors": "Hamdy Arkoub",
+    "venue": "Applied Surface Science, 655 (2024) 159627. doi:10.1016/j.apsusc.2024.159627"
+  },
+  "pdf_path": "papers/Arkoub_Dwivedi_FLiNaK_salts_AppSurfSci_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024arkoub-applied-surf-reactive-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024arkoub-applied-surf-reactive-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

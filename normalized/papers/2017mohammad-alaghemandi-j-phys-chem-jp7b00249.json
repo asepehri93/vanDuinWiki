@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017mohammad-alaghemandi-j-phys-chem-jp7b00249",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Alaghemandi_JPCA_H2_O2_2017.pdf",
+    "sha256": "2d7fe2b19fda3ca388a37eb874ec91e260e2b46dd8f0357181332efb88efdd42",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp7b00249 1..7",
+    "year": 2017,
+    "authors": "Mohammad Alaghemandi, Lucas B. Newcomb, and Jason R. Green",
+    "venue": "J. Phys. Chem. A 2017.121:1686-1692"
+  },
+  "pdf_path": "papers/ReaxFF_others/Alaghemandi_JPCA_H2_O2_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017mohammad-alaghemandi-j-phys-chem-jp7b00249_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017mohammad-alaghemandi-j-phys-chem-jp7b00249.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

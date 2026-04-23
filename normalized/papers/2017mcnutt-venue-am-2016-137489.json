@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017mcnutt-venue-am-2016-137489",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/mcnutt_acsami_2017.pdf",
+    "sha256": "4165fc9a4383e292388953b6b65ef22ecf4f313b5df7133ebc928adb09861e90",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "am-2016-137489 1..15",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/mcnutt_acsami_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017mcnutt-venue-am-2016-137489_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017mcnutt-venue-am-2016-137489.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020briggs-nat-atomically-thin-2",
+  "manifest": {
+    "source_path": "papers/Briggs_NatureMaterial_2020_heteroepitaxy_proof.pdf",
+    "sha256": "ce42c3c88212b9a26b72ecaf12a91916d62920141af758793d77b30dec09eb8e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41563-020-0631-x",
+    "title": "Atomically thin half-van der Waals metals enabled by confinement heteroepitaxy",
+    "year": 2020,
+    "authors": "Natalie Briggs",
+    "venue": "Nature Materials, doi:10.1038/s41563-020-0631-x"
+  },
+  "pdf_path": "papers/Briggs_NatureMaterial_2020_heteroepitaxy_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020briggs-nat-atomically-thin-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020briggs-nat-atomically-thin-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

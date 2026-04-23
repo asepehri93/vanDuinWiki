@@ -33,31 +33,37 @@ The study uses **ReaxFF reactive MD** (C/H/O/N **glycine/water** parameter set c
 
 ## Methods
 
-- **ReaxFF MD** with explicit **ROS** insertion/impact into water films; comparison framed against reaction–diffusion modeling limitations.
+### Force-field training
 
-<!-- enrich-from-extract:v2 -->
+**N/A —** the study **employs** an existing **ReaxFF** parameterization for **C/H/O/N** chemistry from **Rahaman et al.** (glycine/water set cited in the article; **`pdf_path`** for full citation).
 
-- It is known that most bio-organisms, including bacteria, are coated by a liquid ﬁlm surrounding them, and there might be many interactions between plasma species and the liquid layer before the plasma species reach the surface of the bio-organisms.
-- Therefore, it is essential to study the behaviour of the reactive species in a liquid ﬁlm, in order to determine whether these species can travel through this layer and reach the biomolecules, or whether new species are formed along the way.
-- In this work, we investigate the interaction of reactive oxygen species (i.e.
+### MD application (atomistic dynamics)
 
+**Engine / code:** **Reactive molecular dynamics** (**ReaxFF**); **N/A —** integrator package name not recovered from `normalized/extracts/2013al-venue-reactive-molecular_p1-2.txt` (abstract/intro only)—see **`pdf_path`**.
+
+**System & composition:** **Liquid water** layer as a surrogate for the aqueous film around **bacteria**; incident **ROS** species **O**, **OH**, **HO\(_2\)**, **H\(_2\)O\(_2\)** (abstract).
+
+**Boundaries / periodicity:** **N/A —** cell geometry and **PBC** details not on the indexed excerpt pages.
+
+**Ensemble / timestep / duration / thermostat / barostat / explicit temperature setpoints:** **N/A —** not stated in `2013al-venue-reactive-molecular_p1-2.txt`; read **`pdf_path`**. The sibling page **`[[2013al-venue-reactive-molecular-2]]`** records **NVT** water-slab equilibration details for the same DOI when operators need a quick in-wiki pointer.
+
+**Pressure:** **N/A —** not stated in the excerpt.
+
+**Electric field:** **N/A —** not used.
+
+**Replica / enhanced sampling:** **N/A —** not stated in the excerpt.
 
 ## Findings
 
-- Depth penetration of selected species and qualitative reaction channels (H-abstraction) differentiated by species.
+**Outcomes:** The abstract reports that **OH**, **HO\(_2\)**, and **H\(_2\)O\(_2\)** can penetrate deeply into the **liquid water** layer and therefore could reach a bio-organism after traversing the film. **O**, **OH**, and **HO\(_2\)** undergo **hydrogen-abstraction** reactions with **water**, whereas **H\(_2\)O\(_2\)** does **not** show **H-abstraction** in their simulations.
 
-### Additional results (article abstract)
+**Comparisons:** Framed against the need to understand **plasma–liquid** interactions before species contact cells (**abstract**).
 
-- Our computational investigations show that OH, HO 2 and H2O2 can travel deep into the liquid layer and are hence in principle able to reach the bio-organism.
-- O, OH, HO 2 and H2O2) with water, which is assumed as a simple model system for the liquid layer surrounding biomolecules.
-- Furthermore, O, OH and HO 2 radicals react with water molecules through hydrogen-abstraction reactions, whereas no H-abstraction reaction takes place in the case of H 2O2.
-- This study is important to gain insight into the fundamental operating mechanisms in plasma medicine, in general, and the interaction mechanisms of plasma species with a liquid ﬁlm, in particular.
-- (Some ﬁgures may appear in colour only in the online journal)
+**Sensitivity:** **Species-dependent** reactivity (**abstraction** vs **diffusive penetration**) controls which **ROS** remain aggressive within the film.
 
+**Limitations:** **O\(_3\)** and **RNS** are excluded in-force-field as noted in the article (beyond **ROS** subset studied). **`2013al-venue-reactive-molecular_p1-2.txt`** is **intro-heavy**; quantitative **MD** settings require **`pdf_path`**.
 
-## Limitations
-
-- Force-field coverage explicitly notes **O₃ and RNS** are **not** included due to **accuracy limits** for those reactions with water at the time of writing.
+**Corpus honesty:** Prefer **`[[2013al-venue-reactive-molecular-2]]`** when you need the **J. Phys. D** PDF with Methods figures cited in that sibling note.
 
 ## Relevance to group
 

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017liu-venue-proof-2-pdf",
+  "manifest": {
+    "source_path": "papers/Liu_ACS_Nano_BN_Nickel_2017_galley.pdf",
+    "sha256": "ecb306783a4f04b6a98c8ce43c0a8a190b858229f4a12c32f3987c66a47741f0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.6b06736",
+    "title": "Atomistic Insights into Nucleation and Formation of Hexagonal Boron Nitride on Nickel from First-Principles-Based Reactive Molecular Dynamics Simulations",
+    "year": 2017,
+    "authors": ["Song Liu", "Adri C. T. van Duin", "Diana M. van Duin", "Bin Liu", "James H. Edgar"],
+    "venue": "ACS Nano"
+  },
+  "pdf_path": "papers/Liu_ACS_Nano_BN_Nickel_2017_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017liu-venue-proof-2-pdf_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7638
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017liu-venue-proof-2-pdf.md",
+  "updated": "2026-04-20T23:59:59Z"
+}

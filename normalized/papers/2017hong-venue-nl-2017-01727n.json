@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2017hong-venue-nl-2017-01727n",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hong_MoS2_acs.nanolett_2017.pdf",
+    "sha256": "78c71175295b6f6d83eb7e3463f7cfeafdd6f9597ea6b97a1314a548d0c3bdca",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.nanolett.7b01727",
+    "title": "Computational Synthesis of MoS2 Layers by Reactive Molecular Dynamics Simulations: Initial Sulfidation of MoO3 Surfaces",
+    "year": 2017,
+    "authors": [
+      "Sungwook Hong",
+      "Aravind Krishnamoorthy",
+      "Pankaj Rajak",
+      "Subodh Tiwari",
+      "Masaaki Misawa",
+      "Fuyuki Shimojo",
+      "Rajiv K. Kalia",
+      "Aiichiro Nakano",
+      "Priya Vashishta"
+    ],
+    "venue": "Nano Letters"
+  },
+  "pdf_path": "papers/ReaxFF_others/Hong_MoS2_acs.nanolett_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017hong-venue-nl-2017-01727n_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017hong-venue-nl-2017-01727n.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

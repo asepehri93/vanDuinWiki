@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Roshan_JPCC_CuSiO_2023_SI.pdf",
     "sha256": "2143b19e62e9e29cb669413e8af52f5393b41ee8a9139a9319f7f9ed4d20975f",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2023roshan-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 1966
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2023roshan-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012dimitry-papkov-acs-acs-nn",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Papkov_ACS_Nano_2013_CNT_Nanofiber.pdf",
+    "sha256": "2d6591910b36bd04e7706c9e09e98a10c21dbd963e8f268814e6b521b32c944d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/nn303423x",
+    "title": "acs_nn_nn-2012-03423x 1..17",
+    "year": 2012,
+    "authors": "Dimitry Papkov, Allison M. Beese, Alexander Goponenko, Yan Zou, Mohammad Naraghi, Horacio D. Espinosa, Biswajit Saha, George C. Schatz, Alexander Moravsky, Raouf Loutfy, Sonbinh T. Nguyen, and Yuris Dzenis",
+    "venue": "ACS Nano 2013.7:126-142"
+  },
+  "pdf_path": "papers/ReaxFF_others/Papkov_ACS_Nano_2013_CNT_Nanofiber.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012dimitry-papkov-acs-acs-nn_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012dimitry-papkov-acs-acs-nn.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

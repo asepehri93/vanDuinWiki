@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012liu-venue-jp308351g",
+  "manifest": {
+    "source_path": "papers/Liu_Zybin_etal_MMH_DNTO_JPCB_2012.pdf",
+    "sha256": "e29987945956387224479cca5da5bbe705aa4cced9b8ea8b43fc491db53338d7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp308351g 1..10",
+    "year": 2012,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Liu_Zybin_etal_MMH_DNTO_JPCB_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012liu-venue-jp308351g_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6935
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012liu-venue-jp308351g.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

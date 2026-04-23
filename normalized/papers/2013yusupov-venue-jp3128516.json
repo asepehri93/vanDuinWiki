@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013yusupov-venue-jp3128516",
+  "manifest": {
+    "source_path": "papers/Yusupov_Plasma_BacterialWall_JPCC_2013.pdf",
+    "sha256": "9b4eab27c76ab94b31619be3b7dce1dcfacbbbb883e4ec927df681b18381bb75",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp3128516 1..6",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Yusupov_Plasma_BacterialWall_JPCC_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013yusupov-venue-jp3128516_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013yusupov-venue-jp3128516.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

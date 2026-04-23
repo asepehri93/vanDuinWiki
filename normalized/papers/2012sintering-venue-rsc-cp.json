@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012sintering-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Others/Sintering of calcium oxide (CaO) during CO2 chemisorption_ a reactive molecular dynamics study.pdf",
+    "sha256": "a02918ca867467640bb63470db41615631e648ce0d3cb935b93bad010098a83a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c2cp42209c",
+    "title": "RSC_CP_C2CP42209C 1..11",
+    "year": 2012,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Sintering of calcium oxide (CaO) during CO2 chemisorption_ a reactive molecular dynamics study.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012sintering-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012sintering-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

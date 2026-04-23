@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017ostadhossein-venue-research",
+  "manifest": {
+    "source_path": "papers/Ostadhossein_MoS2_JPC_Letters_2017.pdf",
+    "sha256": "55789272ba671c7beaaea095528b640589cbf25342d4d578088dacbb283c5aac",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..10",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Ostadhossein_MoS2_JPC_Letters_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017ostadhossein-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017ostadhossein-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020yuan-nat-effects-pressure",
+  "manifest": {
+    "source_path": "papers/Yuan_Mao_etal_InJMechSci2020_diamond_friction.pdf",
+    "sha256": "2f8f0b3ebffe114dec089c7bb2e871498ad7878fd034479398be555e733d0df1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Effects of pressure and velocity on the interface friction behavior of diamond utilizing ReaxFF simulations",
+    "year": 2020,
+    "authors": "Song Yuan",
+    "venue": "International Journal of Mechanical Sciences, 191 (2021) 106096. doi:10.1016/j.ijmecsci.2020.106096"
+  },
+  "pdf_path": "papers/Yuan_Mao_etal_InJMechSci2020_diamond_friction.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020yuan-nat-effects-pressure_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020yuan-nat-effects-pressure.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

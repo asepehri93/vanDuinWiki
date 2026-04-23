@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022c-cile-a-c-chazot-nano-lett-0-molecular-alignment",
+  "manifest": {
+    "source_path": "papers/Chazot_Damirchi_CNT_polymers_Nano_Letters_2022_online.pdf",
+    "sha256": "e33e118b6ea2a3ee194b220f88af37d0eede47a586556ee20a32abacc431fe07",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.nanolett.1c03866",
+    "title": "Molecular Alignment of a Meta-Aramid on Carbon Nanotubes by In Situ Interfacial Polymerization",
+    "year": 2022,
+    "authors": "Cécile A. C. Chazot, Behzad Damirchi, Byeongdu Lee, Adri C. T. van Duin, and A. John Hart",
+    "venue": "Nano Lett. 0.0:null-null"
+  },
+  "pdf_path": "papers/Chazot_Damirchi_CNT_polymers_Nano_Letters_2022_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022c-cile-a-c-chazot-nano-lett-0-molecular-alignment_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022c-cile-a-c-chazot-nano-lett-0-molecular-alignment.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

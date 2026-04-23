@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhou-scientific-d-dmatpedia-open",
+  "manifest": {
+    "source_path": "papers/Others/DMatPedia, an open computational database of two- dimensional materials from top- down and bottom-up approaches.pdf",
+    "sha256": "1a739560a40dfb0c41b09e2d9b2838e67d9d339c8c781ee5077aa1209edfb4b3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41597-019-0097-3",
+    "title": "2DMatPedia, an open computational database of two-dimensional materials from top-down and bottom-up approaches",
+    "year": 2019,
+    "authors": "Jun Zhou",
+    "venue": "Scientific Data, doi:10.1038/s41597-019-0097-3"
+  },
+  "pdf_path": "papers/Others/DMatPedia, an open computational database of two- dimensional materials from top- down and bottom-up approaches.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhou-scientific-d-dmatpedia-open_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7932
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhou-scientific-d-dmatpedia-open.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

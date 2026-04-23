@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025dasgupta-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Dasgupta_Mortazavi_JPCL_2025_galley.pdf",
+    "sha256": "0d5b067ee859423606f7ed5e55f70f536b37ad5061bfed6dcf19f8572ae5b62a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpclett.5c02429",
+    "title": "manuscript 1..10",
+    "year": 2025,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Dasgupta_Mortazavi_JPCL_2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025dasgupta-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025dasgupta-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021duong-separation-a-mechanistic-study",
+  "manifest": {
+    "source_path": "papers/Phuoc_Sep_Purif_Tech_COF_2022.pdf",
+    "sha256": "b018be409f491c53963c8d149d6997994856f4991483d66392dc59b17ba9979f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mechanistic study of pH effect on organic solvent nanofiltration using carboxylated covalent organic framework as a modeling and experimental platform",
+    "year": 2021,
+    "authors": "Phuoc H.H. Duong",
+    "venue": "Separation and Purification Technology, 282 (2022) 120028. doi:10.1016/j.seppur.2021.120028"
+  },
+  "pdf_path": "papers/Phuoc_Sep_Purif_Tech_COF_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021duong-separation-a-mechanistic-study_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021duong-separation-a-mechanistic-study.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

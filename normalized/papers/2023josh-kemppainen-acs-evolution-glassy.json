@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023josh-kemppainen-acs-evolution-glassy",
+  "manifest": {
+    "source_path": "papers/Kemppainen_furan_pyrolysis_ACS_Appl_Eng_Mater_2023_2555.pdf",
+    "sha256": "7e958c4c525d34ba53ca990200dcca584ca0dcf37bf325c60e97c99c08b73c7d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsaenm.3c00360",
+    "title": "Evolution of Glassy Carbon Derived from Pyrolysis of Furan Resin",
+    "year": 2023,
+    "authors": "Josh Kemppainen, Ivan Gallegos, Aaron S. Krieg, Jacob R. Gissinger, Kristopher E. Wise, Margaret Kowalik, Julia A. King, S. Gowtham, Adri van Duin, and Gregory M. Odegard",
+    "venue": "ACS Appl. Eng. Mater. 2023.1:2555-2566"
+  },
+  "pdf_path": "papers/Kemppainen_furan_pyrolysis_ACS_Appl_Eng_Mater_2023_2555.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023josh-kemppainen-acs-evolution-glassy_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023josh-kemppainen-acs-evolution-glassy.md",
+  "updated": "2026-04-21T00:00:00Z"
+}

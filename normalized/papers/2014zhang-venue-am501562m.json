@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014zhang-venue-am501562m",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zhang_nmethane_graphene_2014.pdf",
+    "sha256": "898938c8678b1e3d61303ab8e00a2951374a5e530bb5c003f45721f3b2a4d046",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/am501562m",
+    "title": "Self-Enhanced Catalytic Activities of Functionalized Graphene Sheets in the Combustion of Nitromethane: Molecular Dynamic Simulations by Molecular Reactive Force Field",
+    "year": 2014,
+    "authors": null,
+    "venue": "ACS Appl. Mater. Interfaces"
+  },
+  "pdf_path": "papers/ReaxFF_others/Zhang_nmethane_graphene_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014zhang-venue-am501562m_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014zhang-venue-am501562m.md",
+  "updated": "2026-04-21T18:36:52Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013bae-venue-jp405992m",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bae_Aikens_AuSCH_improved_JPCA_2013.pdf",
+    "sha256": "9bcfe15a204633b2c37bf652e6ede227b37a5cc641290490d6c22c41f1079a6b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp405992m 1..9",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Bae_Aikens_AuSCH_improved_JPCA_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013bae-venue-jp405992m_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013bae-venue-jp405992m.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

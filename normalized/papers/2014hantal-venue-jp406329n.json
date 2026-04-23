@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014hantal-venue-jp406329n",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hantal_Ulm_Pellencq_Kerogen_SIlica_JPC_2014.pdf",
+    "sha256": "692db663275be4fc8207e1bef86379231a413784be17ee99d8c15d944fcea630",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp406329n",
+    "title": "Surface chemistry and atomic-scale reconstruction of kerogen–silica composites",
+    "year": 2014,
+    "authors": ["Hantal, György", "Brochard, Laurent", "Cordeiro, M. Natália Dias Soeiro", "Ulm, Franz J.", "Pellenq, Roland J.-M."],
+    "venue": "Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/ReaxFF_others/Hantal_Ulm_Pellencq_Kerogen_SIlica_JPC_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014hantal-venue-jp406329n_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014hantal-venue-jp406329n.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

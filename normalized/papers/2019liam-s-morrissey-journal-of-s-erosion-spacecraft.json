@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019liam-s-morrissey-journal-of-s-erosion-spacecraft",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/morrissey_oxidation_spacecraft_rockets_2019.pdf",
+    "sha256": "b9cc1a67a00bc09ca4f4b4fcf37e4ba7fd3cbb534e1edb1594311158c6617fff",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.2514/1.A34414",
+    "title": "Erosion of Spacecraft Metals due to Atomic Oxygen: A Molecular Dynamics Simulation",
+    "year": 2019,
+    "authors": "Liam S. Morrissey, Stephen M. Handrigan, Sam Nakhla, and Ali Rahnamoun",
+    "venue": "Journal of Spacecraft and Rockets 0.0:1-6"
+  },
+  "pdf_path": "papers/ReaxFF_others/morrissey_oxidation_spacecraft_rockets_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019liam-s-morrissey-journal-of-s-erosion-spacecraft_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019liam-s-morrissey-journal-of-s-erosion-spacecraft.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

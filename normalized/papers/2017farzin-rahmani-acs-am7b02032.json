@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017farzin-rahmani-acs-am7b02032",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Rahmani_ACS_AMI_POSS_O_2017.pdf",
+    "sha256": "c4339f77aff73e8b563f502f7c1d3f87b439747fcb00bd93e07c9d27afdb578b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "am7b02032 1..10",
+    "year": 2017,
+    "authors": "Farzin Rahmani, Sasan Nouranian, Xiaobing Li, and Ahmed Al-Ostaz",
+    "venue": "ACS Appl. Mater. Interfaces 2017.9:12802-12811"
+  },
+  "pdf_path": "papers/ReaxFF_others/Rahmani_ACS_AMI_POSS_O_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017farzin-rahmani-acs-am7b02032_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017farzin-rahmani-acs-am7b02032.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

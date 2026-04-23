@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020he-acta-materia-friction-induced-subsurface",
+  "manifest": {
+    "source_path": "papers/He_Glass_densification_ActaMater_2020.pdf",
+    "sha256": "cf4f661934f35dd114cc028671d09ad4bdb79037274af3f3991edeef64fa2115",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Friction-induced subsurface densification of glass at contact stress far below indentation damage threshold",
+    "year": 2020,
+    "authors": "Hongtu He",
+    "venue": "Acta Materialia, 189 (2020) 166-173. doi:10.1016/j.actamat.2020.03.005"
+  },
+  "pdf_path": "papers/He_Glass_densification_ActaMater_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020he-acta-materia-friction-induced-subsurface_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020he-acta-materia-friction-induced-subsurface.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

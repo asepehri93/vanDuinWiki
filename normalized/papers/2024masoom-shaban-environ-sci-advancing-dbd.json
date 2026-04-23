@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024masoom-shaban-environ-sci-advancing-dbd",
+  "manifest": {
+    "source_path": "papers/Shaban_Plasma_DBD_Clausthal_EnvSciTech_2024.pdf",
+    "sha256": "9f895472e70ce0428f8b4c7502cba742c6cc913104ba03069aca33bd907507b8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.est.4c04894",
+    "title": "Advancing DBD Plasma Chemistry: Insights into Reactive Nitrogen Species such as NO2, N2O5, and N2O Optimization and Species Reactivity through Experiments and MD Simulations",
+    "year": 2024,
+    "authors": "Masoom Shaban, Nina Merkert, Adri C. T. van Duin, Diana van Duin, and Alfred P. Weber",
+    "venue": "Environ. Sci. Technol. 2024.58:16087-16099"
+  },
+  "pdf_path": "papers/Shaban_Plasma_DBD_Clausthal_EnvSciTech_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024masoom-shaban-environ-sci-advancing-dbd_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024masoom-shaban-environ-sci-advancing-dbd.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -44,30 +44,23 @@ Yusupov *et al.* perform **ReaxFF reactive MD** to study impacts of **oxygen pla
 
 ## Methods
 
-- **Reactive MD** with **ReaxFF** for ROS–biomolecule collisions/reactions (protocol details in full paper).
-- Comparison narrative anchored to experimental **XPS**/**activity** studies referenced in the introduction.
-
-<!-- enrich-from-extract:v2 -->
-
-- Reactive molecular dynamics simulations are performed to study the interaction of reactive oxygen species, such as OH, HO2 and H2O2, with the endotoxic biomolecule lipid A of the gram- negative bacterium Escherichia coli .
-- A clear difference is observed in the bond breaking mechanisms upon impact of HO 2 radicals and H 2O2 molecules on one hand and OH radicals on the other hand.
-
+**Reactive molecular dynamics** with **ReaxFF** studies impacts of **OH**, **HO\(_2\)**, and **H\(_2\)O\(_2\)** on a **truncated *E. coli* lipid A** model in which oligosaccharide tails are replaced by **methyl** caps (*Plasma Process. Polym.* computational section). **System composition** follows their capped **headgroup + acyl chain** construct (explicit **atoms** for the reactive core with **H** atoms selectively **frozen** on the methyl caps as in Fig. 1). The **simulation box** is about **50 × 70 × 40 Å³**; **periodic boundaries are not used** on any face because a semi-infinite surface is not targeted—instead, selected **methyl-site hydrogens** are **spatially fixed** to preserve the experimental lipid A geometry. **Equilibration:** **500 ps** canonical (**NVT**) dynamics at **300 K** with a **Bussi** thermostat (**100 fs** coupling constant). **Integrator:** **0.25 fs** timestep for both thermalization and impact segments. **Production impacts:** each of **100 independent runs** per species places **ten** incident particles with **random** positions (**≥ ~10 Å** from the lipid and from each other) and **room-temperature** kinetic energies; trajectories continue **500 ps** under **NVT** (authors state this duration suffices to break at least one **critical** bond in the cases they highlight). **Barostat / NPT:** **N/A**. **Applied electric fields / metadynamics:** **N/A**. **MD engine:** **N/A —** the **PDF** text checked for this page does not name the dynamics **code** (only **ReaxFF** is specified).
 
 ## Findings
 
-- Mechanistic differentiation between **radical classes** is a headline result in the abstract-level summary.
-- Contextualizes plasma medicine motivation: **nonthermal** plasmas for **heat-sensitive** materials.
+**Mechanisms / damage pathways.** The **abstract** reports that **OH**, **HO\(_2\)**, and **H\(_2\)O\(_2\)** can **oxidatively cleave** and **fragment** the modeled **lipid A**, lowering modeled **toxicity** proxies; **HO\(_2\)**/**H\(_2\)O\(_2\)** versus **OH** follow **distinct bond-breaking sequences** (e.g., **H-abstraction** events involving **ether oxygens** versus other **headgroup** attacks detailed in **Results**).
 
-### Additional results (article abstract)
+**Comparisons.** The authors state **good agreement** between these **ReaxFF** trajectories and **experimental** plasma-exposure observations they cite for **LPS**/**lipid A** chemistry—positioning the simulations as mechanistic cartoons rather than a clinical dose model.
 
-- It is found that the aforementioned plasma species can destroy the lipid A, which consequently results in reducing its toxic activity.
-- Our simulation results are in good agreement with experimental observations.
+**Sensitivity / statistics.** **Statistics:** **100 runs** per impinging species with **ten** particles each quantify how often **critical** **C–O**, **C–N**, or **C–C** bonds rupture within **500 ps** at **300 K** **NVT**; **temperature** is fixed to **room** conditions during impacts, so **thermal** activation differences between species enter mainly through initial **radical** identity rather than bath ramps.
 
+**Limitations / outlook.** The study acknowledges but does not fully resolve **plasma** complexity (**many** **ROS**/**RNS** omitted); **future work** in their framing would extend species coverage and membrane embedding.
+
+**Corpus honesty.** Bond inventories and representative **reaction** sequences should be checked against the **PDF** figures/tables for exact **atom** labels—this page summarizes the **peer-reviewed** text only.
 
 ## Limitations
 
-- Biological complexity (membrane context, hydration, salts) is reduced to **atomistic** models; extrapolation to clinical sterilization requires multiscale validation.
-- Extract is early pages; quantitative damage metrics appear later.
+Biological complexity (full **LPS** assemblies, membrane heterogeneity, realistic **plasma** composition) is reduced to a **truncated lipid A** model with **gas-phase-like** ROS impacts; translating bond-loss statistics to **endotoxicity** or clinical **CAP** outcomes still requires experiment and multiscale modeling beyond this **ReaxFF** study.
 
 ## Relevance to group
 

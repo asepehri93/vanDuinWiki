@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018page-venue-ben-bnnt",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/McLean_Page_BN_CVD_JPC_2018_SI.pdf",
+    "sha256": "bb7d536cb81880c6d2b4faba57f64fc27225a7806f4e1b04be762ba9c52c8014",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ben_bnnt_bocvd.SI_BM",
+    "year": 2018,
+    "authors": "Alister Page",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/McLean_Page_BN_CVD_JPC_2018_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018page-venue-ben-bnnt_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1259
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018page-venue-ben-bnnt.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

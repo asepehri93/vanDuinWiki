@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014fantauzzi-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Fantauzzi_PCCP_PtO_2014_proof.pdf",
+    "sha256": "6fada3c6c82e558cef67f9e5c92e49cb5ebacc0522c65f9f2891651fa1c7b07f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c4cp03111c",
+    "title": "Development of a ReaxFF potential for Pt–O systems describing the energetics and dynamics of Pt-oxide formation",
+    "year": 2014,
+    "authors": ["Fantauzzi, Donato", "Bandlow, Jochen", "Sabo, Lehel", "Mueller, Jonathan E.", "van Duin, Adri C. T.", "Jacob, Timo"],
+    "venue": "Physical Chemistry Chemical Physics"
+  },
+  "pdf_path": "papers/Fantauzzi_PCCP_PtO_2014_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014fantauzzi-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2697
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014fantauzzi-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

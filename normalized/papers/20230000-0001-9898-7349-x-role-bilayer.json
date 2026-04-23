@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20230000-0001-9898-7349-x-role-bilayer",
+  "manifest": {
+    "source_path": "papers/Bachu_ACS_Nano_2023_WSe2_graphene_galley.pdf",
+    "sha256": "079465ade93b8e49a8f7b145e87427849e7b9897dae829ff58a0bfa4240ab6b3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.2c12621",
+    "title": "Role of Bilayer Graphene Microstructure on the Nucleation of WSe2 Overlayers",
+    "year": 2023,
+    "authors": "Saiphaneendra Bachu (ORCID: 0000-0001-9898-7349)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Bachu_ACS_Nano_2023_WSe2_graphene_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20230000-0001-9898-7349-x-role-bilayer_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20230000-0001-9898-7349-x-role-bilayer.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021boyd-nat-effects-interlayer-2",
+  "manifest": {
+    "source_path": "papers/Boyd_birnessite_NatureMaterials_2021_galley.pdf",
+    "sha256": "63261e0229120bf409747cdaf7d982e374767575c148e6781e6be68c3ec0848f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41563-021-01066-4",
+    "title": "Effects of interlayer confinement and hydration on capacitive charge storage in birnessite",
+    "year": 2021,
+    "authors": "Shelby Boyd",
+    "venue": "Nature Materials, doi:10.1038/s41563-021-01066-4"
+  },
+  "pdf_path": "papers/Boyd_birnessite_NatureMaterials_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021boyd-nat-effects-interlayer-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021boyd-nat-effects-interlayer-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

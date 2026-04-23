@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017s-jain-journal-of-a-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Jain_Mo_Qiao_PETN_CNT_JAP_2017.pdf",
+    "sha256": "3395e3bdebcf9bcf7f84a2915e30a70074a18ae9d6c87b6ff9baca875ab652a0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4975472",
+    "title": "Molecular dynamics simulations of flame propagation along a monopropellant PETN coupled with multi-walled carbon nanotubes",
+    "year": 2017,
+    "authors": "S. Jain, G. Mo, and L. Qiao",
+    "venue": "Journal of Applied Physics 2017.121:054902"
+  },
+  "pdf_path": "papers/ReaxFF_others/Jain_Mo_Qiao_PETN_CNT_JAP_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017s-jain-journal-of-a-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6569
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017s-jain-journal-of-a-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

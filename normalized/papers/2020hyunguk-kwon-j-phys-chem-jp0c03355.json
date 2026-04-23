@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Kwon_JPC_2020_Soot_growth.pdf",
     "sha256": "c63e9df678f8aec7347345bbd4ca7942cc3f0a2f1d70033b96fe7c83bdfbd7e9",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2020hyunguk-kwon-j-phys-chem-jp0c03355_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2020hyunguk-kwon-j-phys-chem-jp0c03355.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

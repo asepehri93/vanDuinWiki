@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019akbarian-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Akbarian_PCCP_BaTiO3_2019_proof.pdf",
+    "sha256": "6285bd6b86169731849325f8a0490c59753d2653a211b17964c88e960cc8e278",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "RSC_CP_C9CP02955A 1..13",
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Akbarian_PCCP_BaTiO3_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019akbarian-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5608
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019akbarian-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

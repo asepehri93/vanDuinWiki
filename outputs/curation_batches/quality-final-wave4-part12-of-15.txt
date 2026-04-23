@@ -1,0 +1,17 @@
+2020zhang-venue-si-rev2-2
+2020zhu-venue-jp0c02573
+20210000-0001-8343-0142-x-development-reaxff
+20210000-0002-0949-3505-x-molecular-interactions
+20210000-0002-1068-9599-x-atomistic-insights
+20210000-0002-1686-065x-x-development-applications
+20210000-0002-3621-2481-x-reaxff-force
+20210000-0002-3621-2481-x-reaxff-force-2
+20210000-0002-7561-597x-x-interfacial-reactivity
+20210000-0002-8962-1473-x-illuminating-invisible
+20210000-0002-9124-3512-x-investigating-accuracy
+2021akbarian-j-chem-phys-atomistic-scale-insight
+2021akbarian-j-chem-phys-atomistic-scale-insight-2
+2021akbarian-physical-che-understanding-physical
+2021akbarian-venue-paper
+2021amiri-applied-surf-atomistic-insights
+2021andris-utka-j-phys-chem-tribovoltaic-device

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021matsuura-x-perfect-defective",
+  "manifest": {
+    "source_path": "papers/Matsuura_C13furan_NMR_JACS_2021_galley.pdf",
+    "sha256": "ca7303180162f36a61e1fefcc3295d491018da92796cd5ee9dd80ed7d2202027",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jacs.1c03671",
+    "title": "Perfect and Defective 13C‑Furan-Derived Nanothreads from Modest-Pressure Synthesis Analyzed by 13C NMR",
+    "year": 2021,
+    "authors": "Bryan Matsuura",
+    "venue": " "
+  },
+  "pdf_path": "papers/Matsuura_C13furan_NMR_JACS_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021matsuura-x-perfect-defective_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021matsuura-x-perfect-defective.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

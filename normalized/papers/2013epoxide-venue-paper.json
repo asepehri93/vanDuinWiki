@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2013epoxide-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Epoxide_Neyts_et_al_PCCP_2013_proof.pdf",
+    "sha256": "a29d654b7dbefac0e5f222db468ab92e48f4051b4f34f73c20ac364cfc343930",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c3cp51621k",
+    "title": "Stability of Si epoxide defects in Si nanowires: a mixed reactive force field/DFT study",
+    "year": 2013,
+    "authors": [
+      "Schoeters, Bob",
+      "Neyts, Erik C.",
+      "Khalilov, Umedjon",
+      "Pourtois, Geoffrey",
+      "Partoens, Bart"
+    ],
+    "venue": "Physical Chemistry Chemical Physics"
+  },
+  "pdf_path": "papers/ReaxFF_others/Epoxide_Neyts_et_al_PCCP_2013_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013epoxide-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013epoxide-venue-paper.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

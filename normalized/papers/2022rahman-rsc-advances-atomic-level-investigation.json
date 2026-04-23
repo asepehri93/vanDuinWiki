@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022rahman-rsc-advances-atomic-level-investigation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Haque_RSC_Advances_LiO2_2022.pdf",
+    "sha256": "edc51dd3e95a7530691ff7df1a4bb473fac0ea334ac23c89c4cca7f3ee5b8d62",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomic-level investigation on the oxidation efficiency and corrosion resistance of lithium enhanced by the addition of two dimensional materials",
+    "year": 2022,
+    "authors": "Md. Habibur Rahman",
+    "venue": "RSC Advances (2022), 12, 5458-5465, doi:10.1039/D1RA07659K"
+  },
+  "pdf_path": "papers/ReaxFF_others/Haque_RSC_Advances_LiO2_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022rahman-rsc-advances-atomic-level-investigation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022rahman-rsc-advances-atomic-level-investigation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,33 @@
+{
+  "paper_id": "paper:2013huang-venue-paper-3",
+  "manifest": {
+    "source_path": "papers/Huang_GrapOxide_H2S_JCP2013.pdf",
+    "sha256": "b9bf26f0d052578e5c0c2921f3ba5372dafa969f02723d322883b188f26e24df",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4832039",
+    "title": "Controllable atomistic graphene oxide model and its application in hydrogen sulfide removal",
+    "year": 2013,
+    "authors": [
+      "Huang, Liangliang",
+      "Seredych, Mykola",
+      "Bandosz, Teresa J.",
+      "van Duin, Adri C. T.",
+      "Lu, Xiaohua",
+      "Gubbins, Keith E."
+    ],
+    "venue": "The Journal of Chemical Physics"
+  },
+  "pdf_path": "papers/Huang_GrapOxide_H2S_JCP2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013huang-venue-paper-3_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5795
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013huang-venue-paper-3.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

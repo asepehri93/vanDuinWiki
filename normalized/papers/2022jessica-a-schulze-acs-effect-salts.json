@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022jessica-a-schulze-acs-effect-salts",
+  "manifest": {
+    "source_path": "papers/Schulze_Salt_Ice_cluster_ACS_Earth_Space_2022.pdf",
+    "sha256": "1aa87dfd487fe74c79d5f5e648bb8e8dfca3b7dd5d621506b2851b014e38cffb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsearthspacechem.2c00267",
+    "title": "Effect of Salts on the Formation and Hypervelocity-Induced Fragmentation of Icy Clusters with Embedded Amino Acids",
+    "year": 2022,
+    "authors": "Jessica A. Schulze, Dundar E. Yilmaz, Morgan L. Cable, Michael Malaska, Amy E. Hofmann, Robert P. Hodyss, Jonathan I. Lunine, Adri C. T. van Duin, and Andres Jaramillo-Botero",
+    "venue": "ACS Earth Space Chem. 0.0"
+  },
+  "pdf_path": "papers/Schulze_Salt_Ice_cluster_ACS_Earth_Space_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022jessica-a-schulze-acs-effect-salts_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022jessica-a-schulze-acs-effect-salts.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

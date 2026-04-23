@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018zhang-j-phys-chem-improvement-reaxff",
+  "manifest": {
+    "source_path": "papers/Zhang_JPCB_Weak_Interactions_2018.pdf",
+    "sha256": "13375a09acad8a8c5d504f710f67deb945f0885a9d52e2649acdd04d69a77589",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Improvement of the ReaxFF Description for Functionalized Hydrocarbon/Water Weak Interactions in the Condensed Phase",
+    "year": 2018,
+    "authors": "Weiwei Zhang and Adri C. T. van Duin",
+    "venue": "J. Phys. Chem. B 2018.122:4083-4092"
+  },
+  "pdf_path": "papers/Zhang_JPCB_Weak_Interactions_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018zhang-j-phys-chem-improvement-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018zhang-j-phys-chem-improvement-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

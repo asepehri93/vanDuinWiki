@@ -1,0 +1,96 @@
+# Optional MAS / retrieval keywords for paper pages (`paper_keywords` in front matter).
+# Use only ids listed here; add new ids when a recurring theme appears across many papers.
+# Pattern: keyword:<slug>  (lowercase [a-z0-9-]+)
+
+version: 1
+description: "Finer-grained facets than canonical_tags — for clustering, theme hubs, benchmarks, and MAS filters."
+
+keywords:
+  - id: keyword:reaxff-parameterization
+    label: ReaxFF parameterization or reoptimization
+  - id: keyword:reaxff-application
+    label: ReaxFF application study (no new FF training)
+  - id: keyword:qm-training-data
+    label: QM / DFT training data for force fields
+  - id: keyword:classical-ff
+    label: Classical / empirical non-ReaxFF potentials
+  - id: keyword:eam-potential
+    label: EAM or embedded-atom style potentials
+  - id: keyword:reactive-md
+    label: Reactive MD (general; bond breaking/forming)
+  - id: keyword:shock-compression
+    label: Shock compression / Hugoniot / MSST / NEMD shock
+  - id: keyword:hugoniot
+    label: Hugoniot / shock velocity vs particle velocity
+  - id: keyword:thermal-decomposition
+    label: Thermal decomposition / pyrolysis / heating ramps
+  - id: keyword:combustion
+    label: Combustion / oxidation chemistry
+  - id: keyword:nvt-simulation
+    label: NVT ensemble (or noted NVT segment)
+  - id: keyword:npt-simulation
+    label: NPT ensemble
+  - id: keyword:nve-simulation
+    label: NVE ensemble
+  - id: keyword:msst
+    label: Multi-scale shock technique (MSST) or similar
+  - id: keyword:berendsen-thermostat
+    label: Berendsen thermostat (if central)
+  - id: keyword:nose-hoover
+    label: Nosé–Hoover or NHC thermostat
+  - id: keyword:lammps
+    label: LAMMPS as primary MD engine
+  - id: keyword:puremd
+    label: PuReMD / parallel reactive MD code
+  - id: keyword:gpu-md
+    label: GPU-accelerated MD
+  - id: keyword:aimd
+    label: Ab initio MD / Car–Parrinello / BOMD
+  - id: keyword:dft-static
+    label: Static DFT (energies, barriers, NEB)
+  - id: keyword:neb
+    label: Nudged elastic band / reaction paths
+  - id: keyword:monte-carlo-sampling
+    label: Monte Carlo (replica exchange, etc.)
+  - id: keyword:parallel-tempering
+    label: Parallel tempering / replica exchange
+  - id: keyword:polarizable-ff
+    label: Polarizable / fluctuating charge models
+  - id: keyword:charge-equilibration
+    label: QEq / EEM / charge models
+  - id: keyword:graphene-carbon
+    label: Graphene / nanocarbon / CNT
+  - id: keyword:oxide-surface
+    label: Oxide surfaces / ceramics
+  - id: keyword:silica-silicate
+    label: Silica / silicates / zeolites (non-battery)
+  - id: keyword:metallic-systems
+    label: Metals / alloys (bulk or surface)
+  - id: keyword:catalysis-surface
+    label: Heterogeneous catalysis / surface reactions
+  - id: keyword:batteries-interfaces
+    label: Batteries / SEI / electrolyte interfaces
+  - id: keyword:energetic-materials
+    label: Energetic materials / explosives / propellants
+  - id: keyword:tribology
+    label: Friction / wear / tribochemistry
+  - id: keyword:polymer
+    label: Polymers / organics condensed phase
+  - id: keyword:water-interfaces
+    label: Water / aqueous interfaces / hydration
+  - id: keyword:2d-materials
+    label: 2D materials (MoS2, BN, etc.)
+  - id: keyword:enhanced-sampling
+    label: Metadynamics / umbrella / enhanced sampling
+  - id: keyword:machine-learning-potential
+    label: MLIPs / neural potentials (when central)
+  - id: keyword:validation-experiment
+    label: Explicit comparison to experiment (central)
+  - id: keyword:supporting-information
+    label: Key results or parameters primarily in SI
+  - id: keyword:galley-or-proof-pdf
+    label: Proof / galley PDF (non-VOR) in corpus
+  - id: keyword:review-or-perspective
+    label: Review / tutorial / perspective (not primary research)
+  - id: keyword:method-development
+    label: Algorithms / software methods (non-material focus)

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021wilkinson-acta-materia-hybrid-machine",
+  "manifest": {
+    "source_path": "papers/Others/Wilkinson_ML_glass_ActaMaterialia_2022.pdf",
+    "sha256": "1144cb9755dd8f612683da01931e715e52c02f172003415d24f152939592f2df",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Hybrid machine learning/physics-based approach for predicting oxide glass-forming ability",
+    "year": 2021,
+    "authors": "Collin J. Wilkinson",
+    "venue": "Acta Materialia, 222 (2022) 117432. doi:10.1016/j.actamat.2021.117432"
+  },
+  "pdf_path": "papers/Others/Wilkinson_ML_glass_ActaMaterialia_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021wilkinson-acta-materia-hybrid-machine_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021wilkinson-acta-materia-hybrid-machine.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

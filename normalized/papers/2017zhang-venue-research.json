@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017zhang-venue-research",
+  "manifest": {
+    "source_path": "papers/Zhang_ReaxFF_water_JPCC_2017_proof.pdf",
+    "sha256": "31bf09b8432942c585b77db3c807d3e8bb2850bf80cdb267249138dcc339bb8a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..12",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Zhang_ReaxFF_water_JPCC_2017_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017zhang-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017zhang-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021nayir-materials-sc-theoretical-modeling",
+  "manifest": {
+    "source_path": "papers/Nayir_MoSe2_MatSciEngB_2021.pdf",
+    "sha256": "c401c2cf81c7cff5da18e9674a40250e02918ca8b135dd35dabbf1483ae38e45",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Theoretical modeling of edge-controlled growth kinetics and structural engineering of 2D-MoSe2",
+    "year": 2021,
+    "authors": "Nadire Nayir",
+    "venue": "Materials Science & Engineering B, 271 (2021) 115263. doi:10.1016/j.mseb.2021.115263"
+  },
+  "pdf_path": "papers/Nayir_MoSe2_MatSciEngB_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021nayir-materials-sc-theoretical-modeling_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021nayir-materials-sc-theoretical-modeling.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

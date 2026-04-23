@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017khalilov-carbon-118-2-atomic-scale-mechanisms",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Khalilov_Carbon_2017_CNT_growth.pdf",
+    "sha256": "b49eb0e7ac92bd31046b7a1b6dd7e9a926b74131e35cb5d584411289e4074eb1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.carbon.2017.03.068",
+    "title": "Atomic-scale mechanisms of plasma-assisted elimination of nascent base-grown carbon nanotubes",
+    "year": 2017,
+    "authors": "Umedjon Khalilov, Annemie Bogaerts, Erik C. Neyts",
+    "venue": "Carbon"
+  },
+  "pdf_path": "papers/ReaxFF_others/Khalilov_Carbon_2017_CNT_growth.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017khalilov-carbon-118-2-atomic-scale-mechanisms_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017khalilov-carbon-118-2-atomic-scale-mechanisms.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

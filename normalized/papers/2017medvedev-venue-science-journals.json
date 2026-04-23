@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017medvedev-venue-science-journals",
+  "manifest": {
+    "source_path": "papers/Others/Medvedev et al. - 2017 - Density functional theory is straying from the pat.pdf",
+    "sha256": "0bd64e1e4f112f1dad4791c1f43da4e591025b2ff209cb5dd8bc7b306e8dacb9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Science Journals — AAAS",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Medvedev et al. - 2017 - Density functional theory is straying from the pat.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017medvedev-venue-science-journals_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017medvedev-venue-science-journals.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

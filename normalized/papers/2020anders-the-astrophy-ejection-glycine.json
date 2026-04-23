@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020anders-the-astrophy-ejection-glycine",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Anders_Bringa_Water_Ice_2020_ApJ_891_21.pdf",
+    "sha256": "4e57860ea0910fcb50608e05e7b7106a308473c1379edfc3b354c41bc74e0954",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Ejection of Glycine Molecules Adsorbed on a Water Ice Surface by Swift-heavy Ion Irradiation",
+    "year": 2020,
+    "authors": "Christian Anders",
+    "venue": "The Astrophysical Journal, 891(2020) 21. doi:10.3847/1538-4357/ab6efe"
+  },
+  "pdf_path": "papers/ReaxFF_others/Anders_Bringa_Water_Ice_2020_ApJ_891_21.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020anders-the-astrophy-ejection-glycine_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020anders-the-astrophy-ejection-glycine.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

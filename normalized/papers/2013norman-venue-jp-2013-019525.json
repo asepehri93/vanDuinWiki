@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013norman-venue-jp-2013-019525",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Norman_Schwartzentruber_JPCC_2013_O_silica.pdf",
+    "sha256": "533cef9ff5b776cc14457c28772e637c99a954e7d1f1e8438fc4af435ac81ea8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp-2013-019525 1..11",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Norman_Schwartzentruber_JPCC_2013_O_silica.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013norman-venue-jp-2013-019525_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013norman-venue-jp-2013-019525.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

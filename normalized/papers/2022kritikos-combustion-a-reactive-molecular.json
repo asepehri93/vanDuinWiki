@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022kritikos-combustion-a-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/Kritikos_Efield_CombFlame_2022.pdf",
+    "sha256": "a7358f2aa22da93c28672520c33037a6fc3edebd20c587b95d306862f9955c12",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A reactive molecular dynamics study of the effects of an electric field on n-dodecane combustion",
+    "year": 2022,
+    "authors": "Efstratios Kritikos",
+    "venue": "Combustion and Flame, 244 (2022) 112238. doi:10.1016/j.combustflame.2022.112238"
+  },
+  "pdf_path": "papers/Kritikos_Efield_CombFlame_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022kritikos-combustion-a-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022kritikos-combustion-a-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

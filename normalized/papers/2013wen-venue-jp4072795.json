@@ -1,0 +1,40 @@
+{
+  "paper_id": "paper:2013wen-venue-jp4072795",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Wen_HMX_twin_JPC_C_2013.pdf",
+    "sha256": "cd46a1b4279ecfb54ee53649b23b77a25fdef2fc4b31e6f767bfead2a0769fbc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp4072795",
+    "title": "Twin induced sensitivity enhancement of HMX versus shock: A molecular reactive force field simulation",
+    "year": 2013,
+    "authors": [
+      "Yushi Wen",
+      "Xianggui Xue",
+      "Xiaoqing Zhou",
+      "Feng Guo",
+      "Xinping Long",
+      "Yang Zhou",
+      "Hongzhen Li",
+      "Chaoyang Zhang"
+    ],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/ReaxFF_others/Wen_HMX_twin_JPC_C_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013wen-venue-jp4072795_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "HMX", "twin", "multiscale shock technique", "hot spot"],
+  "claims": [
+    {
+      "text": "Twinned HMX shocks more readily than perfect HMX at 6–10 km/s in MSST/ReaxFF; twin plane hottest early after shock.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013wen-venue-jp4072795", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013wen-venue-jp4072795.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

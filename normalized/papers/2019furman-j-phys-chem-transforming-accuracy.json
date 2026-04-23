@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019furman-j-phys-chem-transforming-accuracy",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Furman_JPC_letters_2019.pdf",
+    "sha256": "de0399ceba82ec2f288f473dd4d0eeac51f10cfe7f22a592e23fbb16646e04a0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Transforming the Accuracy and Numerical Stability of ReaxFF Reactive Force Fields",
+    "year": 2019,
+    "authors": "David Furman; David J. Wales",
+    "venue": "J. Phys. Chem. Lett. 2019.10:7215-7223"
+  },
+  "pdf_path": "papers/ReaxFF_others/Furman_JPC_letters_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019furman-j-phys-chem-transforming-accuracy_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019furman-j-phys-chem-transforming-accuracy.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

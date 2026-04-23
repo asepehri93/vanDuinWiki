@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015botari-carbon-99-20-graphene-healing",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Botari_2016_Graphene_healing_mechanisms_Carbon.pdf",
+    "sha256": "eece4b9d9ef58001d8034e5966c7aa09c66827a6e0f197ce6160335ae6e1555b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Graphene healing mechanisms: A theoretical investigation",
+    "year": 2015,
+    "authors": "Tiago Botari",
+    "venue": "Carbon, 99 (2016) 302-309. doi:10.1016/j.carbon.2015.11.070"
+  },
+  "pdf_path": "papers/ReaxFF_others/Botari_2016_Graphene_healing_mechanisms_Carbon.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015botari-carbon-99-20-graphene-healing_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015botari-carbon-99-20-graphene-healing.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016correction-venue-ultrafine-jagged",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Pt_Nanowire_Goddard_Science2016.pdf",
+    "sha256": "6400c334800d813fe557dd91d14b17f0a9c8d14d2a9af1c4746ee5f1457e0ae0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1126/science.aaf9050",
+    "title": "Ultrafine jagged platinum nanowires enable ultrahigh mass activity for the oxygen reduction reaction",
+    "year": 2016,
+    "authors": "eXtyles PubMed Reference Correction",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Pt_Nanowire_Goddard_Science2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016correction-venue-ultrafine-jagged_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016correction-venue-ultrafine-jagged.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

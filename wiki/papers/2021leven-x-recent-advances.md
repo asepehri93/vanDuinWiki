@@ -3,7 +3,7 @@ id: paper:2021leven-x-recent-advances
 type: paper
 title: "Recent Advances for Improving the Accuracy, Transferability, and Efficiency of Reactive Force Fields (accepted proof PDF)"
 updated: "2026-04-20"
-confidence: med
+confidence: high
 canonical_tags:
   - domain:reaxff-lineage
   - domain:methods-software
@@ -11,6 +11,9 @@ canonical_tags:
   - method:ereaxff
   - task:review
 candidate_tags: []
+paper_keywords:
+  - keyword:review-or-perspective
+  - keyword:reaxff-parameterization
 source_refs: []
 doi: "10.1021/acs.jctc.1c00118"
 year: 2021
@@ -42,33 +45,45 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    Prose below summarizes the publication identified by `doi` and the **journal-layout** PDF on **`[[2021itai-leven-j-chem-theor-recent-advances]]`**.
 
 ## Summary
 
-**Corpus note:** this slug registers the **accepted proof PDF** (`papers/Leven_JCTC_2021_proof.pdf`). The **same JCTC Perspective** is summarized on **`[[2021itai-leven-j-chem-theor-recent-advances]]`** (`papers/Leven_JCTC_2021.pdf`). That review surveys improvements to **reactive force fields** with emphasis on **ReaxFF**: **charge-equilibration** reformulations to curb unphysical long-range charge transfer, **explicit-electron (eReaxFF)** directions, **energy-conservation** fixes, **hybrid reactive/nonreactive** embeddings for large systems and electrochemical-like setups, and **algorithmic acceleration** (extended Lagrangian charge dynamics, preconditioners, **LAMMPS** integration). It is a **citation-rich overview** rather than a single new benchmark study.
+This corpus slug records an **accepted proof** (`papers/Leven_JCTC_2021_proof.pdf`) for the same *J. Chem. Theory Comput.* Perspective that is fully curated on **`[[2021itai-leven-j-chem-theor-recent-advances]]`** using `papers/Leven_JCTC_2021.pdf`. The article surveys how practitioners improve **accuracy**, **transferability**, and **efficiency** for ReaxFF-class **reactive** **MD**, covering **charge** **models**, **eReaxFF**-related ideas, **energy** **conservation** in **coupled** **schemes**, **hybrid** partitions, and **throughput** (e.g. **LAMMPS**-oriented acceleration). The **scientific** text should match the **VOR** file on the non-proof slug; **page** and **figure** locators for external use should come from the **typeset** **article** or **`[[2021itai-leven-j-chem-theor-recent-advances]]`**, not this proof alone.
 
 ## Methods
 
-**Literature synthesis** with conceptual explanation of modeling families; not one experimental or simulation campaign—mirrors **`[[2021itai-leven-j-chem-theor-recent-advances]]`**.
+### 1 — MD application (atomistic dynamics)
+
+**N/A —** the Perspective is a **synthetic** **review**; for any concrete LAMMPS-style **timestep**, **ensemble**, and **system** **definition**, follow **primary** sources cited in the text and the narrative on **`[[2021itai-leven-j-chem-theor-recent-advances]]`**.
+
+### 2 — Force-field training
+
+**N/A** as a new **ReaxFF** **reoptimization** in this file; the manuscript **synthesizes** training **strategies** **from** **cited** **parametrization** **studies**—see the **VOR** page for the full **survey** **prose**.
+
+### 3 — Static QM / DFT
+
+**N/A** as a standalone DFT **campaign**; QM references **enter** **through** **cited** work.
+
+### 4 — Reviews, perspectives, or non-simulation studies
+
+**Proof vs VOR:** content parallels **`[[2021itai-leven-j-chem-theor-recent-advances]]`**; this **PDF** may differ in **pagination** and **line** **breaks**. **Corpus / KB honesty:** do not rely on this slug alone for **citation-ready** **page** numbers.
 
 ## Findings
 
-Frames weaknesses of classical **EEM/QEq** within **ReaxFF** and summarizes mitigations from collaborating groups; text should match the VOR aside from **pagination** and **layout**.
+Synthesis in the *JCTC* **Perspective** (same DOI on both proof and VOR files) is summarized on **`[[2021itai-leven-j-chem-theor-recent-advances]]`**: the authors connect **EEM/QEq** **limitations**, **eReaxFF** and **hybrid**-**embedding** **threads**, and **practical** **ReaxFF** **+** **LAMMPS** **workflows** for **charge**-**bottlenecked** **simulations**, always **via** **citations** to **application** and **parametrization** **primary** **literature**. This **proof**-PDF **page** is **suitable** for **in-repo** **bibliographic** **tracking** but **not** a **separate** **empirical** **result** **set**. **Comparisons** between **modeling** **choices** are **narrated** in the full **VOR** **text**; this stub **avoids** **retyping** those **subsections** so the **knowledge** **base** has **one** **canonical** **narrative** and **avoids** **duplicated** **errors** when the **galleys** differ only by **layout**. **Limitations (corpus / KB):** if **pagination** in the **proof** and **VOR** **diverge**, any **“p.** …” **locator** in **teaching** **materials** must be **reconciled** against the **journal** **PDF** on the **non**-**proof** **slug** or the **DOI** **HTML**; **uncertainty** on **line**-**level** **diffs** is an **inherent** **hazard** of **duplicate** **PDF** **stages** in the **corpus** **tree**.
 
 ## Limitations
 
-Use **`[[2021itai-leven-j-chem-theor-recent-advances]]`** or the **DOI** for authoritative **page numbers**.
+**Proof** **PDFs** are **not** a substitute for the **version-of-record** when **citing** **page** **/ figure**; **method** **citations** should use the **VOR** entry. Survey content **ages**; follow **post-2021** **MLIP** **and** **Reaxff** **literature** for **current** **defaults**.
 
 ## Relevance to group
 
-Reference copy of the **Head-Gordon / van Duin** perspective alongside the journal-formatted PDF.
+**Adri C. T. van Duin** coauthored the Head-Gordon-led overview—a **spine** document alongside **application** **papers** in the wiki.
 
 ## Citations and evidence anchors
 
-Primary entry: **`[[2021itai-leven-j-chem-theor-recent-advances]]`**. https://doi.org/10.1021/acs.jctc.1c00118
+**Primary entry:** [[2021itai-leven-j-chem-theor-recent-advances]]. https://doi.org/10.1021/acs.jctc.1c00118
 
 ## Related topics
 

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017cao-applied-ther-thermal-decomposition",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Cao 2017 Thermal decomposition of HFO-1234yf through ReaxFF molecular dy....pdf",
+    "sha256": "dbada2a1911b9c5e2036b955cd57f07aed275d1ffe15ef2c4efea9224eecee45",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Thermal decomposition of HFO-1234yf through ReaxFF molecular dynamics simulation",
+    "year": 2017,
+    "authors": "Yu Cao",
+    "venue": "Applied Thermal Engineering, 126 (2017) 330-338. doi:10.1016/j.applthermaleng.2017.07.104"
+  },
+  "pdf_path": "papers/ReaxFF_others/Cao 2017 Thermal decomposition of HFO-1234yf through ReaxFF molecular dy....pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017cao-applied-ther-thermal-decomposition_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017cao-applied-ther-thermal-decomposition.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017kumar-physical-che-dislocation-assisted",
+  "manifest": {
+    "source_path": "papers/Others/Kumar_BN_Tersoff_PCCP_2017.pdf",
+    "sha256": "842d68ef66d84460c17e0a8d66e29d3d06a3977678f1ceab52071128854a2cce",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/C7CP04455K",
+    "title": "Dislocation assisted crack healing in h-BN nanosheets",
+    "year": 2017,
+    "authors": ["Rajesh Kumar", "Avinash Parashar"],
+    "venue": "Phys. Chem. Chem. Phys."
+  },
+  "pdf_path": "papers/Others/Kumar_BN_Tersoff_PCCP_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017kumar-physical-che-dislocation-assisted_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017kumar-physical-che-dislocation-assisted.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

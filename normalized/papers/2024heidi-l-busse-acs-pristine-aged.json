@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024heidi-l-busse-acs-pristine-aged",
+  "manifest": {
+    "source_path": "papers/Others/busse-et-al-2024-pristine-and-aged-microplastics-can-nucleate-ice-through-immersion-freezing.pdf",
+    "sha256": "697f3efbff79158e38cf35847dd2a55fce9083e4731c8b578d2982d9e164e1e3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsestair.4c00146",
+    "title": "Pristine and Aged Microplastics Can Nucleate Ice through Immersion Freezing",
+    "year": 2024,
+    "authors": "Heidi L. Busse, Devaka Dharmapriya Ariyasena, Jessica Orris, and Miriam Arak Freedman",
+    "venue": "ACS EST Air 0.0"
+  },
+  "pdf_path": "papers/Others/busse-et-al-2024-pristine-and-aged-microplastics-can-nucleate-ice-through-immersion-freezing.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024heidi-l-busse-acs-pristine-aged_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024heidi-l-busse-acs-pristine-aged.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

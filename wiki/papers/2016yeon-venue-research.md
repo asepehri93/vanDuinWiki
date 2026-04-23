@@ -28,33 +28,38 @@ group_affiliation: true
 
 <!-- id:paper:2016yeon-venue-research -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-This corpus entry points to an alternate **PDF** (**proof**/**galley**) of the **Langmuir** article on **ReaxFF** simulations of **tribochemical wear** at **hydroxylated silica**/**oxidized silicon** sliding contacts with variable **interfacial water**. The scientific narrative matches the published study: **bridge-bond-mediated** material transfer without water, additional pathways with **submonolayer** water, and **suppressed transfer** when a **full water monolayer** blocks close approach. Use the **final version** for **pagination** and **editorial** polish.
+This wiki slug registers a **proof / galley** PDF (`papers/Yeon_Langmuir_2016_proof.pdf`) for the Langmuir article on **ReaxFF molecular dynamics of tribochemical wear** at hydroxylated silica and oxidized silicon sliding contacts with variable interfacial water coverage. **`docs/corpus/NON_PRIMARY_ARTICLE_PAPER_SLUGS.md`** lists several proof duplicates; here the **canonical version-of-record PDF** is curated as **`[[2016yeon-venue-la5b04062]]`** (`papers/Yeon_Langmuir_2016.pdf`), with an additional reduced-size variant **`[[2016yeon-venue-la5b04062-2]]`**. The scientific narrative is unchanged across these files: dry or water-lean contacts favor **Si–O–Si bridge-mediated** material transfer between surfaces, **submonolayer** water introduces additional reaction pathways, and a **full water monolayer** can suppress close contact and reduce transfer by separating surfaces. van Duin and Kim co-authorship places the work in the group’s tribochemistry line alongside allyl-alcohol polymerization studies. For MAS retrieval, treat this slug as **provenance metadata** tying a specific SHA-256 to a Langmuir DOI, while routing readers to the VOR page for copy-pasteable article text. Proof PDFs sometimes retain “For peer review only” banners or low-resolution figures even when the science matches the issue PDF.
 
 ## Methods
 
-- Same **ReaxFF MD** sliding setup as the **issue** article; **water coverage** as control variable.
+**Provenance.** `pdf_path` registers the **proof / Just Accepted layout** PDF (`papers/Yeon_Langmuir_2016_proof.pdf`). The **methods text** matches the **issue** article summarized on **`[[2016yeon-venue-la5b04062]]`**: **Engine / code:** **LAMMPS**; **ReaxFF** (**Fogarty Si/O/water**); **periodic** **3.19 × 3.19 × 7.0 nm\(^3\)** **slab-on-slab** **a-SiO\(_2\)** vs **oxidized Si(100)**; **ensemble:** **NVT**; **thermostat:** **Nose–Hoover**; **timestep:** **0.25 fs**; **normal load:** **1 GPa**; **shear:** **10 m/s** for **1 ns**; **interfacial water:** **0 / 20 / 50 / 100** molecules; **temperatures:** **300 / 500 / 700 K** variants.
+
+**2 — Force-field training.** **N/A —** literature parametrization.
+
+**3 — Static QM.** **N/A —** not used.
+
+**4 — Replica / enhanced sampling.** **N/A —** not used.
 
 ## Findings
 
-- **Water-dependent** **Si–O–Si** bridging and **atom transfer** trends as summarized in the **abstract** of the extract.
+**Outcomes / mechanisms.** **`[[2016yeon-venue-la5b04062]]`** reports that **dry** **ReaxFF-MD** sliding produces **dehydroxylation → Si–O–Si bridge** sequences with **substantial atom transfer**, whereas **~monolayer** water **passivates** **Si** with **hydroxyls** and **suppresses** those **bridges** (**abstract**).
 
+**Comparisons.** The **Introduction** links these atomistic trends to **AFM** wear vs **relative humidity**, including **non-monotonic** behavior when **multilayer water** keeps asperities apart.
+
+**Sensitivity / levers.** **Water molecule count** (**20 / 50 / 100**) and **temperature** (**300 / 500 / 700 K**) modulate whether **dissociative** pathways dominate and how much **transfer** occurs during the **1 GPa** load.
+
+**Limitations / outlook.** **Proof** PDFs can carry layout artifacts; quantitative **curves** should be taken from the **typeset** issue PDF or **SI** on the **VOR** slug.
+
+**Corpus honesty.** Cite **figures/tables** from **`[[2016yeon-venue-la5b04062]]`**; **pagination** in this **proof** file may differ.
 ## Limitations
 
-- **Proof** PDF may differ in **layout**/**metadata** from the **version of record**.
+Proof PDF not ideal for pagination citations; prefer **`[[2016yeon-venue-la5b04062]]`**. ReaxFF cannot capture electronic friction or quantum effects in tribology. For machine-assisted retrieval, prefer linking `paper_id` metadata to the VOR slug so chunk hashes align with the article text consumers actually read. Automated exporters should surface the DOI from the VOR page, not from proof footers. Supporting Information for tribochemistry figures, when present, follows the main article’s supplementary record.
 
 ## Relevance to group
 
-Duplicate ingest of **van Duin**/**Kim** tribochemistry work—track **manifest** hash for **provenance**.
+Duplicate ingest tracking for van Duin–Kim Langmuir tribochemistry; primary reader page is the VOR slug.
 
 ## Citations and evidence anchors
 
@@ -63,3 +68,4 @@ Duplicate ingest of **van Duin**/**Kim** tribochemistry work—track **manifest*
 ## Related topics
 
 - [[reaxff-family]]
+- [[2016yeon-venue-la5b04062]]

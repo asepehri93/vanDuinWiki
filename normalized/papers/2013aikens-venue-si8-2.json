@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013aikens-venue-si8-2",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bae_Aikens_AuSCH_supplement.pdf",
+    "sha256": "52aa531cacdb93375676d5f4394bd783772d4d12c7549f81c02dae303bb2d46b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "SI8",
+    "year": 2013,
+    "authors": "Christine Aikens",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Bae_Aikens_AuSCH_supplement.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013aikens-venue-si8-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1700
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013aikens-venue-si8-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

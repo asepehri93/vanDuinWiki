@@ -1,0 +1,17 @@
+20180000-0002-1722-5631-j-phys-chem-development-reaxff
+20180000-0002-1722-5631-x-development-reaxff
+20180000-0002-3621-2481-x-development-reaxff
+20180000-0002-4740-1296-x-accelerated-reaxff
+20180000-0002-4740-1296-x-accelerated-reaxff-2
+20180000-0002-5137-3961-x-complexity-intercalation
+20180000-0002-5255-7340-j-phys-chem-isotope-effects
+20180000-0002-5255-7340-x-isotope-effects
+20180000-0002-5309-0316-x-reaxff-molecular
+20180000-0002-5319-0990-x-defect-design
+2018abrahamson-carbon-135-2-carbon-structure
+2018aimd-venue-paper
+2018antony-langmuir-201-nanoscale-structure
+2018aral-physical-che-oxyhydroxide-metallic
+2018ashraf-fuel-235-201-pyrolysis-binary
+2018ashraf-venue-paper
+2018ashraf-venue-paper-2

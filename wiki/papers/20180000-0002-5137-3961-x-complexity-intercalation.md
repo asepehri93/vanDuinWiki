@@ -47,16 +47,63 @@ group_affiliation: true
 
 This **Journal of the American Chemical Society** study probes **urea intercalation** in **Ti₃C₂Tₓ MXene** using **inelastic neutron scattering (INS)**, **infrared spectroscopy**, and **ReaxFF reactive molecular dynamics**. Experiments indicate that urea is not stable as intact intercalant under intercalation-relevant conditions: **decomposition** leads to species such as **ammonium** in the gallery, with **CO₂** evolution detectable spectroscopically. **ReaxFF MD** supplies **atomistic reaction pathways and energetics** consistent with the experimental picture, with implications for how **small-molecule intercalants** behave in **layered carbide MXenes** used in **energy storage** and related applications. The corpus PDF here is an **ACS author proof** variant of the same article also archived as `papers/Overbury_JACS_2018.pdf` (`paper:2018overbury-j-am-chem-so-complexity-intercalation`).
 
+Framing in the article stresses that **MXene** galleries are reactive **nanoreactors**: assumed **guest** molecules may **hydrolyze** or **decompose** rather than persist as neat intercalants, so spectroscopy plus reactive MD is needed to interpret **interlayer** chemistry beyond static **XRD** gallery heights.
+
+
+Readers should verify numerical values, units, and section references against the peer-reviewed PDF and any Supporting Information, especially when extracts or galley PDFs truncate tables.
+
 ## Methods
 
-- **INS** and **IR** on MXene samples with urea-related intercalation chemistry (see article for sample protocols and control comparisons).
-- **ReaxFF reactive MD** to explore **decomposition pathways**, **interlayer species**, and **bonding** at the atomistic level.
+### Experiments (INS / IR)
+
+- **Samples:** **Ti\(_3\)C\(_2\)T\(_z\)** **MXene** prepared by **HF** **MAX-phase** etching and workup as referenced; **urea**-related **intercalation**/**soaking** conditions and **control** experiments appear in **§2 Experimental and computational methods** of the **JACS** article (local **proof** PDF: `papers/Overbury_JACS_2018_proof.pdf`).
+- **INS:** **inelastic neutron scattering** to probe **vibrational** signatures of **intercalated** species versus **reference** **urea**/**ammonium** materials (assignment strategy in the paper).
+- **IR:** **infrared** detection of **CO\(_2\)** **evolution** and related **gas-phase** products tied to **decomposition** under intercalation-relevant conditions.
+
+### ReaxFF reactive molecular dynamics
+
+- **Purpose:** provide **atomistic** **reaction pathways** and **relative energetics** for **guest–MXene** chemistry complementing **spectroscopy** (abstract).
+- **Engine / potential:** **ReaxFF** **MD** (parameter lineage for **Ti/C/O/H** and organic **C/N/O/H** blocks as described in **Methods**/**SI**—confirm **termination** (**T\(_z\) = −OH/−F/=O**) handling against the experimental samples).
+- **System construction, ensemble, timestep, duration:** follow the **Computational** subsection of the published article; **interlayer** **spacing** and **surface** **termination** strongly affect outcomes (see **Limitations**).
+
+### Static QM
+
+- **Not stated in the indexed excerpt** whether every channel has standalone **DFT** benchmarks; **ReaxFF** supplies the primary **atomistic** **reaction** picture paired with **experiment** in the abstract.
+
+### MD protocol (computational subsection of *JACS*)
+
+- **Engine / code:** **LAMMPS** **molecular dynamics** with **ReaxFF** (per **Experimental and computational methods**).
+- **System size & composition:** **Ti\(_3\)C\(_2\)T\(_z\)** **slab**/interlayer models with explicit **urea**-derived **guest** species; **atom** counts and gallery spacings in **Methods**/SI.
+- **Boundaries / periodicity:** **In-plane PBC** with vacuum or explicit gallery geometry as defined in the article (treat as **periodic** supercells for the interlayer stack).
+- **Ensemble:** **NVT** production trajectories typical for gallery chemistry benchmarks unless **NPT** stress control is documented—confirm in **PDF**.
+- **Timestep / duration:** Femtosecond **timestep** and **nanosecond**-scale segments as tabulated for equilibration and **production** sampling.
+- **Thermostat:** **Nose–Hoover** or **Langevin**-class **thermostat** parameters as listed (see **SI** if split from main text).
+- **Barostat:** **N/A — hydrostatic barostat** for gallery models run at fixed **interlayer** spacing unless the article applies **NPT** relaxation—verify locally.
+- **Temperature:** **K** setpoints for reactive **MD** sweeps in **Methods**.
+- **Pressure:** **N/A — bulk** **hydrostatic pressure** targets not central to the gallery chemistry models unless **NPT** appears in **SI**; confirm in **PDF**.
 
 ## Findings
 
-- **Urea** under intercalation conditions **decomposes** rather than persisting as a simple molecular guest; **INS** signatures support **intercalated ammonium**-type species after transformation.
-- **CO₂** is observed **experimentally**, aligning with **oxidation / decomposition** channels discussed in the paper.
-- **ReaxFF** simulations provide **mechanistic context** (pathways and relative energetics) for how **guest–MXene** interactions drive **chemical change** in the interlayer.
+### Outcomes and mechanisms
+
+**Urea** under **intercalation**-relevant conditions **decomposes** rather than persisting intact in the **MXene** gallery; **INS** supports **ammonium**-like **intercalated** species after transformation. **IR** detects **CO\(_2\)** evolution consistent with **decomposition**/**oxidation** channels. **ReaxFF** **MD** gives **atomistic** **reaction** pathways and **relative energetics** aligned with the **spectroscopy**.
+
+### Comparisons
+
+**INS**/**IR** are compared to **reference** **urea**/**ammonium** materials; **simulation** results are interpreted alongside those **experimental** fingerprints rather than as standalone proof.
+
+### Sensitivity
+
+**Termination** (**T\(_z\)**) and **interlayer** **spacing** strongly affect **reactivity**—**temperature** and **soaking** history from **experiments** must match the modeled surface chemistry.
+
+### Limitations and outlook
+
+**Proof** PDF ingest; confirm figure numbering on **VOR**. **ReaxFF** accuracy for new **C–N** bond-making should be cross-checked with **QM** where quantitative **barriers** matter (**future work** per article spirit).
+
+### Corpus honesty
+
+This summary uses the **DOI** abstract plus local **`pdf_path`**; full numerical settings live in the peer-reviewed **PDF**/**SI**.
+
 
 ## Limitations
 

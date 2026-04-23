@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023lin-x-paper",
+  "manifest": {
+    "source_path": "papers/Lin_Nadire_ACS_Nano_2D_synthesis_review_2023_proof.pdf",
+    "sha256": "4223e3ebe1d2b2117623534842d6a67cb645c3f1db734e53c22bc3d1d088f310",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": " ",
+    "year": 2023,
+    "authors": " ",
+    "venue": " "
+  },
+  "pdf_path": "papers/Lin_Nadire_ACS_Nano_2D_synthesis_review_2023_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023lin-x-paper_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4967
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023lin-x-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

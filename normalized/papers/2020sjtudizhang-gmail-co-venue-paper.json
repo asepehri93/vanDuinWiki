@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020sjtudizhang-gmail-co-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/DiZhang_JACS_2020_carbonfilm_growth_SI.pdf",
+    "sha256": "8bc3570f696f2c404be08caf2fde31e93f480c1ddce864eedcbcc6e424c778fb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2020,
+    "authors": "sjtudizhang@gmail.com",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/DiZhang_JACS_2020_carbonfilm_growth_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020sjtudizhang-gmail-co-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2204
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020sjtudizhang-gmail-co-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

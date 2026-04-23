@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016cui-physical-che-lithium-ion",
+  "manifest": {
+    "source_path": "papers/Others/Cui_Lansac_YunHee_PCCP_2016.pdf",
+    "sha256": "221b8a897417b6dc4f24600b2dcc0faa6a0288b80d1b75c233cb6afb7eb14405",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c6cp01667g",
+    "title": "Lithium ion solvation by ethylene carbonates in lithium-ion battery electrolytes, revisited by density functional theory with the hybrid solvation model and free energy correction in solution",
+    "year": 2016,
+    "authors": "Wei Cui",
+    "venue": "Physical Chemistry Chemical Physics (2016), 18, 23607-23612, doi:10.1039/C6CP01667G"
+  },
+  "pdf_path": "papers/Others/Cui_Lansac_YunHee_PCCP_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016cui-physical-che-lithium-ion_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016cui-physical-che-lithium-ion.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015joshi-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Joshi_RDX_PCCP_2015_JustAccepted.pdf",
+    "sha256": "457b81433f591af5dd05a2cdfdcb23ad057feceeee5c482dae10ce9ca7b1bc2e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/C5CP00950B",
+    "title": null,
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Joshi_RDX_PCCP_2015_JustAccepted.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015joshi-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3460
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015joshi-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

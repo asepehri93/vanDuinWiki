@@ -43,15 +43,31 @@ Part II of a two-part study uses ReaxFF reactive molecular dynamics trajectories
 
 ## Methods
 
-Reactive MD with a Si/C/H/O ReaxFF parameterization trained to quantum data (Part I referenced in the text). Rate-theory fits extend a Deal–Grove style picture of oxidizer transport through developing SiO₂ and interface reaction. Separate trajectory sets target EPDM combustion versus pyrolysis for Arrhenius extraction (abstract; Introduction; “Details of computational approach”, extract pages 1–2).
+**1 — MD application:** **Reactive molecular dynamics** uses a **Si/C/H/O** **ReaxFF** parameterization trained to **ab initio** data (**Part I** referenced in the text; **`papers/Newsome_JPCC_2013.pdf`**, **`normalized/extracts/2013newsome-venue-jp307680t_p1-2.txt`**). Trajectories underpin **rate models** for **SiC oxidation** by **O\(_2\)** and **H\(_2\)O** and for **EPDM combustion** vs **pyrolysis** via **Arrhenius** fits. **N/A —** full **LAMMPS** settings (**ensemble**, **timestep**, **thermostat/barostat**, **cell sizes**, **production durations**, **temperature grids**) are not reproduced from the short extract; read **“Details of computational approach”** in the **PDF** for the definitive protocol.
+
+**2 — Force-field training:** **N/A —** **Part I** carries the primary **parameterization/validation** narrative relative to this **Part II** rate-theory focus.
+
+**3 — Static QM / DFT-only:** **N/A —** central method is **ReaxFF MD** plus **phenomenological** **rate** fits (Deal–Grove–style **transport** picture referenced in the abstract/introduction).
+
+**Electric field / enhanced sampling:** **N/A —** not stated in the indexed opening for this **kinetics** extraction workflow.
+
+**System / boundaries / ensemble / pressure (ReaxFF production MD):** **N/A —** **`normalized/extracts/2013newsome-venue-jp307680t_p1-2.txt`** does not restate **slab**/**composite** **atom** counts, **3D periodic** boundary conditions, whether trajectories use **NVT** vs **NPT**, or any **GPa**/**bar** **pressure** targets—see **`papers/Newsome_JPCC_2013.pdf`** **Methods**.
 
 ## Findings
 
-O₂ oxidizes SiC more efficiently than H₂O in the simulations; transport activation barriers are reported roughly in the 40–70 kJ/mol range for O₂ and 125–150 kJ/mol for H₂O. Oxidizer attack produces a growing SiO₂-rich surface and carbon migration into a carbonaceous region. EPDM simulations yield activation barriers near 183 kJ/mol (combustion) and 213 kJ/mol (pyrolysis), bracketed against experimental polymer literature near ~100–250 kJ/mol (abstract).
+**Outcomes and mechanisms:** **O\(_2\)** oxidizes **SiC** more efficiently than **H\(_2\)O** in the simulations; **transport activation barriers** fall roughly in the **40–70 kJ/mol** range for **O\(_2\)** and **125–150 kJ/mol** for **H\(_2\)O**. **Oxidizer** attack builds a **SiO\(_2\)**-rich surface while **O** inserts between **Si–C** bonds and **C** migrates into a **carbonaceous** region (abstract).
+
+**Comparisons:** **EPDM** **combustion** and **pyrolysis** simulations yield activation barriers near **183 kJ/mol** and **213 kJ/mol**, respectively, compared to **experimental** polymer literature near **~100–250 kJ/mol** for both channels (abstract).
+
+**Sensitivity / design levers:** **Temperature** enters through **Arrhenius** extraction across the **MD** trajectory sets; full **temperature/pressure** matrices and **mixture** (**O\(_2\)**, **H\(_2\)O**, **mixtures**) handling appear later in the **PDF** than the indexed opening.
+
+**Limitations and outlook:** **Part II** depends on **Part I** **FF** validation and **trajectory** ensembles; **Arrhenius** extraction from finite **MD** windows can be **sensitive** to **model** and **sampling** choices (see discussion in the article).
+
+**Corpus honesty:** This summary is anchored to **`normalized/extracts/2013newsome-venue-jp307680t_p1-2.txt`** (early pages); quantitative **fits**, **uncertainties**, and **figure**-level mechanisms require the full **J. Phys. Chem. C** article (**DOI `10.1021/jp307680t`**).
 
 ## Limitations
 
-Part II depends on Part I force-field validation and trajectory ensembles; Arrhenius extraction from short MD windows can be sensitive to model and sampling. The extract covers early pages only; full temperature/pressure matrices and uncertainty quantification appear later in the PDF.
+Part II depends on Part I force-field validation and trajectory ensembles; Arrhenius extraction from short MD windows can be sensitive to model and sampling. The extract covers early pages only; full temperature/pressure matrices and uncertainty quantification appear later in the PDF. Repository automation maps this stable `paper_id` to `normalized/papers/2013newsome-venue-jp307680t.json` and the repo-relative `pdf_path`. Where `extraction_quality` is partial, the tracked PDF and DOI remain the quantitative authority over short local extracts.
 
 ## Relevance to group
 

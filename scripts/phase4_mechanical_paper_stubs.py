@@ -53,6 +53,9 @@ def render_md(slug: str, data: dict) -> str:
     man = data.get("manifest") or {}
     ext = data.get("extraction") or {}
     title = bib.get("title") or "Untitled"
+    if isinstance(title, str) and "---" in title:
+        # Triple hyphen breaks naive `---` frontmatter splits; use em dash
+        title = title.replace("---", "\u2014")
     year = bib.get("year") or 0
     doi = bib.get("doi") or ""
     venue = bib.get("venue") or ""

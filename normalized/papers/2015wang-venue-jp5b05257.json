@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015wang-venue-jp5b05257",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Wang_Manzano_JPCC_2015_CaSiO2.pdf",
+    "sha256": "46c6e1b02c387a2e412fa55d4be11ddd2a26d168468d053b937c3a703e16c1b6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp5b05257 1..7",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Wang_Manzano_JPCC_2015_CaSiO2.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015wang-venue-jp5b05257_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015wang-venue-jp5b05257.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

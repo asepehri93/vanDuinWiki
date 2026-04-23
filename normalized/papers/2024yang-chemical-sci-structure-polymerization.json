@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024yang-chemical-sci-structure-polymerization",
+  "manifest": {
+    "source_path": "papers/Others/Parinello_group_liquid_sulfur_ChemSci_2023.pdf",
+    "sha256": "6e0d76d8f0af9ef3d8e96d8141c4c0a6f38e284b0739a1a3d92dd42681de9f06",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Structure and polymerization of liquid sulfur across the λ-transition",
+    "year": 2024,
+    "authors": "Manyi Yang",
+    "venue": "Chemical Science (2024), 00, 1-11, doi:10.1039/D3SC06282A"
+  },
+  "pdf_path": "papers/Others/Parinello_group_liquid_sulfur_ChemSci_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024yang-chemical-sci-structure-polymerization_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024yang-chemical-sci-structure-polymerization.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

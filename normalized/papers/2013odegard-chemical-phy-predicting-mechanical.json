@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013odegard-chemical-phy-predicting-mechanical",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Odegard Jensen epoxy paper.pdf",
+    "sha256": "482745c20e057561b9bf4a1715368cf98efd596d228c6817777494c4097a1e91",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Predicting mechanical response of crosslinked epoxy using ReaxFF",
+    "year": 2013,
+    "authors": "Gregory M. Odegard",
+    "venue": "Chemical Physics Letters, 591 (2014) 175-178. doi:10.1016/j.cplett.2013.11.036"
+  },
+  "pdf_path": "papers/ReaxFF_others/Odegard Jensen epoxy paper.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013odegard-chemical-phy-predicting-mechanical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013odegard-chemical-phy-predicting-mechanical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

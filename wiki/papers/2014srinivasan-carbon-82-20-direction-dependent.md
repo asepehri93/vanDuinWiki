@@ -37,17 +37,19 @@ group_affiliation: true
 
 ## Summary
 
-Srinivasan and van Duin report **ReaxFF reactive MD** of **hyperthermal atomic oxygen** impacts on **low-index diamond** surfaces, motivated by **low Earth orbit (LEO)**-relevant collision energies (~**5 eV**) and high O fluxes. Small oxygen-terminated slabs are used to rationalize **oxygenated functional groups** (ethers, peroxides, radicals, dioxetanes) consistent with prior experiment and higher-level modeling. Larger reconstructed surfaces show **anisotropic etching rates** among **(100), (111), and (110)** with **(110)** fastest and **(100)** slowest in the abstract’s summary, with **erosion yields** claimed to match experimental trends; an **Arrhenius-type** rate law for mass loss is extracted from the simulation campaign. The work argues **diamond films** are promising for **spacecraft** surfaces exposed to LEO atomic oxygen and positions **ReaxFF** as a screening tool for extreme oxygen environments.
+Srinivasan and van Duin report **ReaxFF reactive MD** of **hyperthermal atomic oxygen** impacts on **low-index diamond** surfaces, motivated by **low Earth orbit (LEO)**-relevant collision energies (~**5 eV**) and high **O** fluxes (introduction cites representative densities and fluxes). Small **O**-terminated slabs rationalize **oxygenated functional groups** (ethers, peroxides, radicals, dioxetanes) consistent with prior experiment and higher-level modeling. Larger reconstructed surfaces show **anisotropic etching** among **(100), (111), and (110)** with **(110)** fastest and **(100)** slowest in the abstract’s summary, with **erosion yields** described as consistent with experimental trends; an **Arrhenius-type** rate law for **mass loss** is extracted from the simulation campaign. The authors argue **diamond thin films** are promising **spacecraft** surface candidates under LEO-style exposure and position **ReaxFF** as a screening tool for such extreme environments. Definitive numerical diagnostics are in **papers/Srinivasan_Carbon_2014.pdf** and any **SI**.
 
 ## Methods
 
-- **ReaxFF MD** with successive **atomic oxygen** impacts on diamond slabs/surfaces at hyperthermal energies.
-- Comparison to experimental LEO-analogue beam studies cited in the introduction.
+**Force-field training.** **N/A** for a new fit in the indexed abstract/introduction: the **Carbon** article applies an established **ReaxFF** parametrization for **C/O** chemistry suited to **hyperthermal O + diamond** in an **LEO**-motivated setting.
+
+**MD application (hyperthermal O + diamond).** **ReaxFF**-based **reactive molecular dynamics** (implementation details such as **MD** code build and **QEq** update choices in **`papers/Srinivasan_Carbon_2014.pdf`**, **N/A** on this page’s short extract) addresses two protocol classes from the abstract: (i) **small oxygen-terminated diamond slabs** to survey **ethers**, **peroxides**, **oxy radicals**, and **dioxetanes** in qualitative agreement with prior **experiment** and **first-principles** work; (ii) **larger reconstructed** diamond surfaces under **successive** hyperthermal **O** impacts to compare **(100)**, **(111)**, and **(110)** etching. The introduction cites **O(\(^3P\))** number density, **atomic oxygen** fluxes, and an average **collision energy near ~5 eV** as **LEO**-relevant context. **Periodic** (**PBC**) supercells, substrate **temperature**, impact schedule, timestep, **equilibration**/**production** **durations** (**ps**/**ns**), **NVT**/**NVE**/**NPT** staging, thermostat, and **barostat**/**pressure** control (if any) are **N/A** on the **p1–2** extract and must be taken from the full PDF/SI.
+
+**Static QM.** **N/A** as headline production method: **DFT** appears as literature context for oxygenated surface groups; reported chemistry is **ReaxFF MD**.
 
 ## Findings
 
-- **Surface orientation** strongly modulates erosion efficiency under the simulated hyperthermal O conditions.
-- Functionalization chemistry is consistent with a zoo of **C–O** moieties discussed in the LEO/diamond oxidation literature surveyed in the extract.
+On **small O-terminated slabs**, trajectories populate **C–O** motifs—including **ethers**, **peroxides**, **radicals**, and **dioxetanes**—in qualitative agreement with earlier **experiment** and **first-principles** work (abstract). On **larger reconstructed** surfaces under **successive O** impacts, **(110)** etches fastest and **(100)** slowest among **(100)/(111)/(110)**, with **erosion yields** described as in **good agreement** with **experiment** (abstract). The authors also extract an **Arrhenius-type** law for **mass loss** from the simulation campaign (abstract) and argue **diamond thin films** are promising **spacecraft** surface candidates under **LEO**-like exposure, positioning **ReaxFF** as a **screening** tool for such environments (abstract).
 
 ## Limitations
 

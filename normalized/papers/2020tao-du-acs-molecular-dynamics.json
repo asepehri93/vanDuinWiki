@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020tao-du-acs-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/du-et-al-2020-molecular-dynamics-simulation-of-the-precipitation-of-calcium-silicate-hydrate-nanostructures-under-two-1.pdf",
+    "sha256": "fdb50fb6cb7969415c5c0aa6d97994e015e218c96c9ab0d9bafeb65bfe7e39cb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular Dynamics Simulation of the Precipitation of Calcium Silicate Hydrate Nanostructures under Two-Dimensional Confinement by TiO2: Implications for Advanced Concretes",
+    "year": 2020,
+    "authors": "Tao Du, Hui Li, and Mathieu Bauchy",
+    "venue": "ACS Appl. Nano Mater. 2020.3:2176-2184"
+  },
+  "pdf_path": "papers/ReaxFF_others/du-et-al-2020-molecular-dynamics-simulation-of-the-precipitation-of-calcium-silicate-hydrate-nanostructures-under-two-1.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020tao-du-acs-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020tao-du-acs-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

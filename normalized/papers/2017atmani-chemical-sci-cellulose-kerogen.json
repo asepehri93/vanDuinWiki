@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017atmani-chemical-sci-cellulose-kerogen",
+  "manifest": {
+    "source_path": "papers/Atmani_ChemicalScience_2017.pdf",
+    "sha256": "b034946d80f9d8ded4511e1b824e7ea0f9fdff603a6abd9124f614ed8e2f2c2a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "From cellulose to kerogen: molecular simulation of a geological process",
+    "year": 2017,
+    "authors": "Lea Atmani",
+    "venue": "Chemical Science (2017), 00, 1-11, doi:10.1039/C7SC03466K"
+  },
+  "pdf_path": "papers/Atmani_ChemicalScience_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017atmani-chemical-sci-cellulose-kerogen_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017atmani-chemical-sci-cellulose-kerogen.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

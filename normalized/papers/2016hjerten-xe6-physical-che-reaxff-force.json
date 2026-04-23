@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016hjerten-xe6-physical-che-reaxff-force",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hjertenaes_PCCP_2016_Na_graphite.pdf",
+    "sha256": "1d2ac2027652c6f34110300d187b2659257e733ba224b001262983652b57d160",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A ReaxFF force field for sodium intrusion in graphitic cathodes",
+    "year": 2016,
+    "authors": "Eirik Hjerten&#xe6;s",
+    "venue": "Physical Chemistry Chemical Physics (2016), 18, 31431-31440, doi:10.1039/C6CP06774C"
+  },
+  "pdf_path": "papers/ReaxFF_others/Hjertenaes_PCCP_2016_Na_graphite.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016hjerten-xe6-physical-che-reaxff-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016hjerten-xe6-physical-che-reaxff-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

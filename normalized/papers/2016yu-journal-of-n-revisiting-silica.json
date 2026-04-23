@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016yu-journal-of-n-revisiting-silica",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/reaxff_bauchy.pdf",
+    "sha256": "6c6958008e5744fa7819f8060a6eef3ce5b0549e105deb216658d1bfb091fbf0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Revisiting silica with ReaxFF: Towards improved predictions of glass structure and properties via reactive molecular dynamics",
+    "year": 2016,
+    "authors": "Yingtian Yu",
+    "venue": "Journal of Non-Crystalline Solids, 443 (2016) 148-154. doi:10.1016/j.jnoncrysol.2016.03.026"
+  },
+  "pdf_path": "papers/ReaxFF_others/reaxff_bauchy.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016yu-journal-of-n-revisiting-silica_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016yu-journal-of-n-revisiting-silica.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

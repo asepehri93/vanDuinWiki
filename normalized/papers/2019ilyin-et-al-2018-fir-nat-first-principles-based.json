@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019ilyin-et-al-2018-fir-nat-first-principles-based",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/ilyin-et-al-2018-first-principles-based-reaction-kinetics-from-reactive-molecular-dynamics-simulations-application-to.pdf",
+    "sha256": "0acdd14985c572db0097fde57f022b276d344b5f3252ab8159b6a8826c4787b0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "First-principles–based reaction kinetics from reactive molecular dynamics simulations: Application to hydrogen peroxide decomposition",
+    "year": 2019,
+    "authors": null,
+    "venue": "Proc. Natl. Acad. Sci. U.S.A. 2019.116:18202-18208"
+  },
+  "pdf_path": "papers/ReaxFF_others/ilyin-et-al-2018-first-principles-based-reaction-kinetics-from-reactive-molecular-dynamics-simulations-application-to.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019ilyin-et-al-2018-fir-nat-first-principles-based_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019ilyin-et-al-2018-fir-nat-first-principles-based.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

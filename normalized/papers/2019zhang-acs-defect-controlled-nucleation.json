@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhang-acs-defect-controlled-nucleation",
+  "manifest": {
+    "source_path": "papers/Others/Zhang_Zhang_Wang_BN_WSe2_acsnano_2019.pdf",
+    "sha256": "1601271aa4eb87997dd241d33e207858d8e701f1f6d0266e49aefe36dbc39cff",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.8b09230",
+    "title": "Defect-Controlled Nucleation and Orientation of WSe2 on hBN: A Route to Single-Crystal Epitaxial Monolayers",
+    "year": 2019,
+    "authors": "Xiaotian Zhang; Fu Zhang; Yuanxi Wang; Daniel S. Schulman; Tianyi Zhang; Anushka Bansal; Nasim Alem; Saptarshi Das; Vincent H. Crespi; Mauricio Terrones; Joan M. Redwing",
+    "venue": "ACS Nano 2019.13:3341-3352"
+  },
+  "pdf_path": "papers/Others/Zhang_Zhang_Wang_BN_WSe2_acsnano_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhang-acs-defect-controlled-nucleation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7838
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhang-acs-defect-controlled-nucleation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

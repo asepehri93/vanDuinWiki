@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014meam-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Others/MEAM_hydrocarbons_PCCP_2014.pdf",
+    "sha256": "9921b8bbfe16b04ea018ce3d7d1673bf00d5a64b1c741629eb929feb3f56fb50",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "RSC_CP_C4CP00027G 3..19",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/MEAM_hydrocarbons_PCCP_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014meam-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014meam-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021aya-k-buckley-acs-approaching-selectivity",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Buckley_Goddard_ACS_Catalysis_Ag_CO2_2021.pdf",
+    "sha256": "9a7d8aaf0d3b7588743d0f6ef1a564dd433a6a2cd0963fafbda14ed03cfe3860",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Approaching 100% Selectivity at Low Potential on Ag for Electrochemical CO2 Reduction to CO Using a Surface Additive",
+    "year": 2021,
+    "authors": "Aya K. Buckley, Tao Cheng, Myoung Hwan Oh, Gregory M. Su, Jennifer Garrison, Sean W. Utan, Chenhui Zhu, F. Dean Toste, William A. Goddard, and Francesca M. Toma",
+    "venue": "ACS Catal. 2021.11:9034-9042"
+  },
+  "pdf_path": "papers/ReaxFF_others/Buckley_Goddard_ACS_Catalysis_Ag_CO2_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021aya-k-buckley-acs-approaching-selectivity_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7468
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021aya-k-buckley-acs-approaching-selectivity.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

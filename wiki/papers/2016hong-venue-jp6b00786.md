@@ -26,16 +26,7 @@ pdf_path: "papers/Hong_AlCOx_JPCC_2016.pdf"
 extraction_quality: "good"
 group_affiliation: true
 ---
-
 <!-- id:paper:2016hong-venue-jp6b00786 -->
-
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
 
 ## Summary
 
@@ -43,35 +34,26 @@ An **Al/C ReaxFF** is developed against **QM training sets** and exercised in **
 
 ## Methods
 
-- **ReaxFF parameter optimization** for **Al–C–O–H** chemistry with **QM validation** data described in the paper.
-- **Reactive MD** trajectories for **deposition** sequences followed by **oxidation** stages.
+This slug points at **`papers/Hong_AlCOx_JPCC_2016.pdf`**; narrative and locator notes for the same **DOI** also appear on [[2016hong-venue-research]] (**ACS proof** bytes). The protocol text below matches that article.
 
-<!-- enrich-from-extract:v2 -->
+**Force-field training (ReaxFF for Al/C/H/O):** **QM training (periodic):** **VASP** **GGA-PBE** with **PAW**, **400 eV** cutoff; **Al(111)** slabs (**6 layers**, lower layers fixed) for hydrocarbon adsorption/decomposition; **k-meshes** including **8×8×8** (bulk **Al\(_4\)C\(_3\)**) and **5×5×1** (slab adsorbates); **NEB** (**L-BFGS**, **3 images**) for barriers. **QM clusters:** **Jaguar** **B3LYP/6-311G** for nonperiodic **Al/C/H/O** geometries; bond/angle scans for **Al–C** dissociation and distortion. **ReaxFF optimization:** sequential refinement of **Al–C**, **Al/H**, and angle/off-diagonal terms to QM targets; **ReaxFF-NEB** cross-checks vs **DFT-NEB** on selected pathways.
 
-- We developed a ReaxFF reactive force ﬁeld for Al/C interactions to investigate carbon coating and its e ﬀect on the oxidation of aluminum nanoparticles (ANPs).
-- The ReaxFF parameters were optimized against quantum mechan- ics-based (QM-based) training sets and validated with additional QM data and data from experimental literature.
-- ReaxFF-molecular dynamics (MD) simulations were per- formed to determine whether this force ﬁeld description was suitable to model the surface deposition and oxidation on complex materials (i.e., carbon-coated ANPs).
-- The results of the MD simulations indicate that a carbon coating layer was formed on the surface of the bare ANPs, while H atoms were transferred from the hydrocarbons to the available Al binding sites typically without breaking C −C bonds.
-- Moreover, the MD simulations of the oxidation of the carbon-coated ANPs indicate that the carbon-coated ANPs were less reactive at low temperatures, but they became very susceptible to oxidation when the coating layer was removed at elevated at elevated temperatures.
-- These results are consistent with the experimental literature, and thus, the ReaxFF description that was developed in this study enables us to gain atomistic-scale insights into the role of the carbon coating in the oxidation of ANPs.
+**MD application (coatings and oxidation):** **Engine:** **ADF** for **ReaxFF molecular dynamics** (same protocol as [[2016hong-venue-research]]). **Ensemble / controls:** **NVT** with **Berendsen** thermostat (**100 fs** damping); **timestep 0.1 fs** (authors cite high **T** up to **~3000 K**). **Coating cycles:** **864-atom** Al nanoparticle in **45×45×45 Å³** with **350** gas molecules per cycle; **ANP at 300 K**, hydrocarbon gas **2500 K for 15 ps**, then cool to **300 K in 8.5 ps**; repeated; **ethylene**, **ethane**, **acetylene** compared. **Oxidation:** coated ANP with **600 O\(_2\)** in **60×60×60 Å³**; **300 K vs 3000 K** runs to **150 ps** with elevated **O\(_2\)** density **~0.15 g/cm³** to accelerate chemistry in short windows. **Barostat / hydrostatic pressure control:** **N/A — NVT oxidation and coating stages** in the summarized protocol. **Electric field / enhanced sampling:** **N/A — not used** in the summarized protocol.
 
+**Static QM / DFT:** covered under the **VASP/Jaguar** training blocks above (not a separate post-hoc DFT results section for the oxidation trajectories).
 
 ## Findings
 
-- **Carbonaceous coatings** form on **bare ANPs** with **H migration** to undercoordinated **Al** without necessarily fragmenting all **C–C** frameworks (per abstract-level summary).
-- **Oxidation resistance** is **temperature-dependent**: coatings can **passivate** at low \(T\) yet fail dramatically when **removed/heated**.
-- **Qualitative agreement** with selected **experimental oxidation** observations is claimed for the modeled scenarios.
-
-### Additional results (article abstract)
-
-- Our results show that the ReaxFF description correctly reproduced the Al/ C interaction energies obtained from the QM calculations and qualitatively captured the processes of the hydrocarbons ’ binding and their subsequent reactions on the bare ANPs.
-- The growth of the carbon layer depended strongly on the hydrocarbon precursors that were used.
-
+- **ReaxFF** reproduces **Al/C interaction energies** from **QM** for the training comparisons presented, and **qualitatively** captures **hydrocarbon binding** and **surface reaction** sequences on **bare ANPs** (**abstract**).
+- **Carbon layer growth** depends strongly on which **hydrocarbon precursors** are used (**abstract**).
+- **Coatings** form with **H** migration to **Al** sites while often **preserving C–C** connectivity during deposition stages in the summarized trajectories (**abstract**).
+- **Carbon-coated ANPs** are **less reactive** at **low temperature** but become **highly susceptible** to **oxidation** when the **coating** is **removed** or disrupted at **elevated temperature**—trends described as **consistent with experimental literature** in the abstract.
 
 ## Limitations
 
 - **Combustion-relevant** conditions span **pressure, size polydispersity, and oxide polymorphism** beyond any single MD study.
 - **ReaxFF** cannot capture **electronically excited** or **plasma-driven** chemistry without additional extensions.
+- If **`Hong_AlCOx_JPCC_2016.pdf`** pagination differs from the ACS proof on [[2016hong-venue-research]], prefer the **journal version-of-record** for locators.
 
 ## Relevance to group
 
@@ -83,4 +65,5 @@ Core **Hong + van Duin** line on **energetic Al nanoparticles** and **passivatio
 
 ## Related topics
 
+- [[2016hong-venue-research]]
 - [[reaxff-family]]

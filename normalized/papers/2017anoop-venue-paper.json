@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017anoop-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Anoop_Bauchy_Amorphous-Glassy-Transition2017.pdf",
+    "sha256": "41cdeb1003652383b30855d25f9420d65f9e59e6c161e5b626cb792592b08418",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevMaterials.1.053405",
+    "title": null,
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Anoop_Bauchy_Amorphous-Glassy-Transition2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017anoop-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017anoop-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

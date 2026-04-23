@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Others/QAPS_OH_JMS-2013.pdf",
     "sha256": "ab24968fe6d08ad62c2b817f9ea91103abfd671167c21cded18f08c9ea22833a",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013qaps-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 5348
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013qaps-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

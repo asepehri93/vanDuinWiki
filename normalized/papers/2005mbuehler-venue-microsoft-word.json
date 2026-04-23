@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2005mbuehler-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Buehler_Pt_H2O_MRS_Proceedings_2005.pdf",
+    "sha256": "79b8675a6e7b1c8eafa48b14f0d9bb209bebb169fbbefebd4724b447e62b18c6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - paper-5-pr.doc",
+    "year": 2005,
+    "authors": "mbuehler",
+    "venue": null
+  },
+  "pdf_path": "papers/Buehler_Pt_H2O_MRS_Proceedings_2005.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2005mbuehler-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4576
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2005mbuehler-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

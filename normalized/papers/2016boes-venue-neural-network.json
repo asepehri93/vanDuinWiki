@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016boes-venue-neural-network",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Boes_et_al-2016-International_Journal_of_Quantum_Chemistry.pdf",
+    "sha256": "ce4ed3bf9519d7e4ee481300438169b498309678456d437c92e50d46f0dd2e27",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/qua.25115",
+    "title": "Neural Network and ReaxFF Comparison for Au Properties",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Boes_et_al-2016-International_Journal_of_Quantum_Chemistry.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016boes-venue-neural-network_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016boes-venue-neural-network.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

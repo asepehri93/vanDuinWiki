@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024yalcin-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Yalcin_Wang_Nayir_Law_SnSe_MgO_JPC_C_2024_galley.pdf",
+    "sha256": "1adcef0a521295dd56cb118a3b622ab3db4e30b3e63f1bb574bd8e1a8505ea76",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.4c03096",
+    "title": "manuscript 1..11",
+    "year": 2024,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Yalcin_Wang_Nayir_Law_SnSe_MgO_JPC_C_2024_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024yalcin-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024yalcin-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

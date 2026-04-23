@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015accommodation-venue-paper",
+  "manifest": {
+    "source_path": "papers/Accommodation_paper_Dec15submitB.pdf",
+    "sha256": "56c1626d29e98a72053f4047e4ac651f59a70a3b5f19cc6a4b1eaec2a7c04e7d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Accommodation_paper_Dec15submitB.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015accommodation-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3537
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015accommodation-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

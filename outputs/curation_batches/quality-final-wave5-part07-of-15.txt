@@ -1,0 +1,17 @@
+2023afroz-j-of-applied-reaxff-reactive
+2023ahmad-nat-aqueous-phase
+2023barsukov-venue-paper
+2023bertolini-j-phys-chem-unraveling-molecular
+2023chaney-chem-mater-2-reaxff-simulation
+2023chen-nat-reaxff-molecular
+2023chin-venue-paper
+2023dhakane-carbon-trend-graph-dynamical
+2023dhakane-venue-paper
+2023dong-nat-depolymerization-plastics
+2023dong-nat-depolymerization-plastics-2
+2023ebadi-physics-lett-investigation-lattice
+2023fiesinger-chemsuschem-development-mg
+2023fortunato-venue-paper
+2023fortunato-x-choice-electrolyte
+2023gaikwad-journal-of-t-modeling-dynamic
+2023gaikwad-npj-computat-enhancing-faradaic

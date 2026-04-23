@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Others/PhysRevB.84.075460.pdf",
     "sha256": "c249f461a3e1484ee4c9756c350c34131b67f28864c0f6af8ddaf920f7a0c8af",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1103/PhysRevB.84.075460",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2011physrevb-84-075460-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2011physrevb-84-075460-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

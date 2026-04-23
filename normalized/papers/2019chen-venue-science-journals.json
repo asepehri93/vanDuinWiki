@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019chen-venue-science-journals",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Chen_Martini_Kim_Science_Advances_2019.pdf",
+    "sha256": "42b173d73e7a606f6c95cdb7a307c8c3f723c4a6eb9dc35916023af96538aa29",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Science Journals — AAAS",
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Chen_Martini_Kim_Science_Advances_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019chen-venue-science-journals_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019chen-venue-science-journals.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

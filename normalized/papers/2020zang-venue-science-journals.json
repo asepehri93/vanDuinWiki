@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020zang-venue-science-journals",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zang_heavy_carbons_SciAdv_2020.pdf",
+    "sha256": "1ef102de5afb3e9abac5a8c48fed8139041f74365e8c05217d94671e42c4a4f9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Science Journals — AAAS",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Zang_heavy_carbons_SciAdv_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020zang-venue-science-journals_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020zang-venue-science-journals.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

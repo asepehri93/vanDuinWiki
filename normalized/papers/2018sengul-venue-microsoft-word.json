@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018sengul-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Sengul_ZnO_AceticAcid_ACS_AMI_2018_SI.pdf",
+    "sha256": "d0da527bf7ad529bddf4c2f18645416f7b4cd3178da3a3cd16baee927e8d2482",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - 2895744_File000002_52451965.docx",
+    "year": 2018,
+    "authors": " ",
+    "venue": null
+  },
+  "pdf_path": "papers/Sengul_ZnO_AceticAcid_ACS_AMI_2018_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018sengul-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1025
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018sengul-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

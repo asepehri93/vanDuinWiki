@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020sheth-journal-of-n-influence-acid",
+  "manifest": {
+    "source_path": "papers/Sheth_JNonCrystSol_2020_Acid_Leaching.pdf",
+    "sha256": "ef78d15be361766cc257cf719b39cb78afc063ca3e3c38f3090d4b3d761cdfec",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Influence of acid leaching surface treatment on indentation cracking of soda lime silicate glass",
+    "year": 2020,
+    "authors": "Nisha Sheth",
+    "venue": "Journal of Non-Crystalline Solids, 543 (2020) 120144. doi:10.1016/j.jnoncrysol.2020.120144"
+  },
+  "pdf_path": "papers/Sheth_JNonCrystSol_2020_Acid_Leaching.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020sheth-journal-of-n-influence-acid_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020sheth-journal-of-n-influence-acid.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

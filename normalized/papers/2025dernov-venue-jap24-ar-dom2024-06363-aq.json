@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025dernov-venue-jap24-ar-dom2024-06363-aq",
+  "manifest": {
+    "source_path": "papers/Dernov_Kowalik_amorphous_carbon_JAP2025_galley.pdf",
+    "sha256": "5294642426f08dd40ce43416a34fb1b8cd0698286751533ba256241a8d6d67a4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0246126",
+    "title": "JAP24-AR-DOM2024-06363_AQ 1..1",
+    "year": 2025,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Dernov_Kowalik_amorphous_carbon_JAP2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025dernov-venue-jap24-ar-dom2024-06363-aq_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7155
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025dernov-venue-jap24-ar-dom2024-06363-aq.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

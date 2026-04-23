@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011harikumar-nat-directed-long-range",
+  "manifest": {
+    "source_path": "papers/Others/Si_halogen_hydrocarbons_NCHEM-3-400-2011.pdf",
+    "sha256": "1fce3b75b9960fa597fdb34ab0ed003f209363d59f52d3432053b8d8523e3fea",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Directed long-range molecular migration energized by surface reaction",
+    "year": 2011,
+    "authors": "K. R. Harikumar",
+    "venue": "Nature Chemistry 3, 400 (2011). doi:10.1038/nchem.1029"
+  },
+  "pdf_path": "papers/Others/Si_halogen_hydrocarbons_NCHEM-3-400-2011.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011harikumar-nat-directed-long-range_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011harikumar-nat-directed-long-range.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015leonhard-venue-ct5b00201",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Leonhard_ReaxFF_analysis_JCTC_2015.pdf",
+    "sha256": "f50ded287ec9fbb7d3fc6393016506e705b0143b733dc52c87d09c3472d3188a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ct5b00201 1..8",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Leonhard_ReaxFF_analysis_JCTC_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015leonhard-venue-ct5b00201_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015leonhard-venue-ct5b00201.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

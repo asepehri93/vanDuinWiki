@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20210000-0002-3621-2481-x-reaxff-force-2",
+  "manifest": {
+    "source_path": "papers/Nayir_WS2_Sapphire_JPCC_2021_galley_Mert.pdf",
+    "sha256": "4e6274617327dc14fcb863a380d553e0a7e4aeafdeb582273d01b532a944230e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.1c03605",
+    "title": "A ReaxFF Force Field for 2D-WS2 and Its Interaction with Sapphire",
+    "year": 2021,
+    "authors": "Nadire Nayir (ORCID: 0000-0002-3621-2481)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Nayir_WS2_Sapphire_JPCC_2021_galley_Mert.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20210000-0002-3621-2481-x-reaxff-force-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20210000-0002-3621-2481-x-reaxff-force-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

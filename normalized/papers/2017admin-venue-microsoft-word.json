@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017admin-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Kang_Seop_Yun_SiC_EC_JPC_Lett_2017_SI.pdf",
+    "sha256": "8f216c35e5b0d811c1d6c90f82af98a5e4e29fd818394b623ae7dfa199d449df",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - SEI_ReaxFF_2nd_revisedSI_final",
+    "year": 2017,
+    "authors": "ADmin",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Kang_Seop_Yun_SiC_EC_JPC_Lett_2017_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017admin-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2713
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017admin-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

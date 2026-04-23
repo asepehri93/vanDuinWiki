@@ -1,0 +1,17 @@
+2020briggs-nat-atomically-thin
+2020briggs-nat-atomically-thin-2
+2020c-ulises-gonzalez-va-j-phys-chem-investigation-atomistic
+2020chen-journal-of-a-characterisation-pyrolysis
+2020cho-iscience-23-nonflammable-lithium
+2020clement-dulong-j-chem-theor-optimization-new
+2020damirchi-j-phys-chem-reaxff-reactive
+2020danielle-reifsnyder-2d-materials-formation-metal
+2020dasgupta-j-chem-phys-reaxff-molecular
+2020dasgupta-j-phys-chem-simulations-biodegradation
+2020dasgupta-venue-total-number
+2020deng-venue-structural-features
+2020di-zhang-j-am-chem-so-ja9b12845
+2020dulong-venue-paper
+2020evangelisti-j-chem-phys-development-initial
+2020evangelisti-venue-total-number
+2020gao-energy-envir-tracking-ion

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017reddivari-venue-fep-17032-rs",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Reddivari_MnOx_ReaxFF_EC_front_energy_2017_v11_p365.pdf",
+    "sha256": "00b5249d803e876da38c8357a853d32c0d58721a0ba3aca2eac38616d37559ee",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1007/s11708-017-0500-8",
+    "title": "FEP-17032-RS 365..373",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Reddivari_MnOx_ReaxFF_EC_front_energy_2017_v11_p365.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017reddivari-venue-fep-17032-rs_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017reddivari-venue-fep-17032-rs.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

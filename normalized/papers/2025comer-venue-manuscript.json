@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025comer-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Comer_Liu_Boron_JPC_2025_galley.pdf",
+    "sha256": "f780f5d63fdf43301adba475d4494b798e4e2573578d743cf76e86544a513708",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.5c04822",
+    "title": "manuscript 1..15",
+    "year": 2025,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Comer_Liu_Boron_JPC_2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025comer-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025comer-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

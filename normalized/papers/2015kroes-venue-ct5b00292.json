@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015kroes-venue-ct5b00292",
+  "manifest": {
+    "source_path": "papers/Kroes_CNT_vacancy_JCTC_2015.pdf",
+    "sha256": "24b07ed2ef97f5ddd1a8f01c450c672fd681b6ec7c32c55aee1892e60f987059",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ct5b00292 1..8",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Kroes_CNT_vacancy_JCTC_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015kroes-venue-ct5b00292_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015kroes-venue-ct5b00292.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

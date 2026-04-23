@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016jovana-andrejevic-j-chem-theor-ct5b00918",
+  "manifest": {
+    "source_path": "papers/Others/Simple Molecular Reactive Force Field for Metal–Organic Synthesis.pdf",
+    "sha256": "113382b3e1098973ff01403c795059c2def24062fa4dcd94d02a0d5d25744c6e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jctc.5b00918",
+    "title": "ct5b00918 1..14",
+    "year": 2016,
+    "authors": "Jovana Andrejevic, James Stevenson, and Paulette Clancy",
+    "venue": "J. Chem. Theory Comput. 2016.12:825-838"
+  },
+  "pdf_path": "papers/Others/Simple Molecular Reactive Force Field for Metal–Organic Synthesis.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016jovana-andrejevic-j-chem-theor-ct5b00918_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016jovana-andrejevic-j-chem-theor-ct5b00918.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

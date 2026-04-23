@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019dormohammadi-npj-material-investigation-chloride-induced",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/DorMohammadi_npjMatDeg_FeClNa_2019.pdf",
+    "sha256": "5d80f62a89c24634700c71389139fe9df803a816eb938262ac001c098756d1ea",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41529-019-0081-6",
+    "title": "Investigation of chloride-induced depassivation of iron in alkaline media by reactive force field molecular dynamics",
+    "year": 2019,
+    "authors": "Hossein DorMohammadi",
+    "venue": "npj Materials Degradation, doi:10.1038/s41529-019-0081-6"
+  },
+  "pdf_path": "papers/ReaxFF_others/DorMohammadi_npjMatDeg_FeClNa_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019dormohammadi-npj-material-investigation-chloride-induced_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019dormohammadi-npj-material-investigation-chloride-induced.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

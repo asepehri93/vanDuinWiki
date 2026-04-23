@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016mcnutt-carbon-111-2-interfacial-li-ion",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/mcnutt_Carbon_2017.pdf",
+    "sha256": "5e24841207ed5f3f4418e9c80e86d61607af563cee01f1b609a0bb88feacf153",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Interfacial Li-ion localization in hierarchical carbon anodes",
+    "year": 2016,
+    "authors": "Nicholas W. McNutt",
+    "venue": "Carbon, 111 (2017) 828-834. doi:10.1016/j.carbon.2016.10.061"
+  },
+  "pdf_path": "papers/ReaxFF_others/mcnutt_Carbon_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016mcnutt-carbon-111-2-interfacial-li-ion_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016mcnutt-carbon-111-2-interfacial-li-ion.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

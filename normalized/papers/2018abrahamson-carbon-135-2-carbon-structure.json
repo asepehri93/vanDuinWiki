@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018abrahamson-carbon-135-2-carbon-structure",
+  "manifest": {
+    "source_path": "papers/Abrahamson_Carbon_graphitization_2018.pdf",
+    "sha256": "be2274305272c4a060e370d122f118c8c84565bacca2b36be54550c905dbccf3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Carbon structure and resulting graphitizability upon oxygen evolution",
+    "year": 2018,
+    "authors": "Joseph P. Abrahamson",
+    "venue": "Carbon, 135 (2018) 171-179. doi:10.1016/j.carbon.2018.04.055"
+  },
+  "pdf_path": "papers/Abrahamson_Carbon_graphitization_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018abrahamson-carbon-135-2-carbon-structure_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018abrahamson-carbon-135-2-carbon-structure.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

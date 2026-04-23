@@ -63,17 +63,21 @@ nav:
   - Home: index.md
   - Papers:
       - Overview: papers/index.md
+      - Paper corpus browser: concepts/paper-corpus-browser.md
       - All papers by year: concepts/paper-index-by-year.md
       - All papers by domain: concepts/paper-index-by-domain.md
   - Browse themes:
       - Themes overview: concepts/themes-index.md
       - Oxides & silica: concepts/theme-oxides-silica-ceramics.md
       - Catalysis & surfaces: concepts/theme-catalysis-surfaces.md
-      - Pyrolysis & combustion: concepts/theme-pyrolysis-combustion-organics.md
+      - Pyrolysis & organics: concepts/theme-pyrolysis-combustion-organics.md
+      - Fuels & combustion: concepts/theme-combustion-flames-fuels.md
       - ML potentials: concepts/theme-ml-atomistic-potentials.md
       - Ferroelectrics: concepts/theme-ferroelectrics-polar-oxides.md
       - Porous MOF & zeolite: concepts/theme-porous-mof-zeolite.md
       - Water & geo interfaces: concepts/theme-water-silica-geo.md
+      - 2D epitaxy & growth: concepts/theme-2d-epitaxy-growth.md
+      - Reactive MD (method hub): concepts/theme-reactive-md-corpus.md
   - Cross-cutting entry points:
       - ReaxFF family: forcefields/reaxff-family.md
       - Batteries & interfaces: concepts/batteries-interfaces-reaxff.md

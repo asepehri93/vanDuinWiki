@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015szczerba-geochimica-e-molecular-modeling",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Szczerba_GCA_2015_ReaxFF_CLAYFF.pdf",
+    "sha256": "d3f5f4f474fee6512ff1a9dccd892043aff4dd6bf000f59fd2df0b53a4cad97f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.gca.2015.03.005",
+    "title": "Molecular modeling of the effects of 40Ar recoil in illite particles on their Kâ€“Ar isotope dating",
+    "year": 2015,
+    "authors": "Marek Szczerba",
+    "venue": "Geochimica et Cosmochimica Acta, 159 (2015) 162-176. doi:10.1016/j.gca.2015.03.005"
+  },
+  "pdf_path": "papers/ReaxFF_others/Szczerba_GCA_2015_ReaxFF_CLAYFF.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015szczerba-geochimica-e-molecular-modeling_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015szczerba-geochimica-e-molecular-modeling.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

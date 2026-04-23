@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020seong-soon-jo-nano-lett-20-growth-kinetics",
+  "manifest": {
+    "source_path": "papers/Others/Jo_MoS2_ZrS2_oxidation_acs.nano_2020.pdf",
+    "sha256": "30d51ec1f2143174b04443598292127de636dda10e585dda181318db7ddb72fd",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Growth Kinetics and Atomistic Mechanisms of Native Oxidation of ZrSxSe2–x and MoS2 Crystals",
+    "year": 2020,
+    "authors": "Seong Soon Jo, Akshay Singh, Liqiu Yang, Subodh C. Tiwari, Sungwook Hong, Aravind Krishnamoorthy, Maria Gabriela Sales, Sean M. Oliver, Joshua Fox, Randal L. Cavalero, David W. Snyder, Patrick M. Vora, Stephen J. McDonnell, Priya Vashishta, Rajiv K. Kalia, Aiichiro Nakano, and R. Jaramillo",
+    "venue": "Nano Lett. 2020.20:8592-8599"
+  },
+  "pdf_path": "papers/Others/Jo_MoS2_ZrS2_oxidation_acs.nano_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020seong-soon-jo-nano-lett-20-growth-kinetics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7597
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020seong-soon-jo-nano-lett-20-growth-kinetics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

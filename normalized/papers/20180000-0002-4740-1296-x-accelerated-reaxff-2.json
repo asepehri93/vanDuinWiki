@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20180000-0002-4740-1296-x-accelerated-reaxff-2",
+  "manifest": {
+    "source_path": "papers/Vashisth_JPC_bondboost_2018_proof_v2.pdf",
+    "sha256": "15379c2d39211352f93a437f9d4df1531ad91020ecd265cb1f5dbfc8e712c334",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Accelerated ReaxFF Simulations for Describing the Reactive Cross-Linking of Polymers",
+    "year": 2018,
+    "authors": "Aniruddh Vashisth (ORCID: 0000-0002-4740-1296)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Vashisth_JPC_bondboost_2018_proof_v2.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20180000-0002-4740-1296-x-accelerated-reaxff-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20180000-0002-4740-1296-x-accelerated-reaxff-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

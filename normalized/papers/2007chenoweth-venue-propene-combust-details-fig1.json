@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2007chenoweth-venue-propene-combust-details-fig1",
+  "manifest": {
+    "source_path": "papers/CHO_supplements/ReaxFF_CHO_pathways.pdf",
+    "sha256": "1bf1f59c244e7a8980860ab13e057fd437be1880b6315748a3ad239dd5632492",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "propene-combust-details_fig1.cdx",
+    "year": 2007,
+    "authors": "K Chenoweth",
+    "venue": null
+  },
+  "pdf_path": "papers/CHO_supplements/ReaxFF_CHO_pathways.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2007chenoweth-venue-propene-combust-details-fig1_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 845
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2007chenoweth-venue-propene-combust-details-fig1.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

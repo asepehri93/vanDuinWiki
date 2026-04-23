@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020kelley-phys-rev-mat-thickness-strain",
+  "manifest": {
+    "source_path": "papers/KelleyPhysRevMaterials_2020_BaTiO3.pdf",
+    "sha256": "fd8154a6cf7f1f7881079452d99a55a54588d6fd7aa2e7ec65f253c0fa41f266",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevMaterials.4.024407",
+    "title": "Thickness and strain dependence of piezoelectric coefficient in ${\\rm BaTiO}_{3}$ thin films\n",
+    "year": 2020,
+    "authors": "K. P. Kelley",
+    "venue": "Phys. Rev. Mater. 4, 024407 (2020). doi:10.1103/PhysRevMaterials.4.024407"
+  },
+  "pdf_path": "papers/KelleyPhysRevMaterials_2020_BaTiO3.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020kelley-phys-rev-mat-thickness-strain_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020kelley-phys-rev-mat-thickness-strain.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

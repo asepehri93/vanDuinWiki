@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021mosab-jaser-banisalm-acs-atomistic-insights",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Banisalman_Han_NiPt_H2O2_ACS_AMI_2021.pdf",
+    "sha256": "f3a239d0e20903d5bde4fe48fde5725841d5f928906bd42a0c1cd1775a7e16ef",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.1c01947",
+    "title": "Atomistic Insights into H2O2 Direct Synthesis of Ni–Pt Nanoparticle Catalysts under Water Solvents by Reactive Molecular Dynamics Simulations",
+    "year": 2021,
+    "authors": "Mosab Jaser Banisalman, Hong Woo Lee, Heeyeun Koh, and Sang Soo Han",
+    "venue": "ACS Appl. Mater. Interfaces 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/Banisalman_Han_NiPt_H2O2_ACS_AMI_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021mosab-jaser-banisalm-acs-atomistic-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021mosab-jaser-banisalm-acs-atomistic-insights.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

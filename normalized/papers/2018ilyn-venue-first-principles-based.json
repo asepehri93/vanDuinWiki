@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018ilyn-venue-first-principles-based",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Ilyn_Goddard_PNAS_H2O2_2018.pdf",
+    "sha256": "2c4b9c7d8816f1e6f4e98615c0ac05fcdac15590f47d51c9403f0c1af4a41362",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "First-principles–based reaction kinetics from reactive molecular dynamics simulations: Application to hydrogen peroxide decomposition",
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Ilyn_Goddard_PNAS_H2O2_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018ilyn-venue-first-principles-based_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018ilyn-venue-first-principles-based.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

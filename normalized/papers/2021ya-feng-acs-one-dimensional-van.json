@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021ya-feng-acs-one-dimensional-van",
+  "manifest": {
+    "source_path": "papers/Others/2D_sushi_Rotkin_et_al_ACS_Nano_2021.pdf",
+    "sha256": "4ffe21c7df67c113bf7bd7080803c21f2fb077a71fcda7c7deb8c3b5b1952b87",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "One-Dimensional van der Waals Heterojunction Diode",
+    "year": 2021,
+    "authors": "Ya Feng, Henan Li, Taiki Inoue, Shohei Chiashi, Slava V. Rotkin, Rong Xiang, and Shigeo Maruyama",
+    "venue": "ACS Nano 2021.15:5600-5609"
+  },
+  "pdf_path": "papers/Others/2D_sushi_Rotkin_et_al_ACS_Nano_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021ya-feng-acs-one-dimensional-van_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021ya-feng-acs-one-dimensional-van.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

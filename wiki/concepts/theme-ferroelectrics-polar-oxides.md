@@ -2,7 +2,7 @@
 id: concept:theme-ferroelectrics-polar-oxides
 type: concept
 title: "Theme: ferroelectrics and polar perovskite oxides (corpus)"
-updated: "2026-04-20"
+updated: "2026-04-21"
 confidence: med
 canonical_tags:
   - domain:ferroelectrics-polar
@@ -50,6 +50,14 @@ Corpus-limited synthesis; follow `[[slug]]` pages for **equations**, **simulatio
 ### Electrolytes and polar oxide chemistry (adjacent)
 
 Solid-state **Li-ion electrolyte** interface chemistry in [[2018shin-physical-che-development-reaxff]] connects **polar oxide** environments to [[batteries-interfaces-reaxff]] rather than bulk ferroelectric switching.
+
+## Analysis and cross-cutting patterns
+
+**Elastic** and **thermal** property workflows sometimes use **MLIPs** ([[2024baksa-adv-elect-ma-strain-fluctuations]]) while other **perovskite** notes remain **classical** or **multi-scale**—compare **only** within the evidence on each page.
+
+## Gaps and open directions (corpus view)
+
+**Switching** pathways and **domain-wall** atomistics may be **sparse** in the KB compared to **mechanical** property studies—state **corpus** limits explicitly when answering retrieval queries.
 
 ## Debates, tensions, and cross-references
 

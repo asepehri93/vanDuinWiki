@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2013eldhose-venue-parameterization-reactive",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Eldhose_Nedea_JCC_2013.pdf",
+    "sha256": "add125b92cacaea144d82c2d1defde217828006e930caae472085425028c959c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/jcc.23246",
+    "title": "Parameterization of a reactive force field using a Monte Carlo algorithm",
+    "year": 2013,
+    "authors": [
+      "Iype, E.",
+      "Hütter, M.",
+      "Jansen, A. P. J.",
+      "Nedea, S. V.",
+      "Rindt, C. C. M."
+    ],
+    "venue": "Journal of Computational Chemistry"
+  },
+  "pdf_path": "papers/ReaxFF_others/Eldhose_Nedea_JCC_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013eldhose-venue-parameterization-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013eldhose-venue-parameterization-reactive.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

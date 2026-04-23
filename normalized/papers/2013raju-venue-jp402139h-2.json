@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2013raju-venue-jp402139h-2",
+  "manifest": {
+    "source_path": "papers/Raju_TiO2_water_JPC_C_2013_reduced.pdf",
+    "sha256": "d37d57bdcb70ae2675992e99ce1872e0be06476abc6db23c2f36ef39c1603a0e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp402139h",
+    "title": "ReaxFF reactive force field study of the dissociation of water on titania surfaces",
+    "year": 2013,
+    "authors": [
+      "Muralikrishna Raju",
+      "Sung-Yup Kim",
+      "Adri C. T. van Duin",
+      "Kristen A. Fichthorn"
+    ],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/Raju_TiO2_water_JPC_C_2013_reduced.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013raju-venue-jp402139h-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "TiO2", "water dissociation", "anatase", "rutile"],
+  "claims": [
+    {
+      "text": "ReaxFF MD at 300 K predicts coverage-dependent molecular and dissociated water on multiple TiO2 facets; dissociation extent correlates with hydrogen bonding to outer-layer water via O–H stretch red-shifts.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013raju-venue-jp402139h-2", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013raju-venue-jp402139h-2.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

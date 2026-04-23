@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017tavazza-venue-untitled",
+  "manifest": {
+    "source_path": "papers/Others/Tavazza_Interatomic_potential_comparison_2017.pdf",
+    "sha256": "9519a2a4bf3073c337c3dde8ecf78f18a6dace7c065a904b7bdbe1a7077968a9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/sdata.2016.125",
+    "title": "untitled",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Tavazza_Interatomic_potential_comparison_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017tavazza-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017tavazza-venue-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

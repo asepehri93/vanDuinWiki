@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022duin-an-atomistic-paper",
+  "manifest": {
+    "source_path": "papers/Mao_MoS2_TiO2_Frontiers_Nano_2022_galley.pdf",
+    "sha256": "7692adbc7f58dbd464955f2cbb75aa5e37d4958e841cc7a73680a6de2bcf7951",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2022,
+    "authors": "Adri C. T. van Duin",
+    "venue": "An atomistic modeling tool is essential to an in-depth understanding upon surface reactions of transition metal dichalcogenides (TMDs), such as molybdenum disulfide (MoS2), with the presence of compositing agents, including Ti and Au, under different environmental exposures."
+  },
+  "pdf_path": "papers/Mao_MoS2_TiO2_Frontiers_Nano_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022duin-an-atomistic-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6332
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022duin-an-atomistic-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

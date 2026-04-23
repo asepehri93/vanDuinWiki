@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018aussems-carbon-137-2-mechanisms-elementary",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bal_H_plasma_graphene_Carbon_2019.pdf",
+    "sha256": "9c88f66552b9cc0b06f9288c7095deede1a5d3aeec41fa7c3d4648c8b3dfa662",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mechanisms of elementary hydrogen ion-surface interactions during multilayer graphene etching at high surface temperature as a function of flux",
+    "year": 2018,
+    "authors": "D.U.B. Aussems",
+    "venue": "Carbon, 137 (2018) 527-532. doi:10.1016/j.carbon.2018.05.051"
+  },
+  "pdf_path": "papers/ReaxFF_others/Bal_H_plasma_graphene_Carbon_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018aussems-carbon-137-2-mechanisms-elementary_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018aussems-carbon-137-2-mechanisms-elementary.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

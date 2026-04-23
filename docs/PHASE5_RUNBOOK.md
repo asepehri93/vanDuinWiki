@@ -83,8 +83,17 @@ See [`PHASE0.md`](PHASE0.md): retrieval benchmark pass rate targets apply to the
 | OOM on `build_vectors.py` | Reduce batch size in script or use smaller model in `embedding_manifest`. |
 | Low recall | Increase `top_k`, add synonyms to queries, or enrich wiki text (Phase 4), not index “fixes” that invent content. |
 
+## Iterative improvement loop
+
+1. Run a **baseline** `eval_retrieval.py` after the first full `build_chunks` + BM25 + vectors pass; save [`outputs/phase5_retrieval_report.md`](../outputs/phase5_retrieval_report.md).
+2. **Enrich the wiki** (Phase 4 Wave 2: theme hubs, wikilinks, terminology)—see [`MASTER_PLAN.md`](MASTER_PLAN.md).
+3. **Rebuild** chunks and indexes, then **re-run** `eval_retrieval.py` and compare. Tune hybrid parameters only after you have two numbers to compare.
+
+This loop is the intended path to the Phase 0 **retrieval benchmark pass rate** KPI, not one-shot index tuning.
+
 ## Handoff
 
+- **Operator roadmap:** [`MASTER_PLAN.md`](MASTER_PLAN.md)
 - **Phase 4:** [`PHASE4_RUNBOOK.md`](PHASE4_RUNBOOK.md)
 - **Benchmark pool:** [`benchmarks/WARMUP_CANDIDATE_QUESTIONS.md`](benchmarks/WARMUP_CANDIDATE_QUESTIONS.md)
 - **Frozen v1 eval:** [`benchmarks/v1_frozen.json`](benchmarks/v1_frozen.json) + [`benchmarks/V1_FROZEN.md`](benchmarks/V1_FROZEN.md)

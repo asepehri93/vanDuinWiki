@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018plummer-computationa-nanoindentation-monolayer",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Plummer_Anasori_Gogotsi_MXene_indentation_2019.pdf",
+    "sha256": "97941d6257b44b5d144b20d5181acf59c84771e63e043d83e24617300a3dc9b8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Nanoindentation of monolayer Tin+1CnTx MXenes via atomistic simulations_ The role of composition and defects on strength",
+    "year": 2018,
+    "authors": "Gabriel Plummer",
+    "venue": "Computational Materials Science, 157 (2018) 168-174. doi:10.1016/j.commatsci.2018.10.033"
+  },
+  "pdf_path": "papers/ReaxFF_others/Plummer_Anasori_Gogotsi_MXene_indentation_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018plummer-computationa-nanoindentation-monolayer_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018plummer-computationa-nanoindentation-monolayer.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

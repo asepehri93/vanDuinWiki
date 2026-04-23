@@ -1,0 +1,17 @@
+2025turker-advanced-mat-indium-oxide
+2025wang-angew-atomic-scale
+2025wang-venue-atomic-x02010
+2025wang-venue-manuscript
+2025zhang-venue-paper
+2025zhenjing-liu-acs-epitaxial-formation
+2025zhenjing-liu-acs-epitaxial-formation-2
+2026dryzhakov-advanced-mat-revealing-defect
+2026jeong-venue-manuscript
+2026mirakhory-j-chem-phys-dynamics-iodine
+2026mirakhory-venue-paper
+2026mirakhory-venue-paper-2
+2026sen-nat-solid-state-thermometry
+2026shi-advanced-mat-harnessing-chain
+2026ul-venue-manuscript
+index
+noyear-stack-stack-envichem10revised-metadynamics

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018antony-langmuir-201-nanoscale-structure",
+  "manifest": {
+    "source_path": "papers/Others/2018_Antony_Langmuir.pdf",
+    "sha256": "a7a560c366597b0fd3a59756a0cef03b09d293b29a9006802b048134d40b7a30",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Nanoscale Structure and Dynamics of Water on Pt and Cu Surfaces from MD Simulations",
+    "year": 2018,
+    "authors": "Andrew C. Antony; Tao Liang; Susan B. Sinnott",
+    "venue": "Langmuir 2018.34:11905-11911"
+  },
+  "pdf_path": "papers/Others/2018_Antony_Langmuir.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018antony-langmuir-201-nanoscale-structure_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018antony-langmuir-201-nanoscale-structure.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

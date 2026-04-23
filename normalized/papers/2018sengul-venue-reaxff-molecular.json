@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018sengul-venue-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Sengul_aceticacid_water_JCP_2018_online.pdf",
+    "sha256": "9cea029e1d57180745970c068bb1d85b40b6eee5a18d7ee7ec7132b6e2db4437",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF molecular dynamics simulation of intermolecular structure formation in acetic acid-water mixtures at elevated temperatures and pressures",
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Sengul_aceticacid_water_JCP_2018_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018sengul-venue-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6298
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018sengul-venue-reaxff-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

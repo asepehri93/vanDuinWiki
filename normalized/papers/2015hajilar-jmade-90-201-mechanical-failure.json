@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015hajilar-jmade-90-201-mechanical-failure",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hajilar_CaAlOx_MatDesign_2016.pdf",
+    "sha256": "f864d69fbf148c77f4161262fab35ba670bbd098c1ea88f9a6addc88d875a3df",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mechanical failure mechanisms of hydrated products of tricalcium aluminate: A reactive molecular dynamics study",
+    "year": 2015,
+    "authors": "Shahin Hajilar",
+    "venue": "JMADE, 90 (2016) 165-176. doi:10.1016/j.matdes.2015.10.089"
+  },
+  "pdf_path": "papers/ReaxFF_others/Hajilar_CaAlOx_MatDesign_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015hajilar-jmade-90-201-mechanical-failure_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015hajilar-jmade-90-201-mechanical-failure.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

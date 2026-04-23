@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017wen-venue-jp6b11310",
+  "manifest": {
+    "source_path": "papers/Wen_Silicon_water_JPC_2017.pdf",
+    "sha256": "039b502e023d70961059f9aa09c7a2f9bc9ad453b849f27d05ea355bf214f115",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp6b11310 1..8",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Wen_Silicon_water_JPC_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017wen-venue-jp6b11310_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017wen-venue-jp6b11310.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

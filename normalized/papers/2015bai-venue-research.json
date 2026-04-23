@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015bai-venue-research",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bai_JPCC_O_Graphene_collision.pdf",
+    "sha256": "7b81baea18e27e03663e83415101dadfe07cf54ad3a5f2d71aa9ff783b1ff5a3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..10",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Bai_JPCC_O_Graphene_collision.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015bai-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015bai-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

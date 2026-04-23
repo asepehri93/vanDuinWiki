@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022lieven-bekaert-j-phys-chem-assessing-long-term",
+  "manifest": {
+    "source_path": "papers/Others/Bekaert_Mamma_JPCC_2021_assesing lomg term...pdf",
+    "sha256": "a29532c96c125959cb3227a750629a1b99976cdab2ff6788b2fbd1506cee5e5f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.2c01144",
+    "title": "Assessing the Long-Term Reactivity to Achieve Compatible Electrolyte–Electrode Interfaces for Solid-State Rechargeable Lithium Batteries Using First-Principles Calculations",
+    "year": 2022,
+    "authors": "Lieven Bekaert, Ashish Raj, Jean-François Gohy, Annick Hubin, Frank De Proft, and Mesfin H. Mamme",
+    "venue": "J. Phys. Chem. C 0.0:null-null"
+  },
+  "pdf_path": "papers/Others/Bekaert_Mamma_JPCC_2021_assesing lomg term...pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022lieven-bekaert-j-phys-chem-assessing-long-term_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022lieven-bekaert-j-phys-chem-assessing-long-term.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

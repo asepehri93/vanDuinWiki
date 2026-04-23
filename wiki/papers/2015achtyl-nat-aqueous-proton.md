@@ -39,28 +39,27 @@ group_affiliation: true
 
 <!-- id:paper:2015achtyl-nat-aqueous-proton -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-Achtyl *et al.* combine **interface-specific second-harmonic generation (SHG)** on **graphene-on-fused-silica** with **atomistic modeling** to argue that **aqueous protons** can traverse **monolayer graphene** reversibly during bulk **pH cycling**, communicating with **silanol acid–base chemistry** beneath the sheet. After arguing against **macroscopic pinhole** transport via SEM and diffusion-order-of-magnitude estimates, they attribute permeation to **rare atomic defects**. **Computer simulations** (the extract’s opening pages do not name the electronic-structure or force-field engine explicitly) report comparatively **low barriers (~0.61–0.75 eV)** for water-mediated **Grotthuss-like** transfer across **hydroxyl-terminated** defect motifs, while **pyrylium-like ether** terminations are predicted to **block** exchange; helium/hydrogen transfer is argued to be disfavored, supporting **proton selectivity**.
+Achtyl *et al.* combine **interface-specific second-harmonic generation (SHG)** on **graphene-on-fused-silica** with **plane-wave DFT (PBE/PAW, NEB)** and **ReaxFF molecular dynamics** to argue that **aqueous protons** can traverse **monolayer graphene** reversibly during bulk **pH cycling**, communicating with **silanol acid–base chemistry** beneath the sheet. After arguing against **macroscopic pinhole** transport via SEM and diffusion-order-of-magnitude estimates, they attribute permeation to **rare atomic defects**. The modeling reports comparatively **low barriers (~0.61–0.75 eV)** for water-mediated **Grotthuss-like** transfer across **hydroxyl-terminated** defect motifs, while **pyrylium-like ether** terminations are predicted to **block** exchange; helium/hydrogen transfer is argued to be disfavored, supporting **proton selectivity**.
 
 ## Methods
 
-- **SHG** titration experiments with controlled **ionic strength** and dual-pump pH jumps.
-- **SEM** imaging for macroscopic defect inventory.
-- **Atomistic simulation** of defect-mediated proton transport (see Methods in the full PDF/SI for the specific Hamiltonian/force field).
+**Experiments (interface electrochemistry + SHG).** Well-characterized **single-layer graphene** on **fused silica** is exposed to aqueous electrolytes at **room temperature** while the bulk **pH** is cycled between about **3** and **10** at **fixed 1 mM ionic strength**. A dual-pump flow cell (**Fig. 1a**) runs near **0.9 ml s⁻¹** as documented on the opening pages of `papers/Achtyl_NatureComm_2015.pdf`. **Interfacial second-harmonic generation (SHG)** with **~120 fs** pulses (energies below the graphene damage threshold cited in the article) tracks silanol acid–base speciation at the buried silica/water interface. **SEM** and proton-diffusion scaling estimates (developed in the article) are used to argue against macroscopic pinholes as the dominant transport route.
+
+**Static QM / DFT (barriers and defect models).** Plane-wave DFT within the **GGA–PBE** approximation uses **projector-augmented wave (PAW)** potentials. The Methods section of `papers/Achtyl_NatureComm_2015.pdf` specifies a **400 eV** cutoff for calculations on systems **without** explicit water solvation, whereas solvated supercells use **283 eV** cutoffs for **C** and **O** (with other elements treated as stated in the article). The surface Brillouin zone is sampled with a **Monkhorst–Pack** mesh reported as **3×3×1**, and electronic energies are converged to within **1×10⁻⁵ eV** in the same section. **Nudged elastic band (NEB)** calculations map proton-transfer pathways for oxygen- versus hydroxyl-terminated defect motifs referenced in Fig. 2 and Table 1.
+
+**DFT dispersion correction:** **N/A —** the Methods excerpt used for this note does not name an explicit **DFT-D**/**vdW** correction beyond the PBE functional; see the article/SI for any updates.
+
+**MD application (ReaxFF).** Reactive MD uses the **ReaxFF** implementation described in the Methods section of `papers/Achtyl_NatureComm_2015.pdf` on a **(6×6)** periodic graphene sheet solvated on both sides (**~15.01 × 17.83 Å** in-plane, **30 Å** normal). Simulations are run in the **NVT** ensemble with a **0.25 fs** timestep and **Berendsen** thermostat (**100 fs** coupling constant) to control the total system temperature, with longer aggregate sampling windows reported for rare-event statistics (consult the article/SI for exact trajectory lengths).
+
+**Force-field training:** **N/A —** the publication applies an established ReaxFF parameterization for C/H/O/water/graphene rather than reporting a new fit in this manuscript.
+
+**Electric field / bias during MD:** **N/A —** the MD discussion focuses on neutral defect motifs; biased electrochemistry is represented experimentally rather than as constant-potential AIMD here.
 
 ## Findings
 
-- SHG responses with graphene present match **bare silica/water** behavior within uncertainty, interpreted as evidence that **interfacial silanol speciation** evolves as if protons reach the buried silica surface.
-- Modeling distinguishes **defect motifs** that enable vs suppress proton exchange.
+SHG traces with graphene overlaying silica match control traces on bare silica within experimental uncertainty, yet still track silanol acid–base chemistry expected only if protons communicate through the sheet—supporting permeation without requiring macroscopic tears. After ruling out macroscopic pinholes, the authors attribute transport to rare native defects. DFT/NEB and ReaxFF sampling converge on **0.61–0.75 eV** barriers for water-mediated **Grotthuss-like** proton hops through **hydroxyl-terminated** defects, whereas **pyrylium-like ether** bridges suppress exchange. **Helium** and **H\(_2\)** permeation barriers remain comparatively unfavorable in the models highlighted, supporting **selective aqueous proton** transport. The combined spectroscopy + modeling narrative contrasts defect terminations that enable versus block proton exchange; laser-averaged SHG cannot assign single-defect structures without correlative microscopy or fabrication studies.
 
 ## Limitations
 

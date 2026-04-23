@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021danielle-reifsnyder-nano-lett-20-illuminating-invisible",
+  "manifest": {
+    "source_path": "papers/Hickey_NanoLetters_WS2_GBs_2021.pdf",
+    "sha256": "a2414ebcc8cbefd1631d000bc57c4e5d7f9977e154a113b010e8b584a346f6d3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Illuminating Invisible Grain Boundaries in Coalesced Single-Orientation WS2 Monolayer Films",
+    "year": 2021,
+    "authors": "Danielle Reifsnyder Hickey, Nadire Nayir, Mikhail Chubarov, Tanushree H. Choudhury, Saiphaneendra Bachu, Leixin Miao, Yuanxi Wang, Chenhao Qian, Vincent H. Crespi, Joan M. Redwing, Adri C. T. van Duin, and Nasim Alem",
+    "venue": "Nano Lett. 2021.21:6487-6495"
+  },
+  "pdf_path": "papers/Hickey_NanoLetters_WS2_GBs_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021danielle-reifsnyder-nano-lett-20-illuminating-invisible_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6938
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021danielle-reifsnyder-nano-lett-20-illuminating-invisible.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

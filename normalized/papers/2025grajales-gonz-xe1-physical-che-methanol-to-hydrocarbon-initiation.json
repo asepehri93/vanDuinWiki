@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025grajales-gonz-xe1-physical-che-methanol-to-hydrocarbon-initiation",
+  "manifest": {
+    "source_path": "papers/Gonzalez_zeolite_HCO_PCCP_2025.pdf",
+    "sha256": "908018b033c8cde23b1bf725ad869abcbce71f5d11e079d6d040a191bd9fdf80",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Methanol-to-hydrocarbon initiation reactions over a zeolite catalyst: reactive molecular dynamics simulations",
+    "year": 2025,
+    "authors": "E. Grajales-Gonz&#xE1;lez",
+    "venue": "Physical Chemistry Chemical Physics (2025), 27, 22776-22798, doi:10.1039/D5CP02704G"
+  },
+  "pdf_path": "papers/Gonzalez_zeolite_HCO_PCCP_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025grajales-gonz-xe1-physical-che-methanol-to-hydrocarbon-initiation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025grajales-gonz-xe1-physical-che-methanol-to-hydrocarbon-initiation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

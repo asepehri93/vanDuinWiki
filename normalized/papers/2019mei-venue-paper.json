@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019mei-venue-paper",
+  "manifest": {
+    "source_path": "papers/Mei_ActaMat_SiO2_MechanicalProperties_2019_proof.pdf",
+    "sha256": "4cffcb5e70cc523780d20444f4a70a664ced5eade2b90f7ccac1b4a8219494d1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Mei_ActaMat_SiO2_MechanicalProperties_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019mei-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5599
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019mei-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

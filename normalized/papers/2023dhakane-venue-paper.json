@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023dhakane-venue-paper",
+  "manifest": {
+    "source_path": "papers/Dhakane_Ganesh_CarbonTrends_GraphNN_BaTiO3_2023_galley.pdf",
+    "sha256": "2ad87f9a1a6b9a119c9271eb7d27b2c43c7f49e5192f2e7f75855633b8f70e36",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2023,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Dhakane_Ganesh_CarbonTrends_GraphNN_BaTiO3_2023_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023dhakane-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023dhakane-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

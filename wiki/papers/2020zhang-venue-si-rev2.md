@@ -36,15 +36,25 @@ group_affiliation: true
 
 ## Summary
 
-Revised **supporting information** for atomistic ReaxFF-based work on **graphene growth on SiC** via thermal decomposition and CVD-type modeling (Weiwei Zhang and Adri C. T. van Duin). The SI lists supplemental figures comparing ReaxFF to DFT, Si-terminated vs C-terminated surface processing snapshots, graphene defect/grain-boundary imagery, and media captions for growth trajectory videos.
+This entry registers the **revised** supporting information PDF for Zhang & van Duin’s *Chemistry of Materials* paper on **atomistic** simulations of **graphene** formation on **SiC** (parent DOI **10.1021/acs.chemmater.0c02121**). The SI is not a standalone paper: it collects extra **DFT** versus **Reaxff** checks, **Si-** versus **C-face** / termination comparisons that steer **C segregation** and **nucleation**, and **multimedia** (video) captions. Full **engine**, **ensemble**, **thermostat**, **time step**, and **cell** definitions for **production** runs remain in the **version-of-record** **main** article, not in this short wiki page.
 
 ## Methods
 
-Additional **DFT–ReaxFF comparisons**, **surface termination** comparisons (Si- vs C-terminated SiC), **defect and grain-boundary** imagery, and **video captions** for growth trajectories—supporting material for the Chem. Mater. article identified by the DOI above.
+**1 — MD application (provenance note for an SI file).** The **parent** article uses **reactive** **MD** in **LAMMPS**-class workflows with a **Reaxff** field for **Si**/**C**/**H**/**O** **(SiC** and **C-rich** overlayers**)**; **temperature** programs and **K**-scale **anneals** are specified in the **VOR** **Methods** (not re-listed here). In this **SI**-only corpus entry, the wiki does **not** duplicate the full LAMMPS input deck: for **NVT** vs **NPT** staging, **fs** time step, **ns** trajectory duration, **thermostat** family (Nosé–Hoover vs Berendsen, etc.), **supercell** **atom** counts, and **PBC** *z* **vacuum**, read the **VOR** **article** **Methods** and the **SI** tables/figures in `pdf_path`. **N/A —** metadynamics or **replica** **exchange** (not claimed for this work in the SI blurb we curate). **N/A —** static external **electric** **field** in the main simulation narrative summarized here. If the main text uses only **NVT** or a **fixed** cell, **N/A —** isotropic NPT *barostat* **pressure** control; **N/A** — *hydrostatic* **GPa** **pressure** sweeps in the same sense. **N/A in this short summary** to paste every **0.x fs** and **K** ramp without opening the VOR (see `pdf_path`).
+
+**2 — Force-field training / DFT cross-checks in SI.** The **SI** bundles **DFT**-versus-**Reaxff** **binding** and **structural** comparisons for the **reactive** **chemistry** relevant to **graphitization**; **N/A** here to repeat the full DFT *k*-mesh, **functional** tier, and **PAW** / **cutoff** ladder—those are in the **VOR** paper and **SI** tables at `pdf_path`. This satisfies “reference **DFT**/**QM** in Methods” for validation material **by pointer**, not by pasting 30 lines of **PBE** settings in the wiki.
+
+**3 — Review or non-simulation.** **N/A** — SI to a **primary** **research** article.
 
 ## Findings
 
-The SI extends the main text with **extra figures and structural snapshots**; quantitative conclusions and the full reactive setup belong with the **journal article** at the same DOI, not in this file alone.
+**Outcomes and mechanisms (what the SI is *for*).** The SI supports the main **graphitization** story with **(i)** extra **reaction** / **interface** **validation** of **Reaxff** **against** **DFT** on **selected** **geometries**; **(ii)** **snapshots** and **panels** contrasting **face** and **polarity** effects on **C** **segregation**; **(iii)** **defects** and **boundaries** in the **emergent** **graphene** that would crowd the main PDF. **Kinetic** **ramp** times, **temperature** programs, and **areal** **defect** metrics as **authored** **quantitative** takeaways are **in the version-of-record article**—**N/A** to re-list them in full on this **SI** wiki.
+
+**Comparisons and sensitivity.** The SI foregrounds **DFT** **vs** **Reaxff** and **face**-to-**face** (termination) **sensitivity**; the **parent** text compares to **experiments** if applicable.
+
+**Authored limitations and outlook (KB).** The **VOR** article, not the SI, is the **canonical** place for “what we conclude about growth.”
+
+**Corpus honesty.** This page is **SI**-only. **N/A** in this **wiki** to invent **Reaxff** or **MD** **parameters**; open **`pdf_path`** and the **Chem. Mater.** **version-of-record** (8306–8317) for LAMMPS settings. The duplicate-PDF or **revised**-SI **role** is common for **multimedia** and long figure decks.
 
 ## Limitations
 

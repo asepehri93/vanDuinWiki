@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011cranford-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Cranford_Buehler__Graphyne_Carbon_2011.pdf",
+    "sha256": "1d43fb22608e6606c34db2a7ac10c6b4e42460087b9bcfd7c41a8a94a037bc23",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.carbon.2011.05.024",
+    "title": null,
+    "year": 2011,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Cranford_Buehler__Graphyne_Carbon_2011.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011cranford-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011cranford-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

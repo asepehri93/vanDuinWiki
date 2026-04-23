@@ -1,0 +1,33 @@
+{
+  "paper_id": "paper:2013bn-venue-ja403197h",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/BN_H3PO4_Crespi_Terrones_Mallouk_JACS_2013.pdf",
+    "sha256": "7a1f63e6b06ed648665c75907228a562b9e0384414bbdd30247fc07e0a57107c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/ja403197h",
+    "title": "Reversible intercalation of hexagonal boron nitride with Brønsted acids",
+    "year": 2013,
+    "authors": [
+      "Kovtyukhova, Nina I.",
+      "Wang, Yuanxi",
+      "Lv, Ruitao",
+      "Terrones, Mauricio",
+      "Crespi, Vincent H.",
+      "Mallouk, Thomas E."
+    ],
+    "venue": "Journal of the American Chemical Society"
+  },
+  "pdf_path": "papers/ReaxFF_others/BN_H3PO4_Crespi_Terrones_Mallouk_JACS_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013bn-venue-ja403197h_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013bn-venue-ja403197h.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

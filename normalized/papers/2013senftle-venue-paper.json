@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Senftle_JCP_PdO_2013_proof.pdf",
     "sha256": "186a1dde056640a25d5bdb25272f773f3be8455b86d4e4c73c59dac852da3e9d",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013senftle-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 7831
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013senftle-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

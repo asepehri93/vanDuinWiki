@@ -1,0 +1,30 @@
+{
+  "paper_id": "paper:2013grossman-venue-acs-nn",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Grossman_group_ACS_Nano_2013.pdf",
+    "sha256": "c2ea609adffd18aaf789fbcdd99e3da249a7321b0206eb94177aea0736171db1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/nn305507p",
+    "title": "The impact of functionalization on the stability, work function, and photoluminescence of reduced graphene oxide",
+    "year": 2013,
+    "authors": [
+      "Kumar, Priyank V.",
+      "Bernardi, Marco",
+      "Grossman, Jeffrey C."
+    ],
+    "venue": "ACS Nano"
+  },
+  "pdf_path": "papers/ReaxFF_others/Grossman_group_ACS_Nano_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013grossman-venue-acs-nn_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7566
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013grossman-venue-acs-nn.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

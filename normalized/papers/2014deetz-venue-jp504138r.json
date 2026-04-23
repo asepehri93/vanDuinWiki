@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014deetz-venue-jp504138r",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Deetz_JPC_B_alkoxysilanes_parallel_opt_2014.pdf",
+    "sha256": "7e79916cd4d60b9e83e710685c31088d211205082d1b7126f22a20291db8cbc4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp504138r",
+    "title": "Parallel optimization of a reactive force field for polycondensation of alkoxysilanes",
+    "year": 2014,
+    "authors": ["Deetz, Joshua D.", "Faller, Roland"],
+    "venue": "Journal of Physical Chemistry B"
+  },
+  "pdf_path": "papers/ReaxFF_others/Deetz_JPC_B_alkoxysilanes_parallel_opt_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014deetz-venue-jp504138r_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014deetz-venue-jp504138r.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

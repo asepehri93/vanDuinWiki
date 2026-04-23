@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017chowdhury-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Chowdhury_PCCP_2016_flame_propagation_galley.pdf",
+    "sha256": "cf500afa602429bd4ebd9f5d8d2ac340880bf5055c14f14b385d56cd2d503190",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c6cp08164a",
+    "title": "RSC_CP_C6CP08164A 1..16",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Chowdhury_PCCP_2016_flame_propagation_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017chowdhury-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3192
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017chowdhury-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

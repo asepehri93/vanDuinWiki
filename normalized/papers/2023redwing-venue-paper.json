@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023redwing-venue-paper",
+  "manifest": {
+    "source_path": "papers/Zhu_Nayir_step_engineer_Nature_Nanotech_2023_SI.pdf",
+    "sha256": "c4604f7d07fe7bee2bdfd9874d4153d46954d1bf258d371c90eca836eaeb4016",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2023,
+    "authors": "Redwing, Joan Marie",
+    "venue": null
+  },
+  "pdf_path": "papers/Zhu_Nayir_step_engineer_Nature_Nanotech_2023_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023redwing-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2759
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023redwing-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

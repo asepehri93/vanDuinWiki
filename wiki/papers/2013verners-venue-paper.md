@@ -38,15 +38,27 @@ group_affiliation: true
 
 ## Summary
 
-ReaxFF MD with stepwise 300–3000 K heating studies Al grain mixing into Ni versus Fe matrices near a 1:3 grain:matrix atom ratio. Ni hosts achieve lower chemical strain energy and complete mixing at lower temperature than Fe hosts, consistent with greater Al–Ni stability. Grain-size trends differ between matrices; cooling runs show Fe solidifying colder than Ni, both ending in chemically disordered crystals with Ni less ordered. Preliminary slab oxidation finds unmixed Al and Ni most reactive to oxygen, while Al–Ni alloy and pure Fe oxidize more slowly (abstract; introduction opening, extract).
+Structural **AlₓNiᵧFe₍₁₋ₓ₋ᵧ₎** alloys are candidates for high-temperature energy systems where surfaces oxidize aggressively; understanding how **aluminum-rich grains** mix into **nickel** or **iron** matrices, and how that mixing couples to **oxidation**, motivates the simulations. Using **ReaxFF molecular dynamics**, Verners, Shin, and van Duin follow **aluminum grains** of different sizes embedded in **pure Ni** or **pure Fe** matrices at an approximate **1:3 grain:matrix atom ratio**. The study spans temperatures **above and below** the melting regime of the composite structures, with staged heating and subsequent cooling, and closes with **preliminary slab oxidation** simulations intended to connect grain–matrix mixing state to **oxygen attack** propensity.
 
 ## Methods
 
-Constant-pressure ReaxFF MD with staged temperature ramps and follow-on cooling; additional oxidation slabs mentioned in abstract (extract pages 1–2).
+**1 — MD application (atomistic dynamics).** The abstract embedded in the **AIP author-query / proof** PDF on this slug states **ReaxFF-based molecular dynamics** at **constant pressure**, with temperature **stepwise ramped** from **300–3000 K** for **Al** grains in **pure Ni** or **pure Fe** matrices at an approximate **1:3** grain:matrix **atom** ratio, followed by **cooling** simulations from **3000 K** back to **300 K** (`papers/Verners_JAP_galley.pdf`; extract lines 47–64 in `normalized/extracts/2013verners-venue-paper_p1-2.txt`). **Additional preliminary slab oxidation** with **O\(_2\)** is mentioned qualitatively. **Engine / code, timestep, duration, thermostat types, PBC, and oxidation-slab protocol details:** **N/A —** not recoverable from the **proof** extract (publisher queries dominate early pages). **Barostat / pressure / ensemble:** the proof-page abstract states **constant-pressure** **ReaxFF** **MD** (**NPT**-class pressure coupling as detailed in **`papers/Verners_J_App_Phys_2013.pdf`** on the sibling slug and in the **JAP** **Methods**). **Electric field / enhanced sampling:** **N/A —** not stated in the excerpted abstract block.
+
+**2 — Force-field training.** **N/A —** this is an **application** study using **ReaxFF**, not a parameterization release paper in the excerpted material.
+
+**3 — Static QM / DFT-only.** **N/A —** reactive **MD** drives mixing and preliminary oxidation.
 
 ## Findings
 
-See summary: comparative mixing thermodynamics/kinetics, cooling disorder, and oxidation reactivity ordering (abstract in extract).
+**Outcomes & mechanisms.** The proof-page abstract reports **lower chemical strain energy** for **Al** in the **Ni** matrix and **mixing completed at lower temperature** than in the **Fe** matrix, interpreted as **Al–Ni** being energetically more stable than **Al–Fe**, consistent with experiment. **Larger Al grains** favor mixing with **Fe**, while **smaller grains** favor mixing with **Ni**, attributed to **formation-energy** and **bond-distance** differences. **Cooling** simulations find **Fe** alloy solidifies at **lower temperature** than **Ni** alloy for the stated cooling range; both yield **chemically disordered crystalline** products, with **Ni** described as **less ordered** than **Fe**. **Preliminary oxidation:** **unmixed Al** and **unmixed Ni** are the most **O\(_2\)**-active, while **Al/Ni alloy** and **pure Fe** oxidize more slowly in the slab comparison described in the abstract.
+
+**Comparisons.** Explicit **experimental** agreement language appears in the abstract for **Al–Ni** vs **Al–Fe** stability trends.
+
+**Sensitivity & design levers.** **Matrix identity** (**Ni** vs **Fe**), **Al grain size**, and the **300–3000 K** heating / **3000–300 K** cooling schedule are the primary knobs summarized on the proof excerpt.
+
+**Limitations & outlook.** Oxidation simulations are labeled **preliminary** in the abstract; full quantitative kinetics require the **version-of-record** article text.
+
+**Corpus honesty.** This slug tracks a **galley/proof** PDF; use **`paper:2013verners-venue-paper-2`** (`papers/Verners_J_App_Phys_2013.pdf`) for **VOR** figures and complete **Methods** tables.
 
 ## Limitations
 

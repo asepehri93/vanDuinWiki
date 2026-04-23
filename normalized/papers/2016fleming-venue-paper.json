@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016fleming-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/Fleming_Pfaendter_metadynamics_JPCA_2016.pdf",
+    "sha256": "c874a06e7066debde445c39e1c722a9d62e6b3f7ea224f28af234dcfcee31f42",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Fleming_Pfaendter_metadynamics_JPCA_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016fleming-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016fleming-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

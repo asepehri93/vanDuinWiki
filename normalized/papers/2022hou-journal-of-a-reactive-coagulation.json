@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022hou-journal-of-a-reactive-coagulation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hou_Kraft_J_AerosolSci_2022.pdf",
+    "sha256": "b4622fcbd8633289b9b8f2186b2c8b1158d8f0cc283dee27fa031adf3289cfd5",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "On the reactive coagulation of incipient soot nanoparticles",
+    "year": 2022,
+    "authors": "Dingyu Hou",
+    "venue": "Journal of Aerosol Science, 159 (2022) 105866. doi:10.1016/j.jaerosci.2021.105866"
+  },
+  "pdf_path": "papers/ReaxFF_others/Hou_Kraft_J_AerosolSci_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022hou-journal-of-a-reactive-coagulation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022hou-journal-of-a-reactive-coagulation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

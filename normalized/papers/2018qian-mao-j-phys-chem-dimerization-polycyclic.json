@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018qian-mao-j-phys-chem-dimerization-polycyclic",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/QianMao_JPCA_2018_PAH_dimer.pdf",
+    "sha256": "b4a613e3bb6def6fa27a8899bf738b6ded83b32f21c839a742deb5b4dce15e4c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpca.8b07102",
+    "title": "Dimerization of Polycyclic Aromatic Hydrocarbon Molecules and Radicals under Flame Conditions",
+    "year": 2018,
+    "authors": "Qian Mao, Ding Yu Hou, Kai Hong Luo, and Xiaoqing You",
+    "venue": "J. Phys. Chem. A 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/QianMao_JPCA_2018_PAH_dimer.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018qian-mao-j-phys-chem-dimerization-polycyclic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3001
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018qian-mao-j-phys-chem-dimerization-polycyclic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

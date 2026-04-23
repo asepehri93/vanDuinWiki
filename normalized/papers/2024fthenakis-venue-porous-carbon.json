@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024fthenakis-venue-porous-carbon",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Fthenakis_CN_fullerenes_2024.pdf",
+    "sha256": "84d0caf8125a584651af300f7bdff9cf87f9e2b3721d835a62e91fc40ce9b351",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Porous carbon nitride fullerenes: a novel family of porous cage molecules",
+    "year": 2024,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Fthenakis_CN_fullerenes_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024fthenakis-venue-porous-carbon_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5565
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024fthenakis-venue-porous-carbon.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

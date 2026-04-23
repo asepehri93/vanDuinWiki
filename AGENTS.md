@@ -63,17 +63,24 @@ Operator steps, deterministic `paper_id` slug rules, and rerun policy are in [`d
 
 Large **domain** groupings live as ordinary **`concept` pages** in `wiki/concepts/` using a **`theme-`** filename prefix (example: `theme-oxides-silica-ceramics.md` → `id: concept:theme-oxides-silica-ceramics`). They exist to improve **Phase 0 connectivity** (papers linked from synthesis pages) and **MkDocs** navigation; each hub should list **representative `paper:`** slugs with `source_refs` grounding. The entry point **`wiki/concepts/themes-index.md`** (`concept:themes-index`) lists all theme hubs.
 
-**Recommended section template for theme hubs:**
+**Recommended section template for theme hubs** (order may vary slightly if a short *How organized* line helps navigation):
 
-1. **`!!! abstract` or lead** — Plain-language scope for **human readers** (no new uncited science).
-2. **`## Scope (in / out)`** — What the corpus does and does **not** promise.
-3. **`## Literature review (this knowledge base)`** — **Corpus-scoped** synthesis only: organize **existing** `[[paper-slug]]` links by subtopic, state explicitly that it is **not** a world literature review, and avoid claims not traceable to linked paper pages.
-4. **`## Debates, tensions, and cross-references`** — Wikilinks to `wiki/debates/`, other theme hubs, [[reaxff-family]], [[batteries-interfaces-reaxff]], etc.
-5. **`## Representative entry points`** (optional if redundant) — Short bullet list of slugs.
-6. **`## Methods and limitations`** — Honest limits of ReaxFF / MD for that domain.
-7. **`??? info "MAS / retrieval"`** — Stable `id`, tagging hints, when to refresh `source_refs` (machine-oriented).
+1. **`!!! abstract` or lead** — Fluent scope summary for **human readers** (no new uncited science).
+2. **`## Scope (in / out)`** — Boundaries; what the KB does **not** claim for this cluster.
+3. **`## How this theme is organized in the corpus`** *(optional, short)* — Roadmap of subsections or synonym/query hooks for retrieval.
+4. **`## Literature review (this knowledge base)`** — **Subheaded** corpus-scoped synthesis: organize **existing** `[[paper-slug]]` links by sub-theme; state explicitly that this is **not** a world literature review; avoid claims not traceable to linked paper pages or `source_refs`.
+5. **`## Analysis and cross-cutting patterns`** — Recurring mechanisms or comparisons **only** where cited paper notes support them; use cautious, evidence-tied language (hypothesis-style phrasing may reference `paper_id` in `source_refs`).
+6. **`## Debates, tensions, and limitations`** — Model limits, disagreements, transferability; wikilinks to `wiki/debates/`, [[reaxff-family]], adjacent theme hubs.
+7. **`## Gaps and open directions (corpus view)`** — What is **missing or thin in this KB** (not “unknown to science”); honest scope for MAS.
+8. **`## Methods and limitations`** — Domain MD / ReaxFF / sampling caveats reusable for agents.
+9. **`## Representative entry points`** *(optional)* — Short slug list for quick navigation.
+10. **`??? info "MAS / retrieval"`** — Stable `id`, tagging hints, when to refresh `source_refs` (machine-oriented).
+
+**Reactive MD vs ReaxFF training:** Method-themed hubs (reactive MD, QM/MM, rare-event workflows) should remain **retrieval-useful even when the question is not about force-field parameterization**—cross-link [[reaxff-family]] and [[protocols/reaxff-parameterization-workflow]] explicitly so “method” vs “FF lineage” queries disambiguate.
 
 Theme pages serve **two audiences**: a **MAS / retrieval** spine (structured `id`, `canonical_tags`, `source_refs`) and a **public** site—keep technical caveats in admonitions or “limitations” sections so the narrative stays readable.
+
+**Pre-writing artifact:** For large hub upgrades, store a per-hub analysis under `outputs/theme_plans/{hub-slug}.md` (inventory, sub-themes, section map, draft `source_refs`, corpus gaps) before or alongside prose edits—see [`docs/MASTER_PLAN.md`](docs/MASTER_PLAN.md) *Phase: rich papers + analysis-driven theme hubs*.
 
 ### Reader-facing layer (static site / GitHub Pages)
 
@@ -92,10 +99,97 @@ The same markdown is published via **MkDocs** (see `mkdocs.yml`). Conventions:
 ### Scientific claims must trace to publications (`paper` pages)
 
 - Prose in **`## Summary`**, **`## Methods`**, **`## Findings`**, and related sections must be **faithful summaries of the cited work** identified by `doi`, `title`, and `pdf_path` in front matter (and optional text in `normalized/extracts/` / `normalized/papers/` when those sources were used to draft the note).
+- **Source priority for detail:** When curating for retrieval and downstream automation, prioritize **primary sources** in this order: **version-of-record PDF** and **supporting information** under `papers/` (or `raw/papers/`) if present in the working tree, then **`normalized/extracts/{slug}_*.txt`**, then bibliography/DOI-only metadata. If the PDF/SI is **not** available locally, say so explicitly in **`## Methods`** or **`## Limitations`** and summarize only what the extract or stub allows—**do not** pad with generic MD jargon.
+
+#### Paper `## Methods` blueprint (mandatory; do not drift)
+
+Use **`## Methods`** as the **primary protocol narrative** for the publication. **Infer which block(s) below apply** from `canonical_tags`, `paper_keywords`, and the paper itself (many works need **both** “Force-field training” and “MD application”; static-QM-only papers use only the DFT block).
+
+**Legacy headings:** Older curation sometimes used **`A —` / `B —`** or **`§A`–`§D`** labels. Treat **FF / parametrization** prose as **block 2 (Force-field training)** and **production MD / sampling** prose as **block 1 (MD application)**; **static QM** maps to **block 3**. Rename headings over time if you touch a page—**not** required in one bulk pass.
+
+**Coverage rule:** For **every line item in each applicable block**, include **either** (i) what the authors report, **or** (ii) **`N/A — …`** with a short reason (*not used in this study*, *not stated in the indexed extract/PDF*, *see sibling slug for VOR protocol*, etc.). Do **not** leave items silently missing—that is how thin Methods creep back in.
+
+**Forbidden in `## Methods`:** Meta-instructions to future agents or readers belong in **`## Limitations`** or maintainer admonitions—**not** as a substitute for source-backed protocol text. Never paste **agent self-talk** where **`## Methods`** should describe **what the authors did**.
+
+---
+
+**1 — MD application (atomistic dynamics)** — when the paper reports **MD, AIMD, or reactive MD** (production or validation trajectories), address **in order** (sub-bullets or short paragraphs):
+
+1. **Engine / code** (e.g. LAMMPS, CP2K, VASP-AIMD, GROMACS).
+2. **System size & composition** (atom counts, stoichiometry, phases, key defects or interfaces).
+3. **Boundaries / periodicity** (PBC, fixed layers, walls, non-periodic directions if any).
+4. **Ensemble** (NVE, NVT, NPT, …).
+5. **Timestep**.
+6. **Duration / stages** (equilibration, production, multi-stage protocols, cycle counts such as ALD loops).
+7. **Thermostat** (type; **damping or time constant** if given).
+8. **Barostat** (**N/A** if strictly NVT/NVE without pressure control; else type and parameters).
+9. **Temperature** (ranges, ramps, annealing schedules).
+10. **Pressure** (or stress control; **N/A** if not used).
+11. **Electric field** (static / oscillating, direction, magnitude; **N/A** if not used).
+12. **Replica / enhanced sampling** (umbrella, metadynamics, replica exchange, etc.; **N/A** if not used).
+
+**Also when applicable (same N/A rule):** **Shear / strain rate** or **shock** (piston speed, Hugoniot); **electrostatics / cutoffs / long-range** and **ReaxFF QEq** update frequency if the paper specifies them.
+
+---
+
+**2 — Force-field training** — when the paper **fits, extends, or reoptimizes** a reactive or classical FF (including ReaxFF), address **in order**:
+
+1. **Parent FF / elements** (starting parameterization, elements, interaction classes).
+2. **QM reference** (program(s); **functional** / level; **basis**; **k-mesh** or cutoff conventions; charge/spin as reported).
+3. **Training set** (structures, reactions, phases; **target observables**: energies, charges, barriers, EOS, elastic data, etc.).
+4. **Optimization** (algorithm; **software**; **parameter-set identity** if ReaxFF; weights or objective if stated).
+5. **Reference data used if any** (which DFT/QM benchmarks, experiments, or prior FF data enter the fit or validation).
+
+---
+
+**3 — Static QM / DFT-only** — when **no** production MD is central but **DFT or static QM** is, address **in order**:
+
+1. **Functional** (and hybrid / meta-GGA if relevant).
+2. **Dispersion** (correction scheme or **N/A**).
+3. **Basis** (type and tier used in the paper).
+4. **k-sampling** (mesh density or equivalent).
+5. **Structures / pathways** (what geometries, reaction paths, or transition-state searches were computed).
+6. **Properties computed** (what was compared to experiment or used downstream).
+
+---
+
+**4 — Reviews, perspectives, or non-simulation studies:** **`## Methods`** describes **literature scope**, **comparison protocol**, or **experimental / continuum** methodology as given—**not** fabricated timesteps. Use **`N/A`** lines for MD/DFT blocks that do not apply.
+
+---
+
+#### Paper `## Findings` blueprint (mandatory)
+
+**`## Findings`** must answer **what the study concluded**, not restate Methods. Use **sub-bullets or short paragraphs** and cover **each applicable item** (same **content vs `N/A`** rule as Methods).
+
+**1 — Outcomes & mechanisms**
+
+- **Primary results** in plain language (what the system **does** under the conditions studied).
+- **Mechanistic attribution** (**what** changed, **where**: interface, bulk, defect, terrace, cluster—**as** the authors argue), with **numbers and units** whenever the source gives them.
+
+**2 — Comparisons**
+
+- **vs experiment**, **vs prior models**, or **vs other computational setups** when the paper makes those comparisons.
+
+**3 — Sensitivity & design levers**
+
+- **Trends with parameters** (e.g. temperature, coverage, field strength, precursor choice, cycle count, composition) when the paper discusses them.
+
+**4 — Limitations & outlook (as authored)**
+
+- **Limitations**, **failure modes**, or **uncertainties** the authors state (or clearly imply).
+- **Future work**, open questions, or next steps **they** propose—summarize here or in **`## Relevance`** if that fits the page flow.
+
+**5 — Corpus / KB honesty**
+
+- If the wiki page is **SI-only**, **galley**, or **extract-thin**, say what **cannot** be asserted from the indexed text and point to the **version-of-record** slug or PDF (**no** invented mechanisms).
+
+- **Mechanical floor:** Stage A still expects **≥ ~400 body words** and headings **`## Summary`**, **`## Methods`**, **`## Findings`** per [`scripts/report_paper_richness.py`](scripts/report_paper_richness.py); expansions must **increase protocol detail**, not generic filler.
 - **Do not** invent numerical results, barriers, or mechanisms that are not stated or clearly implied in those sources. When expanding prose for readability, **paraphrase** the publication (or extraction) rather than adding new chemistry.
 - **Navigation pages** (theme hubs, `paper-index-by-year`, search indexes) may list **metadata and links** without making new scientific assertions beyond what tags and titles encode.
 - Optional bulk assist: [`scripts/paper_page_refresh.py`](scripts/paper_page_refresh.py) renames legacy `## One-paragraph summary` → `## Summary` and may append **extract-derived** bullets under **`## Methods`** / **`### Additional results (article abstract)`** when `normalized/extracts/{slug}_p1-2.txt` parses cleanly (heuristic; operator-reviewed). [`scripts/strip_extract_supplements.py`](scripts/strip_extract_supplements.py) removes those append-only blocks. [`scripts/strip_paste_artifacts.py`](scripts/strip_paste_artifacts.py) removes common **PDF-extract tails** (`From the abstract:…`, `The article further notes that…`) that are not appropriate standalone website copy—run only when those artifacts appear. After **`corpus_profile.py`** or replacing PDFs in `papers/`, run [`scripts/sync_wiki_paper_frontmatter.py`](scripts/sync_wiki_paper_frontmatter.py) so wiki YAML **`pdf_sha256` / `pdf_path` / `extraction_quality`** match `normalized/papers/*.json`. After substantive paper-body edits, run `python3 scripts/build_chunks.py` so Phase 5 chunk IDs/text stay aligned (section headings participate in chunk hashing).
-- After bulk edits to `year` or `canonical_tags` across `wiki/papers/`, run `python3 scripts/generate_papers_indexes.py` to refresh [`wiki/concepts/paper-index-by-year.md`](wiki/concepts/paper-index-by-year.md) and [`wiki/concepts/paper-index-by-domain.md`](wiki/concepts/paper-index-by-domain.md).
+- After bulk edits to `year` or `canonical_tags` across `wiki/papers/`, run `python3 scripts/generate_papers_indexes.py` to refresh [`wiki/concepts/paper-index-by-year.md`](wiki/concepts/paper-index-by-year.md), [`wiki/concepts/paper-index-by-domain.md`](wiki/concepts/paper-index-by-domain.md), and [`wiki/javascripts/papers_corpus.json`](wiki/javascripts/papers_corpus.json) (used by the [paper corpus browser](wiki/concepts/paper-corpus-browser.md)). To remove mistaken verbatim extract paste blocks, use [`scripts/strip_verbatim_extract_blocks.py`](scripts/strip_verbatim_extract_blocks.py) (operator-only cleanup).
+- **Methods/Findings blueprint audit:** [`scripts/validate_paper_methods_blueprint.py`](scripts/validate_paper_methods_blueprint.py) emits [`outputs/paper_methods_blueprint_backlog.md`](outputs/paper_methods_blueprint_backlog.md) and optional `--write-batches` lists; per-slug check: `--check-slug SLUG` (exit **0** when clean).
+- **Final wiki quality pass (PDF-grounded prose):** Deterministic slug lists — `python3 scripts/write_quality_pass_batches.py` → `outputs/curation_batches/quality-final-wave{1–5}-part{01–15}-of-15.txt`. Sub-agent instructions: [`outputs/QUALITY_PASS_AGENT_BRIEF.md`](outputs/QUALITY_PASS_AGENT_BRIEF.md).
 
 ## ID conventions (stable)
 
@@ -181,6 +275,7 @@ Fields:
 | `pdf_path` | yes | string | Repo-relative path, e.g. `papers/foo.pdf`. |
 | `extraction_quality` | yes | enum | `good` \| `partial` \| `poor` \| `unknown`. |
 | `group_affiliation` | no | bool or string | Whether / how this work relates to the host group. |
+| `paper_keywords` | no | list[string] | Optional finer-grained facets for MAS retrieval, theme hubs, and benchmarks: each string is an `id` from [`taxonomy/paper_keywords.yml`](taxonomy/paper_keywords.yml). Prefer **3–12** entries that reflect this paper’s methods, system, and protocol (orthogonal to `canonical_tags`). Omit or use `[]` if not curated yet. |
 
 ### `concept` — additional fields
 
@@ -216,6 +311,7 @@ title: "Example title from metadata"
 updated: "2026-04-20"
 confidence: med
 canonical_tags: [domain:reaxff-lineage, method:reaxff, task:parameterization]
+paper_keywords: [keyword:reaxff-parameterization, keyword:qm-training-data]
 candidate_tags: []
 source_refs: []
 doi: "10.1063/5.0123456"
@@ -349,5 +445,6 @@ See [`.gitignore`](.gitignore) for optional ignore patterns (commented).
 - **Phase 3:** manifest + [`normalized/papers/*.json`](normalized/papers/) stubs (mechanical) — see [`docs/PHASE3_RUNBOOK.md`](docs/PHASE3_RUNBOOK.md).
 - **Phase 4:** **LLM-led** wiki compilation — narrative pages, tags, concepts, links; scripts at most validate or list files — see [`docs/PHASE4_RUNBOOK.md`](docs/PHASE4_RUNBOOK.md). Must conform to this document and taxonomy files.
 - **Phase 5:** `indexes/` population for hybrid retrieval — see [`docs/PHASE5_RUNBOOK.md`](docs/PHASE5_RUNBOOK.md) and [`indexes/README.md`](indexes/README.md).
+- **Phase 8:** **Public/export policy only** (what may ship publicly, redaction, PDF handling)—see [`docs/PHASE8_EXPORT.md`](docs/PHASE8_EXPORT.md). Theme expansion, debates, and retrieval tuning are **not** Phase 8; use [`docs/MASTER_PLAN.md`](docs/MASTER_PLAN.md) for the post-first-pass roadmap.
 
 When in doubt, prefer **provenance and stable ids** over prettier prose.

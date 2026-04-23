@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017min-venue-research",
+  "manifest": {
+    "source_path": "papers/Min_Protein_Gold_Langmuir_2017_proof.pdf",
+    "sha256": "11bb36fa72981b975cd681e5afe45e1e0cf97ef27641244ad20a1c8868c5d5c3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..10",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Min_Protein_Gold_Langmuir_2017_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017min-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017min-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011garcia-venue-superductile-wavy",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Garcia_Buehler_WavySilica_ABM_2011.pdf",
+    "sha256": "49684a19e1cf61872fa6b07d677231bc9ded4c147d4af4ee0b4878fdb42294cb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/adem.201080113",
+    "title": "Superductile, Wavy Silica Nanostructures Inspired by Diatom Algae",
+    "year": 2011,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Garcia_Buehler_WavySilica_ABM_2011.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011garcia-venue-superductile-wavy_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011garcia-venue-superductile-wavy.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

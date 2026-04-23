@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016susanna-venue-paper-2",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Monti_Cystein_Gold_JPC_Letter_SI_2016.pdf",
+    "sha256": "10a95e96d602f2e1ce2f5dcda288b1f439bf77ea8b27b422f41f19735db25e8e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2016,
+    "authors": "Susanna",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Monti_Cystein_Gold_JPC_Letter_SI_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016susanna-venue-paper-2_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2148
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016susanna-venue-paper-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

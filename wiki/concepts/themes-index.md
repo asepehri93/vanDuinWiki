@@ -2,7 +2,7 @@
 id: concept:themes-index
 type: concept
 title: "Browse by theme (corpus clusters)"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: high
 canonical_tags: [domain:methods-software, task:review]
 candidate_tags: []
@@ -19,7 +19,7 @@ source_refs: []
 
 Theme pages are **curated cross-paper views**: they do not replace individual paper entries; they group papers by **application domain** and **simulation methodology** so you can explore **clusters** before drilling into PDF-level detail.
 
-Each hub includes **`## Literature review (this knowledge base)`**: a **corpus-limited** synthesis built only from **linked paper notes** in this wiki (not a generic literature survey). **`## Debates, tensions, and cross-references`** points to [[transferability-reactive-ff]], [[reaxff-vs-mlip-accuracy]], and related theme pages. Maintainer-oriented hints sit in **`??? info "MAS / retrieval"`** blocks.
+Each hub includes **`## Literature review (this knowledge base)`**: a **corpus-limited** synthesis built only from **linked paper notes** in this wiki (not a generic literature survey). Newer hubs add **`## Analysis and cross-cutting patterns`** and **`## Gaps and open directions (corpus view)`** for evidence-tied synthesis. **`## Debates, tensions, and cross-references`** points to [[transferability-reactive-ff]], [[reaxff-vs-mlip-accuracy]], and related theme pages. Maintainer-oriented hints sit in **`??? info "MAS / retrieval"`** blocks.
 
 ## Theme hubs
 
@@ -28,10 +28,13 @@ Each hub includes **`## Literature review (this knowledge base)`**: a **corpus-l
 | [Oxides, silica & ceramics](theme-oxides-silica-ceramics.md) | SiOₓ, Al₂O₃, Ni–O oxidation, corrosion, oxide surfaces |
 | [Catalysis & reactive surfaces](theme-catalysis-surfaces.md) | Metal and oxide catalysts, SCR-style chemistry, surface reactions |
 | [Pyrolysis, combustion & organics](theme-pyrolysis-combustion-organics.md) | Coal models, hydrocarbon decomposition, high-T carbon chemistry |
+| [Fuels, flames & combustion](theme-combustion-flames-fuels.md) | Combustion-forward and flame-relevant C/H/O networks |
 | [Machine-learned atomistic potentials](theme-ml-atomistic-potentials.md) | Neural / JAX / Allegro-class alongside ReaxFF |
 | [Ferroelectrics & polar oxides](theme-ferroelectrics-polar-oxides.md) | BaTiO₃, perovskite-adjacent defects and switching |
 | [Porous solids, MOFs & zeolites](theme-porous-mof-zeolite.md) | ZIF, zeolite, glassy porous phases |
 | [Water, silica & geo-style interfaces](theme-water-silica-geo.md) | Aqueous films, clays, environmental mineral interfaces |
+| [2D materials, epitaxy & growth](theme-2d-epitaxy-growth.md) | TMDs, graphene stacks, MOCVD/CVD simulation threads |
+| [Reactive MD (method hub)](theme-reactive-md-corpus.md) | Bond-breaking MD across domains; not FF-parameterization lineage |
 
 ## Cross-cutting synthesis (also start here)
 
@@ -42,5 +45,6 @@ Each hub includes **`## Literature review (this knowledge base)`**: a **corpus-l
 ## Every paper (full lists)
 
 - [Papers overview](../papers/index.md) — how to browse.  
-- [All papers by year](paper-index-by-year.md) — complete table from front-matter `year`.  
+- [Paper corpus browser](paper-corpus-browser.md) — **sortable / filterable** table (year, domain, theme links, group filter, search).  
+- [All papers by year](paper-index-by-year.md) — complete static table from front-matter `year`.  
 - [All papers by domain tag](paper-index-by-domain.md) — grouped by first `domain:*` tag.

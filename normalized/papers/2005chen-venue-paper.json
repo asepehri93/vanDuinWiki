@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2005chen-venue-paper",
+  "manifest": {
+    "source_path": "papers/Chen_Lusk_Nanorings_PRB2005.pdf",
+    "sha256": "526290f66f3b836ea36bc4a29cc6f412eff4ac594e5807c86ba6ff124dbc8300",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevB.72.085416",
+    "title": null,
+    "year": 2005,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Chen_Lusk_Nanorings_PRB2005.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2005chen-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2005chen-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

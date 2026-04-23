@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022lingmei-ni-j-am-chem-so-identification-catalytically",
+  "manifest": {
+    "source_path": "papers/Others/Ni_Krewald_etal_Iron_carbon_catalyst_JACS_2022.pdf",
+    "sha256": "0e7e647dbf601156b8bd92f49ba737efbfd404b68f4218f7cd853b706a9d257b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Identification of the Catalytically Dominant Iron Environment in Iron- and Nitrogen-Doped Carbon Catalysts for the Oxygen Reduction Reaction",
+    "year": 2022,
+    "authors": "Lingmei Ni, Charlotte Gallenkamp, Stephan Wagner, Eckhard Bill, Vera Krewald, and Ulrike I. Kramm",
+    "venue": "J. Am. Chem. Soc. 2022.144:16827-16840"
+  },
+  "pdf_path": "papers/Others/Ni_Krewald_etal_Iron_carbon_catalyst_JACS_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022lingmei-ni-j-am-chem-so-identification-catalytically_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7112
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022lingmei-ni-j-am-chem-so-identification-catalytically.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

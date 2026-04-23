@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018micha-ka-ski-j-phys-chem-development-charge-implicit",
+  "manifest": {
+    "source_path": "papers/Kanski_Ashraf_JPC_letters_2018.pdf",
+    "sha256": "f6de14878c82da293001c78b31a0e4685db58cd8496c94c83c1176be6a20662c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of a Charge-Implicit ReaxFF Potential for Hydrocarbon Systems",
+    "year": 2018,
+    "authors": "Michał Kański, Dawid Maciążek, Zbigniew Postawa, Chowdhury M. Ashraf, Adri C. T. van Duin, and Barbara J. Garrison",
+    "venue": "J. Phys. Chem. Lett. 2018.9:359-363"
+  },
+  "pdf_path": "papers/Kanski_Ashraf_JPC_letters_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018micha-ka-ski-j-phys-chem-development-charge-implicit_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018micha-ka-ski-j-phys-chem-development-charge-implicit.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

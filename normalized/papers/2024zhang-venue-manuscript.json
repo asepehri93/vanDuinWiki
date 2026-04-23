@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024zhang-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Zhang_Yuwei_Al2O3_H2O_H2_JPCC_2024_galley.pdf",
+    "sha256": "08de552743849aeac0467246532e4b3316905c9c7f6d6acb0836b4db1b876719",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.4c04669",
+    "title": "manuscript 1..15",
+    "year": 2024,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Zhang_Yuwei_Al2O3_H2O_H2_JPCC_2024_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024zhang-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024zhang-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

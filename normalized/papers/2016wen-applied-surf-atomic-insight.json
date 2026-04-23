@@ -1,9 +1,9 @@
 {
   "paper_id": "paper:2016wen-applied-surf-atomic-insight",
   "manifest": {
-    "source_path": "papers/Wen_App_Surf_Sci_2016.pdf",
-    "sha256": "53e9ccead3abec2a8148296eda7f6f61325dca8c947d0e20f6540403c9550dd6",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "source_path": "papers/Jialin_Wen_AppSurfSci_2016.pdf",
+    "sha256": "db69d721bec0ceabd37290cd22b75ef5e89bd1f6b4d788ccdac0132f96357fec",
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -12,15 +12,15 @@
     "authors": "Jialin Wen",
     "venue": "Applied Surface Science, 390 (2016) 216-223. doi:10.1016/j.apsusc.2016.08.082"
   },
-  "pdf_path": "papers/Wen_App_Surf_Sci_2016.pdf",
+  "pdf_path": "papers/Jialin_Wen_AppSurfSci_2016.pdf",
   "extraction": {
     "text_path": "normalized/extracts/2016wen-applied-surf-atomic-insight_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2016wen-applied-surf-atomic-insight.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

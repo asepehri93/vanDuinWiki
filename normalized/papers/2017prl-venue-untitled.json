@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017prl-venue-untitled",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/PRL_relaxation2017_bauchy.pdf",
+    "sha256": "8875a0ac435402f0184c086b7e74a440e66ec5467571ec47dee70e8f40669c82",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevLett.119.035502",
+    "title": "untitled",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/PRL_relaxation2017_bauchy.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017prl-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017prl-venue-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

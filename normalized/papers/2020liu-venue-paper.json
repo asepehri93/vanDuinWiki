@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020liu-venue-paper",
+  "manifest": {
+    "source_path": "papers/Liu_JAmCerSoc_2020_vibrations_glass_galley.pdf",
+    "sha256": "5bc396c9dc3d6eef8a042d7472b96162df9389e66bcfb2cf1d22f71c97dbba8c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Liu_JAmCerSoc_2020_vibrations_glass_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020liu-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3057
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020liu-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

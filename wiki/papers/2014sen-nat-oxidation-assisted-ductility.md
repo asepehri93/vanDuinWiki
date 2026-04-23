@@ -42,8 +42,26 @@ Oxidation changes the mechanics of high surface-to-volume aluminium nanowires (N
 
 ## Methods
 
-- **Reactive MD (ReaxFF)** with charge transfer between aluminium and oxygen, applied to oxidized single-crystal Al NW models formed in high-pressure O\(_2\) at scaled room temperature, followed by tensile deformation at multiple strain rates in vacuum versus oxygen.
-- Experimental motivation from **TEM** of debris from hot stamping of AA5083 on steel, used to motivate core–shell NW morphology as a simulation starting point.
+### Reactive MD (Al/O ReaxFF)
+
+- **ReaxFF** **reactive MD** tracks **bond formation/breaking** and **dynamic charge redistribution** between **Al** and **O** in **oxidized aluminium nanowire** models (summary aligned with article framing).
+
+### Model construction and environmental coupling
+
+- **Single-crystal Al NW** geometries are **oxidized** in **high-pressure O\(_2\)** at a **scaled** **room-temperature** protocol to build an **amorphous oxide shell** around a metallic core (abstract-level description in wiki summary).
+- **Tensile** deformation is performed at **multiple strain rates** in **vacuum** versus **oxygen**-containing environments to separate **mechanical** and **oxidative** effects (summary).
+
+### Experimental motivation (not simulated atom-for-atom)
+
+- **TEM** images of **nanowire debris** from **hot stamping** of **AA5083** on **steel** motivate **core–shell** morphologies used as **qualitative** structural inspiration (summary).
+
+### Numerical settings
+
+- **System sizes, timestep, thermostat, and oxidation duration** are specified in the **Nat. Commun.** article; the corpus **extract** covers early pages only—do not infer **GPa/s** strain rates or **O₂** pressures from this wiki page alone.
+
+### 1 — MD application (ReaxFF on oxidized Al nanowires)
+
+**ReaxFF** **reactive molecular dynamics** is used to follow **bond formation/breaking** and **oxygen** transport in **oxidized aluminium nanowire** models under **tensile** loading. **Engine (LAMMPS vs other), explicit atom counts, PBC, timestep (fs), thermostat damping, total ps/ns trajectory, and barostat:** **N/A —** not reproduced from the short local extract—read **`pdf_path`** (`papers/Sen_Nature_Comm_2014.pdf`) Methods/SI. **Ensemble:** **NVT** is a common default for comparable **ReaxFF** tensile workflows but **N/A —** confirm per-stage labels in the article. **Strain rate / mechanical loading:** **tensile** tests at multiple **strain rates** in **vacuum** vs **oxygen** environments are part of the study design described at abstract level on this page. **Temperature:** **room-temperature**-scaled **oxidation** protocols are mentioned qualitatively in the wiki summary; numerical **K** set points — **N/A —** confirm in **`pdf_path`**. **Pressure / stress reporting:** **stress–strain** interpretation is central, but tensor **pressure** control details — **N/A —** confirm in **`pdf_path`**. **Electric field / enhanced sampling:** **N/A —** not indicated for these **oxidation**/**tensile** runs.
 
 ## Findings
 

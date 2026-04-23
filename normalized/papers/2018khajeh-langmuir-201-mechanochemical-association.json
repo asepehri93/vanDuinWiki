@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018khajeh-langmuir-201-mechanochemical-association",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Khajeh_Mechanochem_Langmuir_2018.pdf",
+    "sha256": "6c84bf921ece7535a63dd2b87bdfaf0a469878311ac9bbcb4dad29219928f9ae",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mechanochemical Association Reaction of Interfacial Molecules Driven by Shear",
+    "year": 2018,
+    "authors": "Arash Khajeh; Xin He; Jejoon Yeon; Seong H. Kim; Ashlie Martini",
+    "venue": "Langmuir 2018.34:5971-5977"
+  },
+  "pdf_path": "papers/ReaxFF_others/Khajeh_Mechanochem_Langmuir_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018khajeh-langmuir-201-mechanochemical-association_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018khajeh-langmuir-201-mechanochemical-association.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

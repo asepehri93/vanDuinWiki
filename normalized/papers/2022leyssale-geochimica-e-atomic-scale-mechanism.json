@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022leyssale-geochimica-e-atomic-scale-mechanism",
+  "manifest": {
+    "source_path": "papers/Leyssale_GCA_2022_carbon_nucleation.pdf",
+    "sha256": "4bab9a24e14c2086572a43b9cee5305c0a971256282a8b7669e23f877a43f312",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.gca.2022.04.024",
+    "title": "Atomic-scale mechanism of carbon nucleation from a deep crustal fluid by replica exchange reactive molecular dynamics simulation",
+    "year": 2022,
+    "authors": "Jean-Marc Leyssale",
+    "venue": "Geochimica et Cosmochimica Acta, 329 (2022) 106-118. doi:10.1016/j.gca.2022.04.024"
+  },
+  "pdf_path": "papers/Leyssale_GCA_2022_carbon_nucleation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022leyssale-geochimica-e-atomic-scale-mechanism_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022leyssale-geochimica-e-atomic-scale-mechanism.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

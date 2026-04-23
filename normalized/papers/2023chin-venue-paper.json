@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023chin-venue-paper",
+  "manifest": {
+    "source_path": "papers/Chin_Garten_Nanoscale_2023_SnSe_proof.pdf",
+    "sha256": "c5a5cd7051d02c4ca57ca875b6d1caf0bbe2a9804ebbca2b3a9d9463085418dc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2023,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Chin_Garten_Nanoscale_2023_SnSe_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023chin-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2860
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023chin-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018medinaramos-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/MedinaRamoS_ChemMat_2018_SI.pdf",
+    "sha256": "deb6cbad92ee2b15afe3c8aad82d67b65733b6d935d24cd748836e231e4f387d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - 2680485_File000005_47254175.docx",
+    "year": 2018,
+    "authors": " ",
+    "venue": null
+  },
+  "pdf_path": "papers/MedinaRamoS_ChemMat_2018_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018medinaramos-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2553
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018medinaramos-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

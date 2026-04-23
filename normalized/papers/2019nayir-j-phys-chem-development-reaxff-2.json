@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Nayir_JPC_C_SiOx_2019.pdf",
     "sha256": "e83be92a076307cb250a2862abfbcfc690943f4398b88fd38eab3318eec84ad8",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2019nayir-j-phys-chem-development-reaxff-2_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2019nayir-j-phys-chem-development-reaxff-2.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

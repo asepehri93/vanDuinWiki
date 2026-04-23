@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20230000-0002-4731-7051-x-effect-electrode",
+  "manifest": {
+    "source_path": "papers/Tsai_Ganeshan_Gao_ACS_AMI_2023_Birnessite_galley.pdf",
+    "sha256": "cfb934cbc06ee13572f34fda13a77ab06eacf4e064a05297f55d495063729bac",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.3c02055",
+    "title": "Effect of Electrode/Electrolyte Coupling on Birnessite (δ-MnO2) Mechanical Response and Degradation",
+    "year": 2023,
+    "authors": "Wan-Yu Tsai (ORCID: 0000-0002-4731-7051)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Tsai_Ganeshan_Gao_ACS_AMI_2023_Birnessite_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20230000-0002-4731-7051-x-effect-electrode_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7829
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20230000-0002-4731-7051-x-effect-electrode.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

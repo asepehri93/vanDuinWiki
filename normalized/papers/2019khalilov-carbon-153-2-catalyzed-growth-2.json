@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019khalilov-carbon-153-2-catalyzed-growth-2",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Umedjon_Ni_catalysis_CNT_growth_Carbon_2019.pdf",
+    "sha256": "a94849e74fd7455a72c4261af10a41c2152c9832872f2c29d55b4adb1fe75f44",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Catalyzed growth of encapsulated carbyne",
+    "year": 2019,
+    "authors": "Umedjon Khalilov",
+    "venue": "Carbon, 153 (2019) 1-5. doi:10.1016/j.carbon.2019.06.110"
+  },
+  "pdf_path": "papers/ReaxFF_others/Umedjon_Ni_catalysis_CNT_growth_Carbon_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019khalilov-carbon-153-2-catalyzed-growth-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019khalilov-carbon-153-2-catalyzed-growth-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

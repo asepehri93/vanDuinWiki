@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014cheng-venue-ja5037258",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Cheng_Jaramillo_JACS_BondBoost.pdf",
+    "sha256": "a1197d04028bf07abe1c63ef06cf2415bb9cb78a4dc344cb9b3521619f7f8369",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ja5037258 1..9",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Cheng_Jaramillo_JACS_BondBoost.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014cheng-venue-ja5037258_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014cheng-venue-ja5037258.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

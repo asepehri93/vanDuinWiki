@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Zhang_ChemMat_2020_SI.pdf",
     "sha256": "9528c4fed888d897a3f20fce194828d8feaed89ce9f66b9d6e0d2f1dc3327618",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2020zhang-venue-si-rev2_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 1214
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2020zhang-venue-si-rev2.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013yue-venue-jp406360u",
+  "manifest": {
+    "source_path": "papers/Yue_Ma_Yeon_JPCC_tribochemistry_2013.pdf",
+    "sha256": "ab97b77378ac06d1eb14d9a50d461735a759925666ead94223887f8b15b4c6f1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp406360u 1..11",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Yue_Ma_Yeon_JPCC_tribochemistry_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013yue-venue-jp406360u_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013yue-venue-jp406360u.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024leonhard-int-j-of-che-reaction-path",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Leonhard_Group_Int J of Chemical Kinetics - 2024 - Schmalz - Reaction path identification and validation from molecular dynamics.pdf",
+    "sha256": "79d18c75d796f6b50ff332388aef02374fe59d59065b7d3549f352297dfd5451",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/kin.21719",
+    "title": "Reaction path identification and validation from molecular dynamics simulations of hydrocarbon pyrolysis",
+    "year": 2024,
+    "authors": null,
+    "venue": "Int J of Chemical Kinetics 2024.56:501-512"
+  },
+  "pdf_path": "papers/ReaxFF_others/Leonhard_Group_Int J of Chemical Kinetics - 2024 - Schmalz - Reaction path identification and validation from molecular dynamics.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024leonhard-int-j-of-che-reaction-path_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024leonhard-int-j-of-che-reaction-path.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

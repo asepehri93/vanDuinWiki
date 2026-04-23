@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014warrier-gnuplot-plot-budizenrdxengyfit-eps",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Interatomic potentials for MD J phys conf proc 377(2012)01200.pdf",
+    "sha256": "b12b8d138adc8f61e736d8dd2a606ca588781faacd243233e77593d9e2ba095d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/1742-6596/377/1/012100",
+    "title": "BudizenRDXEngyFit_300K.eps",
+    "year": 2014,
+    "authors": "Manoj Warrier",
+    "venue": "gnuplot plot"
+  },
+  "pdf_path": "papers/ReaxFF_others/Interatomic potentials for MD J phys conf proc 377(2012)01200.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014warrier-gnuplot-plot-budizenrdxengyfit-eps_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3673
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014warrier-gnuplot-plot-budizenrdxengyfit-eps.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

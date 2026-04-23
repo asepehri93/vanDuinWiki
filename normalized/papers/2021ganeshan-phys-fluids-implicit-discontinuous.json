@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021ganeshan-phys-fluids-implicit-discontinuous",
+  "manifest": {
+    "source_path": "papers/Others/Ganeshan_Williams_PhysicsofFluids_2021.pdf",
+    "sha256": "1c270ff97eb5acf5dc693acdef8cc3d3611f3a584e6ca65a3a9da30b344a6652",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0041636",
+    "title": "An implicit discontinuous Galerkin finite element discrete Boltzmann method for high Knudsen number flows",
+    "year": 2021,
+    "authors": "Karthik Ganeshan",
+    "venue": "Phys. Fluids.2021.33:032019"
+  },
+  "pdf_path": "papers/Others/Ganeshan_Williams_PhysicsofFluids_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021ganeshan-phys-fluids-implicit-discontinuous_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5576
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021ganeshan-phys-fluids-implicit-discontinuous.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

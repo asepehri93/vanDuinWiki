@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014huygh-computationa-development-reaxff",
+  "manifest": {
+    "source_path": "papers/Huygh_CompMatSci_TiO2_defect_2014.pdf",
+    "sha256": "37ccdd401c2b8a269bd685767dad3e2f21b4efb24a2b0f793e7c50bbbfea31c2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.commatsci.2014.07.056",
+    "title": "Development of a ReaxFF reactive force field for intrinsic point defects in titanium dioxide",
+    "year": 2014,
+    "authors": ["Huygh, Stijn", "Bogaerts, Annemie", "van Duin, Adri C. T.", "Neyts, Erik C."],
+    "venue": "Computational Materials Science"
+  },
+  "pdf_path": "papers/Huygh_CompMatSci_TiO2_defect_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014huygh-computationa-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014huygh-computationa-development-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

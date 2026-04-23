@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020rajabpour-venue-paper",
+  "manifest": {
+    "source_path": "papers/Rajabpour_Carbon_2020_lowT_carbonization_galley.pdf",
+    "sha256": "dc68f6f76f3290a419a4f729a9bb44fa37753cdc133b5a8ed367540f14e0a3e0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Rajabpour_Carbon_2020_lowT_carbonization_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020rajabpour-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020rajabpour-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

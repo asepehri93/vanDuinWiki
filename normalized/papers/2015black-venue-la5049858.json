@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015black-venue-la5049858",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Black_Langmuir_2015.pdf",
+    "sha256": "7ece766648d756f2bbda45f01537a3a8aab9c2eeab49e16ab05b6d313f9d8c98",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "la5049858 1..8",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Black_Langmuir_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015black-venue-la5049858_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015black-venue-la5049858.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

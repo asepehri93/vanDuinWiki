@@ -3,7 +3,7 @@ id: paper:2009auger-venue-paper
 type: paper
 title: "Mechanisms of Auger-induced chemistry derived from wave packet dynamics"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags: [domain:carbon-hydrocarbon, domain:methods-software, method:reactive-md-generic, scale:atomistic, task:application]
 candidate_tags: []
 source_refs: []
@@ -33,39 +33,27 @@ This PNAS contribution uses the **electron force field (eFF)**—a dynamics mode
 
 ## Methods
 
-The electron force field (eFF) treats valence and core electrons as spherical Gaussian wave packets coupled to classical nuclei; a Pauli term enforces exclusion between wave packets. Parameters reproduce small-molecule ground-state data in the source article. Simulations focus on a hydrogen-terminated diamond nanoparticle C\(_{197}\)H\(_{112}\), with selective core ionization at the surface and at subsurface depths to separate distance-dependent relaxation and desorption behavior.
+**Model system and scientific question.** The study applies the **electron force field (eFF)** to a hydrogen-terminated diamondoid cluster **C\(_{197}\)H\(_{112}\)** (Fig. 1A in the article). Core electrons are **selectively ionized** at the **surface** and at **variable depths below the surface** so the authors can compare how **relaxation distance** and **energy flow** influence **which atomic species desorb**.
 
-<!-- enrich-from-extract:v2 -->
+**eFF dynamics (QM-inspired wave-packet + nuclear dynamics).** In eFF, **valence and core electrons** are represented as **spherical Gaussian wave packets** with variable **positions**, **sizes**, and **momenta**, while **nuclei** move as **classical** charges in the mean field of the electrons. A **Pauli exclusion** potential between wave packets is parameterized (three parameters) to reproduce **ground-state geometries** of small molecules such as **CH\(_4\)**, **C\(_2\)H\(_6\)**, **LiH**, and **B\(_2\)H\(_6\)**; the same parameter set is used for all electrons and systems in the excerpted description. The Hamiltonian includes **electrostatics**, **electron kinetic** terms that penalize overly compact Gaussians, and the Pauli term (see the article’s Materials and Methods for the full energy expression). **Effective electron mass** \(m_{\mathrm{elec}}\) can be varied; the excerpt reports **multiple fixed** \(m_{\mathrm{elec}}\) choices to probe time scaling while preserving the **sequence of events** (core-hole filling, secondary electron ejection, subsequent excitation).
 
-- In our simple model, we account for the possible variation ofm elec by performing simulations for multiple ﬁxed melec .
-- The Pauli potential is a function of the overlap between electrons, as well as their respec- tive sizes, and contains three parameters set to reproduce the ground-state geometries of small molecules such as CH 4,C 2H6, LiH, and B 2H6.
-- For diamond and hydrocarbons, the eFF Pauli potential causes the electrons to segregate naturally into core and valence shells, with electron density proﬁles similar to density functional theory (Fig. 1 B).
-- (B) Comparison of electron densities between eFF and density functional theory (B3LYP/6-311g**) along a carbon–hydrogen bond in methane, and along a carbon–carbon bond in ethane. electrons, only one (green) wins; the others bounce away from the now-ﬁlled core.
-- We report now the application of eFF to study Auger processes in a hydrogenated diamond nanoparticle C 197H112 (Fig. 1A).
-- In the Auger process, ionization of a core electron leads to the collapse of a valence electron into the core hole, together with the ejection of another valence electron, all over several femtoseconds (5).
-- Dur- ing and after this time, secondary processes occur, causing protons, hydrides, and other species to desorb from hydrogen-terminated surfaces (1).
-- We study the coupled electron-nuclear dynamics of both the primary Auger and accompanying secondary processes, ionizing core electrons both at the diamondoid surface and at dif- ferent depths below the surface.
-- In this way, we determine how the distance over which an Auger excitation relaxes and propa- gates affects the energies of electrons and composition of atomic species desorbed from the surface.
-- In eFF , all electrons, valence and core, are modeled as spherical Gaussian wave packets: /Psi1(r) ∝ ∏ i exp [ − ( 1 s2 i − 2ps,i si i ) (r − xi)2 ] · exp[ipx,i · r], while nuclei are modeled as classical charged particles moving in the mean ﬁeld of the electrons.
+**1 — MD application (classical production MD checklist).** This is **not** a classical fixed-charge or ReaxFF MD benchmark. **N/A — classical timestep, thermostat/barostat, PBC supercell vectors, and NVE/NVT/NPT control** are not the organizing variables in the indexed pages; integration details beyond the eFF equations belong in the full **PNAS** PDF. **N/A — hydrostatic pressure / stress tensor control** for the nanoparticle studies. **N/A — external electric field** as a controlled MD bias. **N/A — umbrella / metadynamics / replica exchange**. **Femtosecond-scale** dynamics are discussed for **Auger** primary steps.
 
+**2 — Force-field training.** **N/A —** eFF is a distinct model class from empirical **bond-order/ReaxFF** fits; training/validation against **HF**/**DFT** references is discussed qualitatively in the excerpt (e.g. **B3LYP/6-311G\*\*** electron-density comparisons along **C–H** and **C–C** bonds in **methane/ethane**).
+
+**3 — Static QM / DFT-only block.** **N/A —** DFT appears as a **reference** for ground-state densities/energies, not as the main dynamics engine for the large nanoparticle trajectories excerpted here.
+
+**Checklist closure (indexed pages).** **Engine / workflow:** the model is positioned as comparable in spirit to tools used for **classical molecular dynamics**, but implemented as **eFF wave-packet dynamics** (not a named MD package here). **Duration / stages:** primary Auger events are discussed on **femtosecond** scales with follow-on dynamics illustrated to **~50 fs** (**~0.05 ps**). **Temperature:** **300 K** appears for the quoted **CH\(_4\)** core-hole lifetime statistics in the excerpt.
 
 ## Findings
 
-Surface versus subsurface core ionization produces qualitatively different desorption channels: direct Auger-related emission versus heating-driven emission of hydrides and related species, discussed in relation to photon-stimulated desorption experiments. Illustrative trajectories show femtosecond-scale core-hole filling, secondary electron ejection, and subsequent bond rearrangement leading to chemical desorption.
+**Primary mechanistic distinction.** **Surface** core ionizations tend to drive **fragment and proton emission** through a **direct Auger** picture, whereas **deeper** core ionizations lead to **hydride** emission via **“remote heating,”** described as **consistent with photon-stimulated desorption** literature cited in the abstract.
 
-### Additional results (article abstract)
+**Illustrative excited-state trajectory content (indexed pages).** For a **C\(_{196}\)H\(_{112}\)** illustration, a **core-hole** configuration evolves within **femtoseconds** toward a **two-valence-hole** situation; one electron can depart as an **Auger electron**, be **re-trapped ~3 Å** away after about **20 fs**, and dissipate energy into the remaining electronic bath, while other electrons remain **highly excited** after **50 fs** in the quoted figure narrative.
 
-- The positions xi and sizes si of the electrons are continuously variable, giving them the ﬂexibility to participate in covalent, ionic, multicenter, and even metallic bond- ing; p x,i and ps,i are the corresponding conjugate momenta.
-- The parameters are the same for all electrons, and for all systems studied (4). eFF may be viewed as an elaboration of fermionic molecu- lar dynamics methods (7, 8), using a Pauli potential accurate enough that condensed systems with Z > 1 can be described; or as an approximate and time-dependent version of ab initio ﬂoat- ing spherical Gaussian orbital (FSGO) theory (9), with exchange energy estimated as a pairwise sum.
-- Fig. 2 shows for a C 196H112 nanoparticle the dynamics of a core hole state evolving continuously into a two valence hole state.
-- One electron (red) feels the strongest repulsion, causing it to break free as an Auger electron, only to be trapped 20 fs later in the particle ∼ 3 Å away, with its energy dissipated among the other electrons of the solid (not shown in the ﬁgure).
-- Results Ground states may be obtained from damped electron dynamics, or more efﬁciently by minimizing the overall energy with respect to the electron parameters.
-- Potential energies of eFF electrons may be compared with the energies of Hartree–Fock (HF) Boys-localized orbitals: for the 1 s, CH, and CC electrons of ethane, we have from eFF 237, 13.8, and 17.7 eV and from HF 305, 17.5, and 18.5 eV .
-- Hence, CC electrons are properly bound, but CH and core electrons are underbound by ∼ 20%, probably from the limited ability of single Gaussian functions to form cusps at nuclear centers (for H atom this leads to an error of 15%).
-- At time zero, a 1s electron with down spin is removed from the central carbon of the nanoparticle, which induces the down-spin electrons in the surrounding bonds to race inward to ﬁll the hole.
-- Of the four Author contributions: J.T.S. and W.A.G. designed research; J.T.S. performed research; and J.T.S. and W.A.G. wrote the paper.
-- The authors declare no conﬂict of interest. 1 To whom correspondence should be addressed.
+**Model validation snippets.** Ground states can be obtained by **damped electron dynamics** or **direct minimization** over electron parameters. **eFF vs HF (Boys-localized)** potential energies for **ethane** valence/core-like assignments are quoted in the text (e.g. **237, 13.8, 17.7 eV** from eFF vs **305, 17.5, 18.5 eV** from HF for the 1s/CH/CC-like entries as printed), with the authors noting **~20% underbinding** for CH/core channels attributed partly to **Gaussian cusp limitations**.
 
+**Corpus honesty.** Statements here track **`pdf_path`** and `normalized/extracts/2009auger-venue-paper_p1-2.txt` (early article + partial Results). **Materials and Methods** integration parameters, statistics over large trajectory ensembles, and PSD quantitative comparisons require the **full PDF**.
 
 ## Limitations
 

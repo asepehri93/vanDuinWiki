@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018joseph-p-abrahamson-the-earliest-trajectories-graphitizable",
+  "manifest": {
+    "source_path": "papers/Abrahamson_J_Carb_Res_2018.pdf",
+    "sha256": "fd700278b5d85b3989f4c46715e1e24123a6875cf2b8d374dc77090da7c36136",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.3390/c4020036",
+    "title": "Trajectories of Graphitizable Anthracene Coke and Non-Graphitizable Sucrose Char during the Earliest Stages of Annealing by Rapid CO2 Laser Heating",
+    "year": 2018,
+    "authors": "Joseph P. Abrahamson, Abhishek Jain, Adri C. T. van Duin and Randy L. Vander Wal",
+    "venue": "The earliest stages of annealing of graphitizable anthracene coke and non-graphitizable sucrose char were observed by rapid heating with a CO2 laser. Structural transformations were observed with transmission electron microscopy. Anthracene coke and sucrose char were laser heated to 1200 C and 2600 C for 0.25–300 s. The transformations are compared to traditional furnace heating at matching temperatures for a 1 h duration. Traditional furnace and CO2 laser annealing followed the same pathway, based upon equivalent end structures. Graphitizable anthracene coke annealed faster than non-graphitizable sucrose char. Sucrose char passed through a structural state of completely closed shell nanoparticles that opened upon additional heat treatment and gave rise to the irregular pore structure found in the end product. The observed curvature in sucrose char annealed at 2600 C results from shell opening. The initial presence of curvature and loss by heat treatment argues that odd membered rings are present initially and not formed upon heat treatment. Thus, odd membered rings are not manufactured during the annealing process due to impinging growth of stacks, but are likely present in the starting structure. The observed unraveling of the closed shell structure was simulated with ReaxFF."
+  },
+  "pdf_path": "papers/Abrahamson_J_Carb_Res_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018joseph-p-abrahamson-the-earliest-trajectories-graphitizable_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7374
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018joseph-p-abrahamson-the-earliest-trajectories-graphitizable.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

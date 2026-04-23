@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020seong-soon-jo-nano-lett-0-nl0c03263",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Jo_Sungwook_acs.nanolett_2020_ZrSSe_MoS2.pdf",
+    "sha256": "f7d6ecdaab64ceb28935c3252cc4cadb0adea1dae20580fe7cfa6b9e5b4409ed",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.nanolett.0c03263",
+    "title": "nl0c03263 1..8",
+    "year": 2020,
+    "authors": "Seong Soon Jo, Akshay Singh, Liqiu Yang, Subodh C. Tiwari, Sungwook Hong, Aravind Krishnamoorthy, Maria Gabriela Sales, Sean M. Oliver, Joshua Fox, Randal L. Cavalero, David W. Snyder, Patrick M. Vora, Stephen J. McDonnell, Priya Vashishta, Rajiv K. Kalia, Aiichiro Nakano, and R. Jaramillo",
+    "venue": "Nano Lett. 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/Jo_Sungwook_acs.nanolett_2020_ZrSSe_MoS2.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020seong-soon-jo-nano-lett-0-nl0c03263_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7580
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020seong-soon-jo-nano-lett-0-nl0c03263.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

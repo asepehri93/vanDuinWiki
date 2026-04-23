@@ -40,11 +40,34 @@ All-atom molecular dynamics on a simplified mucus model estimates water/mucus pa
 
 ## Methods
 
-MD with simplified mucin representation; comparison of freshwater and saltwater environments; partition defined via Nernst-style concentration ratios discussed in introduction (extract pages 1–2).
+Grounding: `papers/Rygg_PLOSone_2013.pdf`; `normalized/extracts/2013rygg-venue-pone_p1-2.txt` (abstract + start of Methods / model description).
+
+### 1 — MD application (all-atom MD; simplified mucus model)
+
+- **Engine / code:** **Molecular dynamics simulations** are used (abstract). The **MD package** is **not named** on the indexed excerpt pages (`normalized/extracts/2013rygg-venue-pone_p1-2.txt`).
+- **System size & composition:** The study uses a **simplified molecular model of olfactory mucus** to compute **water/mucus partition coefficients** for **alanine, glycine, cysteine, and valine** feeding stimulants (abstract). **Atom counts** are **not stated** on p1–2.
+- **Electrolyte / environment:** Both **fresh water** and **salt water** environments are considered (abstract). The introduction discusses **ion-mediated interactions** between **salt ions**, **odorants**, and **mucin** as part of the partitioning story (extract).
+- **Boundaries / periodicity:** N/A — **PBC details** are **not stated** on the indexed excerpt pages.
+- **Ensemble:** **NVT** equilibration at **300 K** followed by **NPT** equilibration at **1 bar** and **300 K**, then production **NPT** at **1 bar** and **300 K** (`papers/Rygg_PLOSone_2013.pdf`, Methods excerpt extracted from PDF text).
+- **Timestep:** N/A — **not stated** on the indexed excerpt pages.
+- **Duration / stages:** N/A — **not stated** on the indexed excerpt pages.
+- **Thermostat / barostat:** N/A — **not stated** on the indexed excerpt pages.
+- **Temperature:** N/A — explicit **simulation temperature(s)** are **not stated** on the indexed excerpt pages.
+- **Pressure:** N/A.
+- **Electric field:** N/A.
+- **Replica / enhanced sampling:** N/A.
+
+### 2 — Force-field training
+
+N/A — **classical all-atom MD** with a **reduced mucus model** (not a ReaxFF parametrization paper).
 
 ## Findings
 
-Abstract summarizes mucus preference in fresh water, reversal in salt water, correlation with hydrophobicity, and the conclusion that fish underwater olfaction likely lacks large chromatographic separation compared to terrestrial nasal deposition.
+- **Outcomes & mechanisms:** In **fresh water**, all four amino acids **prefer mucus over bulk water**, with partition coefficient trends linked to **hydrophobicity** (abstract). In **salt water**, partitioning **reverses** so stimulants (**except glycine**) prefer **water over mucus**, attributed to **ion–odorant** and **ion–mucin** interactions (abstract).
+- **Comparisons:** Contrasts **water/mucus** partitioning spreads (**~one order of magnitude**) with **air/mucus** spans that can reach **~six orders of magnitude** in mammalian discussions (abstract).
+- **Sensitivity / design levers:** **Fresh vs salt** solvent environment is the primary comparative axis in the abstract framing.
+- **Limitations & outlook:** The abstract argues this argues against **strong spatial chromatography** for fish olfaction versus terrestrial nasal chromatography narratives, consistent with reported **lack of spatial ORN organization** in fish epithelium (abstract).
+- **Corpus honesty:** Indexed excerpt includes **model formulation start** but not full **force field, thermostat, or run-length** tables; read **`pdf_path`** Methods for reproducibility.
 
 ## Limitations
 

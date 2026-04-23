@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018yi-doi-10-1103-what-drives",
+  "manifest": {
+    "source_path": "papers/Others/Cu_Graphene_Ding_PhysRevLett.120.246101.pdf",
+    "sha256": "2fd79f7b7be965d1581491773064d5918635e1678ab06a8fea87893cd0c0e19f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevLett.120.246101",
+    "title": "What Drives Metal-Surface Step Bunching in Graphene Chemical Vapor Deposition?",
+    "year": 2018,
+    "authors": "Ding Yi",
+    "venue": "doi:10.1103/PhysRevLett.120.246101 url:https://doi.org/10.1103/PhysRevLett.120.246101"
+  },
+  "pdf_path": "papers/Others/Cu_Graphene_Ding_PhysRevLett.120.246101.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018yi-doi-10-1103-what-drives_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018yi-doi-10-1103-what-drives.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

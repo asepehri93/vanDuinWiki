@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014golkaram-venue-jp-2014-07915j",
+  "manifest": {
+    "source_path": "papers/Golkaram_JPCB_Helix_2014_proof.pdf",
+    "sha256": "091c599284c6f30cfd71e0e562b168b6980da33d7f443a873883159a29d713ce",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp507915j",
+    "title": "Reactive molecular dynamics study of the pH-dependent dynamic structure of α-helix",
+    "year": 2014,
+    "authors": ["Golkaram, M.", "Shin, Y. K.", "van Duin, A. C. T."],
+    "venue": "Journal of Physical Chemistry B"
+  },
+  "pdf_path": "papers/Golkaram_JPCB_Helix_2014_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014golkaram-venue-jp-2014-07915j_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014golkaram-venue-jp-2014-07915j.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

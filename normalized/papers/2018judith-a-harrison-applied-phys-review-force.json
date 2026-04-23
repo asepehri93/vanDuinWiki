@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018judith-a-harrison-applied-phys-review-force",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Harrison_review_APL_2018.pdf",
+    "sha256": "5cf16a61dbb01700e2624f388263bfcdee88910f5855830a28825978950c0c8a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5020808",
+    "title": "Review of force fields and intermolecular potentials used in atomistic computational materials research",
+    "year": 2018,
+    "authors": "Judith A. Harrison, J. David Schall, Sabina Maskey, Paul T. Mikulski, M. Todd Knippenberg, Brian H. Morrow",
+    "venue": "Applied Physics Reviews 2018.5:031104"
+  },
+  "pdf_path": "papers/ReaxFF_others/Harrison_review_APL_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018judith-a-harrison-applied-phys-review-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4997
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018judith-a-harrison-applied-phys-review-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

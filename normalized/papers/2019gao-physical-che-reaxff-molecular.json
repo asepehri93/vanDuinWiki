@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019gao-physical-che-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Gao_PCCP_binder_jetting_3D_printing.pdf",
+    "sha256": "7ac67901a4d416a1e46b6b2575cacbc0a28f7e5f09be986d9f64a71d888611ea",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c9cp03585k",
+    "title": "A ReaxFF molecular dynamics study of molecular-level interactions during binder jetting 3D-printing",
+    "year": 2019,
+    "authors": "Yawei Gao",
+    "venue": "Physical Chemistry Chemical Physics (2019), 21, 21517-21529, doi:10.1039/C9CP03585K"
+  },
+  "pdf_path": "papers/Gao_PCCP_binder_jetting_3D_printing.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019gao-physical-che-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019gao-physical-che-reaxff-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

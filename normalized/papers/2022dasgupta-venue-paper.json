@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022dasgupta-venue-paper",
+  "manifest": {
+    "source_path": "papers/Dasgupta_PCCP_carbonates_2022_galley.pdf",
+    "sha256": "8889b438a6fdb286bc16d71ebfc6119b92488b1bd86643e06490b8445e082792",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2022,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Dasgupta_PCCP_carbonates_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022dasgupta-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3095
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022dasgupta-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

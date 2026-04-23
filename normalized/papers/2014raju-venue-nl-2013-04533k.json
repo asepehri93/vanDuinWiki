@@ -1,0 +1,30 @@
+{
+ "paper_id": "paper:2014raju-venue-nl-2013-04533k",
+ "manifest": {
+  "source_path": "papers/Raju_NanoLetters_2014_proof.pdf",
+  "sha256": "590862995c463cf374a81dcd8341f2d8bb1bacd45a50c9ce3058e2600e5c7dfb",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1021/nl404533k",
+  "title": "Mechanisms of oriented attachment of TiO2 nanocrystals in vacuum and humid environments: reactive molecular dynamics",
+  "year": 2014,
+  "authors": [
+   "Muralikrishna Raju",
+   "Adri C. T. van Duin",
+   "Kristen A. Fichthorn"
+  ],
+  "venue": "Nano Letters"
+ },
+ "pdf_path": "papers/Raju_NanoLetters_2014_proof.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014raju-venue-nl-2013-04533k_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014raju-venue-nl-2013-04533k.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

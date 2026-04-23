@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016hong-venue-research",
+  "manifest": {
+    "source_path": "papers/Hong_AlCOx_JPCC_2016_proof.pdf",
+    "sha256": "abc115674b2b3d76434bd4137d45da194ca9a541a11e5e66b6f9f6aa425d0539",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..11",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Hong_AlCOx_JPCC_2016_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016hong-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016hong-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

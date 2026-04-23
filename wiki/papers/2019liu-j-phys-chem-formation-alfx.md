@@ -26,7 +26,6 @@ pdf_path: "papers/Liu_AlF_etching_JPCC_2019.pdf"
 extraction_quality: "good"
 group_affiliation: true
 ---
-
 <!-- id:paper:2019liu-j-phys-chem-formation-alfx -->
 
 ## Evidence and attribution
@@ -43,15 +42,24 @@ The work develops a ReaxFF parameterization for Al–F interactions fitted to QM
 
 ## Methods
 
-ReaxFF development against QM structures, equations of state, and energetics for Al–F systems. Reactive MD at high temperature with varied F/Al and temperature; analysis of reaction sequences and gaseous product formation.
+**2 — Force-field training.** The authors develop an **Al–F** extension of **ReaxFF** by fitting **bond/valence** parameters for **Al–F** and **F–F** and angles **Al–F–Al** and **F–Al–F** against a **DFT** training set. **QM reference (bulk and molecules):** **fcc-Al** and **R3̅c-AlF₃** data come from **CASTEP** with **GGA–PBE**, **ultrasoft pseudopotentials**, **plane-wave cutoffs** of **160 eV (Al)** and **370 eV (AlF₃)**, and a **6 × 6 × 6** **k**-point mesh, with **geometry optimization** tolerances as stated in **§2.4** of the article. **Gas-phase AlF\(_x\)** reference data use **Gaussian 09** with **B3LYP** and a **6-311G** **basis** (per **§2.4**). The training set spans **Al metal**, **AlF₃** crystal, and **F₂**, **AlF**, cation/anion **AlF\(_x\)** species up to **AlF₆³⁻** (see **§2.2**). **Optimization** uses the **ReaxFF** parabolic-extrapolation workflow against these QM targets (as described in the *J. Phys. Chem. C* paper).
 
+**1 — MD application (etching with the fitted Al–F ReaxFF).** **Reactive MD** places **F** on/into an **Al** **supercell** **slab**-like **etching** **geometry** (see **§3.2** **and** **figures** for **atom** **counts** and **stoichiometry**); **3D** **periodic** **boundary** **conditions** apply to the **cell** as in the **JPCC** **setup**. **Ensemble:** **NVT** at **target** **temperatures** **(1000–1500 K** **sweeps** **in** **§3.2**, **with** **1250 K** **used** **as** a **representative** **etch** **temperature** **in** the **text**)**. **Timestep** **0.25** **fs**; **production** **duration** **250** **ps** **per** the **quoted** **etch** **segment**; **equilibration** **stages** **precede** **production** **in** the **same** **section** **(see** **PDF** **for** **full** **multi-** **stage** **protocol**)**. **Thermostat** **implementation** **(e.g.,** **Berendsen** /**Nosé–Hoover**)**:** **N/A** on this **summary** **page**—the **indexed** **p1–2** **excerpt** **does** **not** **name** the **heat**-**bath** **style**; **read** the **full** **Methods** **in** **VOR** **PDF**/**SI** **before** **reproducing** **\(damping** **constants\)**. **Engine / code name:** **N/A** in the **short** **excerpt**; **treat** as **generic** **ReaxFF** **reactive** **MD** **with** the **numeric** **settings** **above** **anchored** **to** **§3.2**.
+
+**Barostat / mean pressure control in production etch MD:** **N/A** — **NVT** runs at fixed cell volume (no **NPT** servocontrol in the quoted etch segment).
+
+**Electric field / plasma bias:** **N/A** in the MD cells; the abstract mentions **voltage**/**discharge** only as a qualitative external lever, not as an applied **E-field** in the reported trajectories.
+
+**Replica / enhanced sampling:** **N/A**.
+
+**3 — Static QM / DFT-only as primary result:** **N/A** — **DFT** supports the **ReaxFF** fit; the scientific story is **reactive MD** with the new **Al–F** parameters.
 ## Findings
 
-ReaxFF reproduces the training QM data well. Below F/Al ≈ 3 the chemical driving force is insufficient for full volatilization of certain AlFx phases; above it, additional steps yield gaseous AlFx. Temperature and inferred discharge/voltage effects are discussed as secondary levers on product quantities.
+**1 — Outcomes & mechanisms.** The **Al–F** **ReaxFF** **reproduces** the **QM** **training** **EOS**/**energetics** for **Al–F** **crystals** and **molecules** in the **benchmark** **plots** **(Figs.** **2–5** **class** **comparisons** **in** the **article**). In **reactive** **etching** **MD**, **gaseous** **AlF\(_x\)** **formation** **unfolds** in **five** **conceptual** **steps** **with** **F/Al** **as** the **primary** **stoichiometric** **knob**; **below** **F/Al** **≈** **3** the **chemical** **driving** **force** **is** **too** **weak** to **complete** the **fifth** **step**, **leaving** **clustered** **AlF\(_x\)** **without** **strong** **gas**-**phase** **release**, **whereas** **above** **that** **ratio** **isolated** **higher**-**coordination** **gas**-**like** **species** **(AlF\(_4\)**-**class** **through** **AlF\(_6\)**-**class** **motifs** **as** **named** **in** the **abstract**)** **emerge** **with** **more** **exothermic** **formation** **trends** **in** the **model**. **2 — Comparisons vs** **QM** **and** **literature**-**style** **expectations** are **through** the **EOS**/**reaction**-**energy** **tables** **and** **DFT** **curves** **embedded** **in** **§3.1**; **experimental** **plasma** **comparisons** are **not** **the** **focus** **of** the **atomistic** **cells** **(see** **Limitations**)**. **3 — Sensitivity** **to** **levers:** **F/Al** **(1–6)** **and** **temperature** **(1000–1500 K)** **shift** **which** **AlF\(_x\)** **products** **dominate** **and** **how** **fast** **etch**-**like** **sequences** **run** **in** **the** **model**; the **abstract** **also** **mentions** **(via** **wording** **on** **“voltage** **/”** **discharge”)** **that** **non-** **MD** **external** **energetics** **could** **modulate** **yields** **even** **when** **the** **simulation** **cell** **omits** **a** **bias** **field**. **4 — Authored** **limitations** / **outlook** — **simplified** **radical** **treatments** **of** **AlF\(_4\)^–** / **AlF\(_5\)^2–** / **AlF\(_6\)^3–** **are** **explicit** **in** the **text**; **reactor-** **scale** **plasma** **or** **flow** **phenomena** **are** **outside** the **slab-** **like** **ReaxFF** **protocol** **(see** **##** **Limitations**)**. **5 —** **Corpus** **/ KB** **honesty** — **cluster**-**level** **atom** **counts** **and** **full** **thermostat** **lines** **should** be **pulled** **from** the **VOR** **PDF** **if** **this** **wiki** **line** **is** **insufficient** **for** **reproducibility**.
 
 ## Limitations
 
-Specific to Al–F high-temperature etching chemistry; plasma and reactor-level transport are not resolved. Parameter set should be checked before transfer to unrelated Al chemistry.
+Specific to Al–F high-temperature etching chemistry; plasma and reactor-level transport are not resolved. Parameter set should be checked before transfer to unrelated Al chemistry. **Reactor** **models** that need **ion** **energy** distributions, **wall** **recombination**, and **flow** **residence** times should combine these **MD** insights with **continuum** **CFD** or **plasma** **kinetics** tools. **Chamber** **wall** **materials** and **substrate** **bias** can shift **F/Al** **ratios** away from **idealized** **bulk** **simulation** **cells**.
 
 ## Relevance to group
 

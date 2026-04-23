@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025kim-nat-patchy-nanoparticles",
+  "manifest": {
+    "source_path": "papers/Others/Ficthorn_et_al_Nature_2025_stenciling.pdf",
+    "sha256": "771a13e8da77318708d05cb2f4ee4244ddb9e1ee37962885c1ede7f29434c8d4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Patchy nanoparticles by atomic stencilling",
+    "year": 2025,
+    "authors": "Ahyoung Kim",
+    "venue": "Nature, doi:10.1038/s41586-025-09605-8"
+  },
+  "pdf_path": "papers/Others/Ficthorn_et_al_Nature_2025_stenciling.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025kim-nat-patchy-nanoparticles_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025kim-nat-patchy-nanoparticles.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

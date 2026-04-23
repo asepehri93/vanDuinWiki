@@ -26,31 +26,34 @@ group_affiliation: false
 
 <!-- id:paper:2015islam-venue-paper -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-Mojumder, Al Amin, and Islam report **classical molecular dynamics** of mechanical response of **α-stanene** using a **modified embedded-atom method (MEAM)** potential (explicitly stated in the extract), not ReaxFF. They examine **uniaxial** loading along **armchair vs zigzag** directions and **biaxial** loading, including **temperature** and **strain-rate** effects. The abstract reports **lower fracture strength and strain** with increasing temperature, **higher** strength/strain for **zigzag** uniaxial loading than **armchair**, **little directional difference** under **biaxial** loading, and **higher** strength/strain at **higher loading rates**—framed as guidance for stanene in **nanoelectronics** contexts where mechanics couples to electronic property tuning.
+Mojumder, Al Amin, and Islam report **classical molecular dynamics** of **α-stanene** mechanics using a **modified embedded-atom method (MEAM)** potential for **Sn** (**not ReaxFF**). They apply **uniaxial** tension along **armchair** and **zigzag** directions and **equibiaxial** tension, scanning **temperature** (**100–250 K** in the Methods text) and **strain rate** (**10⁶–10⁹ s⁻¹**). The **J. Appl. Phys.** abstract summarizes **lower fracture strength and strain with increasing temperature**, **higher** ultimate properties for **zigzag** than **armchair** uniaxial loading, **near-isotropic** response under **biaxial** loading, and **higher** strength/strain at **higher** strain rates—motivated as context for **mechanically tunable** **2D Sn** electronics proposals.
 
 ## Methods
 
-- **MD** with **MEAM** potential for Sn/stanene (as stated in the extract).
-- Uniaxial/biaxial strain protocols with temperature and rate sweeps.
+**MD application — potential, code, and model geometry.** **MEAM** interactions for **tin** are used with parameters tabulated in **Table I** of the paper. Simulations are executed in **LAMMPS**. The **stanene** sheet is **~20.50 nm × 20.50 nm** (**4032 Sn** atoms) with **armchair along +x** and **zigzag along +y**; **in-plane PBC** applies in **x** and **y**, while **z** is **non-periodic** with free surfaces.
+
+**Equilibration and ensembles.** After **conjugate-gradient** relaxation of the buckled sheet, the protocol performs **10 ps** in the **NVE** ensemble, followed by **50 ps** of **NPT** equilibration at **1 atm** and the target **temperature** to relax residual stresses, then **deformation** simulations under the **uniaxial / biaxial strain** protocols described in the article.
+
+**Timestep, thermostat/barostat, loading.** An MD **timestep of 1.0 fs** is used throughout. **Uniaxial** tests strain along **x** or **y** at prescribed **constant strain rates**; **biaxial** tests strain **x** and **y** simultaneously. **Virial stress** is accumulated with the averaging window described in the paper.
+
+**Force-field training / reactive chemistry.** **N/A —** **MEAM** parameters are taken from the cited **MEAM** development for **Sn**; no **ReaxFF** refit is performed.
+
+**Electric fields, replica sampling.** **N/A —** not used.
 
 ## Findings
 
-- **Anisotropic** in-plane strength under uniaxial conditions; more **isotropic** response under equibiaxial conditions in the claims summarized by the abstract.
+**Anisotropy and loading mode.** **Uniaxial zigzag** loading yields **higher** fracture strength/strain than **uniaxial armchair** loading in the reported curves; **equibiaxial** loading shows **much smaller** directional contrast, consistent with the abstract’s summary.
+
+**Temperature and rate sensitivity.** Fracture metrics **decrease** with increasing **temperature** and **increase** with increasing **strain rate** over the ranges simulated.
+
+**Comparisons.** The relaxed sheet exhibits **out-of-plane buckling** (~**1.02 Å** height in the article) consistent with prior **MEAM**/**DFT** literature cited therein; detailed numerical tables and stress–strain plots should be read from the **J. Appl. Phys.** PDF.
 
 ## Limitations
 
-- **MEAM** accuracy depends on the fitted Sn database; reactive chemistry (oxidation) of Sn surfaces is outside the classical potential’s intended scope unless reparameterized.
-- AIP download banner text appears in the extract; pagination uses **124305** as article number.
+- **MEAM** accuracy depends on the fitted **Sn** database; **reactive** chemistry (**oxidation**) of **Sn** surfaces is outside the classical potential’s intended scope unless reparameterized.
+- AIP download banner text appears in some extracts; article id **124305** appears in bibliographic headers.
 
 ## Relevance to group
 
@@ -63,3 +66,7 @@ Mojumder, Al Amin, and Islam report **classical molecular dynamics** of mechanic
 ## Related topics
 
 - [[reaxff-family]]
+
+## Reader notes (navigation)
+
+This entry documents **MEAM** **stanene** mechanics; for **reactive** **Sn** **oxidation** or **electronic** **structure** of **defects**, use **DFT** or **ReaxFF** pages tagged for **tin** **surfaces** instead of extrapolating **MEAM** **fracture** data.

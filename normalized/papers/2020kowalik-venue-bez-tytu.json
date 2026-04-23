@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020kowalik-venue-bez-tytu",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Gonzalez_Bending energy of 2D materials- graphene, MoS2 and imogolite_PCCP_2018.pdf",
+    "sha256": "781c4bfb3cd731d13078fc4090b953c49cf7df5989de5e8fc4da5bc6dedc2fef",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "bez tytułu",
+    "year": 2020,
+    "authors": "malgorzata kowalik",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Gonzalez_Bending energy of 2D materials- graphene, MoS2 and imogolite_PCCP_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020kowalik-venue-bez-tytu_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020kowalik-venue-bez-tytu.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

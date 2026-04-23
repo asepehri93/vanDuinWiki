@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020gkoura-biomicroflui-peculiar-size",
+  "manifest": {
+    "source_path": "papers/Others/CNT_water_diffusion_Biomicrofluidics_2020.pdf",
+    "sha256": "cda552486d0cec19324b090324e553e50fbb80be10dd06ba708e66c92f8e9753",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0005398",
+    "title": "The peculiar size and temperature dependence of water diffusion in carbon nanotubes studied with 2D NMR diffusion–relaxation D –T2eff spectroscopy",
+    "year": 2020,
+    "authors": "L. Gkoura",
+    "venue": "Biomicrofluidics 2020.14:034114"
+  },
+  "pdf_path": "papers/Others/CNT_water_diffusion_Biomicrofluidics_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020gkoura-biomicroflui-peculiar-size_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5159
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020gkoura-biomicroflui-peculiar-size.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

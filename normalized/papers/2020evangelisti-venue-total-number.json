@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020evangelisti-venue-total-number",
+  "manifest": {
+    "source_path": "papers/Evangelisti_JCP_Ag_clusters_eReaxFF_galley.pdf",
+    "sha256": "e7895fa11a0bdc20a2d563430542aa418d93d3183f64ac2b360a3cb705533968",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0018971",
+    "title": "Total Number of pages:9",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Evangelisti_JCP_Ag_clusters_eReaxFF_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020evangelisti-venue-total-number_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6607
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020evangelisti-venue-total-number.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

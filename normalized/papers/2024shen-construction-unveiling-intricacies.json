@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024shen-construction-unveiling-intricacies",
+  "manifest": {
+    "source_path": "papers/Shen_Construction_Building_Mat_2024.pdf",
+    "sha256": "216492efa9e897200f298b35b5dedbdf4fae6d6fda4927ed7f5f27aa65a5b38f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Unveiling the intricacies of steel corrosion induced by chloride: Insights from reactive molecular dynamics simulation",
+    "year": 2024,
+    "authors": "Fangmin Shen",
+    "venue": "Construction and Building Materials, 443 (2024) 137839. doi:10.1016/j.conbuildmat.2024.137839"
+  },
+  "pdf_path": "papers/Shen_Construction_Building_Mat_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024shen-construction-unveiling-intricacies_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024shen-construction-unveiling-intricacies.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

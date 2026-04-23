@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2026dryzhakov-advanced-mat-revealing-defect",
+  "manifest": {
+    "source_path": "papers/Dryzhakov_Dinani_Sepehrinezhad_Jeong_AlN_defect_AdvMat_2026.pdf",
+    "sha256": "d7995f7d4086ef38f0c15d08294d81f2d827ee5bf00bfd6185e877627cfff9f4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/adma.202520258",
+    "title": "Revealing the Defect‐Driven Ferroelectric Mechanisms of Aluminum Nitride",
+    "year": 2026,
+    "authors": null,
+    "venue": "Advanced Materials 2026.38:e20258"
+  },
+  "pdf_path": "papers/Dryzhakov_Dinani_Sepehrinezhad_Jeong_AlN_defect_AdvMat_2026.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2026dryzhakov-advanced-mat-revealing-defect_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2026dryzhakov-advanced-mat-revealing-defect.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

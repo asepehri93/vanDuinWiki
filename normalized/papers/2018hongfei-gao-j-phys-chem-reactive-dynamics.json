@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018hongfei-gao-j-phys-chem-reactive-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Gao_SiCOH_JPC_C_2018.pdf",
+    "sha256": "2617568f37032b74476d47ea0e11ad23536877b8a36d19f39ef1e6233db0791e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reactive Dynamics Simulation Study on the Pyrolysis of Polymer Precursors To Generate Amorphous Silicon Oxycarbide Structures",
+    "year": 2018,
+    "authors": "Hongfei Gao, Hongjie Wang, Zihao Zhao, Min Niu, Lei Su, and Yin Wei",
+    "venue": "J. Phys. Chem. C 2018.122:5767-5773"
+  },
+  "pdf_path": "papers/ReaxFF_others/Gao_SiCOH_JPC_C_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018hongfei-gao-j-phys-chem-reactive-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018hongfei-gao-j-phys-chem-reactive-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

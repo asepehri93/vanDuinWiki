@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012kim-venue-nl203547z",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Kim_Jacobson_RippingGraphenePreferred_Directions_NanoLetters_2012.pdf",
+    "sha256": "44c8eb1e14063a13ad905d3dc566b73ed5c0a886569393e9d0be3753b0ee750f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "nl203547z 1..5",
+    "year": 2012,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Kim_Jacobson_RippingGraphenePreferred_Directions_NanoLetters_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012kim-venue-nl203547z_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012kim-venue-nl203547z.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

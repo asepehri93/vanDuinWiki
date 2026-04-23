@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013bae-j-phys-chem-jp405992m",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bae_Aikens_AuSCH_JPC_2013.pdf",
+    "sha256": "91753abcfbfb55140d28e0e036ab8d0321baec76d9576c5f9a1bfe5193153652",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp405992m 1..9",
+    "year": 2013,
+    "authors": "Gyun-Tack Bae and Christine M. Aikens",
+    "venue": "J. Phys. Chem. A 2013.117:10438-10446"
+  },
+  "pdf_path": "papers/ReaxFF_others/Bae_Aikens_AuSCH_JPC_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013bae-j-phys-chem-jp405992m_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013bae-j-phys-chem-jp405992m.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

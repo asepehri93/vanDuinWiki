@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013gouissem-computationa-reactive-force-field-2",
+  "manifest": {
+    "source_path": "papers/Gouissem_ZrHfB2_CompMatSci_2013.pdf",
+    "sha256": "cef3ce23dc9ca7cf896b3dc89024f9c2df7e01234573cd7cef4562355ec79e06",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.commatsci.2012.12.038",
+    "title": "A reactive force-field for zirconium and hafnium di-boride",
+    "year": 2013,
+    "authors": [
+      "Gouissem, Afif",
+      "Fan, Wu",
+      "van Duin, Adri C. T.",
+      "Sharma, Pradeep"
+    ],
+    "venue": "Computational Materials Science"
+  },
+  "pdf_path": "papers/Gouissem_ZrHfB2_CompMatSci_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013gouissem-computationa-reactive-force-field-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013gouissem-computationa-reactive-force-field-2.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

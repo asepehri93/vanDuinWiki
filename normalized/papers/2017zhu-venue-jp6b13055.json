@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017zhu-venue-jp6b13055",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zhu_Cu_oxidation_JPCC_2017.pdf",
+    "sha256": "319e1df818ba42327696b3893fb139e9e72fdcc801ebb8e8fca2b018d36c75b3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp6b13055 1..10",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Zhu_Cu_oxidation_JPCC_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017zhu-venue-jp6b13055_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017zhu-venue-jp6b13055.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

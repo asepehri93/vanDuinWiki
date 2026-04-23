@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014admin-venue-japc1-qxp",
+  "manifest": {
+    "source_path": "papers/Fang_J_App_Phys_NiO_diffusion_2014_journal_cover.pdf",
+    "sha256": "1065961148e46276effb4be8b3b89604872a7fa6a432a140327a7dd2585c9f10",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "japc1.qxp:Layout 1",
+    "year": 2014,
+    "authors": "admin",
+    "venue": null
+  },
+  "pdf_path": "papers/Fang_J_App_Phys_NiO_diffusion_2014_journal_cover.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014admin-venue-japc1-qxp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 75
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014admin-venue-japc1-qxp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

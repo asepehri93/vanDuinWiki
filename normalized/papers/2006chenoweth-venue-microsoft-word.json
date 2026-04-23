@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2006chenoweth-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/CHO_supplements/ReaxFF_CHO_potential_functions.pdf",
+    "sha256": "e1579503ae4f486d0b592fdf2698928927f196f509dfe9f6ed95b664f252b935",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - Equations_HCO.doc",
+    "year": 2006,
+    "authors": "K Chenoweth",
+    "venue": null
+  },
+  "pdf_path": "papers/CHO_supplements/ReaxFF_CHO_potential_functions.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2006chenoweth-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3107
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2006chenoweth-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

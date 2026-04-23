@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2007administrator-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/CHO_supplements/ReaxFF_CHO_additional_training_results.pdf",
+    "sha256": "02d4e9365abe70d58a857af3c157e9dc21ec14d8ac6231841d5b792e83225d04",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - training_set_HCO.doc",
+    "year": 2007,
+    "authors": "System Administrator",
+    "venue": null
+  },
+  "pdf_path": "papers/CHO_supplements/ReaxFF_CHO_additional_training_results.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2007administrator-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1314
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2007administrator-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

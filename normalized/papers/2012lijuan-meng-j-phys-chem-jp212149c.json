@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012lijuan-meng-j-phys-chem-jp212149c",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Meng_Ding_Ni_graphene_JPCC_2012.pdf",
+    "sha256": "b05c29e4ad75938853aa9756254f511e580a8c9a0e26c41b574ef524292f4963",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp212149c 1..6",
+    "year": 2012,
+    "authors": "Lijuan Meng, Qing Sun, Jinlan Wang, and Feng Ding",
+    "venue": "J. Phys. Chem. C 2012.116:6097-6102"
+  },
+  "pdf_path": "papers/ReaxFF_others/Meng_Ding_Ni_graphene_JPCC_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012lijuan-meng-j-phys-chem-jp212149c_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012lijuan-meng-j-phys-chem-jp212149c.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

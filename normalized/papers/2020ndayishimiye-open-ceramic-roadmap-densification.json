@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020ndayishimiye-open-ceramic-roadmap-densification",
+  "manifest": {
+    "source_path": "papers/Ndayishimiye_Roadmap_ColdSintering_2020.pdf",
+    "sha256": "8e372023d01827362eecd6ae33017fc71271d621dff65efe97ae151b17fdcc93",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Roadmap for densification in cold sintering: Chemical pathways",
+    "year": 2020,
+    "authors": "Arnaud Ndayishimiye",
+    "venue": "Open Ceramics, 2 (2020) 100019. doi:10.1016/j.oceram.2020.100019"
+  },
+  "pdf_path": "papers/Ndayishimiye_Roadmap_ColdSintering_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020ndayishimiye-open-ceramic-roadmap-densification_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020ndayishimiye-open-ceramic-roadmap-densification.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

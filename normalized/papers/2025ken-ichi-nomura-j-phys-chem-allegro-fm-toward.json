@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025ken-ichi-nomura-j-phys-chem-allegro-fm-toward",
+  "manifest": {
+    "source_path": "papers/Others/allegro-fm-toward-an-equivariant-foundation-model-for-exascale-molecular-dynamics-simulations.pdf",
+    "sha256": "a2512dd39503d6660d0a2c798d11974851c722acc392e4bf7eaf280522b81952",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Allegro-FM: Toward an Equivariant Foundation Model for Exascale Molecular Dynamics Simulations",
+    "year": 2025,
+    "authors": "Ken-ichi Nomura, Shinnosuke Hattori, Satoshi Ohmura, Ikumi Kanemasu, Kohei Shimamura, Nabankur Dasgupta, Aiichiro Nakano, Rajiv K. Kalia, and Priya Vashishta",
+    "venue": "J. Phys. Chem. Lett. 2025.16:6637-6644"
+  },
+  "pdf_path": "papers/Others/allegro-fm-toward-an-equivariant-foundation-model-for-exascale-molecular-dynamics-simulations.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025ken-ichi-nomura-j-phys-chem-allegro-fm-toward_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025ken-ichi-nomura-j-phys-chem-allegro-fm-toward.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

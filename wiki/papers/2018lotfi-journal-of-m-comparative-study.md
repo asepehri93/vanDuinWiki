@@ -3,7 +3,7 @@ id: paper:2018lotfi-journal-of-m-comparative-study
 type: paper
 title: "A comparative study on the oxidation of two-dimensional Ti3C2 MXene structures in different environments"
 updated: "2026-04-20"
-confidence: med
+confidence: high
 canonical_tags:
   - domain:2d-layered
   - domain:batteries-electrochemistry
@@ -42,21 +42,31 @@ group_affiliation: true
 
 ## Summary
 
-This **Journal of Materials Chemistry A** article compares **oxidation** of **2D Ti₃C₂ MXene** in **different environments** (gas / humidity regimes as defined in the paper) using **ReaxFF reactive molecular dynamics**, focusing on how **surface terminations** and **local chemistry** evolve during **thermal exposure**. The study connects **simulated oxidation progression** to **experimental** expectations for **MXene stability**—a recurring bottleneck for **energy-device** processing and storage. **Adri C. T. van Duin** is a senior coauthor alongside **MXene** experimental collaborators.
+Two-dimensional Ti\(_3\)C\(_2\) MXene oxidizes rapidly in ambient air, complicating storage, processing, and integration into electronic or catalytic devices where surface chemistry must remain controlled. Lotfi et al. compare ReaxFF reactive molecular dynamics of MXene oxidation in dry air (O\(_2\)), wet air (O\(_2\) + H\(_2\)O), and hydrogen peroxide (H\(_2\)O\(_2\)) between 1000 K and 3000 K to separate the roles of oxidant strength, water-assisted oxygen transport, and temperature-driven titanium segregation toward surfaces. Companion X-ray diffraction and Raman measurements on heated samples corroborate qualitative simulation trends, especially the contrast between wet and dry air protocols that matter for laboratory handling strategies.
 
 ## Methods
 
-- **ReaxFF MD** with **multiple environmental compositions** (see Simulation setup).
-- **Structural metrics** for **oxide/hydroxide** formation, **layer integrity**, and **defect** evolution.
+### MD application (atomistic dynamics)
 
+Reactive **molecular dynamics** with **ReaxFF** (Ti–C–O–H parameterization cited in *J. Mater. Chem. A*, `papers/Lotfi_Materials_A_2018.pdf`) compares oxidation of **Ti\(_3\)C\(_2\)** MXene in **dry air** (O\(_2\)), **wet air** (O\(_2\)+H\(_2\)O), and **H\(_2\)O\(_2\)**, plus **vacuum** heating as a no-oxidant baseline. The abstract reports temperature **series at 1000, 1500, 2000, 2500, and 3000 K** to accelerate chemistry within accessible MD windows; **time-resolved bond orders** track **Ti–C**, **C–C**, and **Ti–O** connectivity as oxidation proceeds. **Engine / code:** **N/A — MD package name** not stated on the indexed excerpt (`normalized/extracts/2018lotfi-journal-of-m-comparative-study_p1-2.txt`); confirm in the full **Methods**. **System size & composition, PBC vs open boundaries, ensemble (NVE/NVT/NPT), timestep, thermostat/barostat types, and pressure targets** are given in the article **Methods**/tables—**N/A — not transcribed** in this excerpt-based note. **Duration / stages:** **multi-stage** heating across the **1000–3000 K** program with **production** trajectory lengths in **ps**/**ns** tabulated in **Methods** (not duplicated here). **Electric field:** **N/A — not used** in the abstract-level protocol description. **Replica / enhanced sampling:** **N/A — not indicated** for this oxidation study in the indexed text.
+
+### Experiments (validation)
+
+Heating **MXene** in **wet vs dry air** followed by **X-ray diffraction** and **Raman** characterization is reported in the abstract as qualitative validation of the simulated oxidant ordering.
 ## Findings
 
-- **Environment-dependent** oxidation rates and **product distributions** are reported for **Ti₃C₂** models.
-- Highlights **practical sensitivity** of **MXene** samples to **O₂/H₂O** exposure consistent with community experience.
+**Outcomes and mechanism.** Oxidation rates follow **H\(_2\)O\(_2\) > wet air > dry air** at comparable temperatures in the simulations summarized in the abstract, consistent with stronger oxidant delivery for peroxide and humid air. **Raising temperature** increases oxidation rate and drives **Ti** toward surfaces while **Ti–C** connectivity drops and **Ti–O** / **C–C** bond-order metrics evolve as the MXene oxidizes. **Vacuum** heating converts the MXene toward **cubic TiC** with **little change** in the cited **Ti–C / Ti–O / C–C** bond-order picture aside from **topotactic** rearrangement—i.e., oxidants, not heat alone, gate the chemistry in that branch.
 
+**Comparisons.** **XRD** and **Raman** on **heated MXene** in **wet vs dry air** are reported as supporting the simulated oxidant ordering at the qualitative level described in the abstract.
+
+**Sensitivity.** Clear **temperature** and **oxidizing-environment** levers appear in the abstract’s multi-**K** program and three-gas-matrix design.
+
+**Authored limitations / outlook.** ReaxFF supplies **qualitative** kinetics; **quantitative** ambient-time extrapolation is not claimed in the abstract-level summary used here (see **## Limitations** below and the article Discussion).
+
+**Corpus honesty.** This page is grounded in **`pdf_path`** and the indexed extract; numerical supercell sizes and MD integrator settings should be taken from the **peer-reviewed PDF** if not duplicated above.
 ## Limitations
 
-- **Model sizes**, **defect density**, and **termination guesses** influence **absolute kinetics**; treat as **comparative** insight unless benchmarked further.
+ReaxFF supplies qualitative kinetics; absolute rates require calibration to experiment. Elevated simulation temperatures accelerate chemistry within nanosecond windows and do not represent ambient oxidation timescales directly, so quantitative extrapolation to room-temperature storage requires separate modeling or experiment. Experimental XRD/Raman trends summarized in the article remain qualitative benchmarks for simulation.
 
 ## Relevance to group
 

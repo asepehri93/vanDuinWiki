@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014joshi-physical-che-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/Joshi_PCCP_2014_Zeolite_protons.pdf",
+    "sha256": "90af9ab949bfbcff698115955b782ff7390c263dab3f7149010042b7d4ba4029",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c4cp02612h",
+    "title": "Reactive molecular simulations of protonation of water clusters and depletion of acidity in H-ZSM-5 zeolite",
+    "year": 2014,
+    "authors": "Kaushik L. Joshi",
+    "venue": "Physical Chemistry Chemical Physics (2014), doi:10.1039/C4CP02612H"
+  },
+  "pdf_path": "papers/Joshi_PCCP_2014_Zeolite_protons.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014joshi-physical-che-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014joshi-physical-che-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

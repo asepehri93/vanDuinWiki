@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018medinaramon-venue-research-2",
+  "manifest": {
+    "source_path": "papers/MedinaRamon_ChemMat_2018_proof.pdf",
+    "sha256": "a6fb4b3e3e7f5549270cf2f4b8c0c5249d570227dcd450fe49d627c5271e61d8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..12",
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/MedinaRamon_ChemMat_2018_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018medinaramon-venue-research-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018medinaramon-venue-research-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

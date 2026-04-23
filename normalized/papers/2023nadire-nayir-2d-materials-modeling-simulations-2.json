@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023nadire-nayir-2d-materials-modeling-simulations-2",
+  "manifest": {
+    "source_path": "papers/Nayir_2D_materials_ReaxFF_review_2023_galley.pdf",
+    "sha256": "4dd4da83a1b8934a7c03db6233dc0e246e41510c6ba15b1ccc0ddcd311188ffb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/2053-1583/acd7fd",
+    "title": "Modeling and simulations for 2D materials: a ReaxFF perspective",
+    "year": 2023,
+    "authors": "Nadire Nayir,Qian Mao,Tao Wang,Malgorzata Kowalik,Yuwei Zhang,Mengyi Wang,Swarit Dwivedi,Ga-Un Jeong,Yun Kyung Shin,Adri van Duin",
+    "venue": "2D Materials, 0 (2023) xxxxxx doi: 10.1088/2053-1583/acd7fd"
+  },
+  "pdf_path": "papers/Nayir_2D_materials_ReaxFF_review_2023_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023nadire-nayir-2d-materials-modeling-simulations-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4550
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023nadire-nayir-2d-materials-modeling-simulations-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

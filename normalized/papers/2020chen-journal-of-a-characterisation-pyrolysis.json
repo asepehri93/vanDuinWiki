@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020chen-journal-of-a-characterisation-pyrolysis",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Chen_Yeoh_Engineering_polymers_ReaxFF_JAAP_2021.pdf",
+    "sha256": "d67de974db9f4e541c0acdbee761f2ff5ad3255dd197ee0b6039c5ecec1861e7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Characterisation of pyrolysis kinetics and detailed gas species formations of engineering polymers via reactive molecular dynamics (ReaxFF)",
+    "year": 2020,
+    "authors": "T.B.Y. Chen",
+    "venue": "Journal of Analytical and Applied Pyrolysis, 153 (2021) 104931. doi:10.1016/j.jaap.2020.104931"
+  },
+  "pdf_path": "papers/ReaxFF_others/Chen_Yeoh_Engineering_polymers_ReaxFF_JAAP_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020chen-journal-of-a-characterisation-pyrolysis_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020chen-journal-of-a-characterisation-pyrolysis.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020valdenaire-j-chem-phys-timescale-prediction",
+  "manifest": {
+    "source_path": "papers/Valdenaire_JCP_2020_cellulose_dehydrogenation.pdf",
+    "sha256": "d6266888ef6c8b703d353f0dc7b2a606a87a22be603e84f383f76855b511fa97",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5126391",
+    "title": "Timescale prediction of complex multi-barrier pathways using flux sampling molecular dynamics and 1D kinetic integration: Application to cellulose dehydration",
+    "year": 2020,
+    "authors": null,
+    "venue": "J. Chem. Phys. 2020.152:024123"
+  },
+  "pdf_path": "papers/Valdenaire_JCP_2020_cellulose_dehydrogenation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020valdenaire-j-chem-phys-timescale-prediction_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4030
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020valdenaire-j-chem-phys-timescale-prediction.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

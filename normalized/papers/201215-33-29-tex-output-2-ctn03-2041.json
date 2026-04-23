@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:201215-33-29-tex-output-2-ctn03-2041",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/09CTN03-2041.pdf",
+    "sha256": "7b959b01b7a1f612012ca2ffdd2fd1bbb4c6a826bc3a1863e1562067f49bc210",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "09CTN03-2041",
+    "year": 2012,
+    "authors": "Dr. Mirko Janc (Tech Typeset) 427 1999 Feb 15 15:33:29",
+    "venue": "TeX output 2012.02.20:1029"
+  },
+  "pdf_path": "papers/ReaxFF_others/09CTN03-2041.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/201215-33-29-tex-output-2-ctn03-2041_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/201215-33-29-tex-output-2-ctn03-2041.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

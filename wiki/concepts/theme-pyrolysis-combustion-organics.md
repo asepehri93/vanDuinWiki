@@ -2,7 +2,7 @@
 id: concept:theme-pyrolysis-combustion-organics
 type: concept
 title: "Theme: pyrolysis, combustion, and organic reactivity (ReaxFF corpus)"
-updated: "2026-04-20"
+updated: "2026-04-21"
 confidence: med
 canonical_tags:
   - domain:organics-polymers-pyrolysis
@@ -34,13 +34,13 @@ supported_by:
 
 !!! abstract "TL;DR"
 
-    This cluster covers **pyrolysis**, **oxidation**, and **organic bond-breaking** networks where **ReaxFF** is used to follow **reaction pathways** in **carbonaceous** materials and related **C/H/O** chemistry. It connects to [[theme-catalysis-surfaces]] when **surface elementary steps** dominate.
+    This cluster covers **pyrolysis**, **oxidation**, and **organic bond-breaking** networks where **ReaxFF** is used to follow **reaction pathways** in **carbonaceous** materials and related **C/H/O** chemistry. It connects to [[theme-catalysis-surfaces]] when **surface elementary steps** dominate. **Combustion-first** and **flame-oriented** notes also map to [[theme-combustion-flames-fuels]].
 
 ## Scope (in / out)
 
 **In corpus:** **coal and hydrocarbon pyrolysis**, **aviation-fuel** decomposition, **CO₂ hydrogenation** (organic product pathways), **carbon surface** reactions, and **oxidation** stories that share **C/H/O** parameterizations with combustion-adjacent work.
 
-**Out of scope here:** pure **oxide ceramic** mechanics without organic bond chemistry (see [[theme-oxides-silica-ceramics]]).
+**Out of scope here:** pure **oxide ceramic** mechanics without organic bond chemistry (see [[theme-oxides-silica-ceramics]]). When the paper page’s **headline** is **combustion** or **flame** chemistry, start from [[theme-combustion-flames-fuels]] and cross-link back here as needed.
 
 ## Literature review (this knowledge base)
 
@@ -48,7 +48,7 @@ Corpus-limited: the following paragraphs route readers to **paper notes** that e
 
 ### Pyrolysis and carbonaceous materials
 
-[[2014castro-marcano-journal-of-a-pyrolysis-large-scale]] is a primary KB anchor: **large-scale** **Illinois no. 6 coal** pyrolysis with ReaxFF. For **supercritical** **binary fuel** pyrolysis and **mixture** effects, see [[2018ashraf-fuel-235-201-pyrolysis-binary]]. **Aviation-fuel** bicyclic candidates and **Arrhenius**-style kinetics appear in [[2021lele-fuel-297-202-reaxff-molecular]]. **Petroleum coke** sulfur chemistry bridging pyrolysis and combustion is developed in [[2018qifan-combustion-a-reaxff-simulations]].
+[[2014castro-marcano-journal-of-a-pyrolysis-large-scale]] is a primary KB anchor: **large-scale** **Illinois no. 6 coal** pyrolysis with ReaxFF. For **supercritical** **binary fuel** pyrolysis and **mixture** effects, see [[2018ashraf-fuel-235-201-pyrolysis-binary]]. **Aviation-fuel** bicyclic candidates and **Arrhenius**-style kinetics appear in [[2021lele-fuel-297-202-reaxff-molecular]] (also linked from [[theme-combustion-flames-fuels]]). **Petroleum coke** sulfur chemistry with explicit **combustion** framing is summarized on [[2018qifan-combustion-a-reaxff-simulations]] and listed under [[theme-combustion-flames-fuels]].
 
 ### CO₂ hydrogenation and oxygenate formation
 
@@ -61,6 +61,14 @@ Corpus-limited: the following paragraphs route readers to **paper notes** that e
 ### Oxidation coupling to mechanics and metals
 
 [[2014sen-nat-oxidation-assisted-ductility]] links **oxidation** to **mechanical** response. [[2014zou-acta-materia-molecular-dynamics]] treats **O in Ni** and **oxidation initiation**—useful when comparing **gas-phase O** vs **internal oxidation** scenarios.
+
+## Analysis and cross-cutting patterns
+
+**Temperature** and **simulation time** choices differ between **coal** models and **fuel** molecules; extrapolate **only** along claims stated on each paper page. For **method** threads that span domains, see [[theme-reactive-md-corpus]].
+
+## Gaps and open directions (corpus view)
+
+The **`domain:organics-polymers-pyrolysis`** sort mixes **pyrolysis** and **combustion** stories—[[theme-combustion-flames-fuels]] reduces retrieval collision for **flame/fuel** questions. Not every slug in the domain table is yet summarized in these hubs.
 
 ## Debates, tensions, and cross-references
 

@@ -1,0 +1,29 @@
+{
+  "paper_id": "paper:2013castro-marcano-combustion-a-comparison-thermal-2",
+  "manifest": {
+    "source_path": "papers/Castro_CombFlame_heptene_proof_2013.pdf",
+    "sha256": "745724fc7f003929f0173dc8d1cabafa7e2af918656a8d72b34394c572d7d18a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.combustflame.2012.12.007",
+    "title": "Comparison of thermal and catalytic cracking of 1-heptene from ReaxFF reactive molecular dynamics simulations (Elsevier author proof PDF)",
+    "year": 2013,
+    "authors": [
+      "Castro-Marcano, Fidel",
+      "van Duin, Adri C. T."
+    ],
+    "venue": "Combustion and Flame"
+  },
+  "pdf_path": "papers/Castro_CombFlame_heptene_proof_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013castro-marcano-combustion-a-comparison-thermal-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7171
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013castro-marcano-combustion-a-comparison-thermal-2.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

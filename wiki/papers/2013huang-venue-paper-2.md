@@ -3,7 +3,7 @@ id: paper:2013huang-venue-paper-2
 type: paper
 title: "Lithiation induced corrosive fracture in defective carbon nanotubes"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags: [domain:batteries-electrochemistry, material:graphene-carbon-nano, method:reaxff, task:application, scale:atomistic]
 candidate_tags: []
 source_refs: []
@@ -29,31 +29,51 @@ group_affiliation: true
 
 ## Summary
 
-This slug corresponds to an **AIP author proof** PDF for the same article summarized under **`paper:2013huang-venue-paper`**: **ReaxFF MD** of **lithiation-assisted fracture** in defective **(18,0)** **SWCNTs** with **single-vacancy** vs **10-C hole** defects, varying **Li:C** stoichiometries, **300 K**, **0.01 Å/ps** strain rate. The excerpted pages include the **full abstract** and the start of the **introduction**, repeating the **abrupt vs retarded** fracture classification tied to **Li diffusion** toward defects.
+This corpus entry registers an **AIP author proof** PDF for the same **Applied Physics Letters** article as **`paper:2013huang-venue-paper`** (DOI **10.1063/1.4824418**). The scientific content matches the published Letter: **ReaxFF molecular dynamics** is used to study **chemo-mechanical fracture** of **defective zigzag (18,0) single-walled carbon nanotubes (SWCNTs)** under **uniaxial tension** at **300 K**. Lithium is loaded on the **outer surface** at several **Li:C** stoichiometries (**0**, **1:36**, **1:12**, **1:6**), and two defect classes are compared: a **single vacancy** versus a **hole-like defect** formed by removing **10 carbon atoms**. The abstract frames two qualitative fracture regimes—**abrupt** versus **retarded** failure—and links them to whether lithium participates directly at the moving crack tip or arrives by **diffusion** during **“wait-and-go”** crack advance.
+
+The introduction motivates the study from **lithium-ion battery** electrode mechanics and cites **in situ transmission electron microscopy** observations that **lithiation can embrittle multi-walled CNTs**, producing sharp fracture edges and apparently reduced ductility relative to pristine tubes. The authors argue that **defects** can both **shortcut lithium transport** into the tube interior and generate **stress and chemical-potential gradients** that drive lithium toward defect cores, where accumulated lithium is described as **weakening C–C bonding** and thereby modulating **crack nucleation and propagation** in a corrosive-fracture picture.
 
 ## Methods
 
-- Identical scientific content to the non-proof APL PDF; proof pages include production queries (e.g., reference year check).
+**1 — MD application** (proof text + `normalized/extracts/2013huang-venue-paper-2_p1-2.txt`; align numbers with **[[2013huang-venue-paper]]**). **Engine / code:** **Reactive molecular dynamics** with **ReaxFF** for **Li–C**; MD package name **N/A** on indexed proof pages. **System:** **(18,0)** **SWCNT** **~7.2 nm** (**~1200 carbon atoms**); **Li** on the **outer** surface at **Li:C = 0, 1:36, 1:12, 1:6**; **atoms** randomly placed then **equilibrated**. **Boundaries:** **PBC** along the tube **axial** direction. **Ensemble:** **NVT**-like thermal control via **Nosé–Hoover** at **300 K** during tensile loading (Letter content mirrored on proof). **Timestep:** **N/A** on proof excerpt—confirm **fs** settings in **VOR** **PDF**. **Duration:** **equilibration** then **uniaxial** pull at **0.01 Å/ps** until failure (**ps**-scale segments per article). **Thermostat:** **Nosé–Hoover**, **300 K**. **Barostat:** **N/A** — excerpt does not define **NPT** **pressure** coupling. **Pressure:** **N/A** for bulk hydrostatic control; mechanical **stress** from **strain** only. **Electric field:** **N/A**. **Replica / enhanced sampling:** **N/A**.
+
+**2 — Force-field training.** **N/A** — published **ReaxFF** **Li/C** field as in the Letter.
+
+**3 — Static QM.** **N/A** — not the focus on excerpted proof pages.
+
+The proof PDF contains **production queries**; use **`papers/Huang_APL_2013_LiCNT.pdf`** on [[2013huang-venue-paper]] for **version-of-record** layout.
+
 
 ## Findings
 
-- Same scientific claims as `2013huang-venue-paper` for the overlapping excerpt.
+**Outcomes & mechanisms:** **Defect size** and **lithium concentration** select **abrupt** vs **retarded** fracture. **Abrupt** cases include tip weakening by **Li** or failure with **little lithium participation**; **retarded** **“wait-and-go”** advance **arrests** until **diffusing lithium** weakens the tip (**corrosive** **C–C** weakening narrative on proof/abstract pages).
+
+**Comparisons:** Same qualitative claims as the **VOR** Letter (**DOI** `10.1063/1.4824418`); **TEM**-motivated **battery** context matches [[2013huang-venue-paper]].
+
+**Sensitivity / design levers:** **Li:C** ratio and defect type (single vacancy vs **10-carbon** hole) in Fig. 1 map referenced on opening pages.
+
+**Limitations & outlook:** Proof-stage figures/text may differ from final **AIP** publication; **strain rate** and **electrode** realism per authors’ full discussion.
+
+**Corpus honesty:** **Galley/proof** **`pdf_path`**; detailed **stress–strain** and movies live on **VOR** **PDF**—not re-derived here from queries-only pages.
 
 ## Limitations
 
-- Proof PDF adds **typesetting queries**; prefer the **final APL** PDF for authoritative pagination and figures.
+The registered file is an **author proof**, not the publisher’s final layout. **Extraction_quality** is **partial** for this slug because the corpus snippet emphasizes front matter and introduction. Reactive MD at **finite strain rate** and **nanometer-scale** tubes may not capture all experimental **MWCNT** conditions cited for motivation.
 
 ## Relevance to group
 
-Duplicate **provenance** for the same study; keep one primary wiki page if deduplicating later.
+Duplicate **manifest provenance** for a **van Duin**-coauthored **ReaxFF** study connecting **Li transport**, **defect chemistry**, and **mechanical failure** in **nanocarbon** electrodes.
 
 ## Citations and evidence anchors
 
-- Proof copy header + abstract + introduction start (DOI **10.1063/1.4824418**; PDF pp. 1–2 per extract).
+- Proof header, abstract, and introduction start (DOI **10.1063/1.4824418**; see `normalized/extracts/2013huang-venue-paper-2_p1-2.txt`).
+
+## Reader notes (navigation)
+
+- Primary non-proof page: [[2013huang-venue-paper]]
 
 ## Related topics
 
 - [[reaxff-family]]
 - [[batteries-interfaces-reaxff]]
 - [[graphene-nanocarbon]]
-- [[2013huang-venue-paper]]

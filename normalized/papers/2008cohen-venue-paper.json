@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2008cohen-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/Cohen (2008) Insights into Current Limitations of Density Functional Theory.pdf",
+    "sha256": "74f0c75c6653cecf2267307c5ab75b3b2a6fc969688b9e85e77b284d3ddd4d70",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "787 792..794",
+    "year": 2008,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Cohen (2008) Insights into Current Limitations of Density Functional Theory.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2008cohen-venue-paper_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2008cohen-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

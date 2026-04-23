@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019maksov-npj-computat-deep-learning",
+  "manifest": {
+    "source_path": "papers/Others/Maksov_2D_Deep_learning_NPJ_CompMat_2019.pdf",
+    "sha256": "ee61aee5c75cd5d83b74d641a4e6427769722ef08820047702d623cf3ec8fb7c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-019-0152-9",
+    "title": "Deep learning analysis of defect and phase evolution during electron beam-induced transformations in WS2",
+    "year": 2019,
+    "authors": "Artem Maksov",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-019-0152-9"
+  },
+  "pdf_path": "papers/Others/Maksov_2D_Deep_learning_NPJ_CompMat_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019maksov-npj-computat-deep-learning_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019maksov-npj-computat-deep-learning.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

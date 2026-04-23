@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017osti-venue-paper-2",
+  "manifest": {
+    "source_path": "papers/Osti_PhysicsMat_2017_proof.pdf",
+    "sha256": "5ee588bf6fc7ce794a8b7392bccb5ee3ad76f89209eac1c556d7759ad2a956b6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Osti_PhysicsMat_2017_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017osti-venue-paper-2_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4840
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017osti-venue-paper-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

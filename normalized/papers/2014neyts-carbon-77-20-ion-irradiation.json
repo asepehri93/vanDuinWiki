@@ -1,0 +1,29 @@
+{
+ "paper_id": "paper:2014neyts-carbon-77-20-ion-irradiation",
+ "manifest": {
+  "source_path": "papers/ReaxFF_others/Neyts_CNT_growth_Carbon_2014.pdf",
+  "sha256": "629b6c6ea7238060774c1eb9d6b96b0020f76b48ad2e4e8b4de5d4978438ff4d",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1016/j.carbon.2014.05.083",
+  "title": "Ion irradiation for improved graphene network formation in carbon nanotube growth",
+  "year": 2014,
+  "authors": [
+   "E.C. Neyts",
+   "A. Bogaerts"
+  ],
+  "venue": "Carbon"
+ },
+ "pdf_path": "papers/ReaxFF_others/Neyts_CNT_growth_Carbon_2014.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014neyts-carbon-77-20-ion-irradiation_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014neyts-carbon-77-20-ion-irradiation.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

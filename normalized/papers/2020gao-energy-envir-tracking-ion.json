@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020gao-energy-envir-tracking-ion",
+  "manifest": {
+    "source_path": "papers/Others/Gao_FIRST_MXene_films_EES_2020.pdf",
+    "sha256": "ae13d681c692e0e2509c2086704946b229bf9ebc90b240875bfb76dcfb819d08",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Tracking ion intercalation into layered Ti3C2 MXene films across length scales",
+    "year": 2020,
+    "authors": "Qiang Gao",
+    "venue": "Energy & Environmental Science (2020), 13, 2549-2558, doi:10.1039/D0EE01580F"
+  },
+  "pdf_path": "papers/Others/Gao_FIRST_MXene_films_EES_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020gao-energy-envir-tracking-ion_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020gao-energy-envir-tracking-ion.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

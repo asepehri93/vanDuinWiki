@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013wheeler-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/Wheeler_ReactiveWater_JChemPhys_138_174502.pdf",
+    "sha256": "82ce2176da558b810538c867e9839deeaf154d0e6e1c3f95a0c0fe81cf72f5b0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4798457",
+    "title": "A polarizable reactive force field for water to enable molecular dynamics simulations of proton transport",
+    "year": 2013,
+    "authors": ["Abhishek Asthana", "Dean R. Wheeler"],
+    "venue": "The Journal of Chemical Physics"
+  },
+  "pdf_path": "papers/Others/Wheeler_ReactiveWater_JChemPhys_138_174502.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013wheeler-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["polarizable force field", "water", "proton transport", "molecular dynamics"],
+  "claims": [
+    {
+      "text": "Polarizable reactive water model reproduces bulk water properties in tests; preliminary PT rate underestimates experiment by about 5×.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013wheeler-venue-paper", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013wheeler-venue-paper.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

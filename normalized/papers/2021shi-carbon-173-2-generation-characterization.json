@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021shi-carbon-173-2-generation-characterization",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Shi_Tonks_Philpott_Carbon_kMC_MD_2021.pdf",
+    "sha256": "2bbaff43777d33832635074e54de0d0e3040790b46c5a9b200ae0094f5b7a190",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Generation and characterization of an improved carbon fiber model by molecular dynamics",
+    "year": 2021,
+    "authors": "Linyuan Shi",
+    "venue": "Carbon, 173 (2021) 232-244. doi:10.1016/j.carbon.2020.11.011"
+  },
+  "pdf_path": "papers/ReaxFF_others/Shi_Tonks_Philpott_Carbon_kMC_MD_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021shi-carbon-173-2-generation-characterization_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021shi-carbon-173-2-generation-characterization.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

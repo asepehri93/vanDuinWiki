@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023mao-progress-in-classical-reactive",
+  "manifest": {
+    "source_path": "papers/Mao_ReaxFF_Combustion_review_ProgCombSci_2023.pdf",
+    "sha256": "1c808c0789f28cbd9af2c2041c82562e4a28b35fed005d64cb7571e1fb723f83",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Classical and reactive molecular dynamics: Principles and applications in combustion and energy systems",
+    "year": 2023,
+    "authors": "Qian Mao",
+    "venue": "Progress in Energy and Combustion Science, 97 (2023) 101084. doi:10.1016/j.pecs.2023.101084"
+  },
+  "pdf_path": "papers/Mao_ReaxFF_Combustion_review_ProgCombSci_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023mao-progress-in-classical-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023mao-progress-in-classical-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

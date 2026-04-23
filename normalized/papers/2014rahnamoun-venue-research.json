@@ -1,0 +1,29 @@
+{
+ "paper_id": "paper:2014rahnamoun-venue-research",
+ "manifest": {
+  "source_path": "papers/Rahnamoun_Kapton_JPCA_2014_proof.pdf",
+  "sha256": "859d17042be66d2e1d8483b36a940a18ee50c8922589a1e0b56148fd477ae4ee",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1021/jp4121029",
+  "title": "Reactive molecular dynamics simulation on the disintegration of Kapton, POSS polyimide, amorphous silica, and Teflon during atomic oxygen impact using the ReaxFF reactive force-field method",
+  "year": 2014,
+  "authors": [
+   "A. Rahnamoun",
+   "Adri C. T. van Duin"
+  ],
+  "venue": "The Journal of Physical Chemistry A"
+ },
+ "pdf_path": "papers/Rahnamoun_Kapton_JPCA_2014_proof.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014rahnamoun-venue-research_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014rahnamoun-venue-research.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

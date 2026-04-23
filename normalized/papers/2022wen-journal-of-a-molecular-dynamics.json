@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022wen-journal-of-a-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/Others/Phillpot_et_al_shock_MD_SW_tutorial.pdf",
+    "sha256": "6033cf137ad708441ce8c2d47a7c9f6b035dcf77835972994beba37ab1028940",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0076266",
+    "title": "Molecular dynamics simulation of the shock response of materials: A tutorial",
+    "year": 2022,
+    "authors": "Peng Wen",
+    "venue": "Journal of Applied Physics 2022.131:051101"
+  },
+  "pdf_path": "papers/Others/Phillpot_et_al_shock_MD_SW_tutorial.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022wen-journal-of-a-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5744
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022wen-journal-of-a-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

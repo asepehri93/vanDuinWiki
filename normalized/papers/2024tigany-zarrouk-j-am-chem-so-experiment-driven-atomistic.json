@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024tigany-zarrouk-j-am-chem-so-experiment-driven-atomistic",
+  "manifest": {
+    "source_path": "papers/Others/experiment-driven-atomistic-materials-modeling-a-case-study-combining-x-ray-photoelectron-spectroscopy-and-machine.pdf",
+    "sha256": "77492bfdc065943c17457cd7fe43d21d7c1e641b69f4a998f03dd83f127fc2da",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Experiment-Driven Atomistic Materials Modeling: A Case Study Combining X-Ray Photoelectron Spectroscopy and Machine Learning Potentials to Infer the Structure of Oxygen-Rich Amorphous Carbon",
+    "year": 2024,
+    "authors": "Tigany Zarrouk, Rina Ibragimova, Albert P. Bartók, and Miguel A. Caro",
+    "venue": "J. Am. Chem. Soc. 2024.146:14645-14659"
+  },
+  "pdf_path": "papers/Others/experiment-driven-atomistic-materials-modeling-a-case-study-combining-x-ray-photoelectron-spectroscopy-and-machine.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024tigany-zarrouk-j-am-chem-so-experiment-driven-atomistic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024tigany-zarrouk-j-am-chem-so-experiment-driven-atomistic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

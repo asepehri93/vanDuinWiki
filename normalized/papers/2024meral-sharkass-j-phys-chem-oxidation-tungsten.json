@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024meral-sharkass-j-phys-chem-oxidation-tungsten",
+  "manifest": {
+    "source_path": "papers/sharkass-et-al-2024-oxidation-of-tungsten-at-room-temperature-irradiated-by-oxygen-plasma.pdf",
+    "sha256": "f3a65308c6fa6fae6240898cf5ff56bb8d5b3438e57653ebeb38e60b35cb53a1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.4c03664",
+    "title": "Oxidation of Tungsten at Room Temperature Irradiated by Oxygen Plasma",
+    "year": 2024,
+    "authors": "Meral Sharkass, Swarit Dwivedi, Yun Kyung Shin, Martin Nieto-Perez, Adri C.T. van Duin, and Predrag S. Krstic",
+    "venue": "J. Phys. Chem. C 0.0"
+  },
+  "pdf_path": "papers/sharkass-et-al-2024-oxidation-of-tungsten-at-room-temperature-irradiated-by-oxygen-plasma.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024meral-sharkass-j-phys-chem-oxidation-tungsten_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024meral-sharkass-j-phys-chem-oxidation-tungsten.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

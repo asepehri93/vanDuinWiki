@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022prudkovskiy-nat-epitaxial-graphene",
+  "manifest": {
+    "source_path": "papers/Others/Graphene_ribbons_conductivity.pdf",
+    "sha256": "45632a4317f5931a15feff65d28711860907028b8e93d17ec2598e6902361d71",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41467-022-34369-4",
+    "title": "An epitaxial graphene platform for zero-energy edge state nanoelectronics",
+    "year": 2022,
+    "authors": "Vladimir S. Prudkovskiy",
+    "venue": "Nature Communications, doi:10.1038/s41467-022-34369-4"
+  },
+  "pdf_path": "papers/Others/Graphene_ribbons_conductivity.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022prudkovskiy-nat-epitaxial-graphene_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022prudkovskiy-nat-epitaxial-graphene.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

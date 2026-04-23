@@ -27,30 +27,23 @@ group_affiliation: true
 
 <!-- id:paper:2015kim-venue-paper -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
 This corpus PDF is **Supporting Information** for a **ReaxFF molecular dynamics** study on **water effects in tribochemical wear of silicon oxide interfaces** (authors **Yeon**, **van Duin**, **Kim** in the extract). The excerpted pages document **Si(100) oxidation** with **400 O\(_2\)** molecules between slabs at **300 K** for **400 ps**, reporting **~5–6 Å** oxide growth consistent with prior MD, and summarize **amorphous SiO\(_2\)** density/RDF/angle benchmarks in **tabular form in the SI**, comparing **ReaxFF** to QM and experimental reference data. Additional **NVT** hydroxylation runs with **400 water molecules** on oxidized Si(001) and amorphous silica slabs reach **hydroxyl coverage steady state** by **~750 ps** according to the SI text.
 
 ## Methods
 
-- **ReaxFF MD** in **NVT** for oxidation and hydroxylation sequences described in the SI extract.
+The SI documents **ReaxFF** validation steps ahead of the parent **Langmuir** tribochemistry study. **Oxidation sanity check:** **400 O\(_2\)** molecules between two **Si(100)** slabs in a **3D periodic** supercell, **300 K**, **400 ps** of **molecular dynamics**, giving **~5–6 Å** oxide thickness consistent with prior **MD** cited as **[1]** in the SI—**barostat / controlled pressure:** **N/A —** not stated for this oxidation box (constant-cell **300 K** run as described). **Amorphous silica:** **Table S1** compares **ReaxFF** to **QM/experiment** for **bulk density** (**2.15** vs **2.2** g cm\(^{-3}\)), first **Si–O RDF** peak (**1.65** vs **1.62** Å), **Si–O–Si** angle (**152.1°** vs **144°**), and **O–Si–O** angle (**110°** vs **109.5°**) on an **annealed SiO\(_2\)** slab (**500 K** **NVT** context in the SI). **Hydroxylation:** **NVT** runs with **400 H\(_2\)O** on **oxidized Si(001)** and **amorphous SiO\(_2\)** (**Figure S2**) reach **hydroxyl coverage** near **steady state** by **~750 ps** per the SI narrative. **Integration package for any MD shown here:** **N/A —** the SI pages summarized for this slug do not name the **MD engine** (only **ReaxFF** as the model). **Shear, normal load, tribo cell geometry, timestep, and thermostat damping** for wear production runs are likewise **N/A —** not on the short excerpt—use **`papers/Yeon_Langmuir_2016_SI.pdf`** in full plus the **parent article** for those parameters.
 
 ## Findings
 
-- **Oxidation thickness** and **silica** structural metrics are presented as internal validation checkpoints for the larger tribochemistry study.
+Together, the SI excerpts support using this **Si/O/H ReaxFF** setup for subsequent **tribochemical** work: **~5–6 Å** oxide after **400 ps** / **300 K** with **400 O\(_2\)** between **Si(100)** slabs tracks prior **MD** cited in the SI; **Table S1** shows **ReaxFF** **bulk** and **angular/RDF** metrics for **annealed SiO\(_2\)** close to **QM/experiment** references; and **hydroxyl coverage** on **oxidized Si(001)** and **amorphous SiO\(_2\)** plateaus near **750 ps** for **400** water molecules. **Wear-rate or friction conclusions, sensitivity sweeps, and bibliographic DOI** are **not** asserted from this **SI-only** slug—see the **parent Langmuir** article (`doi: null` here reflects the SI ingest).
 
 ## Limitations
 
 - This slug is **SI-only**; the **main article** claims, figures, and tribowear conclusions are not in the p1–2 extract.
 - Manifest `paper_id` uses **2015kim-venue-paper** while the filename references **Yeon_Langmuir_2016_SI.pdf**; treat metadata as **corpus registration quirks** until reconciled.
+- **Langmuir** **tribochemistry** studies often include **load** **histories** and **counterface** **roughness** not visible in the **oxidation** **validation** excerpt alone.
 
 ## Relevance to group
 

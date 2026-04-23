@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015wang-nat-high-damage",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Wang_NatureComm_2015_LiS.pdf",
+    "sha256": "5d72e533078fd2e1d03113fbb0e5728a88cbcdd91588c8475867afd24af7b65e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/ncomms9417",
+    "title": "High damage tolerance of electrochemically lithiated silicon",
+    "year": 2015,
+    "authors": "Xueju Wang",
+    "venue": "Nature Communications 6,  (2015). doi:10.1038/ncomms9417"
+  },
+  "pdf_path": "papers/ReaxFF_others/Wang_NatureComm_2015_LiS.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015wang-nat-high-damage_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015wang-nat-high-damage.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

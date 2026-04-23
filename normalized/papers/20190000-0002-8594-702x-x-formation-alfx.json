@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20190000-0002-8594-702x-x-formation-alfx",
+  "manifest": {
+    "source_path": "papers/Liu_AlF_etching_JPCC_2019_proof.pdf",
+    "sha256": "90c9fe25295a2722ea3a9dbe172110b85335e0e52c59308751f6d4321c8b7903",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Formation of AlFx Gaseous Phases during High Temperature Etching: A Reactive Force Field Based Molecular Dynamics Study",
+    "year": 2019,
+    "authors": "Yongli Liu (ORCID: 0000-0002-8594-702X)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Liu_AlF_etching_JPCC_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20190000-0002-8594-702x-x-formation-alfx_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20190000-0002-8594-702x-x-formation-alfx.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,39 @@
+{
+  "paper_id": "paper:2013silica-venue-jp4019525",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Silica_defect_PaulNorman.pdf",
+    "sha256": "144c6468ec12f9f455a5cce43c00b01a2c6103fba299a55189119dde4502c924",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp4019525",
+    "title": "The structure of silica surfaces exposed to atomic oxygen",
+    "year": 2013,
+    "authors": [
+      "Paul Norman",
+      "Thomas E. Schwartzentruber",
+      "Hannah Leverentz",
+      "Sijie Luo",
+      "Rubén Meana-Pañeda",
+      "Yuliya Paukku",
+      "Donald G. Truhlar"
+    ],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/ReaxFF_others/Silica_defect_PaulNorman.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013silica-venue-jp4019525_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF SiO", "silica", "atomic oxygen", "quartz", "peroxyl defect"],
+  "claims": [
+    {
+      "text": "ReaxFFSiO GSI MD with O-flux reproduces silica surface defects and predicts a peroxyl defect consistent with DFT checks; discusses catalytic O recombination.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013silica-venue-jp4019525", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013silica-venue-jp4019525.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

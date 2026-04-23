@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017ye-tian-1-the-journal-thermal-conductivity",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/2017-JCP-TianYe-thermal-conductivity-SiO2-ReaxFF-BKS-Teter.pdf",
+    "sha256": "2eacbee21588ec0d18a47f603ec281e31e4bed26d3f1e9a59c32b47b9e3f948c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4975162",
+    "title": "Thermal conductivity of vitreous silica from molecular dynamics simulations: The effects of force field, heat flux and system size",
+    "year": 2017,
+    "authors": "Ye Tian 1,2, Jincheng Du 2, Wei Han 1, Xiaotao Zu 3, Xiaodong Yuan 1, and Wanguo Zheng 1View Affiliations1Research Center of Laser Fusion, China Academy of Engineering Physics, Mianyang 621900, China2Department of Materials Science and Engineering, University of North Texas, Denton, Texas 76203, USA3Institute for Fundamental and Frontier Science, University of Electronic Science and Technology of China, Chengdu 610054, China",
+    "venue": "The Journal of Chemical Physics 2017.146:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/2017-JCP-TianYe-thermal-conductivity-SiO2-ReaxFF-BKS-Teter.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017ye-tian-1-the-journal-thermal-conductivity_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5987
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017ye-tian-1-the-journal-thermal-conductivity.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

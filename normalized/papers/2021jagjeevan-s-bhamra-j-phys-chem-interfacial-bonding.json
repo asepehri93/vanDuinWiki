@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021jagjeevan-s-bhamra-j-phys-chem-interfacial-bonding",
+  "manifest": {
+    "source_path": "papers/Bhamra_Ewen_Diamond_Rock_JPC_C_2021.pdf",
+    "sha256": "2959480c757c1c3eb74b8c06218a27813a0ef78d6200caa1a3751c22964b3fdf",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Interfacial Bonding Controls Friction in Diamond–Rock Contacts",
+    "year": 2021,
+    "authors": "Jagjeevan S. Bhamra, James P. Ewen, Carlos Ayestarán Latorre, John A. R. Bomidi, Marc W. Bird, Nabankur Dasgupta, Adri C. T. van Duin, and Daniele Dini",
+    "venue": "J. Phys. Chem. C 2021.125:18395-18408"
+  },
+  "pdf_path": "papers/Bhamra_Ewen_Diamond_Rock_JPC_C_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021jagjeevan-s-bhamra-j-phys-chem-interfacial-bonding_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021jagjeevan-s-bhamra-j-phys-chem-interfacial-bonding.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

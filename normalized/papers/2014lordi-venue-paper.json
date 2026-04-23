@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014lordi-venue-paper",
+  "manifest": {
+    "source_path": "papers/Lordi_LLNL_Conf_Li_electrolyte.pdf",
+    "sha256": "f898cc70d1661f8b9f4105cd2d95546d626ddbea6d0b6be80f7cd253d913d3fe",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Lordi_LLNL_Conf_Li_electrolyte.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014lordi-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1361
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014lordi-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

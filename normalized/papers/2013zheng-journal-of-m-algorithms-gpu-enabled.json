@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013zheng-journal-of-m-algorithms-gpu-enabled",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zheng_ReaxFF_CPU_JMolGraphModel_2013.pdf",
+    "sha256": "a2b242b9101cb182a8e6c3fa732698b1113ae3e41e063e975d936ad51b4e4056",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Algorithms of GPU-enabled reactive force field (ReaxFF) molecular dynamics",
+    "year": 2013,
+    "authors": "Mo Zheng",
+    "venue": "Journal of Molecular Graphics and Modelling, 41 (2013) 1-11. 10.1016/j.jmgm.2013.02.001"
+  },
+  "pdf_path": "papers/ReaxFF_others/Zheng_ReaxFF_CPU_JMolGraphModel_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013zheng-journal-of-m-algorithms-gpu-enabled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013zheng-journal-of-m-algorithms-gpu-enabled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

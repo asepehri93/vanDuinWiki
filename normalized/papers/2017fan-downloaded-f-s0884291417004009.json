@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017fan-downloaded-f-s0884291417004009",
+  "manifest": {
+    "source_path": "papers/Fan_surface_oxidation_JMatRes_2017.pdf",
+    "sha256": "6cf35b9cd3f7d009b56943b2c28e83a830696ae334e8f4f913ab7655cea2ac15",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "S0884291417004009 4327..4341",
+    "year": 2017,
+    "authors": null,
+    "venue": "Downloaded from https://www.cambridge.org/core. Pennsylvania State University, on 08 Jan 2018 at 20:27:55, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms."
+  },
+  "pdf_path": "papers/Fan_surface_oxidation_JMatRes_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017fan-downloaded-f-s0884291417004009_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017fan-downloaded-f-s0884291417004009.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

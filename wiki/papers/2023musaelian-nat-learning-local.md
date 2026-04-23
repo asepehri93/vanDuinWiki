@@ -2,7 +2,7 @@
 id: paper:2023musaelian-nat-learning-local
 type: paper
 title: "Learning local equivariant representations for large-scale atomistic dynamics"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: med
 canonical_tags:
   - domain:ml-atomistic
@@ -41,15 +41,39 @@ group_affiliation: false
 
 ## Summary
 
-Introduces **Allegro**, a **strictly local**, **equivariant** deep interatomic potential architecture aimed at **accuracy without atom-centered message passing**—targeting **scalable parallelization** and very large systems. The model composes **iterated tensor products** of learned equivariant features (no MPNN-style propagation beyond locality). Reported benchmarks include strong performance on **QM9** and **rMD17**, claims of **out-of-distribution generalization**, and MD of an **amorphous electrolyte** matching **ab initio** behavior; a headline scalability demo reaches **~100 million atoms** (per abstract).
+Machine-learned interatomic potentials (MLIPs) now compete with empirical force fields and tight-binding models for **large-scale molecular dynamics**, but many graph neural network architectures rely on **multi-hop message passing** that complicates **massive parallelization**. **Allegro**, introduced in this **Nature Communications** article (**Musaelian**, **Batzner**, **Johansson**, **Sun**, **Owen**, **Kornbluth**, **Kozinsky**), is a **strictly local**, **E(3)-equivariant** model that builds **iterated tensor products** of learned features without propagating information beyond a fixed **local neighborhood**. The design targets **GPU-friendly** parallelism and very long trajectories for **condensed-phase** systems. Reported evaluations span **QM9** and **rMD17** benchmarks, claims of **out-of-distribution** robustness on selected splits, and an **amorphous electrolyte** example where Allegro-driven MD tracks **ab initio** references; a scaling study highlights simulations approaching **100 million atoms** in the abstract’s headline demonstration.
 
 ## Methods
 
-Neural potential architecture design; training on quantum-chemistry datasets; MD validation cases including disordered electrolyte; parallel strong-scaling demonstration.
+### Supervised training on QM data (C)
+
+**E/F** labels from **electronic-structure** calculations; **atomic numbers** + **positions** mapped to **E(3)-equivariant** features (**irreps**).
+
+### Architecture (Allegro)
+
+**Local** **tensor-product** iterations replace deep **message-passing** while preserving **symmetry** (details in article/SI).
+
+### Validation suite
+
+**QM9** / **rMD17** benchmarks; **OOD** splits; **amorphous electrolyte** **MD** stability; **strong-scaling** to ~**100M atoms** (headline HPC demo).
 
 ## Findings
 
-Local Allegro models can match or exceed prior **MPNN**/transformer baselines on standard sets while improving **scalability**; large-scale demo illustrates HPC headroom when locality is preserved by construction.
+### Accuracy vs baselines
+
+Competitive or better than **MPNN**/**transformer** potentials on reported tasks with improved **large-cell** scaling due to **strict locality**.
+
+### Electrolyte case study
+
+Matches **ab initio** **structure/dynamics** when training covers the chemistry.
+
+### Scalability vs coverage
+
+**100M-atom** run demonstrates **throughput**; **generalization** still depends on **training corpus** breadth and **UQ**. The main text emphasizes that **strict locality** avoids **multi-hop** graph propagation costs and improves **GPU** strong scaling relative to deeper **message-passing** graph networks on large **condensed-phase** cells.
+
+**Compared** to **MPNN** baselines on the **rMD17**-style **reaction** **surfaces** and the **amorphous** **electrolyte** case, **Allegro** **reproduces** **ab initio** **forces** within the **published** **tolerances** while **reducing** **cost** at **extreme** **NVT**-style **sampling**—a **sensitivity** to **out-of-distribution** **chemistry** remains, which the **authors** **frame** as a **limitation** for **reactive** **interfaces**; **outlook** toward **battery** **kinetics** requires **broader** **datasets** than the **showcase** **alloys**; **citations** should use the **peer-reviewed** **DOI** `pdf_path` (not this **wiki** for **new** **numbers**).
+
+
 
 ## Limitations
 

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019dasgupta-computationa-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Nabankur_2019_CompMatSci_electrolyte.pdf",
+    "sha256": "7a62c0375b508f19e0517f0c9e49209b41d13c0a848cc0995cfd02a3e6ae151b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF molecular dynamics simulations on the structure and dynamics of electrolyte water systems at ambient temperature",
+    "year": 2019,
+    "authors": "Nabankur Dasgupta",
+    "venue": "Computational Materials Science, 172 (2019) 109349. doi:10.1016/j.commatsci.2019.109349"
+  },
+  "pdf_path": "papers/Nabankur_2019_CompMatSci_electrolyte.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019dasgupta-computationa-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019dasgupta-computationa-reaxff-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

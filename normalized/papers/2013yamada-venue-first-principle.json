@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013yamada-venue-first-principle",
+  "manifest": {
+    "source_path": "papers/Yamada_Formaldehyde_JCC_2013.pdf",
+    "sha256": "0609ee4ed239033b598a43795f28d1064809b6aa864b68c622a5bd3cd2569517",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/jcc.23320",
+    "title": "First principle and ReaxFF molecular dynamics investigations of formaldehyde dissociation on Fe(100) surface",
+    "year": 2013,
+    "authors": ["Takahiro Yamada", "Donald K. Phelps", "Adri C. T. van Duin"],
+    "venue": "Journal of Computational Chemistry"
+  },
+  "pdf_path": "papers/Yamada_Formaldehyde_JCC_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013yamada-venue-first-principle_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "DFT", "formaldehyde", "Fe(100)", "Fischer-Tropsch"],
+  "claims": [
+    {
+      "text": "DFT+ReaxFF study of H2CO/HCO/CO on Fe(100) reports pathway barriers 11.0, 4.1, and 26.3 kcal/mol for H2CO→HCO+H, HCO→H+CO, CO→C+O in the abstract’s diagram; ReaxFF vs HREELS/TST agreement is mixed by step and temperature.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013yamada-venue-first-principle", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013yamada-venue-first-principle.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

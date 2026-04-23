@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025amin-ahmadisharaf-j-phys-chem-reaxff-parameter",
+  "manifest": {
+    "source_path": "papers/Ahmadisharaf_Boron_clusters_JPCC_2025.pdf",
+    "sha256": "95c0e89077924548e1a2c8787abac815908e10ea5e80fbf98880a414d75456f1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF Parameter Set for Boron Clusters and Icosahedral Boron Crystals: Comparison with Density Functional Theory and Machine-Learning Potentials",
+    "year": 2025,
+    "authors": "Amin Ahmadisharaf, Adri C. T. van Duin, Bin Liu, Dylan Evans, Sadra Sabouri, and Jeffrey Comer",
+    "venue": "J. Phys. Chem. C 2025.129:22319-22333"
+  },
+  "pdf_path": "papers/Ahmadisharaf_Boron_clusters_JPCC_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025amin-ahmadisharaf-j-phys-chem-reaxff-parameter_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025amin-ahmadisharaf-j-phys-chem-reaxff-parameter.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016islam-venue-research-3",
+  "manifest": {
+    "source_path": "papers/Islam_eReaxFF_LiEC_JPC_2016_proof.pdf",
+    "sha256": "25e01170f6b2e7be043e7ce6ac94b80c0efc33d0392cbec762278bd9bb5cca0d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..7",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Islam_eReaxFF_LiEC_JPC_2016_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016islam-venue-research-3_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016islam-venue-research-3.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

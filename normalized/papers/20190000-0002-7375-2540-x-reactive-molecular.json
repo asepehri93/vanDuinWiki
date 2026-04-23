@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20190000-0002-7375-2540-x-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/Ashraf_JPC_C_2019_polymeroxidation_proof.pdf",
+    "sha256": "e02248fcea480ef530e568d7dfc2d8f54c44628c8145452f870a62a5fbda361b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.9b03739",
+    "title": "Reactive Molecular Dynamics Simulations of the Atomic Oxygen Impact on Epoxies with Different Chemistries",
+    "year": 2019,
+    "authors": "Chowdhury Ashraf (ORCID: 0000-0002-7375-2540)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Ashraf_JPC_C_2019_polymeroxidation_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20190000-0002-7375-2540-x-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20190000-0002-7375-2540-x-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

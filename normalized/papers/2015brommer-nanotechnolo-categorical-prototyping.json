@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015brommer-nanotechnolo-categorical-prototyping",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Brommer_Buehler_Nanotech_3D_printing_2016.pdf",
+    "sha256": "6150672a80f85488cc88c17aefd574cfaa698e9bd1fa434efa972cefdc088654",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Categorical prototyping: incorporating molecular mechanisms into 3D printing",
+    "year": 2015,
+    "authors": "Dieter B Brommer",
+    "venue": "Nanotechnology, 27(2015) 024002. doi:10.1088/0957-4484/27/2/024002"
+  },
+  "pdf_path": "papers/ReaxFF_others/Brommer_Buehler_Nanotech_3D_printing_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015brommer-nanotechnolo-categorical-prototyping_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4288
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015brommer-nanotechnolo-categorical-prototyping.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

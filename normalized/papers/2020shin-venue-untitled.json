@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020shin-venue-untitled",
+  "manifest": {
+    "source_path": "papers/Shin_Goddard_Chapter_Shin_Ashraf_2020.pdf",
+    "sha256": "a0d90567003f7ebd42707f07ca29230cfde53b9b9daf7de4ef0f94dbba376912",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Untitled",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Shin_Goddard_Chapter_Shin_Ashraf_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020shin-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4100
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020shin-venue-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

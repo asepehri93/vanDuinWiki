@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018chen-nat-hydroxide-diffuses",
+  "manifest": {
+    "source_path": "papers/Others/Nature-chem-OH-H-diffusion-2018.pdf",
+    "sha256": "ee34f3e5ab5f362656ccfabb4f74678fda5fd2af41337abbd3572115f97e4d26",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41557-018-0010-2",
+    "title": "Hydroxide diffuses slower than hydronium in water because its solvated structure inhibits correlated proton transfer",
+    "year": 2018,
+    "authors": "Mohan Chen",
+    "venue": "Nature Chemistry, doi:10.1038/s41557-018-0010-2"
+  },
+  "pdf_path": "papers/Others/Nature-chem-OH-H-diffusion-2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018chen-nat-hydroxide-diffuses_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018chen-nat-hydroxide-diffuses.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

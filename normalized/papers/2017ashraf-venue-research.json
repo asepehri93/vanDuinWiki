@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017ashraf-venue-research",
+  "manifest": {
+    "source_path": "papers/Ashraf_CHO_2017_JPCA_proof.pdf",
+    "sha256": "91767237d407af634384de5c75f216b94feec2b173ec640085c2d3b573f3bf0d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpca.6b12429",
+    "title": "Extension of the ReaxFF Combustion Force Field toward Syngas Combustion and Initial Oxidation Kinetics",
+    "year": 2017,
+    "authors": null,
+    "venue": "J. Phys. Chem. A"
+  },
+  "pdf_path": "papers/Ashraf_CHO_2017_JPCA_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017ashraf-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017ashraf-venue-research.md",
+  "updated": "2026-04-21T18:36:52Z"
+}

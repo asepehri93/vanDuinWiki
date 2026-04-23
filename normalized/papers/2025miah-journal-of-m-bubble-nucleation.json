@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025miah-journal-of-m-bubble-nucleation",
+  "manifest": {
+    "source_path": "papers/Others/Leidenfrost_JMolLiq_Al-Kabir.pdf",
+    "sha256": "199f0eb030064a95aaaa39709824709ae32d11f3bbc0462e1bae842f1cc0f713",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Bubble nucleation and Leidenfrost characteristics of nanoscale porous surfaces from molecular dynamics study: Effects of surface morphology and wettability variation",
+    "year": 2025,
+    "authors": "Md. Nurannabi Miah",
+    "venue": "Journal of Molecular Liquids, 421 (2025) 126867. doi:10.1016/j.molliq.2025.126867"
+  },
+  "pdf_path": "papers/Others/Leidenfrost_JMolLiq_Al-Kabir.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025miah-journal-of-m-bubble-nucleation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025miah-journal-of-m-bubble-nucleation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

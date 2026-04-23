@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023zhang-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Zhang_Kowalik_Mao_CNT_Matrix_ACS_AMI_2023_galley.pdf",
+    "sha256": "9987263d138902934676625649648f1d40a6d4b5fd82fce9bea363ba3ff38ea9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.3c03209",
+    "title": "manuscript 1..11",
+    "year": 2023,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Zhang_Kowalik_Mao_CNT_Matrix_ACS_AMI_2023_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023zhang-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023zhang-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

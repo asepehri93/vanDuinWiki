@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025horsfield-nat-organic-h2",
+  "manifest": {
+    "source_path": "papers/Horsfield_Kowalik_Cherubin_H2_formation_basins_IntJ_HydogenEng_2025_online.pdf",
+    "sha256": "adcdae0e70fb392d320f1b30776765b1a1596644f32b899534587abc79ffdd24",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Organic H2 formation at atomic to basin scales: predictions and ground-truthing",
+    "year": 2025,
+    "authors": "B. Horsfield",
+    "venue": "International Journal of Hydrogen Energy, Corrected proof, 150063. doi:10.1016/j.ijhydene.2025.150063"
+  },
+  "pdf_path": "papers/Horsfield_Kowalik_Cherubin_H2_formation_basins_IntJ_HydogenEng_2025_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025horsfield-nat-organic-h2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7566
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025horsfield-nat-organic-h2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

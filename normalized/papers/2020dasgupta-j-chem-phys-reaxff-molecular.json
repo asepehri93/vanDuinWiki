@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020dasgupta-j-chem-phys-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Dasgupta_JCP_2020_supercritical_electrolyte.pdf",
+    "sha256": "e464e448c0f0cdc5e44b3eaee1f70e046a66f70af54d0dbfbb82ce7bd5c57578",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0006676",
+    "title": "ReaxFF molecular dynamics simulations of electrolyte–water systems at supercritical temperature",
+    "year": 2020,
+    "authors": "Nabankur Dasgupta",
+    "venue": "J. Chem. Phys. 2020.152:204502"
+  },
+  "pdf_path": "papers/Dasgupta_JCP_2020_supercritical_electrolyte.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020dasgupta-j-chem-phys-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4665
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020dasgupta-j-chem-phys-reaxff-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015376-377-000-venue-mergedfile",
+  "manifest": {
+    "source_path": "papers/Others/Reddy_Arava_papers/JACS (2015).pdf",
+    "sha256": "9473346d71be63f928128bf5a3ba9ee4047b4fa346ba2451f47c305e0cec6590",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "MergedFile",
+    "year": 2015,
+    "authors": "\\376\\377\\000 ",
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Reddy_Arava_papers/JACS (2015).pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015376-377-000-venue-mergedfile_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015376-377-000-venue-mergedfile.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

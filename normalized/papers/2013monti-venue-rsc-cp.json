@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013monti-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Monti_ReaxFF_Peptides_galley_2013.pdf",
+    "sha256": "7c8f4b462d2d30b306759cf5df6c4cc222942c79e5a3adc047e049affea8f24b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c3cp51931g",
+    "title": "RSC_CP_C3CP51931G 1..18",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Monti_ReaxFF_Peptides_galley_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013monti-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3011
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013monti-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

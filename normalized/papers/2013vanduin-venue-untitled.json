@@ -1,0 +1,37 @@
+{
+  "paper_id": "paper:2013vanduin-venue-untitled",
+  "manifest": {
+    "source_path": "papers/vanDuin_ReaxFF_water_RoySoc_2013.pdf",
+    "sha256": "83244d0c79fc2655ecf77956a9824e4e885e39a328b26b4547c96a2dc5e92512",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/9781849734905-00223",
+    "title": "A ReaxFF reactive force-field for proton transfer reactions in bulk water and its applications to heterogeneous catalysis",
+    "year": 2013,
+    "authors": [
+      "Adri C. T. van Duin",
+      "Chenyu Zou",
+      "Kaushik Joshi",
+      "Vyascheslav Bryantsev",
+      "William A. Goddard"
+    ],
+    "venue": "Computational Catalysis (RSC Catalysis Series No. 14)"
+  },
+  "pdf_path": "papers/vanDuin_ReaxFF_water_RoySoc_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013vanduin-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "water", "proton transfer", "heterogeneous catalysis"],
+  "claims": [
+    {
+      "text": "Book chapter surveys ReaxFF water models for proton-transfer chemistry and contrasts empirical vs polarizable water potentials for catalysis-relevant simulations.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013vanduin-venue-untitled", "section": "Chapter introduction" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013vanduin-venue-untitled.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

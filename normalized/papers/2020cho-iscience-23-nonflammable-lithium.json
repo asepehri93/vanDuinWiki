@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020cho-iscience-23-nonflammable-lithium",
+  "manifest": {
+    "source_path": "papers/Others/Noflammable_Li_battery_iScience_2020_Borodin_et_al.pdf",
+    "sha256": "c15c7a495be0dfd06eba25a0bfdc795623e3d546a9c9c0124e92783f84de5fcc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Nonflammable Lithium Metal Full Cells with Ultra-high Energy Density Based on Coordinated Carbonate Electrolytes",
+    "year": 2020,
+    "authors": "Sung-Ju Cho",
+    "venue": "ISCIENCE, 23 (2020) 100844. doi:10.1016/j.isci.2020.100844"
+  },
+  "pdf_path": "papers/Others/Noflammable_Li_battery_iScience_2020_Borodin_et_al.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020cho-iscience-23-nonflammable-lithium_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5540
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020cho-iscience-23-nonflammable-lithium.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

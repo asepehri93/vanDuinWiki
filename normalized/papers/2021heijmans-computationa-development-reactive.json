@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021heijmans-computationa-development-reactive",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Heijmans_CaCl2_CompMatSci_2021.pdf",
+    "sha256": "8f9b828e6c7de2c07ce48c39d6e7602d95408226f8732f6d18d2402437edeef6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of a reactive force field for [formula omitted] n [formula omitted], and the application to thermochemical energy storage",
+    "year": 2021,
+    "authors": "Koen Heijmans",
+    "venue": "Computational Materials Science, 197 (2021) 110595. doi:10.1016/j.commatsci.2021.110595"
+  },
+  "pdf_path": "papers/ReaxFF_others/Heijmans_CaCl2_CompMatSci_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021heijmans-computationa-development-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021heijmans-computationa-development-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

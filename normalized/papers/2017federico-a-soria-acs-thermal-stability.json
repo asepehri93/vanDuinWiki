@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017federico-a-soria-acs-thermal-stability",
+  "manifest": {
+    "source_path": "papers/Soria_Organic_Silicon_ACS_AMI_2017.pdf",
+    "sha256": "cb8bc2c9c1cc66c28fa8ff113a4dda9384b364543bfe4226edd4b59fd54a0c51",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Thermal Stability of Organic Monolayers Grafted to Si(111): Insights from ReaxFF Reactive Molecular Dynamics Simulations",
+    "year": 2017,
+    "authors": "Federico A. Soria, Weiwei Zhang, Adri C. T. van Duin, and Eduardo M. Patrito",
+    "venue": "ACS Appl. Mater. Interfaces 2017.9:30969-30981"
+  },
+  "pdf_path": "papers/Soria_Organic_Silicon_ACS_AMI_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017federico-a-soria-acs-thermal-stability_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017federico-a-soria-acs-thermal-stability.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

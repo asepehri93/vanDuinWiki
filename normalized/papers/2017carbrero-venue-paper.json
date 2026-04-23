@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017carbrero-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Carbrero_methane.pdf",
+    "sha256": "8145bf30e471d5a8e406f1c269c9d97d0ae74ba7455dc87a85ad5ff54b45d6b8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1142/S0129183117500486",
+    "title": "1750048 1..11",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Carbrero_methane.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017carbrero-venue-paper_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3776
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017carbrero-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

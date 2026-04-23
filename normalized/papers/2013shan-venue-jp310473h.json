@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013shan-venue-jp310473h",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Shan_PETN_JPCB_2013.pdf",
+    "sha256": "231f632686d95255471fa978e80195fa7fece8d92e46c7618bb2335fa39dd813",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp310473h",
+    "title": "Atomistic simulation of orientation dependence in shock-induced initiation of pentaerythritol tetranitrate",
+    "year": 2013,
+    "authors": ["Tzu-Ray Shan", "Ryan R. Wixom", "Ann E. Mattsson", "Aidan P. Thompson"],
+    "venue": "The Journal of Physical Chemistry B"
+  },
+  "pdf_path": "papers/ReaxFF_others/Shan_PETN_JPCB_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013shan-venue-jp310473h_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "PETN", "multiscale shock technique", "shock sensitivity"],
+  "claims": [
+    {
+      "text": "ReaxFF MSST shocks PETN along [110], [001], [100] at 3–10 km/s; reactions at ≥~6 km/s; [110] most sensitive initiation, [100] least; nitro vs nitrate initiation pathways differ by orientation.",
+      "confidence": "med",
+      "source_refs": [{ "paper_id": "paper:2013shan-venue-jp310473h", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013shan-venue-jp310473h.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2013russo-venue-research",
+  "manifest": {
+    "source_path": "papers/Russo_DNB_HNO3_JPCA_2013_galley.pdf",
+    "sha256": "180a26366631567e13040135ae633d547f0789653c31933f470027a058dacfac",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp403511q",
+    "title": "Combustion of 1,5-dinitrobiuret (DNB) in the presence of nitric acid using ReaxFF molecular dynamics simulations",
+    "year": 2013,
+    "authors": [
+      "Michael F. Russo, Jr.",
+      "Dmitry Bedrov",
+      "Shashank Singhai",
+      "Adri C. T. van Duin"
+    ],
+    "venue": "The Journal of Physical Chemistry A"
+  },
+  "pdf_path": "papers/Russo_DNB_HNO3_JPCA_2013_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013russo-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "DNB", "nitric acid", "hypergolic"],
+  "claims": [
+    {
+      "text": "ReaxFF MD of DNB/HNO3 mixtures at 0.5 and 1.0 g/mL finds compositions with sharp exothermic kinetics interpreted as spontaneous ignition/hypergolic behavior.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013russo-venue-research", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013russo-venue-research.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

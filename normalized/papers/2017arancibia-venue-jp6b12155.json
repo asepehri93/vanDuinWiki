@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017arancibia-venue-jp6b12155",
+  "manifest": {
+    "source_path": "papers/Arancibia_Miranda_JPCC_Imogolite_2017.pdf",
+    "sha256": "5f6d6c1ac1be6348274f063fb1e8b9b593105a0c17f83e2296ef755cdf73a1b8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp6b12155 1..11",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Arancibia_Miranda_JPCC_Imogolite_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017arancibia-venue-jp6b12155_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7129
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017arancibia-venue-jp6b12155.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018verma-nanotechnolo-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Verma_2018_Nanotechnology_29_115706.pdf",
+    "sha256": "2f731c87e0125e9902ecd7c59bbdf40a035fac77b4c92f04db56f77794035845",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular dynamics based simulations to study the fracture strength of monolayer graphene oxide",
+    "year": 2018,
+    "authors": "Akarsh Verma",
+    "venue": "Nanotechnology, 29(2018) 115706. doi:10.1088/1361-6528/aaa8bb"
+  },
+  "pdf_path": "papers/ReaxFF_others/Verma_2018_Nanotechnology_29_115706.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018verma-nanotechnolo-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4426
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018verma-nanotechnolo-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

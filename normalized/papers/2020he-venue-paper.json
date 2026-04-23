@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020he-venue-paper",
+  "manifest": {
+    "source_path": "papers/He_Glass_densification_ActaMater_2020_proof.pdf",
+    "sha256": "f115509b99f1f818616560f4379427e93806c201b8c94fafcf78cd1280acecf2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/He_Glass_densification_ActaMater_2020_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020he-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6354
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020he-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

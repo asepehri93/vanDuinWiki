@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018feng-fuel-235-201-ethanol-oxidation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Feng_Ethanol_water_Fuel_2018.pdf",
+    "sha256": "b26f5f839dac90559397eeb284a988fd38dad30477d0902c95fa848fa770aac0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Ethanol oxidation with high water content_ A reactive molecular dynamics simulation study",
+    "year": 2018,
+    "authors": "Muye Feng",
+    "venue": "Fuel, 235 (2018) 515-521. doi:10.1016/j.fuel.2018.08.040"
+  },
+  "pdf_path": "papers/ReaxFF_others/Feng_Ethanol_water_Fuel_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018feng-fuel-235-201-ethanol-oxidation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018feng-fuel-235-201-ethanol-oxidation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

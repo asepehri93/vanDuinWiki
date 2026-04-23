@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012meng-venue-jp212149c",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Meng_Ni_graphene_JPC_2012.pdf",
+    "sha256": "18b83c002592c88b8d6751e03b53a570011b04a9a9e57ae59239b2937455fa81",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp212149c 1..6",
+    "year": 2012,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Meng_Ni_graphene_JPC_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012meng-venue-jp212149c_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012meng-venue-jp212149c.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

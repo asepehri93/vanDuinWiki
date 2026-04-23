@@ -29,15 +29,28 @@ group_affiliation: true
 
 ## Summary
 
-Reactive MD examines **chemo-mechanical fracture** of **defective zigzag (18,0) single-walled carbon nanotubes** under **uniaxial strain** at **300 K** using **ReaxFF**, with **Li** placed on the outer surface at varying **Li:C** ratios (**0, 1:36, 1:12, 1:6**). Two defect types are considered: a **single vacancy** and a **10-carbon hole**. The abstract/intro distinguishes **abrupt** fracture (including **Li-assisted weakening** at the crack tip or Li-absent fast failure) vs **retarded** **“wait-and-go”** propagation where the crack arrests until **Li diffusion** weakens the tip region. Motivation ties to **Li-ion battery** electrode mechanics and prior **in situ TEM** observations of **embrittlement** in multi-walled CNTs.
+Reactive MD examines **chemo-mechanical fracture** of **defective zigzag (18,0) single-walled carbon nanotubes** under **uniaxial strain** at **300 K** using **ReaxFF**, with **Li** placed on the outer surface at varying **Li:C** ratios (**0, 1:36, 1:12, 1:6**). Two defect types are considered: a **single vacancy** and a **10-carbon hole**. The abstract/intro distinguishes **abrupt** fracture (including **Li-assisted weakening** at the crack tip or Li-absent fast failure) vs **retarded** **“wait-and-go”** propagation where the crack arrests until **Li diffusion** weakens the tip region. Motivation ties to **Li-ion battery** electrode mechanics and prior **in situ TEM** observations of **embrittlement** in multi-walled CNTs. The Letter frames defects as more than structural flaws: they can shorten **Li** diffusion paths into the tube wall and generate stress fields that steer **Li** toward the defect, where accumulated **Li** is described as weakening **C–C** bonds and “corrosively” biasing crack nucleation and growth.
 
 ## Methods
 
-- **ReaxFF** for **Li–C** systems; **Nosé–Hoover** thermostat; **periodic axial** boundary conditions; constant **strain rate 0.01 Å/ps** until failure.
+**1 — MD application** (from **`papers/Huang_APL_2013_LiCNT.pdf`** and `normalized/extracts/2013huang-venue-paper_p1-2.txt`). **Engine / code:** **Reactive molecular dynamics** with **ReaxFF** for **Li–C** (bond-order energetics plus geometry-dependent charges); integration software **N/A** — not named on indexed **pp. 1–2** (confirm in full **PDF**). **System size & composition:** **(18,0)** zigzag **SWCNT** **~7.2 nm** long (**~1200 carbon atoms**); **Li** randomly on the **outer** surface at **Li:C = 0, 1:36, 1:12, 1:6** (Fig. 1). **Boundaries / periodicity:** **PBC** along the tube **axial** direction. **Ensemble:** tensile runs at fixed **temperature** are described with **Nosé–Hoover** control at **300 K**, consistent with **NVT**-style sampling (**NPT** **N/A** — not stated on excerpt). **Timestep:** **N/A** — not stated on **p1–2** extract; confirm **fs** integration settings in the **PDF**. **Duration / stages:** pre-load **equilibration** toward a low-energy state, then **uniaxial** extension at **0.01 Å/ps** until rupture (**ps**-scale segments as tabulated in the article). **Thermostat:** **Nosé–Hoover** at **300 K**. **Barostat:** **N/A** — no **hydrostatic pressure** / **NPT** barostat on excerpt. **Pressure / stress:** uniaxial **stress**–**strain** loading only; bulk **pressure** control **N/A**. **Electric field:** **N/A**. **Replica / enhanced sampling:** **N/A**.
+
+**2 — Force-field training.** **N/A** — application of published **ReaxFF** **Li/C** validation references, not a new fit in this Letter.
+
+**3 — Static QM.** **N/A** — not the reported methodology on the indexed pages.
+
 
 ## Findings
 
-- Fracture mode maps (abrupt vs retarded) as a function of **defect size** and **Li concentration** in the opening discussion; full quantitative curves may extend beyond the partial extract.
+**Outcomes & mechanisms:** **Defect size** and **Li** **concentration** set **abrupt** vs **retarded** fracture under the same **uniaxial** load. **Abrupt** failure either involves **Li** weakening the moving crack tip or proceeds with little **Li** participation; **retarded** (“wait-and-go”) propagation **arrests** until **diffusing Li** reaches the tip and enables further **extension**—**corrosive** **C–C** weakening at defects is central to the picture in the Letter.
+
+**Comparisons:** Motivation cites **in situ TEM** on **MWCNT** embrittlement vs more ductile pristine tubes; simulation **mode** maps are tied to those **experimental** observations at the narrative level in the **PDF**.
+
+**Sensitivity / design levers:** **Li:C** ratio and defect class (single vacancy vs **10-carbon** hole) move the system between regimes at fixed **300 K** loading protocol.
+
+**Limitations & outlook:** **Mechanical** response of **SWCNT** models may not capture all **MWCNT** **experimental** conditions; **strain rate** and **electrochemical** environment effects follow the authors’ discussion in the article.
+
+**Corpus honesty:** **`extraction_quality: partial`**; quantitative kinetics beyond the abstract/Letter opening should be verified in the full **`pdf_path`** (not only `normalized/extracts/2013huang-venue-paper_p1-2.txt`).
 
 ## Limitations
 

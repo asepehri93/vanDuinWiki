@@ -2,7 +2,7 @@
 id: concept:theme-catalysis-surfaces
 type: concept
 title: "Theme: catalysis and surface reactions (ReaxFF corpus)"
-updated: "2026-04-20"
+updated: "2026-04-21"
 confidence: med
 canonical_tags:
   - domain:catalysis-surfaces
@@ -37,7 +37,7 @@ supported_by:
 
 **In corpus:** catalytic **CO₂/H₂** chemistry, **carbon nanostructure** surface reactions, **metal oxidation** surfaces, **silica** oxygen chemistry, and **electrolyte interface** chemistry when framed as surface reactivity.
 
-**Out of scope here:** gas-phase **combustion** kinetics without a catalytic surface (see pyrolysis/combustion theme).
+**Out of scope here:** gas-phase **combustion** kinetics without a catalytic surface (see [[theme-combustion-flames-fuels]] and [[theme-pyrolysis-combustion-organics]]).
 
 ## Literature review (this knowledge base)
 
@@ -58,6 +58,14 @@ Corpus-limited synthesis: the bullets below summarize **what the linked paper pa
 ### Metal surfaces, oxidation, and electrochemical overlap
 
 **Ni oxidation** and **oxygen ingress** in metals are covered in [[2014zou-acta-materia-molecular-dynamics]]. **Electrolyte interface** chemistry that is explicitly **surface-reaction** oriented appears in [[2018shin-physical-che-development-reaxff]] and ties to [[batteries-interfaces-reaxff]].
+
+## Analysis and cross-cutting patterns
+
+**CO₂ hydrogenation** and **C/H/O** networks in [[2015broqvist-venue-jp5b01597]] overlap thematically with [[theme-pyrolysis-combustion-organics]]; keep **heterogeneous surface** elementary steps in this hub unless the paper page frames **gas-phase thermal** decomposition as primary.
+
+## Gaps and open directions (corpus view)
+
+Catalyst papers whose **first** `domain:` tag sorts them elsewhere may be **under-linked** from this hub—use full-text search and [[paper-index-by-domain]] to find **surface** chemistry that is not yet routed here.
 
 ## Debates, tensions, and cross-references
 

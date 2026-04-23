@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021evgeny-moerman-j-chem-inf-m-development-reaxff",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Moerman_Furman_pyrite_water_JCIM_2021.pdf",
+    "sha256": "9ca5ae3bdefd7019f15dff992f5348bc7f95ccbfb58dce0336dc8cc7a4e7f9b4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of ReaxFF Reactive Force Field for Aqueous Iron–Sulfur Clusters with Applications to Stability and Reactivity in Water",
+    "year": 2021,
+    "authors": "Evgeny Moerman, David Furman, and David J. Wales",
+    "venue": "J. Chem. Inf. Model. 2021.61:1204-1214"
+  },
+  "pdf_path": "papers/ReaxFF_others/Moerman_Furman_pyrite_water_JCIM_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021evgeny-moerman-j-chem-inf-m-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021evgeny-moerman-j-chem-inf-m-development-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020akbarian-venue-total-number",
+  "manifest": {
+    "source_path": "papers/Akbarian_JCP_2020_eReaxFF_galley.pdf",
+    "sha256": "2b73f0bdd7038db9d9b46cc42c04c65f66eb4f27746247267e9b000cfe7e78da",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0033645",
+    "title": "Total Number of pages:7",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Akbarian_JCP_2020_eReaxFF_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020akbarian-venue-total-number_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6341
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020akbarian-venue-total-number.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

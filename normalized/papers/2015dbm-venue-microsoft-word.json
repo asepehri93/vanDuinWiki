@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015dbm-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Others/Wang_AIREBO_polystyterene_2015.pdf",
+    "sha256": "32c72329c568f039930211dd423f2bf21b5abab3fddc87802df80b1464a7dabf",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1007/s11433-014-5587-x",
+    "title": "Microsoft Word - scpma-2014-232-244",
+    "year": 2015,
+    "authors": "dbm",
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Wang_AIREBO_polystyterene_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015dbm-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015dbm-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

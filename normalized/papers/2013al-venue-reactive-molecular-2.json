@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013al-venue-reactive-molecular-2",
+  "manifest": {
+    "source_path": "papers/Yusupov_JPhysD_plasma_medicine_2014.pdf",
+    "sha256": "bc07143d9239e0eab0532d022fa499f81c3070a753074cd43b758fdcf22f47c6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/0022-3727/47/2/025205",
+    "title": "Reactive molecular dynamics simulations of oxygen species in a liquid water layer of interest for plasma medicine",
+    "year": 2013,
+    "authors": "M Yusupov et al",
+    "venue": null
+  },
+  "pdf_path": "papers/Yusupov_JPhysD_plasma_medicine_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013al-venue-reactive-molecular-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4404
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013al-venue-reactive-molecular-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

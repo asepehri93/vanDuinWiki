@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019arash-khajeh-acs-effect-ambient",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Effect of Ambient Chemistry on Friction at the Basal Plane of Graphite.pdf",
+    "sha256": "ca364356edf7f9538644c89aec0df35010b3b8a6f20d9ee9b173fa65ced6758c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Effect of Ambient Chemistry on Friction at the Basal Plane of Graphite",
+    "year": 2019,
+    "authors": "Arash Khajeh, Zhe Chen, Seong H. Kim, and Ashlie Martini",
+    "venue": "ACS Appl. Mater. Interfaces 2019.11:40800-40807"
+  },
+  "pdf_path": "papers/ReaxFF_others/Effect of Ambient Chemistry on Friction at the Basal Plane of Graphite.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019arash-khajeh-acs-effect-ambient_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019arash-khajeh-acs-effect-ambient.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

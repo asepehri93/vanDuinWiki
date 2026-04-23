@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2017kwang-jin-kim-nano-lett-20-atomistic-simulation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Kim_Qi_LiSi_acs.nanolett_2018.pdf",
+    "sha256": "70568045d7df9afd3f6c14dd0f2284d0bd7f9333ddfca5bfc8c2f213e69525a4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.nanolett.7b01389",
+    "title": "Atomistic Simulation Derived Insight on the Irreversible Structural Changes of Si Electrode during Fast and Slow Delithiation",
+    "year": 2017,
+    "authors": [
+      "Kwang Jin Kim",
+      "James Wortman",
+      "Sung-Yup Kim",
+      "Yue Qi"
+    ],
+    "venue": "Nano Lett."
+  },
+  "pdf_path": "papers/ReaxFF_others/Kim_Qi_LiSi_acs.nanolett_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017kwang-jin-kim-nano-lett-20-atomistic-simulation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017kwang-jin-kim-nano-lett-20-atomistic-simulation.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022campbell-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Campbell_Pt_graphene_JPC_2022_galley.pdf",
+    "sha256": "254ae37994e123eaf5facb6de60264e5d1a52c47df9262c2606212f3ccd29c9e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.2c04117",
+    "title": "manuscript 1..12",
+    "year": 2022,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Campbell_Pt_graphene_JPC_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022campbell-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022campbell-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

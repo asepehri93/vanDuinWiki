@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017berdiyorov-applied-surf-effect-surface",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Berdiyorov_MXene_AppSuSci_2017.pdf",
+    "sha256": "ea0be1345c0ee47ce734e91a228abacf51b576906942b5e073f279397639809f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Effect of surface termination on ion intercalation selectivity of bilayer Ti3C2T2 (T=F, O and OH) MXene",
+    "year": 2017,
+    "authors": "Golibjon R. Berdiyorov",
+    "venue": "Applied Surface Science, 416 (2017) 725-730. doi:10.1016/j.apsusc.2017.04.195"
+  },
+  "pdf_path": "papers/ReaxFF_others/Berdiyorov_MXene_AppSuSci_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017berdiyorov-applied-surf-effect-surface_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017berdiyorov-applied-surf-effect-surface.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

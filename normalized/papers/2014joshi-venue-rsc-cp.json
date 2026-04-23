@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014joshi-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Joshi_PCCP_2014_Zeolite_protons_proof.pdf",
+    "sha256": "9cde92b4f14b74a8929595c9a80abb8aa34f0d4a2eae56c25085a2debbdf3221",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c4cp02612h",
+    "title": "RSC_CP_C4CP02612H 1..11",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Joshi_PCCP_2014_Zeolite_protons_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014joshi-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3003
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014joshi-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

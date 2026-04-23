@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023advanced-advanced-ene-lithium-batteries",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Advanced Energy Materials - 2023 - Adenusi - Lithium Batteries and the Solid Electrolyte Interphase SEI Progress and.pdf",
+    "sha256": "0115164f020f9d6b82a01431db0d8d1f5bb624ac10474a0354214a9ae9f63271",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/aenm.202203307",
+    "title": "Lithium Batteries and the Solid Electrolyte Interphase (SEI)—Progress and Outlook",
+    "year": 2023,
+    "authors": null,
+    "venue": "Advanced Energy Materials 2023.13:2203307"
+  },
+  "pdf_path": "papers/ReaxFF_others/Advanced Energy Materials - 2023 - Adenusi - Lithium Batteries and the Solid Electrolyte Interphase SEI Progress and.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023advanced-advanced-ene-lithium-batteries_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023advanced-advanced-ene-lithium-batteries.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

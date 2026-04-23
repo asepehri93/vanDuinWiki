@@ -2,7 +2,7 @@
 id: concept:theme-porous-mof-zeolite
 type: concept
 title: "Theme: porous media, MOFs, and zeolites (corpus touchpoints)"
-updated: "2026-04-20"
+updated: "2026-04-21"
 confidence: med
 canonical_tags:
   - domain:porous-mof-zeolite
@@ -50,6 +50,14 @@ supported_by:
 ### What the KB does not promise
 
 If a **specific MOF name** or **zeolite framework** is not on a paper page, **do not infer** parameters or mechanisms from this hub alone.
+
+## Analysis and cross-cutting patterns
+
+This hub often **routes** readers to **catalysis** and **silica** anchors because explicit **MOF** parameter sets are **not** dense in the corpus—treat **confinement** claims as **paper-local**.
+
+## Gaps and open directions (corpus view)
+
+Add **named** MOF/zeolite slugs here when their wiki notes are **curated**; until then, prefer honest **adjacency** language over implied coverage.
 
 ## Debates, tensions, and cross-references
 

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019chapter9-venue-paper-2",
+  "manifest": {
+    "source_path": "papers/Chapter9_MXenes Book_Final_Sept2019.pdf",
+    "sha256": "01e3a3871993145a7a141b0445c8897dfe69e5501b40d27ddf35f767d57f8dbd",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Chapter9_MXenes Book_Final_Sept2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019chapter9-venue-paper-2_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2159
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019chapter9-venue-paper-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

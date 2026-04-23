@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022micha-ka-ski-j-phys-chem-development-charge-implicit",
+  "manifest": {
+    "source_path": "papers/Kanski_JPC_letters_CHO_noQ_2022.pdf",
+    "sha256": "e5fff0e24cf88b64f482bfa425d62ad8eba77903cf1ff12c93ca28d7b289166b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of a Charge-Implicit ReaxFF for C/H/O Systems",
+    "year": 2022,
+    "authors": "Michał Kański, Sviatoslav Hrabar, Adri C. T. van Duin, and Zbigniew Postawa",
+    "venue": "J. Phys. Chem. Lett. 2022.13:628-633"
+  },
+  "pdf_path": "papers/Kanski_JPC_letters_CHO_noQ_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022micha-ka-ski-j-phys-chem-development-charge-implicit_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022micha-ka-ski-j-phys-chem-development-charge-implicit.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

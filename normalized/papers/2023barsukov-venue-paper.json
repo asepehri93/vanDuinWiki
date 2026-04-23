@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023barsukov-venue-paper",
+  "manifest": {
+    "source_path": "papers/Others/Si_F2_etching_archive_Kaganovic.pdf",
+    "sha256": "07f764a975e604e369c2e81743e4a182e49b02e01d8939846121fe14687f8c5f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2023,
+    "authors": "Yuri Barsukov",
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Si_F2_etching_archive_Kaganovic.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023barsukov-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4611
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023barsukov-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

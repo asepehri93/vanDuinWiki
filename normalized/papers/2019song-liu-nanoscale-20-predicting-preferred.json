@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019song-liu-nanoscale-20-predicting-preferred",
+  "manifest": {
+    "source_path": "papers/Liu_Nanoscale_2019_BN_Nickel.pdf",
+    "sha256": "2b5cde94cfd67f6ecf72229ac67772827f4d12b7b3da7e3263881d3a45503d62",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c8nr10291k",
+    "title": "Predicting the preferred morphology of hexagonal boron nitride domain structure on nickel from ReaxFF-based molecular dynamics simulations",
+    "year": 2019,
+    "authors": "Song Liu, Jeffrey Comer, Adri C. T. van Duin, Diana M. van Duin, Bin Liu, James H. Edgar",
+    "venue": "Nanoscale (2019), 11, 5607-5616, doi:10.1039/c8nr10291k"
+  },
+  "pdf_path": "papers/Liu_Nanoscale_2019_BN_Nickel.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019song-liu-nanoscale-20-predicting-preferred_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019song-liu-nanoscale-20-predicting-preferred.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

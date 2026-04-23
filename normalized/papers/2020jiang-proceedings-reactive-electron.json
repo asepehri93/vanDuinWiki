@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020jiang-proceedings-reactive-electron",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Jiang_Luo_ReaxFF_efield_ProcCombInst_2020.pdf",
+    "sha256": "e6632ede5725844fa71a4c7f8e579ec28b8e09372bdcc9ef6aa594a8abe0fcbb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.proci.2020.06.318",
+    "title": "Reactive and electron force field molecular dynamics simulations of electric field assisted ethanol oxidation reactions",
+    "year": 2020,
+    "authors": "Xi Zhuo Jiang",
+    "venue": "Proceedings of the Combustion Institute, Corrected proof. doi:10.1016/j.proci.2020.06.318"
+  },
+  "pdf_path": "papers/ReaxFF_others/Jiang_Luo_ReaxFF_efield_ProcCombInst_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020jiang-proceedings-reactive-electron_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020jiang-proceedings-reactive-electron.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

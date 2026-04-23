@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021dong-hyun-kim-acs-molecular-dynamics",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/kim-et-al-2021-molecular-dynamics-simulation-of-silicon-dioxide-etching-by-hydrogen-fluoride-using-the-reactive-force.pdf",
+    "sha256": "c3d27a6cdb26826a0338b2e4f364cb381580f9aeff55e9a5e541befaea08f3a3",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Molecular Dynamics Simulation of Silicon Dioxide Etching by Hydrogen Fluoride Using the Reactive Force Field",
+    "year": 2021,
+    "authors": "Dong Hyun Kim, Seung Jae Kwak, Jae Hun Jeong, Suyoung Yoo, Sang Ki Nam, YongJoo Kim, and Won Bo Lee",
+    "venue": "ACS Omega 2021.6:16009-16015"
+  },
+  "pdf_path": "papers/ReaxFF_others/kim-et-al-2021-molecular-dynamics-simulation-of-silicon-dioxide-etching-by-hydrogen-fluoride-using-the-reactive-force.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021dong-hyun-kim-acs-molecular-dynamics_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021dong-hyun-kim-acs-molecular-dynamics.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

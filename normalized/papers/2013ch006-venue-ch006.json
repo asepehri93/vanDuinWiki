@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2013ch006-venue-ch006",
+  "manifest": {
+    "source_path": "papers/CH006_Computational_Catalysis_ReaxFF_water_proof.pdf",
+    "sha256": "0835d9242c8652655b66203b927804bb63518046ce2e57d36a3d728439c7bf44",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/9781849734905-00223",
+    "title": "A ReaxFF reactive force-field for proton transfer reactions in bulk water and its applications to heterogeneous catalysis",
+    "year": 2013,
+    "authors": [
+      "van Duin, Adri C. T.",
+      "Zou, Chenyu",
+      "Joshi, Kaushik",
+      "Bryantsev, Vyacheslav",
+      "Goddard, William A."
+    ],
+    "venue": "Computational Catalysis (RSC Catalysis Series No. 14)"
+  },
+  "pdf_path": "papers/CH006_Computational_Catalysis_ReaxFF_water_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013ch006-venue-ch006_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4883
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013ch006-venue-ch006.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015robertson-et-al-2015-venue-acs-nn",
+  "manifest": {
+    "source_path": "papers/Others/robertson-et-al-2015-atomic-structure-of-graphene-subnanometer-pores.pdf",
+    "sha256": "e9167fe36f7bc052ed55aabcb746b88ebfcbb4881e348ac50da4952196275f87",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.5b05700",
+    "title": "acs_nn_nn-2015-057004 1..9",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/robertson-et-al-2015-atomic-structure-of-graphene-subnanometer-pores.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015robertson-et-al-2015-venue-acs-nn_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015robertson-et-al-2015-venue-acs-nn.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

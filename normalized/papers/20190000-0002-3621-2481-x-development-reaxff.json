@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20190000-0002-3621-2481-x-development-reaxff",
+  "manifest": {
+    "source_path": "papers/Nayir_JPC_C_SiOx_2019_proof.pdf",
+    "sha256": "8d64d2ddd0c7ad34d684cd239cda24af95502f99d35fc4d05f83849517ccefbe",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of the ReaxFF Reactive Force Field for Inherent Point Defects in the Si/Silica System",
+    "year": 2019,
+    "authors": "Nadire Nayir (ORCID: 0000-0002-3621-2481)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Nayir_JPC_C_SiOx_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20190000-0002-3621-2481-x-development-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20190000-0002-3621-2481-x-development-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015ong-venue-jp508184f",
+  "manifest": {
+    "source_path": "papers/Ong_JPCB_IL_DFT_ReaxFF_2015.pdf",
+    "sha256": "b07e97b1a98381d160c9fedda0da6bcc53509ca41c25f9317f8f1637314de3be",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp508184f 1..11",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Ong_JPCB_IL_DFT_ReaxFF_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015ong-venue-jp508184f_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015ong-venue-jp508184f.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

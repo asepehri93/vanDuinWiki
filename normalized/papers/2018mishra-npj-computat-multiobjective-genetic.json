@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018mishra-npj-computat-multiobjective-genetic",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Mishra_Hong_NPJ_CompMat_2019_ML_ReaxFF_training.pdf",
+    "sha256": "cae57c5dc11b9e8870ec615e80bf64043bc85ddb58709ec1dea50aa5e44ad11e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-018-0098-3",
+    "title": "Multiobjective genetic training and uncertainty quantification of reactive force fields",
+    "year": 2018,
+    "authors": "Ankit Mishra",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-018-0098-3"
+  },
+  "pdf_path": "papers/ReaxFF_others/Mishra_Hong_NPJ_CompMat_2019_ML_ReaxFF_training.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018mishra-npj-computat-multiobjective-genetic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018mishra-npj-computat-multiobjective-genetic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

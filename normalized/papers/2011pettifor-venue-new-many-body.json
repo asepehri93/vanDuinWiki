@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2011pettifor-venue-new-many-body",
+  "manifest": {
+    "source_path": "papers/Others/Pettifor_PhysRevLett.63.2480.pdf",
+    "sha256": "9fd89e92850537ba8c8eea2cd58c91bfa7da4b8cc51741e1d881ceface69b486",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "New many-body potential for the bond order",
+    "year": 2011,
+    "authors": "D. G. Pettifor",
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Pettifor_PhysRevLett.63.2480.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2011pettifor-venue-new-many-body_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7937
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2011pettifor-venue-new-many-body.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

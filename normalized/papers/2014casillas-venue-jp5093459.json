@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014casillas-venue-jp5093459",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Casillas_MoS2_JPCC_2015.pdf",
+    "sha256": "c2a1ad9304d956075e41f63cd858cdab57d0b469b1a9de4028cdeff240f6e479",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp5093459 1..6",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Casillas_MoS2_JPCC_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014casillas-venue-jp5093459_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014casillas-venue-jp5093459.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

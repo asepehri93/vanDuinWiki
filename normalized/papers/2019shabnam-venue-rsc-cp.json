@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019shabnam-venue-rsc-cp",
+  "manifest": {
+    "source_path": "papers/Shabnam_PCCP_Ni_soot_2019_galley.pdf",
+    "sha256": "7d359b68327338701d7d61f80fbdca849949433e14bb6ffd9ec6f8594b0c1a0e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "RSC_CP_C9CP00354A 1..15",
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Shabnam_PCCP_Ni_soot_2019_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019shabnam-venue-rsc-cp_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5688
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019shabnam-venue-rsc-cp.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

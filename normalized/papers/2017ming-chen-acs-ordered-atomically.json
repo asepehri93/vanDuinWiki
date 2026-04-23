@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017ming-chen-acs-ordered-atomically",
+  "manifest": {
+    "source_path": "papers/Others/Ordered and Atomically Perfect Fragmentation of Layered Transition Metal Dichalcogenides via Mechanical Instabilities.pdf",
+    "sha256": "b40e8733c71b0481ae7f3c0878edf15f3dfbe1bba1c1b2a055371aabc0b35e3f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Ordered and Atomically Perfect Fragmentation of Layered Transition Metal Dichalcogenides via Mechanical Instabilities",
+    "year": 2017,
+    "authors": "Ming Chen, Juan Xia, Jiadong Zhou, Qingsheng Zeng, Kaiwei Li, Kazunori Fujisawa, Wei Fu, Ting Zhang, Jing Zhang, Zhe Wang, Zhixun Wang, Xiaoting Jia, Mauricio Terrones, Ze Xiang Shen, Zheng Liu, and Lei Wei",
+    "venue": "ACS Nano 0.0:null-null"
+  },
+  "pdf_path": "papers/Others/Ordered and Atomically Perfect Fragmentation of Layered Transition Metal Dichalcogenides via Mechanical Instabilities.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017ming-chen-acs-ordered-atomically_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017ming-chen-acs-ordered-atomically.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

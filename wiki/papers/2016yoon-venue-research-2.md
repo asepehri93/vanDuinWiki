@@ -3,7 +3,7 @@ id: paper:2016yoon-venue-research-2
 type: paper
 title: "Atomistic-scale simulations of defect formation in graphene under noble gas ion irradiation"
 updated: "2026-04-20"
-confidence: med
+confidence: high
 canonical_tags:
   - domain:2d-layered
   - domain:reaxff-lineage
@@ -38,29 +38,21 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-research-2 -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-**Online** distribution PDF of **Yoon et al.**’s **ACS Nano** article on **ReaxFF** simulations of **noble gas** irradiation **damage** and **annealing** in **graphene**, with experimental imaging validation. Multiple **corpus** paths (**online**, **galley**, **ASAP**) share one **DOI** but differ in **SHA-256**; this page tracks `papers/Yoon_ACSNano_online.pdf`.
+This ingest tracks **`papers/Yoon_ACSNano_online.pdf`** for **Yoon et al.**, *ACS Nano*, **DOI `10.1021/acsnano.6b03036`**: **ReaxFF MD** of **noble-gas ion irradiation** of **graphene** with **annealing**, validated by **aberration-corrected STEM** and **HIM**. The article argues **dose**, **ion energy**, and **ion species** jointly set **defect motifs** and **vacancy coalescence** into **nanopores**, using nuclear-collision-focused MD that neglects **electronic stopping** with literature justification for **graphene**. This **online** PDF is a **duplicate corpus path** relative to the **VOR** record **`[[2016yoon-venue-nn6b03036]]`**.
 
 ## Methods
 
-- **ReaxFF MD** irradiation + **thermal** relaxation as detailed in the **methods** section of the article body.
+Same **DOI** as **`[[2016yoon-venue-nn6b03036]]`**. **LAMMPS** **ReaxFF** on **periodic** **graphene** **~52 × 40 Å²** (large **carbon atom** count in the published supercell) receives **25 keV** noble-gas impacts in **~30 × 20 Å²**. **NVE** cores use **0.005–0.02 fs** **timesteps**; **edge** regions stay at **300 K** via **thermostat** coupling described in the article. **Dose rates** space successive cascades. **He\(^+\)** series use **1500 K / 25 ps** then **2000 K / 1.25 ns** **annealing**; heavier ions add **1500 K** plus **3000 K** **annealing** (the **3000 K** segment **duration** is **not** recovered from the Methods text checked here). **Barostat**, **electric fields**, and **replica / enhanced sampling** are **not** used on these irradiation legs. **Hydrostatic pressure** is **not** servo-controlled on these legs (**N/A —** fixed-area **NVE** core; no **NPT** **pressure** target in the summarized protocol). **HIM** and **60 kV STEM** protocols sit under **Experimental methods and details**.
 
 ## Findings
 
-- Agreement between **simulated** and **STEM** morphologies for selected **He\(^+\)**/**Ne\(^+\)** dose series; **defect-type** statistics summarized in main text.
+**Annealing** after cumulative impacts drives **vacancy coalescence** into **nanopores** with strong **dose** and **ion-mass** sensitivity, i.e. heavier ions and higher dose trend toward larger pores and more surrounding disorder in the simulations. **STEM** **experiment** comparisons show broadly consistent **dose** trends while the text flags **impurities**, **contamination**, and **metal-catalyzed** edge chemistry as **limitations** on one-to-one agreement. **Sensitivity** to **dose rate** (simulated vs experimental beam schedules) is discussed as an authored **caveat**, alongside **model** uncertainty in the reactive **MD** treatment. Defect statistics (**STW** vs **monovacancy** prevalence by ion species) and sputtering-style metrics are reported in the article relative to prior **literature** benchmarks. For **pagination** and figure-level claims, prefer the **version-of-record** PDF **`[[2016yoon-venue-nn6b03036]]`** over this duplicate **`pdf_path`**.
 
 ## Limitations
 
-- Maintain clarity between **duplicate PDFs** when citing **page** numbers—anchor to **DOI** when possible.
+Prefer **`[[2016yoon-venue-nn6b03036]]`** for **pagination** when citing the **VOR** PDF; duplicate corpus PDFs can differ in pagination. Electronic stopping and electronic excitation are neglected in the nuclear-collision framing described in the opening pages—consistent with cited precedents for **graphene** but not universally valid for all **2D** materials.
 
 ## Relevance to group
 

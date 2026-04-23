@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020wang-nat-glassy-li",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Wang_Pawar_NatureMat_2020_GlassyLi.pdf",
+    "sha256": "78ce41f0a0b65c703780a667f6ef47ec3f21c283aff84427e52dbd5d7e77723c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41563-020-0729-1",
+    "title": "Glassy Li metal anode for high-performance rechargeable Li batteries",
+    "year": 2020,
+    "authors": "Xuefeng Wang",
+    "venue": "Nature Materials, doi:10.1038/s41563-020-0729-1"
+  },
+  "pdf_path": "papers/ReaxFF_others/Wang_Pawar_NatureMat_2020_GlassyLi.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020wang-nat-glassy-li_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020wang-nat-glassy-li.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

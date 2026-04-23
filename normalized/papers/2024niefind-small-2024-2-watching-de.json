@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024niefind-small-2024-2-watching-de",
+  "manifest": {
+    "source_path": "papers/Niefind_Mao_Kowalik_Nayir_2D_Metals_graphene_Small_2023.pdf",
+    "sha256": "6db0b852eaa2eb1bccb463c70b2cec97519edd42a0782654c8c668ef162ffb78",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/smll.202306554",
+    "title": "Watching (De)Intercalation of 2D Metals in Epitaxial Graphene: Insight into the Role of Defects",
+    "year": 2024,
+    "authors": null,
+    "venue": "Small 2024.20:2306554"
+  },
+  "pdf_path": "papers/Niefind_Mao_Kowalik_Nayir_2D_Metals_graphene_Small_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024niefind-small-2024-2-watching-de_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024niefind-small-2024-2-watching-de.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

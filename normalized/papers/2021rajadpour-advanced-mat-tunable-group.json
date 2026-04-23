@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021rajadpour-advanced-mat-tunable-group",
+  "manifest": {
+    "source_path": "papers/Rajadpour_Tunable2DGroupIIIalloys_AdvancedMaterials_2021.pdf",
+    "sha256": "0a57c52aba95e2f667f864c6a0b170e744cc394772e54b3485c61683c021e309",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/adma.202104265",
+    "title": "Tunable 2D Group‐III Metal Alloys",
+    "year": 2021,
+    "authors": null,
+    "venue": "Advanced Materials 0.0:2104265"
+  },
+  "pdf_path": "papers/Rajadpour_Tunable2DGroupIIIalloys_AdvancedMaterials_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021rajadpour-advanced-mat-tunable-group_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021rajadpour-advanced-mat-tunable-group.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

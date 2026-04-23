@@ -1,0 +1,38 @@
+{
+  "paper_id": "paper:2013u-khalilov-j-phys-chem-new-mechanisms",
+  "manifest": {
+    "source_path": "papers/Khalilov_Si_oxidation_JPCC_2013.pdf",
+    "sha256": "e79c8e81217506ec019c1b025a7d1581a57b71e92ffc67530cefa15ce0c94d30",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp400433u",
+    "title": "New mechanism for oxidation of native silicon oxide",
+    "year": 2013,
+    "authors": [
+      "U. Khalilov",
+      "G. Pourtois",
+      "S. Huygh",
+      "A. C. T. van Duin",
+      "E. C. Neyts",
+      "A. Bogaerts"
+    ],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/Khalilov_Si_oxidation_JPCC_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013u-khalilov-j-phys-chem-new-mechanisms_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "silicon oxide", "hyperthermal oxygen", "Si(100)", "Deal-Grove"],
+  "claims": [
+    {
+      "text": "Hyperthermal O on ~10 Å native SiOx: at 300 K oxygen stays mainly in oxide; at >=~700 K oxygen penetrates the film and reacts at the c-Si interface, paralleling high-T thermal oxidation.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013u-khalilov-j-phys-chem-new-mechanisms", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013u-khalilov-j-phys-chem-new-mechanisms.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

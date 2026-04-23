@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025sowise-venue-paper",
+  "manifest": {
+    "source_path": "papers/Perovich_Friction_2025_galley.pdf",
+    "sha256": "7d0d20380d4e1fb8ce59d786d7e74087de68d7a304d39ef3ef7c02ebd5e8fd25",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.26599/FRICT.2025.9441055",
+    "title": "Molecular adsorbate effects on graphite–silica superlubricity: A ReaxFF investigation",
+    "year": 2025,
+    "authors": "Marcus C. Perovich, Luis E. Paniagua-Guerra, Qian Mao, Seong H. Kim, Adri C. T. van Duin, Bladimir Ramos-Alvarado",
+    "venue": "Friction"
+  },
+  "pdf_path": "papers/Perovich_Friction_2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025sowise-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025sowise-venue-paper.md",
+  "updated": "2026-04-25T12:00:00Z"
+}

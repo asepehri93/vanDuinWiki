@@ -1,6 +1,8 @@
 # indexes — retrieval layer (Phase 5)
 
-Machine-oriented indices for hybrid search (**BM25** + **dense** vectors). **Regenerate** with:
+Machine-oriented indices for hybrid search (**BM25** + **dense** vectors). Retrieval is part of the **iterative loop** in [`docs/MASTER_PLAN.md`](../docs/MASTER_PLAN.md): baseline eval → Phase 4 Wave 2 (theme links) → rebuild indexes → re-eval. After large edits to `wiki/`, rerun the build steps below.
+
+**Regenerate** with:
 
 ```bash
 python3 scripts/build_chunks.py

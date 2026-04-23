@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015verners-corrosion-sc-comparative-molecular-2",
+  "manifest": {
+    "source_path": "papers/Verners_AlH_CorrosionScience_2015_online.pdf",
+    "sha256": "02bedc4934956e74853b3fb0619770250d8d3ebb229915560ff6eb4eca5a0548",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.corsci.2015.05.008",
+    "title": "Comparative molecular dynamics study of fcc-Al hydrogen embrittlement",
+    "year": 2015,
+    "authors": "Osvalds Verners",
+    "venue": "Corrosion Science , Corrected proof. doi:10.1016/j.corsci.2015.05.008"
+  },
+  "pdf_path": "papers/Verners_AlH_CorrosionScience_2015_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015verners-corrosion-sc-comparative-molecular-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015verners-corrosion-sc-comparative-molecular-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

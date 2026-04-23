@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016bauchy-venue-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/bauchy_reaxff_jjag2016.pdf",
+    "sha256": "682916e9d197d87d530d25a47ababb6e01313a2a6be0e3a3f3c4b63d1ec78dd7",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1111/ijag.12248",
+    "title": "Reactive Molecular Dynamics Simulations of Sodium Silicate Glasses &#x2014; Toward an Improved Understanding of the Structure",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/bauchy_reaxff_jjag2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016bauchy-venue-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7333
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016bauchy-venue-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

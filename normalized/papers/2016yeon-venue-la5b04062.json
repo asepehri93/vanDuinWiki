@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Yeon_Langmuir_2016.pdf",
     "sha256": "858dff4771a5126bbb2aff37aef480d459655a83000fbb1ea4cd313f1c5ccf5c",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2016yeon-venue-la5b04062_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2016yeon-venue-la5b04062.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

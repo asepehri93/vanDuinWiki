@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021amiri-applied-surf-atomistic-insights",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Amiri_hyperthermal_graphene_AppliedSuSci_2021.pdf",
+    "sha256": "c7662545e036694e75a673b84501987ff585e35151111d8f5caa72f310635ec1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic insights into the protection failure of the graphene coating under the hyperthermal impacts of reactive oxygen species: ReaxFF-based molecular dynamics simulations",
+    "year": 2021,
+    "authors": "Negar Amiri",
+    "venue": "Applied Surface Science, 554 (2021) 149606. doi:10.1016/j.apsusc.2021.149606"
+  },
+  "pdf_path": "papers/ReaxFF_others/Amiri_hyperthermal_graphene_AppliedSuSci_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021amiri-applied-surf-atomistic-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021amiri-applied-surf-atomistic-insights.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

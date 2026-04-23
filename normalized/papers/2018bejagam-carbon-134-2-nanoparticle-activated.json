@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018bejagam-carbon-134-2-nanoparticle-activated",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bejagam_Carbon_nanoscroll_2018.pdf",
+    "sha256": "1e150cf71f5ee97b849eda73715c46801575ad668d6dbf69e6fa9f86d99e3d86",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Nanoparticle activated and directed assembly of graphene into a nanoscroll",
+    "year": 2018,
+    "authors": "Karteek K. Bejagam",
+    "venue": "Carbon, 134 (2018) 43-52. doi:10.1016/j.carbon.2018.03.077"
+  },
+  "pdf_path": "papers/ReaxFF_others/Bejagam_Carbon_nanoscroll_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018bejagam-carbon-134-2-nanoparticle-activated_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018bejagam-carbon-134-2-nanoparticle-activated.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

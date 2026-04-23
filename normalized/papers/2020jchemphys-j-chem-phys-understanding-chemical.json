@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020jchemphys-j-chem-phys-understanding-chemical",
+  "manifest": {
+    "source_path": "papers/Others/JChemPhys 2020 BentGroup_Understanding chemical and physical mechanisms in ALD.pdf",
+    "sha256": "a160d8b1f3d604c7eecaf7f69bb3adea2087bc17f0bbcb4160a075534efa6ec1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5133390",
+    "title": "Understanding chemical and physical mechanisms in atomic layer deposition",
+    "year": 2020,
+    "authors": null,
+    "venue": "J. Chem. Phys. 2020.152:040902"
+  },
+  "pdf_path": "papers/Others/JChemPhys 2020 BentGroup_Understanding chemical and physical mechanisms in ALD.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020jchemphys-j-chem-phys-understanding-chemical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4818
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020jchemphys-j-chem-phys-understanding-chemical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

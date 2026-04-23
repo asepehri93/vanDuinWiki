@@ -29,15 +29,27 @@ group_affiliation: false
 
 ## Summary
 
-This **Chem. Soc. Rev.** article reviews **computational studies of Li-ion and Na-ion battery cathodes**, emphasizing synergy between **DFT** and **interatomic potential / atomistic** methods. It surveys **layered, spinel, and polyanionic** examples (e.g., **LiCoO₂, LiMn₂O₄, LiFePO₄** named in the introduction) and organizes discussion around **voltage trends**, **ion diffusion** pathways/dimensionalities, **defect chemistry**, and **surfaces/nanostructures**. The introduction also motivates **Na-ion** systems for grid storage where gravimetric density is less critical than cost/abundance.
+**Islam** and **Fisher** provide a **Chemical Society Reviews** survey of **computational work on lithium- and sodium-ion battery cathodes**, spanning **layered oxides**, **spinel** frameworks, and **polyanionic** frameworks such as olivine **LiFePO₄** alongside classic **layered LiCoO₂**-type and **spinel LiMn₂O₄**-type examples cited in the introduction. The review’s organizing axes include **intercalation voltage** trends, **alkali-ion diffusion** dimensionality and site networks, **defect** and **dopant** chemistry, and **surface** or **nanostructured** morphologies where **capacities** and **rate capability** deviate from bulk thermodynamic limits. A parallel thread motivates **Na-ion** cathodes for **grid-scale storage**, where **cost**, **abundance**, and **manufacturing** constraints can outweigh **gravimetric** energy density alone. The article is **context literature** for the corpus’s battery modeling notes rather than a van Duin-group primary study.
 
 ## Methods
 
-- Review article: summarizes **DFT** and **potential-based MD/static lattice** approaches and their typical observables; the review opens with a **methods overview schematic** that maps common modeling choices.
+As a **review**, **Methods** are **literature-scope** rather than a single simulation protocol. The introduction states that contemporary work uses two broad classes: **interatomic potential** methods (static lattice and **MD**) and **electronic-structure** methods, primarily **DFT** (extract Sec. 2 opening). A schematic (**Fig. 1** in the article) relates these computational approaches to complementary experiments and to properties such as **voltage**, **diffusion**, **defects**, and **surfaces**.
+
+**DFT-oriented workflows** discussed include using **alkali chemical potential** differences to estimate **intercalation voltages**, **nudged elastic band**-type pathways or **AIMD** for **ion diffusion** barriers and dimensionality, and **Hubbard** or related corrections when **transition-metal d** states require beyond-standard **GGA** treatment (themes summarized in Sec. 2 and later application sections).
+
+**Classical / potential-based** approaches are positioned for larger cells and longer times when **polarization** and **mechanical** distortions matter for **nanostructures**, with the caveat that parameter quality controls predictive power (Sec. 2.1 narrative in the extract).
 
 ## Findings
 
-- Frames how atomistic modeling supports interpretation of **electrochemical**, **transport**, and **nano** phenomena in cathode materials; detailed case studies continue beyond the excerpt.
+The opening overview highlights **layered**, **spinel**, and **polyanionic** examples (**LiCoO₂**, **LiMn₂O₄**, **LiFePO₄**) as recurring structural families whose **voltage**, **diffusion topology**, **defect chemistry**, and **surface/nano** effects have been studied computationally with strong **synergy** to experiment (abstract and Sec. 1).
+
+**Outcomes and comparisons:** Across the surveyed literature, recurring **design tensions** appear in the excerpt: **polyanionic** frameworks often trade **gravimetric density** for **stability**; **layered** oxides can show **facile 2D** **Li⁺** transport but raise **interfacial oxygen** participation concerns; **spinel** frameworks can enable **3D** diffusion networks relevant to **rate capability**. The review stresses that **interfaces**, **electronic localization**, and **polaronic** carriers frequently demand **beyond-GGA** or specialized **electronic-structure** treatments—developed with material-specific citations in sections beyond the short extract.
+
+**Sensitivity / levers (survey-level):** **Voltage**, **diffusion topology**, **defect/dopant** chemistry, and **nano/morphology** recur as levers coupling **thermodynamics** to **rate** and **capacity** in the cited computational literature.
+
+**Limitations and outlook:** As a **review**, limitations are **field-level** (parameter accuracy, functional choice, accessible time/size scales) rather than tied to one simulation cell; see article sections for author-stated caveats.
+
+**Corpus honesty:** This page is grounded in **`papers/Others/Lith-Rev-CSR_jan14.pdf`** and **`normalized/extracts/2013lith-rev-csr-venue-rsc-cs_p1-2.txt`** (short opening); it is **not** a substitute for the full **Chem. Soc. Rev.** article (**DOI `10.1039/c3cs60199d`**, **2014**, **43**, **185–204**).
 
 ## Limitations
 

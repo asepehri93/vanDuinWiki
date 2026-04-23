@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015dri-computationa-evaluation-reactive",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Dri_cellulose_CompMatSci_2015.pdf",
+    "sha256": "3aa544b6c0b657b42a76b2f5967cea992b648a770be6cfe27d9320864e7cb3b5",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Evaluation of reactive force fields for prediction of the thermo-mechanical properties of cellulose IÎ²",
+    "year": 2015,
+    "authors": "Fernando L. Dri",
+    "venue": "Computational Materials Science, 109 (2015) 330-340. doi:10.1016/j.commatsci.2015.06.040"
+  },
+  "pdf_path": "papers/ReaxFF_others/Dri_cellulose_CompMatSci_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015dri-computationa-evaluation-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015dri-computationa-evaluation-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

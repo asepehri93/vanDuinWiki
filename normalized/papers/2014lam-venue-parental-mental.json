@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014lam-venue-parental-mental",
+  "manifest": {
+    "source_path": "papers/Others/Lam_Parental mental health and Internet Addiction in adolescents.pdf",
+    "sha256": "121adbf623f849bf1b298eb672a56461e453c386db96796a42cb51fb1970f8d2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Parental mental health and Internet Addiction in adolescents",
+    "year": 2014,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Lam_Parental mental health and Internet Addiction in adolescents.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014lam-venue-parental-mental_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014lam-venue-parental-mental.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

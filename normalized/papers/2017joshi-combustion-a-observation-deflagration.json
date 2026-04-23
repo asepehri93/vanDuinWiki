@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017joshi-combustion-a-observation-deflagration",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Joshi_RDX_deflagration_CombFlame_2017.pdf",
+    "sha256": "43bd8bc488004038854e085cf2c8edd1cd09a41b8f5276cf5ac7ef7fbb43d614",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.combustflame.2017.05.009",
+    "title": "Observation of deflagration wave in energetic materials using reactive molecular dynamics",
+    "year": 2017,
+    "authors": ["Kaushik Joshi", "Santanu Chaudhuri"],
+    "venue": "Combustion and Flame"
+  },
+  "pdf_path": "papers/ReaxFF_others/Joshi_RDX_deflagration_CombFlame_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017joshi-combustion-a-observation-deflagration_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017joshi-combustion-a-observation-deflagration.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

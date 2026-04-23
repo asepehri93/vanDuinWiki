@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2012r-p-b-dos-santos-venue-unzipping-multiwalled",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/dosSantos_CNT_unzipping_Nanotechnology_2012.pdf",
+    "sha256": "171ef081ca5956d81d749c4e533bbf56fac07d0aa6b455c1e6f8fe2c4b37f016",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/0957-4484/23/46/465702",
+    "title": "On the unzipping of multiwalled carbon nanotubes",
+    "year": 2012,
+    "authors": "R P B dos Santos, E Perim, P A S Autreto, Gustavo Brunetto, D S Galvão",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/dosSantos_CNT_unzipping_Nanotechnology_2012.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2012r-p-b-dos-santos-venue-unzipping-multiwalled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4499
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2012r-p-b-dos-santos-venue-unzipping-multiwalled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

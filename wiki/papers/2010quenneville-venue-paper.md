@@ -3,7 +3,7 @@ id: paper:2010quenneville-venue-paper
 type: paper
 title: "Reactive molecular dynamics studies of DMMP adsorption and reactivity on amorphous silica surfaces"
 updated: "2026-04-20"
-confidence: low
+confidence: med
 canonical_tags: [domain:oxides-ceramics, domain:catalysis-surfaces, method:reaxff, task:application, scale:atomistic]
 candidate_tags: []
 source_refs: []
@@ -33,41 +33,27 @@ The study uses **ReaxFF molecular dynamics** to study **dimethyl methylphosphona
 
 ## Methods
 
-- **ReaxFF MD** on amorphous silica surfaces with varying hydroxyl density; structural characterization of the silica model compared to experiment (per text).
-- **QM spot checks:** MP2 and DFT on small silica clusters to validate reactions suggested by MD.
+**Reactive MD setup (abstract + introduction in extract).** The authors study **dimethyl methylphosphonate (DMMP)** on **amorphous silica** as a function of **surface hydroxylation**, using **molecular dynamics** with the **fully reactive ReaxFF** potential (van Duin–Goddard lineage as cited in the paper). **Modeled OH densities** are **2.0, 3.0, 4.0, and 4.5 OH/nm\(^2\)**. The **a-SiO\(_2\)** surface model is stated to be **structurally quantified** and to **compare well** with **experiment** (per the authors’ claim on the indexed pages).
 
-<!-- enrich-from-extract:v2 -->
+**1 — MD application.** **Engine / code:** **N/A —** MD engine name not stated in `normalized/extracts/2010quenneville-venue-paper_p1-2.txt` (verify `papers/Quenneville_2010_JPC.pdf`). **System / PBC / ensemble / timestep / thermostat / barostat / production schedule:** **N/A —** not recoverable from the short extract beyond the qualitative **ReaxFF MD** statement. **Temperature context:** the introduction cites **prior TPD work** on DMMP/a-SiO\(_2\) performed at **170 K** (experimental reference temperature, not asserted here as the authors’ MD thermostat setpoint unless stated later in the PDF). **Pressure:** **N/A —** not stated for the authors’ MD in the excerpt. **Electric field:** **N/A —** not indicated. **Replica / enhanced sampling:** **N/A —** not indicated.
 
-- Reactive Molecular Dynamics Studies of DMMP Adsorption and Reactivity on Amorphous Silica Surfaces Jason Quenneville* and Ramona S.
-- The amorphous silica surface used in our simulations is quantiﬁed structurally and compares well to experimental ﬁndings.
-- To validate the ReaxFF/MD ﬁndings, we performed MP2 and DFT quantum chemical studies of reactions predicted by the MD/ReaxFF by using small silica clusters.
-- The quantum chemistry results support the MD/ReaxFF results, providing further veriﬁcation of our ﬁndings and indicating the viability of ReaxFF/MD to study complex surface chemistry.
-- Here, we examine the interaction of DMMP with amorphous silica as a function of the surface hydration via molecular dynamics (MD) computer simulations.
-- The potential model employed in these calcula- tions is the fully reactive ReaxFF empirical potential which was developed by van Duin and Goddard. 21-24 ReaxFF is an empirical force ﬁeld that relates the degree of chemical bonding between two atoms (the bond order) to the distance between them. 25-28 This allows for the efﬁcient treatment of bond formation and breakage (i.e., chemical reactions) in large condensed phase systems.
-- The ReaxFF potential energy function is: where the individual energy terms represent the bond order term (with N-body terms to correct for the possibility of over- or under-coordination of atoms), the bond angle and torsion energies, terms corresponding to the formation/destruction of nonbonding electron pairs and conjugation hydrogen bonding, and van der Waals and Coulombic interactions.
-- In addition, chemical reactions and large geometrical variations can change the charge distribution in the system dramatically; thus, ReaxFF necessarily contains a means for equilibration of atomic charges throughout the course of the simulation. 29 MD investigations of the structure of liquid DMMP 30 and calculations of reaction cross sections for the interaction of DMMP and sarin with O( 3P)31 have been reported in the literature.
-- Taylor* Spectral Sciences, Inc., Burlington, Massachusetts 01803, United States Adri C.
-- Surface hydroxylation densities of 2.0, 3.0, 4.0, and 4.5 hydroxyl/nm 2 were modeled.
+**2 — Force-field training.** **N/A —** this article **uses** published ReaxFF silica/organophosphate chemistry rather than deriving a new global parameterization on the indexed pages.
 
+**3 — Static QM / cluster validation.** To **validate** reactions suggested by MD, the authors performed **MP2** and **DFT** quantum-chemistry calculations on **small silica clusters**; the indexed text states these **QM results support** the **MD/ReaxFF** conclusions.
+
+**Checklist closure (indexed pages).** **Ensemble:** **N/A — NVT**/**NPT**/**NVE** not stated in the short extract. **Duration / stages:** **N/A — equilibration**/**production** schedule not stated on pp. 1–2—verify **`pdf_path`**.
 
 ## Findings
 
-- Strong dependence of binding mode on OH density: from vdW/H-bonding dominance at high OH, to defect-mediated covalent attachment at lower OH, to fragmentation at the lowest studied OH density.
-- Quantitative example binding energy (−4.7 kcal/mol) and qualitative solvent displacement chemistry with an added water layer.
+**Coverage-dependent binding and reactivity.** At **higher OH** densities, DMMP binds via **van der Waals** plus **hydrogen bonding**. At **lower OH** coverages, the excerpt reports **strong covalent** interaction between the **phosphonyl (P=O) oxygen** and **3-coordinate Si defects**. At **2.0 OH/nm\(^2\)**, **DMMP fragmentation** is reported.
 
-### Additional results (article abstract)
+**Quantitative example.** The **binding energy** on amorphous silica at **4.5 OH/nm\(^2\)** is given as **−4.7 kcal/mol** (as printed in the abstract/extract).
 
-- At the higher OH densities, binding of DMMP to the hydroxylated silica was found to occur through a combination of van der Waals interactions and hydrogen bonding.
-- Finally, at extremely low hydroxyl coverages (2.0 nm -2), DMMP fragmentation was found to occur.
-- The binding energy of DMMP on amorphous silica with a hydroxyl density of 4.5 OH/nm 2 was calculated to be -4.7 kcal/mol.
-- Addition of a water layer to the silica-supported DMMP system showed that water can displace and/or hydrolyze the adsorbed DMMP molecules.
-- Structures for DMMP and sarin are shown Figure 1.
-- On the other hand, DMMP was found to undergo a small amount of decomposition if the surface was hydrated prior to the DMMP adsorption.
-- DMMP is a common simulant for the organophosphate nerve agents, sarin and VX.
-- In one of the earliest studies of the interaction of DMMP with a-SiO 2, Henderson and co-workers adsorbed DMMP onto a nonhydrated a-SiO 2 surface at 170 K and monitored its reactivity by using temperature program desorption. 11 The DMMP was completely desorbed from the surface between 200 and 275 K, giving an activation energy for desorption of 16.9 kcal/mol.
-- No decomposition of the DMMP was seen in these experiments.
-- Structures of (a) sarin and (b) dimethyl methylphosphonate (DMMP).
+**Water displacement / hydrolysis.** Adding a **water layer** can **displace** and/or **hydrolyze** adsorbed DMMP in the reported simulations.
 
+**Literature context (experimental simulant studies).** The introduction summarizes **DMMP** as a **simulant** for **sarin/VX** and recounts **TPD** behavior on **a-SiO\(_2\)** (e.g. desorption between **200–275 K**, **16.9 kcal/mol** desorption activation energy in the cited Henderson study) as background—**not** new experimental results claimed by this MD paper on those specific numbers.
+
+**Corpus honesty.** `extraction_quality` is **partial**; barriers, full product lists, and sensitivity sweeps require the **J. Phys. Chem. C** PDF at `pdf_path`.
 
 ## Limitations
 

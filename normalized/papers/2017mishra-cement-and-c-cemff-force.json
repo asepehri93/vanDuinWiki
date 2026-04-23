@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017mishra-cement-and-c-cemff-force",
+  "manifest": {
+    "source_path": "papers/Mishra_cemff_Cement_Concrete_Res_2017.pdf",
+    "sha256": "c032f504c2be385c25e060649d2299c00780b3db094de579a3868f7fb98751c9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "cemff_ A force field database for cementitious materials including validations, applications and opportunities",
+    "year": 2017,
+    "authors": "Ratan K. Mishra",
+    "venue": "Cement and Concrete Research, 102 (2017) 68-89. doi:10.1016/j.cemconres.2017.09.003"
+  },
+  "pdf_path": "papers/Mishra_cemff_Cement_Concrete_Res_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017mishra-cement-and-c-cemff-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017mishra-cement-and-c-cemff-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

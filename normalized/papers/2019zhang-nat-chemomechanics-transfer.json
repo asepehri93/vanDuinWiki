@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhang-nat-chemomechanics-transfer",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/ReaxFF_NiSiO_Chemomechanics of transfer printing of thin films in a liquid environment.pdf",
+    "sha256": "514086098cb216d53fec2d99fedc706395357ba06e05b292ae7a371802f9198c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Chemomechanics of transfer printing of thin films in a liquid environment",
+    "year": 2019,
+    "authors": "Yue Zhang",
+    "venue": "International Journal of Solids and Structures, 180-181 (2019) 30-44. doi:10.1016/j.ijsolstr.2019.07.011"
+  },
+  "pdf_path": "papers/ReaxFF_others/ReaxFF_NiSiO_Chemomechanics of transfer printing of thin films in a liquid environment.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhang-nat-chemomechanics-transfer_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhang-nat-chemomechanics-transfer.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

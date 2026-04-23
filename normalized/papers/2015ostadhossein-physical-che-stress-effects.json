@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015ostadhossein-physical-che-stress-effects",
+  "manifest": {
+    "source_path": "papers/Ostadhossein_PCCP_LiSi_2014.pdf",
+    "sha256": "69de2610ee79ff3a1d5311d4733251229090fd0bcc62bf428c6fe0203d3ef294",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c4cp05198j",
+    "title": "Stress effects on the initial lithiation of crystalline silicon nanowires: reactive molecular dynamics simulations using ReaxFF",
+    "year": 2015,
+    "authors": "Alireza Ostadhossein",
+    "venue": "Physical Chemistry Chemical Physics (2015), doi:10.1039/C4CP05198J"
+  },
+  "pdf_path": "papers/Ostadhossein_PCCP_LiSi_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015ostadhossein-physical-che-stress-effects_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015ostadhossein-physical-che-stress-effects.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021rahman-surfaces-and-high-temperature",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Rahman_Hong_Surf_Int_2021_MoS2_oxidation.pdf",
+    "sha256": "2569524f084093569cf120be2b5f88e842fddb211a1e5e74535b871fe4e67b69",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "High temperature oxidation of monolayer MoS2 and its effect on mechanical properties: A ReaxFF molecular dynamics study",
+    "year": 2021,
+    "authors": "Md. Habibur Rahman",
+    "venue": "Surfaces and Interfaces, 26 (2021) 101371. doi:10.1016/j.surfin.2021.101371"
+  },
+  "pdf_path": "papers/ReaxFF_others/Rahman_Hong_Surf_Int_2021_MoS2_oxidation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021rahman-surfaces-and-high-temperature_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021rahman-surfaces-and-high-temperature.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

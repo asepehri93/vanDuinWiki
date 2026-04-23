@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020evangelisti-j-chem-phys-development-initial",
+  "manifest": {
+    "source_path": "papers/Evangelisti_JCP_Ag_clusters_eReaxFF.pdf",
+    "sha256": "fe8f3a9f5b971dd5f4a89a1a7138f38dbe4c8c5d44739f9492d98c899d02528c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0018971",
+    "title": "Development and initial applications of an e-ReaxFF description of Ag nanoclusters",
+    "year": 2020,
+    "authors": "Benjamin Evangelisti",
+    "venue": "J. Chem. Phys. 2020.153:104106"
+  },
+  "pdf_path": "papers/Evangelisti_JCP_Ag_clusters_eReaxFF.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020evangelisti-j-chem-phys-development-initial_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4830
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020evangelisti-j-chem-phys-development-initial.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

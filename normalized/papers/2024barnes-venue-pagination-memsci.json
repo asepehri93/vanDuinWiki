@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024barnes-venue-pagination-memsci",
+  "manifest": {
+    "source_path": "papers/Barnes_Shin_COF_JMemSci_2024_galley.pdf",
+    "sha256": "914a5b6281437a8b08374bcc3d0426e79826d2b9106a213ba8abb7d768fdb927",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "pagination_MEMSCI_122613.pdf",
+    "year": 2024,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Barnes_Shin_COF_JMemSci_2024_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024barnes-venue-pagination-memsci_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024barnes-venue-pagination-memsci.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

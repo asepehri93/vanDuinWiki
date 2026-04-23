@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021andris-utka-j-phys-chem-tribovoltaic-device",
+  "manifest": {
+    "source_path": "papers/Others/Verners_et_al_2021_acs.jpcc.1c04312.pdf",
+    "sha256": "0bbba628700dcf0663ca56dd8a3866d89f750d02e97c981e0f315d6e87733491",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Tribovoltaic Device Based on the W/WO3 Schottky Junction Operating through Hot Carrier Extraction",
+    "year": 2021,
+    "authors": "Andris Šutka, Martins Zubkins, Artis Linarts, Linards Lapčinskis, Kaspars Ma̅lnieks, Osvalds Verners, Anatolijs Sarakovskis, Raitis Grzibovskis, Jevgenijs Gabrusenoks, Edvards Strods, Krisjanis Smits, Viktors Vibornijs, Liga Bikse, and Juris Purans",
+    "venue": "J. Phys. Chem. C 2021.125:14212-14220"
+  },
+  "pdf_path": "papers/Others/Verners_et_al_2021_acs.jpcc.1c04312.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021andris-utka-j-phys-chem-tribovoltaic-device_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021andris-utka-j-phys-chem-tribovoltaic-device.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

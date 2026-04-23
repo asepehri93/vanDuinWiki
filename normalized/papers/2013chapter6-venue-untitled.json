@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Chapter6_water.pdf",
     "sha256": "9a42571c5fadaccebcf23c1a33c42622361cb4ce4f6e329fda867584755d7a17",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013chapter6-venue-untitled_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 3688
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013chapter6-venue-untitled.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

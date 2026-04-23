@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019aller-nano-lett-20-chemical-reactions",
+  "manifest": {
+    "source_path": "papers/Others/2020_McGaughey_Cr2O3.pdf",
+    "sha256": "9e7ab86a0f5e2c87191b46595690edf454ac13eff0d49afd6188d52796c8f62a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Chemical Reactions Impede Thermal Transport Across Metal/β-Ga2O3 Interfaces",
+    "year": 2019,
+    "authors": "Henry T. Aller; Xiaoxiao Yu; Adam Wise; Robert S. Howell; Andrew J. Gellman; Alan J. H. McGaughey; Jonathan A. Malen",
+    "venue": "Nano Lett. 2019.19:8533-8538"
+  },
+  "pdf_path": "papers/Others/2020_McGaughey_Cr2O3.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019aller-nano-lett-20-chemical-reactions_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019aller-nano-lett-20-chemical-reactions.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021dewapriya-computationa-energy-absorption",
+  "manifest": {
+    "source_path": "papers/Others/Denapria_ballistic_impact_CompMatSci_2021.pdf",
+    "sha256": "fe22eb2c242c1b55086c8ab3edd2a65e137d4b6e197c4ae7151ed254c5005e3c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Energy absorption mechanisms of nanoscopic multilayer structures under ballistic impact loading",
+    "year": 2021,
+    "authors": "M.A.N. Dewapriya",
+    "venue": "Computational Materials Science, 195 (2021) 110504. doi:10.1016/j.commatsci.2021.110504"
+  },
+  "pdf_path": "papers/Others/Denapria_ballistic_impact_CompMatSci_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021dewapriya-computationa-energy-absorption_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021dewapriya-computationa-energy-absorption.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

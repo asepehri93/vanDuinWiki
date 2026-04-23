@@ -1,82 +1,91 @@
 # Corpus profile (2026-04)
 
-- Generated: `2026-04-20T21:46:34Z`
-- Papers registered: **190**
-- PDF files scanned: **190**
-- Duplicate content hashes: **0** groups (see ingest_exceptions)
+- Generated: `2026-04-20T22:08:36Z`
+- Papers registered: **1277**
+- PDF files scanned: **1277**
+- Duplicate content hashes: **3** groups (see ingest_exceptions)
 
 ## Extraction quality
 
 | Quality | Count |
 |---------|-------|
-| good | 151 |
-| partial | 38 |
-| poor | 1 |
+| good | 1067 |
+| partial | 210 |
 
 ## Year distribution (from metadata / text / filename)
 
 | Year | Count |
 |------|-------|
-| 2009 | 1 |
-| 2010 | 1 |
-| 2011 | 2 |
-| 2012 | 6 |
-| 2013 | 27 |
-| 2014 | 24 |
-| 2015 | 25 |
-| 2016 | 25 |
-| 2017 | 10 |
-| 2018 | 23 |
-| 2019 | 14 |
-| 2020 | 7 |
-| 2021 | 8 |
-| 2022 | 7 |
-| 2023 | 4 |
-| 2024 | 3 |
-| 2025 | 3 |
+| 1999 | 1 |
+| 2002 | 1 |
+| 2003 | 2 |
+| 2004 | 2 |
+| 2005 | 3 |
+| 2006 | 2 |
+| 2007 | 5 |
+| 2008 | 4 |
+| 2009 | 4 |
+| 2010 | 4 |
+| 2011 | 13 |
+| 2012 | 32 |
+| 2013 | 102 |
+| 2014 | 103 |
+| 2015 | 100 |
+| 2016 | 104 |
+| 2017 | 116 |
+| 2018 | 143 |
+| 2019 | 116 |
+| 2020 | 101 |
+| 2021 | 90 |
+| 2022 | 72 |
+| 2023 | 58 |
+| 2024 | 53 |
+| 2025 | 37 |
+| 2026 | 8 |
+| unknown | 1 |
 
 ## Top words in PDF titles (metadata)
 
-- reaxff: 37
-- molecular: 35
-- dynamics: 35
-- reactive: 30
-- force: 23
-- simulations: 21
-- study: 20
-- field: 19
-- using: 14
-- research: 14
-- development: 8
-- graphene: 7
-- pyrolysis: 7
-- nickel: 7
-- aqueous: 5
-- water: 5
-- effect: 5
-- atomistic: 5
-- formation: 5
-- oxygen: 5
-- species: 5
-- surface: 4
-- mechanical: 4
-- properties: 4
-- model: 4
-- untitled: 4
-- carbon: 4
-- mechanisms: 4
-- fields: 4
-- aromatic: 4
-- particles: 4
-- plasma: 4
-- atomic: 4
-- single-layer: 3
-- atomistic-scale: 3
-- insight: 3
-- influence: 3
-- investigation: 3
-- insights: 3
-- environment: 3
+- molecular: 233
+- dynamics: 231
+- reactive: 204
+- reaxff: 171
+- simulations: 131
+- force: 126
+- field: 108
+- using: 83
+- study: 83
+- research: 66
+- graphene: 58
+- water: 56
+- simulation: 53
+- atomistic: 47
+- carbon: 46
+- development: 43
+- surface: 37
+- chemical: 36
+- mechanisms: 36
+- materials: 34
+- insights: 32
+- mechanical: 31
+- properties: 31
+- oxidation: 31
+- oxygen: 28
+- oxide: 27
+- metal: 27
+- structure: 26
+- untitled: 25
+- modeling: 25
+- effects: 24
+- formation: 24
+- thermal: 24
+- during: 23
+- effect: 23
+- growth: 23
+- silicon: 23
+- application: 23
+- atomic: 22
+- systems: 22
 
 ## Artifacts
 

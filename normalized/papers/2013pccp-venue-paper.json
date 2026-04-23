@@ -1,0 +1,40 @@
+{
+  "paper_id": "paper:2013pccp-venue-paper",
+  "manifest": {
+    "source_path": "papers/PCCP_Monti_ReaxFF_Peptides_accepted.pdf",
+    "sha256": "8cdba6c25eee600e045edde2215e275e1edc94ce29577904a4ba690a9a011a17",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/C3CP51931G",
+    "title": "Exploring the conformational and reactive dynamics of biomolecules in solution using an extended version of the glycine reactive force field",
+    "year": 2013,
+    "authors": [
+      "Susanna Monti",
+      "Alessandro Corozzi",
+      "Peter Fristrup",
+      "Kaushik L. Joshi",
+      "Yun Kyung Shin",
+      "Peter Oelschlaeger",
+      "Adri C. T. van Duin",
+      "Vincenzo Barone"
+    ],
+    "venue": "Physical Chemistry Chemical Physics"
+  },
+  "pdf_path": "papers/PCCP_Monti_ReaxFF_Peptides_accepted.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013pccp-venue-paper_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "peptide", "protein", "amino acid", "glycine parameterization"],
+  "claims": [
+    {
+      "text": "ReaxFF for peptides/proteins was expanded from glycine parameters using a QM training set of 500+ systems including all amino acids and short peptides; 500 ps validation cases agreed with non-reactive MD and experiments per the article.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013pccp-venue-paper", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013pccp-venue-paper.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

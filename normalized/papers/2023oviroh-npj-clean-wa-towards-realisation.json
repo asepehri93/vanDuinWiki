@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023oviroh-npj-clean-wa-towards-realisation",
+  "manifest": {
+    "source_path": "papers/Oviroh_et_al-2023-npj_Clean_Water.pdf",
+    "sha256": "25b99486261d462e7aff8de2407fae8f398b0a6b1cdc419655a1eebc12fdaa18",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41545-023-00228-y",
+    "title": "Towards the realisation of high permi-selective MoS2 membrane for water desalination",
+    "year": 2023,
+    "authors": "Peter Ozaveshe Oviroh",
+    "venue": "npj Clean Water, doi:10.1038/s41545-023-00228-y"
+  },
+  "pdf_path": "papers/Oviroh_et_al-2023-npj_Clean_Water.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023oviroh-npj-clean-wa-towards-realisation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023oviroh-npj-clean-wa-towards-realisation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015shin-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Shin_ACS_Catalysis_2015_SI.pdf",
+    "sha256": "1e3a445d1ab1488c3900dd0807112231ea3cad955d445f5e19ca86aa6ed65080",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - 1973844_File000003_32633434.docx",
+    "year": 2015,
+    "authors": " ",
+    "venue": null
+  },
+  "pdf_path": "papers/Shin_ACS_Catalysis_2015_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015shin-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2840
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015shin-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

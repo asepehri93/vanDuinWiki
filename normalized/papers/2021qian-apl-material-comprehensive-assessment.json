@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021qian-apl-material-comprehensive-assessment",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/APL_Materials_Carbon_materials_2021.pdf",
+    "sha256": "c8f9e43b7cfdccc0b514a7bf8f2758027aacafdb82f1636e4f4183d90552990d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0052870",
+    "title": "A comprehensive assessment of empirical potentials for carbon materials",
+    "year": 2021,
+    "authors": "Cheng Qian",
+    "venue": "APL Materials 2021.9:061102"
+  },
+  "pdf_path": "papers/ReaxFF_others/APL_Materials_Carbon_materials_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021qian-apl-material-comprehensive-assessment_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5598
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021qian-apl-material-comprehensive-assessment.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

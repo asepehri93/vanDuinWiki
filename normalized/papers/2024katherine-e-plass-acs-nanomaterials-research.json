@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024katherine-e-plass-acs-nanomaterials-research",
+  "manifest": {
+    "source_path": "papers/plass-et-al-2024-nanomaterials-research-at-a-primarily-undergraduate-institution-transforming-nanorods-undergraduate.pdf",
+    "sha256": "6dba40a8f6cf08cff048ad3b9aed8a48fa7603568a7045eaa8593747a51410cb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnanoscienceau.4c00005",
+    "title": "Nanomaterials Research at a Primarily Undergraduate Institution: Transforming Nanorods, Undergraduate Research Communities, and Infrastructure",
+    "year": 2024,
+    "authors": "Katherine E. Plass, J. Kenneth Krebs, Jennifer L. Morford, Raymond E. Schaak, Joshua J. Stapleton, and Adri C. T. van Duin",
+    "venue": "ACS Nanosci. Au 2024.4:223-234"
+  },
+  "pdf_path": "papers/plass-et-al-2024-nanomaterials-research-at-a-primarily-undergraduate-institution-transforming-nanorods-undergraduate.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024katherine-e-plass-acs-nanomaterials-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024katherine-e-plass-acs-nanomaterials-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

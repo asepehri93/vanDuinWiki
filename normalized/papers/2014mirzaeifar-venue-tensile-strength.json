@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014mirzaeifar-venue-tensile-strength",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Mirzaeifar_Zhao_Buehler_carbyne_Nanotech_2014.pdf",
+    "sha256": "745a0f4ac8c8b68eff0000597c2532d104643d69d8500610642378e36b231996",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/0957-4484/25/37/371001",
+    "title": "Tensile strength of carbyne chains in varied chemical environments and structural lengths",
+    "year": 2014,
+    "authors": "Reza Mirzaeifar",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Mirzaeifar_Zhao_Buehler_carbyne_Nanotech_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014mirzaeifar-venue-tensile-strength_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4039
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014mirzaeifar-venue-tensile-strength.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022oyinbo-computationa-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Oyinbo_CompMatSci_2022_KOH_Ni_alloys.pdf",
+    "sha256": "edf0a2bdc4442b65a90e5f0d33692d7f2244fe13189d160ed8d796ab12bb0873",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reactive molecular dynamics simulations of nickel-based heterometallic catalysts for hydrogen evolution in an alkaline KOH solution",
+    "year": 2022,
+    "authors": "Sunday Temitope Oyinbo",
+    "venue": "Computational Materials Science, 201 (2022) 110860. doi:10.1016/j.commatsci.2021.110860"
+  },
+  "pdf_path": "papers/ReaxFF_others/Oyinbo_CompMatSci_2022_KOH_Ni_alloys.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022oyinbo-computationa-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022oyinbo-computationa-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

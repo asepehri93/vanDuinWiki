@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017quadery-the-astrophy-role-surface",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Quadery_2017_ApJ_844_105.pdf",
+    "sha256": "5766e4a703280b38957fc9de1c79a39115d6f9a9929be508e662aaa09e8a65ef",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Role of Surface Chemistry in Grain Adhesion and Dissipation during Collisions of Silica Nanograins",
+    "year": 2017,
+    "authors": "Abrar H. Quadery",
+    "venue": "The Astrophysical Journal, 844(2017) 105. doi:10.3847/1538-4357/aa7890"
+  },
+  "pdf_path": "papers/ReaxFF_others/Quadery_2017_ApJ_844_105.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017quadery-the-astrophy-role-surface_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017quadery-the-astrophy-role-surface.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

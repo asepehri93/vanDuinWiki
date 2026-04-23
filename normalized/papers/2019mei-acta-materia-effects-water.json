@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019mei-acta-materia-effects-water",
+  "manifest": {
+    "source_path": "papers/Mei_ActaMat_SiO2_MechanicalProperties_2019.pdf",
+    "sha256": "16302b2280d36b2729c884a8d3ce0d60d87bd76f03d075478de722b9e68de006",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Effects of water on the mechanical properties of silica glass using molecular dynamics",
+    "year": 2019,
+    "authors": "Hai Mei",
+    "venue": "Acta Materialia, 178 (2019) 36-44. doi:10.1016/j.actamat.2019.07.049"
+  },
+  "pdf_path": "papers/Mei_ActaMat_SiO2_MechanicalProperties_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019mei-acta-materia-effects-water_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019mei-acta-materia-effects-water.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

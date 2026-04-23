@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023afroz-j-of-applied-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/Afroz_JAppPol_2023_polyurethane.pdf",
+    "sha256": "ecdb6fa32925566d3ae8370985aa95dc03cd81c1c867b0d6051139976c1a859b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/app.54466",
+    "title": "ReaxFF reactive force field model enables accurate prediction of physiochemical and mechanical properties of crystalline and amorphous shape‐memory polyurethane",
+    "year": 2023,
+    "authors": null,
+    "venue": "J of Applied Polymer Sci 2023.140:e54466"
+  },
+  "pdf_path": "papers/Afroz_JAppPol_2023_polyurethane.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023afroz-j-of-applied-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3567
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023afroz-j-of-applied-reaxff-reactive.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017wen-computationa-atomistic-mechanisms",
+  "manifest": {
+    "source_path": "papers/Wen_Polishing_CompMatSci_2017.pdf",
+    "sha256": "08a1262121e30be8566849470d4d8b1da8296d70f460721964bfffa92a5e2a38",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic mechanisms of Si chemical mechanical polishing in aqueous H2O2: ReaxFF reactive molecular dynamics simulations",
+    "year": 2017,
+    "authors": "Jialin Wen",
+    "venue": "Computational Materials Science, 131 (2017) 230-238. doi:10.1016/j.commatsci.2017.02.005"
+  },
+  "pdf_path": "papers/Wen_Polishing_CompMatSci_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017wen-computationa-atomistic-mechanisms_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017wen-computationa-atomistic-mechanisms.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

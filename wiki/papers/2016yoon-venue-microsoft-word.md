@@ -37,54 +37,49 @@ group_affiliation: true
 
 <!-- id:paper:2016yoon-venue-microsoft-word -->
 
-## Evidence and attribution
+!!! note "Supporting information PDF"
 
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    This slug tracks the **ACS Nano SI** PDF (`papers/Yoon_ACSNano_SI.pdf`). The **peer-reviewed article** + **DOI** live on **`[[2016yoon-venue-nn6b03036]]`**.
 
 ## Summary
 
-This **supporting information** excerpt documents **ReaxFF** fitting of **short-range nuclear repulsion** for **noble gas ion** impacts on **graphene**, using **DFT** energies for **noble gas + benzene** geometries as a **planar aromatic** proxy and comparing to **ZBL**-style references. Three impact sites (**ring center**, **bond center**, **atop C**) anchor the parameter comparison panels included in this SI package. It accompanies the **ACS Nano** study on **defect formation** under **ion irradiation** coauthored by **van Duin** and **ORNL** collaborators.
+The **Supporting Information** for **Yoon *et al.*, *ACS Nano* 2016** documents how **short-range noble-gas-ion / carbon repulsion** was added to the **graphene** **ReaxFF** description used in the main irradiation study. **DFT** benchmarks use **benzene + noble-gas ion** clusters as a **planar aromatic proxy** for **graphene**, comparing energies to **ZBL** universal repulsion and to the fitted **ReaxFF** terms. **B3LYP** with **6-311G\*\*** bases is used for **He / Ne / Ar** complexes and **LACV3P\*\*** for **Kr** (stated in **§S1**). **Three impact sites**—**ring center**, **C–C bond center**, and **atop C**—anchor the training geometries referenced in **Figure S1**.
 
 ## Methods
 
-- **DFT** (**B3LYP** with basis sets noted in SI) vs **ReaxFF** vs **ZBL** for **repulsive** interactions.
-- Geometry scans across **impact positions** relevant to **graphene** irradiation modeling.
+**1 — MD application (production irradiation MD).** **§S1** of this **SI** focuses on **QM** training of **short-range ion–carbon repulsion**; the **LAMMPS** **ReaxFF** irradiation workflow is published in **`[[2016yoon-venue-nn6b03036]]`**. The following bullets summarize that **VOR** protocol so readers do not have to cross-open files for the headline **MD** controls: **Engine / code:** **LAMMPS** with **ReaxFF** (**C-2013-class** parameters plus the **SI** repulsion extension). **System size & composition:** periodic **graphene** supercells with in-plane footprint **~52 × 40 Å\(^2\)** plus **He\(^+\)**, **Ne\(^+\)**, **Ar\(^+\)**, or **Kr\(^+\)** projectiles; exact **atom** counts follow the **VOR** **Methods** text. **Boundaries / periodicity:** **in-plane periodic** graphene with **thermostatted** edge regions acting as heat baths. **Ensemble:** **NVE** during each impact cascade; **Nosé–Hoover** coupling on edge atoms between impacts. **Timestep:** **0.005–0.02 fs** during collisions. **Duration / stages:** high effective **dose** rates with **ps**-scale collision segments, followed by **25 ps** anneals at **1500 K** and longer **1.25 ns** anneals at **2000 K** for selected cases (**VOR**). **Thermostat:** **Nosé–Hoover** on edge regions. **Barostat / hydrostatic pressure control:** **N/A —** not **NPT**. **Temperature:** **300 K** pre-equilibration of the sheet; **1500 K**/**2000 K** post-irradiation anneals as quoted above. **Pressure:** **N/A —** no external stress target. **Electric field:** **N/A —** not applied. **Replica / enhanced sampling:** **N/A —** not used.
 
-<!-- enrich-from-extract:v2 -->
+**2 — Force-field training (ReaxFF ion–C repulsion).** **Goal:** augment the **C-2013-class** **ReaxFF** description so **high-energy noble-gas impacts** retain accurate **nuclear repulsion** without spoiling equilibrium **graphene** chemistry. **QM training data / training set:** **DFT** interaction energies for **noble-gas ion + benzene** clusters at the **B3LYP/6-311G\*\*** level (**LACV3P\*\*** for **Kr**), compared against **ZBL** **reference data** curves (**§S1**). **Geometry coverage:** **He**, **Ne**, **Ar**, and **Kr** ions approached at the **three** impact sites enumerated above. **Optimization:** iterative **ReaxFF** parameter adjustments to minimize disagreement with the **DFT/ZBL** training curves (details + parameter tables reside in the **SI PDF**).
 
-- Atomistic-Scale Simulations of Defect Formation in Graphene Under Noble Gas Ion Irradiation Kichul Yoon a, Ali Rahnamoun a, Jacob L.
-- Force field parameterization results In order to develop the ReaxFF force field for the description of short-range nuclear repulsion, we obtained energies in the geometry that consists of a noble gas ion and benzene by using DFT and ZBL potential 1.
-- DFT calculation was performed with 6-311G ** (for the interaction of benzene with He, Ne, Ar ions) and LACV3P ** basis set (for the interaction of benzene with Kr ion) and B3LYP functional.
-- The relative energies obtained from DFT, ZBL potential, and the ReaxFF force field are in good agreement with each other.
-- Vlassiouk f, Alex Belianinov d, g, Xiahan Sang d, Olga S.
+**3 — Static QM beyond training scans.** **N/A —** **§S1** focuses on the **repulsive** training **surfaces** only.
 
-
+**4 — Experiments.** **N/A —** **STEM**/**He-ion** comparisons live in the **main** article.
 ## Findings
 
-- Reported **relative energies** align across **DFT**, **ZBL**, and **ReaxFF** for the showcased **training** configurations.
+**Outcomes / mechanism (parameter layer).** **Figure S1** documents that **DFT**, **ZBL**, and the updated **ReaxFF** **short-range** terms track each other for the **benzene + ion** **relative energy** curves at the three **impact sites** sampled.
 
-### Additional results (article abstract)
+**Comparisons.** Training explicitly **benchmarks** against **DFT** and **universal ZBL** repulsion rather than against experiment at this stage.
 
-- Note that the benzene molecule, which is similar to graphene in that it is also a planar structure, was used for the interaction of ions with graphene.
-- Three impact positions (center of ring, center of bond, and top of C atom) were considered for the short-range repulsive interactions between ions and graphene, as indicated in the subset images in Fig.
+**Sensitivity / levers.** **Ion species** (**He/Ne/Ar/Kr**) and **approach site** (**ring**, **bond**, **atop**) shift the **repulsive** energy **surfaces** that the **ReaxFF** fit must reproduce.
 
+**Limitations / outlook.** **Benzene** is a **proxy**; final **performance** must be judged in the **periodic graphene** cascades reported in **`[[2016yoon-venue-nn6b03036]]`**, where **electronic stopping** remains neglected.
+
+**Corpus honesty.** This slug is **SI-only**; cite the **main** article for **DOI**, **dose**, **timestep**, **anneal**, and **experimental** comparisons.
 
 ## Limitations
 
-- **SI fragment** only—consult the bundled **main article** PDF for **full irradiation** protocols and **experimental** benchmarks.
+- **SI fragment** — always pair with the **VOR** article page for **DOI**, **pagination**, and **experimental** comparisons.
 
 ## Relevance to group
 
-Supports **ReaxFF** parametrization for **2D carbon** **ion-beam** damage workflows led by **van Duin**.
+Documents **PSU/ORNL** **ReaxFF** extension work underpinning **ion-engineered graphene defect** simulations in the corpus.
 
 ## Citations and evidence anchors
 
-- Companion article: **Yoon et al.**, *ACS Nano* **2016**, noble gas irradiation of graphene (`papers/Yoon_ACSNano_SI.pdf`).
+- Companion article: **`[[2016yoon-venue-nn6b03036]]`** (`papers/Yoon_ACSNano_2016.pdf`).
+- SI PDF: `papers/Yoon_ACSNano_SI.pdf`.
 
 ## Related topics
 
 - [[reaxff-family]]
+- [[graphene-nanocarbon]]

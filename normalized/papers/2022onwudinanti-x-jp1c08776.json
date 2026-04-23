@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022onwudinanti-x-jp1c08776",
+  "manifest": {
+    "source_path": "papers/Onwudinanti_RuH_JPCC_2022_galley.pdf",
+    "sha256": "f89c7a9b246240c1533b2ef00dc4c0baf28735ce3539d23dd3f59196bbc7a25d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.1c08776",
+    "title": "jp1c08776 1..10",
+    "year": 2022,
+    "authors": "Chidozie Onwudinanti",
+    "venue": " "
+  },
+  "pdf_path": "papers/Onwudinanti_RuH_JPCC_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022onwudinanti-x-jp1c08776_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6447
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022onwudinanti-x-jp1c08776.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

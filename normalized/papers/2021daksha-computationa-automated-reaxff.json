@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021daksha-computationa-automated-reaxff",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Daksha_Yeon_CompMatSci_2021_ReaxFF_ML_parameterization.pdf",
+    "sha256": "e55631254c8ffdb24a93fff8ce60cbf50978df80a05e56cf3703ecbdb6445214",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Automated ReaxFF parametrization using machine learning",
+    "year": 2021,
+    "authors": "Chaitanya M. Daksha",
+    "venue": "Computational Materials Science, 187 (2021) 110107. doi:10.1016/j.commatsci.2020.110107"
+  },
+  "pdf_path": "papers/ReaxFF_others/Daksha_Yeon_CompMatSci_2021_ReaxFF_ML_parameterization.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021daksha-computationa-automated-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021daksha-computationa-automated-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

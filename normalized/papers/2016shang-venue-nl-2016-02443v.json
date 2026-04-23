@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016shang-venue-nl-2016-02443v",
+  "manifest": {
+    "source_path": "papers/Others/Shang_Liu_MoS2_growth_NanoLetters2016.pdf",
+    "sha256": "f9f470b76a9ebdf568bbb791fd54b4b36b21abf010f6a112f1c1f4890ac970fb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "nl-2016-02443v 1..9",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Shang_Liu_MoS2_growth_NanoLetters2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016shang-venue-nl-2016-02443v_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016shang-venue-nl-2016-02443v.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

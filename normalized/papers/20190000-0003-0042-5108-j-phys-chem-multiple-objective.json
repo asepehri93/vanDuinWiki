@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20190000-0003-0042-5108-j-phys-chem-multiple-objective",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Guan_Zhang_JPCC_2019_TNT_Garfield.pdf",
+    "sha256": "be1baa356850a03a56c5eb2abdcb0e01da8bf6166c302849baca703e1750f66a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.9b05036",
+    "title": "Multiple Objective NSGA-II-Based Optimization Program and Its Application in Reactive Force Field for 2,4,6-Trinitrotoluene Diffusion in the Aqueous Phase",
+    "year": 2019,
+    "authors": "Guan Zhang (ORCID: 0000-0003-0042-5108); Jin Li; Zongkuan Liu (ORCID: 0000-0003-3374-1828)",
+    "venue": "J. Phys. Chem. C 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/Guan_Zhang_JPCC_2019_TNT_Garfield.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20190000-0003-0042-5108-j-phys-chem-multiple-objective_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7772
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20190000-0003-0042-5108-j-phys-chem-multiple-objective.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

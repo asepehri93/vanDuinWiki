@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018sengul-venue-total-number-2",
+  "manifest": {
+    "source_path": "papers/Sengul_aceticacid_water_JCP_2018_proof_corrected.pdf",
+    "sha256": "d13ae14f8928080652136ca6b535f294b17054f27b8c1bbe63f1de9e38126e41",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Total Number of pages:7",
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Sengul_aceticacid_water_JCP_2018_proof_corrected.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018sengul-venue-total-number-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7844
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018sengul-venue-total-number-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

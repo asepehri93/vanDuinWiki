@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018cu-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Others/Cu_Graphene_Ding_PhysRevLett_SI.120.246101.pdf",
+    "sha256": "ab5e45f8f225b1907308920f953c5f3ff4e1b41f4006c0041ef12292fb1b9a3c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - Supplemental Material-Step Bunching-PRLver3.doc",
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/Cu_Graphene_Ding_PhysRevLett_SI.120.246101.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018cu-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2309
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018cu-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

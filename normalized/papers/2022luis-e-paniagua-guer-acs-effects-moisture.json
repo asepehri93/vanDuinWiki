@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022luis-e-paniagua-guer-acs-effects-moisture",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Paniagua_Guerra_GO_water_acsami_2022.pdf",
+    "sha256": "dd68526c751b880837bbca48d69c7c195d782d34d9db2d327d73a9963325eed2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Effects of Moisture and Synthesis-Derived Contaminants on the Mechanical Properties of Graphene Oxide: A Molecular Dynamics Investigation",
+    "year": 2022,
+    "authors": "Luis E. Paniagua-Guerra, Mauricio Terrones, and Bladimir Ramos-Alvarado",
+    "venue": "ACS Appl. Mater. Interfaces 2022.14:54924-54935"
+  },
+  "pdf_path": "papers/ReaxFF_others/Paniagua_Guerra_GO_water_acsami_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022luis-e-paniagua-guer-acs-effects-moisture_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022luis-e-paniagua-guer-acs-effects-moisture.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

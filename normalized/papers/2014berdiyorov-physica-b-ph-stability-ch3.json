@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014berdiyorov-physica-b-ph-stability-ch3",
+  "manifest": {
+    "source_path": "papers/Berdiyorov_CH3_graphene_PhysicaB_2014.pdf",
+    "sha256": "31daa5a56014794361e7919fe2a8e8782fb81f00a7631468bb10d258bb5f1888",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Stability of CH3 molecules trapped on hydrogenated sites of graphene",
+    "year": 2014,
+    "authors": "G.R. Berdiyorov",
+    "venue": "Physica B: Physics of Condensed Matter, 455 + (2014) 60-65. doi:10.1016/j.physb.2014.07.046"
+  },
+  "pdf_path": "papers/Berdiyorov_CH3_graphene_PhysicaB_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014berdiyorov-physica-b-ph-stability-ch3_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014berdiyorov-physica-b-ph-stability-ch3.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

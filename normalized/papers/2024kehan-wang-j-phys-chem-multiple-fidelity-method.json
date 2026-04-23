@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024kehan-wang-j-phys-chem-multiple-fidelity-method",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/wang-et-al-2024-a-multiple-fidelity-method-for-accurate-simulation-of-mos2-properties-using-jax-reaxff-and-neural.pdf",
+    "sha256": "91170be150747dafa18fe7cd3717774115eb0e2d249540f6541e7d6e8f4f1671",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A Multiple-Fidelity Method for Accurate Simulation of MoS2 Properties Using JAX-ReaxFF and Neural Network Potentials",
+    "year": 2024,
+    "authors": "Kehan Wang, Longkun Xu, Wei Shao, Haishun Jin, Qiang Wang, and Ming Ma",
+    "venue": "J. Phys. Chem. Lett. 2024.15:371-379"
+  },
+  "pdf_path": "papers/ReaxFF_others/wang-et-al-2024-a-multiple-fidelity-method-for-accurate-simulation-of-mos2-properties-using-jax-reaxff-and-neural.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024kehan-wang-j-phys-chem-multiple-fidelity-method_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024kehan-wang-j-phys-chem-multiple-fidelity-method.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

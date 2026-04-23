@@ -21,35 +21,55 @@ group_affiliation: true
 
 ## Evidence and attribution
 
-!!! note "Authority of statements"
+!!! note "NON_PRIMARY proof (docs/corpus)"
 
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    [`NON_PRIMARY_ARTICLE_PAPER_SLUGS.md`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/corpus/NON_PRIMARY_ARTICLE_PAPER_SLUGS.md) flags **`2013jacobs-venue-rsc-cy`** as a **RSC proof** PDF whose local extract is **production queries**, not the article body. The peer-reviewed **Catalysis Science & Technology** article is identified by **DOI** `10.1039/c3cy20665c`; curated scientific prose should ultimately follow a **final PDF** or publisher HTML—not the proof fragment alone.
 
 ## Summary
 
-The ingested extract is a **RSC journal proof** (typesetter instructions and author queries) for a **Catalysis Science & Technology** article on **ligand–template assemblies**, **rhodium encapsulation**, and **hydroformylation** (authors include **van Duin**). Pages 1–2 do **not** include the scientific body text—only **Q1–Q7** production queries (references, CCDC checks, space groups).
+The published article (title above) addresses supramolecular **ligand–template assemblies** relevant to **hydroformylation catalysis**, including how conformational degrees of freedom in templated ligand frameworks influence **encapsulation of rhodium complexes** and downstream catalytic consequences. Adri C. T. van Duin appears among the coauthors, consistent with computational chemistry support for organometallic systems in the group’s portfolio. The ingested corpus PDF, however, only provides **typesetter queries** on pages captured in `normalized/extracts/2013jacobs-venue-rsc-cy_p1-2.txt` (reference formatting, crystallographic checks), so this wiki cannot responsibly restate specific **computational settings**, **energies**, or **spectroscopic data** from local extracts.
 
 ## Methods
 
-- Not available from the proof extract; consult the **final published article**.
+**Corpus note:** `normalized/extracts/2013jacobs-venue-rsc-cy_p1-2.txt` and **`papers/Jacobs_CST_2013_proofs.pdf`** contain **RSC proof** boilerplate and queries only—no author **Methods** body is available in this repository snapshot (**DOI** `10.1039/c3cy20665c`).
+
+**1 — MD application (atomistic dynamics).** **Reactive molecular dynamics**/**MD** protocol lines (**LAMMPS**/**CP2K**/other engine, **atom** counts, **PBC**, **NVT**/**NPT**, **timestep** in **fs**, **ps**/**ns** **equilibration**/**production**, **thermostat**, **barostat**, **temperature** **K**, **pressure**, **electric field**, **replica**/**enhanced sampling**) are **N/A** here because the ingested **PDF** fragment does not include the computational **Methods** section.
+
+**2 — Force-field training.** **N/A** from proof fragment—cannot confirm whether **ReaxFF** or other reactive fits appear without the **version-of-record** text.
+
+**3 — Static QM / experiment.** **N/A** from proof fragment—expected **DFT**, **NMR**, crystallography, and catalysis assay details must be lifted from the final *Catal.* *Sci.* *Technol.* article, not from typesetter queries.
+
+**4 — Review / non-simulation framing.** **N/A** — this is not a review; the missing sections are a **PDF** ingestion gap, not a genre choice.
 
 ## Findings
 
-- Not available from the proof extract.
+**Outcomes & mechanisms:** **N/A** — no **reaction**/**encapsulation**/**catalysis** results are present in the proof-only extract.
+
+**Comparisons:** **N/A** — no **experimental** or computational benchmarks appear in `2013jacobs-venue-rsc-cy_p1-2.txt`.
+
+**Sensitivity / design levers:** **N/A** — **temperature**, **pressure**, **concentration**, and **strain** knobs for catalysis are not extractable from the proof pages.
+
+**Limitations & outlook:** The peer-reviewed article likely contains the substantive science; this wiki entry cannot summarize performance metrics until a **version-of-record** **PDF** replaces or supplements the proof file.
+
+**Corpus honesty:** **`NON_PRIMARY_ARTICLE_PAPER_SLUGS`** flags this slug as **proof**; treat third-party metrics as **unverified** against this repo until full text is ingested.
 
 ## Limitations
 
-- **Low wiki confidence** for technical content due to missing article text in pages 1–2.
+**Low confidence** reflects missing scientific body text in the corpus snapshot, not a judgment about the underlying peer-reviewed work. Replace this page when a clean PDF is available.
+
+## Corpus notes
+
+If crystallographic CIF files accompany the article, register their hashes in `normalized/papers` records so automated pipelines can link crystal structures to computational setup paragraphs once they are written.
+
+Homogeneous catalysis entries in this knowledge base should cross-link to **`[[reaxff-family]]`** only when the primary text actually uses reactive MD; do not assume from the proof stub alone.
 
 ## Relevance to group
 
-Proof PDF retained for provenance; replace summary after full-text extraction.
+Proof retained for **provenance**; van Duin co-authorship links the entry to **homogeneous catalysis** modeling threads.
 
 ## Citations and evidence anchors
 
-- Proof query sheet only; DOI **10.1039/c3cy20665c** cited for pre-publication citation format.
+- DOI: [10.1039/c3cy20665c](https://doi.org/10.1039/c3cy20665c) — proof extract: `normalized/extracts/2013jacobs-venue-rsc-cy_p1-2.txt`
 
 ## Related topics
 

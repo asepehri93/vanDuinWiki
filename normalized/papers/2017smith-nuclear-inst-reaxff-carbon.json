@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017smith-nuclear-inst-reaxff-carbon",
+  "manifest": {
+    "source_path": "papers/Smith_NucInstMethPhysicsResB_Carbon_potential_2017.pdf",
+    "sha256": "659ebeff5fc21df16f1aa8d1be073a227a7455850d17565b092fc06676f09ce6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A ReaXFF carbon potential for radiation damage studies",
+    "year": 2017,
+    "authors": "Roger Smith",
+    "venue": "Nuclear Inst. and Methods in Physics Research, B, 393 (2017) 49-53. doi:10.1016/j.nimb.2016.11.007"
+  },
+  "pdf_path": "papers/Smith_NucInstMethPhysicsResB_Carbon_potential_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017smith-nuclear-inst-reaxff-carbon_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6425
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017smith-nuclear-inst-reaxff-carbon.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

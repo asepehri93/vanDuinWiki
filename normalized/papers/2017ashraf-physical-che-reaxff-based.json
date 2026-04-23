@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017ashraf-physical-che-reaxff-based",
+  "manifest": {
+    "source_path": "papers/Ashraf_PCCP_2016_flame_propagation_online.pdf",
+    "sha256": "ebb660a1d4b680881db4c8b834212de3125f9a7724209c0645b1f70e47deac97",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c6cp08164a",
+    "title": "ReaxFF based molecular dynamics simulations of ignition front propagation in hydrocarbon/oxygen mixtures under high temperature and pressure conditions",
+    "year": 2017,
+    "authors": "Chowdhury Ashraf",
+    "venue": "Physical Chemistry Chemical Physics (2017), doi:10.1039/C6CP08164A"
+  },
+  "pdf_path": "papers/Ashraf_PCCP_2016_flame_propagation_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017ashraf-physical-che-reaxff-based_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017ashraf-physical-che-reaxff-based.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

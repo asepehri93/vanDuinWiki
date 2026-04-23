@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025turker-advanced-mat-indium-oxide",
+  "manifest": {
+    "source_path": "papers/Turker_Nayir_2D_InO2_GrapheneSiC_AdvancedMaterials2025.pdf",
+    "sha256": "347b641468ffcdfab319a4ff025391e863bedb813b7320171519875dabd6ca6d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/adma.202516133",
+    "title": "2D Indium Oxide at the Epitaxial Graphene/SiC Interface: Synthesis, Structure, Properties, and Devices",
+    "year": 2025,
+    "authors": "Furkan Turker, Bohan Xu, Chengye Dong, Michael Labella III, Nadire Nayir, Natalya Sheremetyeva, Zachary J. Trdinich, Duanchen Zhang, Gokay Adabasi, Bita Pourbahari, Li-Syuan Lu, Wesley E. Auker, Ke Wang, Mehmet Baykara, Vincent Meunier, Nabil Bassim, Adri C. T. van Duin, Vincent H. Crespi, Joshua A. Robinson",
+    "venue": "Advanced Materials"
+  },
+  "pdf_path": "papers/Turker_Nayir_2D_InO2_GrapheneSiC_AdvancedMaterials2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025turker-advanced-mat-indium-oxide_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025turker-advanced-mat-indium-oxide.md",
+  "updated": "2026-04-25T12:00:00Z"
+}

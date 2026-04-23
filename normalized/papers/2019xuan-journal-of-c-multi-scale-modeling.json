@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019xuan-journal-of-c-multi-scale-modeling",
+  "manifest": {
+    "source_path": "papers/Xuan_J_Cryst_growth_WSe2_multiscale.pdf",
+    "sha256": "b681583b41fad1e592f62ddcc2f50ea6ac1b5d36a24d51761e96ac096fcf06ff",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Multi-scale modeling of gas-phase reactions in metal-organic chemical vapor deposition growth of WSe2",
+    "year": 2019,
+    "authors": "Yuan Xuan",
+    "venue": "Journal of Crystal Growth, 527 (2019) 125247. doi:10.1016/j.jcrysgro.2019.125247"
+  },
+  "pdf_path": "papers/Xuan_J_Cryst_growth_WSe2_multiscale.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019xuan-journal-of-c-multi-scale-modeling_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019xuan-journal-of-c-multi-scale-modeling.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

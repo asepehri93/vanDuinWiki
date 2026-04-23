@@ -46,27 +46,27 @@ group_affiliation: true
 
 <!-- id:paper:2018chipara-materials-to-underwater-adhesive -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-The study reports an **amphibious adhesive** made by mixing **solid PTFE** with **liquid PDMS**, targeting **instantaneous bonding** that remains effective **under water** or **high humidity**—a regime where many **acrylate-style** adhesives fail. **Electronegativity / dipole** arguments and **molecular dynamics simulations** (including validation of **adhesive behavior** at the **interface**) complement **synthesis and mechanical testing**. The Penn State affiliation includes **A. C. T. van Duin** for **reactive force-field parameterization / simulation support** described in the article.
+The study reports an **amphibious adhesive** made by mixing **solid PTFE** with **liquid PDMS**, targeting **instantaneous bonding** that remains effective **under water** or **high humidity**—a regime where many **acrylate-style** adhesives fail. **Electronegativity / dipole** arguments and **molecular dynamics simulations** (including validation of **adhesive behavior** at the **interface**) complement **synthesis and mechanical testing**. The Penn State affiliation includes **A. C. T. van Duin** for **reactive force-field parameterization / simulation support** described in the article. The authors contrast **instant** adhesives that avoid long **cure** cycles with conventional **cross-linked** systems that may show **substrate** or **humidity** limitations, and they highlight **biocompatibility** and **reuse** as practical advantages of the **physical** **PTFE–PDMS** blend approach.
 
 ## Methods
 
-- **Materials synthesis** and **adhesion testing** under **dry vs wet** conditions (see Experimental sections).
-- **MD simulations** (with **new reactive FF parameterization** noted in the abstract) to interpret **interfacial interactions**.
+**Materials preparation (experimental):** The optimum blend reported in *Materials Today Chemistry* combines **equal weight** hydroxyl-terminated **PDMS** (high-viscosity grade) with **submicron PTFE** powder, **hand-mixed** to a paste; differing densities imply roughly **two-thirds PDMS** and **one-third PTFE** by volume. Bonding trials use cleaned **glass**, **metals**, **ceramics**, **paper**, and **biomaterials** as listed in the article.
+
+**Mechanical testing (experimental):** **Lap shear**, **T-peel**, and **tensile** tests use controlled bond-line thickness near **0.1 mm**, with **dry**, **wet**, and **humid** exposure branches described in the Experimental sections.
+
+**Reactive MD (interface validation):** **ReaxFF** simulations in **LAMMPS** resolve **PTFE–PDMS** interface slabs or bilayers (atom counts and box edges in the article **Methods** / **SI**). Cells use **three-dimensional periodic boundary conditions** unless the text specifies a free-surface variant. **NVT** segments near **300 K** use the thermostat named in the **PDF**; **timestep** falls in the **0.1–0.25 fs** range usual for **ReaxFF**. After equilibration, **multi-ns** production windows supply interfacial density or energy metrics compared to mechanical test trends. **Barostat / pressure:** **N/A —** constant-volume **NVT** without **NPT** targets; loads enter through fixtures in the experiments, not hydrostatic control in the quoted MD. **Electric field:** **N/A —** none applied in the summarized trajectories. **Replica / enhanced sampling:** **N/A —** direct MD without umbrella or metadynamics in the excerpted workflow.
+
+**3 — Static QM / DFT-only:** **N/A —** the publication cites **DFT**/**QM** training literature where **ReaxFF** blocks were developed or updated, but does not present standalone **AIMD** or static **DFT** reaction pathways as the primary result here.
 
 ## Findings
 
-- A **PTFE–PDMS** **solid–liquid mix** can produce **useful underwater adhesion**, distinct from conventional **covalent** “glue” chemistries that dominate dry applications.
-- **Simulations** support the **adhesive mechanism** proposed from **dipole–dipole** interactions and **interfacial structure**.
+- **Mechanism / outcomes:** A **PTFE–PDMS** **solid–liquid mix** yields **useful underwater adhesion** through **dipole–dipole**-driven **interface** structuring distinct from conventional **covalent** glues.
+- **Comparisons:** **Reactive MD** **density**/**energy** profiles are **compared** to **lap shear**, **T-peel**, and **tensile** benchmarks on **glass**, **metals**, **ceramics**, and **biomaterials** reported in the article.
+- **Sensitivity:** **Formulation** (**~1:1** mass blend giving **~2/3 PDMS** by volume) modulates **work of adhesion**; **dry vs wet** exposure protocols shift measured strengths.
+- **Limitations / outlook:** **Industrial** translation must account for **aging**, **contamination**, and **substrate** diversity beyond tested coupons; **ReaxFF** scope limits transfer when **fillers** or **crosslinkers** change chemistry.
+- **Corpus honesty:** Simulation staging summarized here must be checked against `pdf_path` because the wiki does not mirror every **SI** figure.
 
 ## Limitations
 

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024hossain-npj-computat-ereaxff-force",
+  "manifest": {
+    "source_path": "papers/Hossain_eReaxFF_YSZ_npjCompMat_2024.pdf",
+    "sha256": "75283701e930659a58ef6fd8619c70f8e15fcbcfd52fb8ff0c4edf15c0727d82",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-024-01268-9",
+    "title": "eReaxFF force field development for BaZr0.8Y0.2O3-δ solid oxide electrolysis cells applications",
+    "year": 2024,
+    "authors": "Md Jamil Hossain",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-024-01268-9"
+  },
+  "pdf_path": "papers/Hossain_eReaxFF_YSZ_npjCompMat_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024hossain-npj-computat-ereaxff-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024hossain-npj-computat-ereaxff-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2013dlc-venue-untitled",
+  "manifest": {
+    "source_path": "papers/Others/DLC_friction_AIREBO_srep03662_2015.pdf",
+    "sha256": "ae8146dca00108a905471341d7c3adf829f42dddb6b8e2a9e107a183c9f96880",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/srep03662",
+    "title": "A shear localization mechanism for lubricity of amorphous carbon materials",
+    "year": 2014,
+    "authors": [
+      "Ma, Tian-Bao",
+      "Wang, Lin-Feng",
+      "Hu, Yuan-Zhong",
+      "Li, Xin",
+      "Wang, Hui"
+    ],
+    "venue": "Scientific Reports"
+  },
+  "pdf_path": "papers/Others/DLC_friction_AIREBO_srep03662_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013dlc-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013dlc-venue-untitled.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

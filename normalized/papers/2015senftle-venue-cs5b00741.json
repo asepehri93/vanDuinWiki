@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015senftle-venue-cs5b00741",
+  "manifest": {
+    "source_path": "papers/Senftle_ACS Catalysis_2015.pdf",
+    "sha256": "b011add8aa315ef2f05806938bad3cd056b64909a2df0ca1af73e4bc72c64850",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acscatal.5b00741",
+    "title": "Role of Site Stability in Methane Activation on PdxCe1−xOδ Surfaces",
+    "year": 2015,
+    "authors": "Thomas P. Senftle, Adri C. T. van Duin, and Michael J. Janik",
+    "venue": "ACS Catalysis"
+  },
+  "pdf_path": "papers/Senftle_ACS Catalysis_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015senftle-venue-cs5b00741_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015senftle-venue-cs5b00741.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

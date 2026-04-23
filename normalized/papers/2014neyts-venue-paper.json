@@ -1,0 +1,30 @@
+{
+ "paper_id": "paper:2014neyts-venue-paper",
+ "manifest": {
+  "source_path": "papers/ReaxFF_others/Neyts_coworkers_NiC_Lindemann_2014.pdf",
+  "sha256": "cb1e8733de71d607e4a6269e4ee35d9e881af4858e88233c22991ecde39286e9",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1039/C4NR02354D",
+  "title": "Thermodynamics at the nanoscale: phase diagrams of nickel-carbon nanoclusters and equilibrium constants for phase transition",
+  "year": 2014,
+  "authors": [
+   "Yannick Engelmann",
+   "Annemie Bogaerts",
+   "Erik C. Neyts"
+  ],
+  "venue": "Nanoscale"
+ },
+ "pdf_path": "papers/ReaxFF_others/Neyts_coworkers_NiC_Lindemann_2014.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014neyts-venue-paper_p1-2.txt",
+  "quality": "partial",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 6187
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014neyts-venue-paper.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021daniela-k-jacquel-n-acs-reactive-force",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Jacquelin_Patrito_ACS_AppNanMat_2021.pdf",
+    "sha256": "99a76f7e9b785b6c8eacdd2ac242b0928fc8ba58ec0d76fcb7af9e844c67da3f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsanm.1c01759",
+    "title": "Reactive Force Field-Based Molecular Dynamics Simulations on the Thermal Stability of Trimesic Acid on Graphene: Implications for the Design of Supramolecular Networks",
+    "year": 2021,
+    "authors": "Daniela K. Jacquelín, Federico A. Soria, Patricia A. Paredes-Olivera, and Eduardo M. Patrito",
+    "venue": "ACS Appl. Nano Mater. 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/Jacquelin_Patrito_ACS_AppNanMat_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021daniela-k-jacquel-n-acs-reactive-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021daniela-k-jacquel-n-acs-reactive-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

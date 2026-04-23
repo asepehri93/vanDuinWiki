@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2026sen-nat-solid-state-thermometry",
+  "manifest": {
+    "source_path": "papers/Sen_Nature_Sensors_2026_galley.pdf",
+    "sha256": "a1eeeb54593170c8be4b9f4ab4098176533b86c276b2259ce1b31cdef2973e86",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s44460-026-00034-2",
+    "title": "Solid-state thermometry via ionic–electronic coupling in two-dimensional heterostructures",
+    "year": 2026,
+    "authors": "Dipanjan Sen",
+    "venue": "Nature Sensors, doi:10.1038/s44460-026-00034-2"
+  },
+  "pdf_path": "papers/Sen_Nature_Sensors_2026_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2026sen-nat-solid-state-thermometry_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2026sen-nat-solid-state-thermometry.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

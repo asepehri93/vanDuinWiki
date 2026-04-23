@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025sharkass-venue-paper",
+  "manifest": {
+    "source_path": "papers/Sharkass_JNM_Deuterium_2025_galley.pdf",
+    "sha256": "7218ebe51c43d2d30b0cac63d0998ba2a07ed8e030adb64ea9eaf16e63e5f4a6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.jnucmat.2025.155622",
+    "title": "Retention, sputtering and surface chemistry at tungsten oxide surface facing deuterium plasma",
+    "year": 2025,
+    "authors": "Meral Sharkassa, Swarit Dwivedi, Yun Kyung Shin, Martin Nieto-Perez, Adri C. T. van Duin, Predrag S. Krstic",
+    "venue": "Journal of Nuclear Materials"
+  },
+  "pdf_path": "papers/Sharkass_JNM_Deuterium_2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025sharkass-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025sharkass-venue-paper.md",
+  "updated": "2026-04-25T12:00:00Z"
+}

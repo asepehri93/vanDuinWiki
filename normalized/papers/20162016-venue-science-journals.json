@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20162016-venue-science-journals",
+  "manifest": {
+    "source_path": "papers/Others/2016 charge density waves vdW.pdf",
+    "sha256": "7ef45df5ca194b00d396113f8be3023f7a0b9c6568f42723c202c8bfe52b74ea",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Science Journals — AAAS",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/2016 charge density waves vdW.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20162016-venue-science-journals_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20162016-venue-science-journals.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

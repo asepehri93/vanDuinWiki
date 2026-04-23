@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015srinivasan-venue-jp-2014-10274e",
+  "manifest": {
+    "source_path": "papers/Srinivasan_JPC_graphene_2015.pdf",
+    "sha256": "99937fa99c5893ef99d2eb59c080c62afc852c7eebf3d6791fe202ae3e0bcbe8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp-2014-10274e 1..10",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Srinivasan_JPC_graphene_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015srinivasan-venue-jp-2014-10274e_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015srinivasan-venue-jp-2014-10274e.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

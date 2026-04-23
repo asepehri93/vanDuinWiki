@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025rush-geochimica-e-towards-stable",
+  "manifest": {
+    "source_path": "papers/Rush_Islam_GCA_2025_galley.pdf",
+    "sha256": "bbf537068190c3ac245331d6158d1a4fb3448891654b85e3c06af1e950033b67",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.gca.2025.12.040",
+    "title": "Towards stable chemical fossils for anaerobic ammonium-oxidizing bacteria in palaeoenvironmental studies: novel cyclic aliphatic hydrocarbons as potential dia- and catagenetic products of ladderane lipids",
+    "year": 2025,
+    "authors": "Darci Rush",
+    "venue": "Geochimica et Cosmochimica Acta, Journal Pre-proof. doi:10.1016/j.gca.2025.12.040"
+  },
+  "pdf_path": "papers/Rush_Islam_GCA_2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025rush-geochimica-e-towards-stable_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3401
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025rush-geochimica-e-towards-stable.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

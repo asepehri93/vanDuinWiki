@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20200000-0002-3621-2481-x-modeling-structural",
+  "manifest": {
+    "source_path": "papers/Nayir_JPCC_2020_WSe2_galley.pdf",
+    "sha256": "9c67eb49e7bcf04b9727fa55823cf62c9cf854307bae7d81a4e0965919c48212",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.0c09155",
+    "title": "Modeling for Structural Engineering and Synthesis of Two-Dimensional WSe2 Using a Newly Developed ReaxFF Reactive Force Field",
+    "year": 2020,
+    "authors": "Nadire Nayir (ORCID: 0000-0002-3621-2481)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Nayir_JPCC_2020_WSe2_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20200000-0002-3621-2481-x-modeling-structural_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20200000-0002-3621-2481-x-modeling-structural.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

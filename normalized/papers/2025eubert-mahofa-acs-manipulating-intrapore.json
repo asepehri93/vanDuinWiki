@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025eubert-mahofa-acs-manipulating-intrapore",
+  "manifest": {
+    "source_path": "papers/Mahofa_Dwivedi_PFAS_ACS_Nano_2025.pdf",
+    "sha256": "4d8bfc1b3bfbc61fc289e6cc26dca7ea6b2076b1fc6e556ce2444fc581c5c29d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.4c15413",
+    "title": "Manipulating Intrapore Energy Barriers in Graphene Oxide Nanochannels for Targeted Removal of Short-Chain PFAS",
+    "year": 2025,
+    "authors": "Eubert Mahofa, Sally El Meragawi, Muhammed A. Vilayatteri, Swarit Dwivedi, Manas Ranjan Panda, Petar Jovanović, Adri C. T. van Duin, Benny Freeman, Akshat Tanksale, and Mainak Majumder",
+    "venue": "ACS Nano 2025.19:14742-14755"
+  },
+  "pdf_path": "papers/Mahofa_Dwivedi_PFAS_ACS_Nano_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025eubert-mahofa-acs-manipulating-intrapore_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025eubert-mahofa-acs-manipulating-intrapore.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

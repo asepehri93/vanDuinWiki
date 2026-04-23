@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023chen-nat-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Chen_SiC_water_alcohol_Ceramics_Int_2024.pdf",
+    "sha256": "a796cd1836444bf547e77ca0bf123e03815227b7b953c008b372d26801b612f2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF molecular dynamics simulation and experimental validation about chemical reactions of water and alcohols on SiC surface",
+    "year": 2023,
+    "authors": "Haibo Chen",
+    "venue": "Ceramics International, 50 (2024) 4332-4349. doi:10.1016/j.ceramint.2023.11.070"
+  },
+  "pdf_path": "papers/ReaxFF_others/Chen_SiC_water_alcohol_Ceramics_Int_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023chen-nat-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023chen-nat-reaxff-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

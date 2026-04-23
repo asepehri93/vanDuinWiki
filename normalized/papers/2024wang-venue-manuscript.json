@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024wang-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Wang_Nanoletters_Furan_nanothread_2024_galley.pdf",
+    "sha256": "72bc95f0bb4e3c87e6329172a21ab1b970a3e6ad9b8164fa50e8d4e91305ed35",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.nanolett.4c01431",
+    "title": "manuscript 1..7",
+    "year": 2024,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Wang_Nanoletters_Furan_nanothread_2024_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024wang-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024wang-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

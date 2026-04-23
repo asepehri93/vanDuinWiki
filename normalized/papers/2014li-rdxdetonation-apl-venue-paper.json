@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014li-rdxdetonation-apl-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Li-RDXdetonation-APL14.pdf",
+    "sha256": "7b37c2b405450da0aec26e06b1e311a4c87b5f3bfef9d4d807dad738b8118f2b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4902128",
+    "title": "Multistage reaction pathways in detonating high explosives",
+    "year": 2014,
+    "authors": ["Li, Ying", "Kalia, Rajiv K.", "Nakano, Aiichiro", "Nomura, Ken-ichi", "Vashishta, Priya"],
+    "venue": "Applied Physics Letters"
+  },
+  "pdf_path": "papers/ReaxFF_others/Li-RDXdetonation-APL14.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014li-rdxdetonation-apl-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7769
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014li-rdxdetonation-apl-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

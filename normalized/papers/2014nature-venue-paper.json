@@ -1,0 +1,28 @@
+{
+ "paper_id": "paper:2014nature-venue-paper",
+ "manifest": {
+  "source_path": "papers/Others/Nature_graphene_protons_II.pdf",
+  "sha256": "a637481425b7e6fa760f33e263aba44abd1f6bfc4c9d159e1223e08d39567123",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1038/nature14074",
+  "title": "Breakthrough for protons",
+  "year": 2014,
+  "authors": [
+   "Rohit N. Karnik"
+  ],
+  "venue": "Nature"
+ },
+ "pdf_path": "papers/Others/Nature_graphene_protons_II.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014nature-venue-paper_p1-2.txt",
+  "quality": "partial",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014nature-venue-paper.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

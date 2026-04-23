@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020gonzales-venue-paper",
+  "manifest": {
+    "source_path": "papers/Gonzales_Valle_JPCC_Al2O3_polymer_SI.pdf",
+    "sha256": "ab661c13b84fb0cfc0d19d15c3b5592c22872fcb5a6e23b0bddc36eab744e607",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Gonzales_Valle_JPCC_Al2O3_polymer_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020gonzales-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2744
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020gonzales-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

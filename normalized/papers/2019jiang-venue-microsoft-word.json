@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019jiang-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/Others/Jiang_Kent_PRB_MXene_graphene.pdf",
+    "sha256": "f8bcb639752ce4b714bc654962e1583b5cc24bcebbd907593ea8eb3648efb1ac",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevB.99.085429",
+    "title": "Interfacial and Electronic Properties of Heterostructures of MXene and Graphene",
+    "year": 2019,
+    "authors": null,
+    "venue": "Phys. Rev. B"
+  },
+  "pdf_path": "papers/Others/Jiang_Kent_PRB_MXene_graphene.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019jiang-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2873
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019jiang-venue-microsoft-word.md",
+  "updated": "2026-04-21T18:36:52Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019briggs-2d-materials-roadmap-electronic",
+  "manifest": {
+    "source_path": "papers/Briggs_2019_2D_Mater._6_022001.pdf",
+    "sha256": "fb9d12b9d9b3be4b7c3560be914c707602c3024c692558e89e05d91150492cb9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/2053-1583/aaf836",
+    "title": "A roadmap for electronic grade 2D materials",
+    "year": 2019,
+    "authors": "Natalie Briggs",
+    "venue": "2D Materials, 6 (2019) aaf836. doi: 10.1088/2053-1583/aaf836"
+  },
+  "pdf_path": "papers/Briggs_2019_2D_Mater._6_022001.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019briggs-2d-materials-roadmap-electronic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5017
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019briggs-2d-materials-roadmap-electronic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

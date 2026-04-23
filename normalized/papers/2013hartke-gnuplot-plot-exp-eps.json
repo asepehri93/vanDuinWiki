@@ -1,0 +1,29 @@
+{
+  "paper_id": "paper:2013hartke-gnuplot-plot-exp-eps",
+  "manifest": {
+    "source_path": "papers/Others/Hartke_JCP_2013_azobenzene.pdf",
+    "sha256": "7504f177281e8d85b348caf9514cc04a4c7acc59140cae352163321205fda2b8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4837237",
+    "title": "Approximate photochemical dynamics of azobenzene with reactive force fields",
+    "year": 2013,
+    "authors": [
+      "Li, Yan",
+      "Hartke, Bernd"
+    ],
+    "venue": "The Journal of Chemical Physics"
+  },
+  "pdf_path": "papers/Others/Hartke_JCP_2013_azobenzene.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013hartke-gnuplot-plot-exp-eps_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1142
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013hartke-gnuplot-plot-exp-eps.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

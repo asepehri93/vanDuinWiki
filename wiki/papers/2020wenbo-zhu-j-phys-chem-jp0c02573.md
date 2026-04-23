@@ -34,33 +34,44 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    Prose below summarizes the **J. Phys. Chem. C** article identified by `doi`, `title`, and `pdf_path`. Quantitative convergence settings and extended tables appear in the **published PDF** and **Supporting Information**.
 
 ## Summary
 
-A Cu/C/H/O ReaxFF is assembled by reoptimizing Cu interactions on expanded cluster training data, merging with an existing C/H/O description, and fitting Cu–C/H/O cross-terms to DFT reaction and adsorption sets. The study implement transition-state search utilities in the ReaxFF context for elementary steps. MD demonstrations show H transfer and H2/CHO-type chemistry on Cu surfaces, and two chemical-looping scenarios: oxidation of metallic Cu with glucose to form CuO, and fuel oxidation by copper oxide as oxidizer—claiming differentiation of redox performance among fuels.
+Zhu *et al.* develop an integrated **Cu/C/H/O Reaxff** for **heterogeneous catalysis** on **Cu** and **Cu oxide** via: **(1)** re-optimizing **Cu** on an **expanded** **cluster** **training** set; **(2)** **merging** with a **C/H/O** field; **(3)** **fitting** **Cu–(C/H/O)** **cross-terms** to **DFT** **binding** and **elementary** **barriers**. They introduce **transition-state** **search** and **path** **tools** on the **Reaxff** **surface**. **LAMMPS** **reactive** **MD** demonstrates **H** transfer and **H₂** / **CHO**-class chemistry on **Cu** and **chemical-looping** **Cu↔CuO** **cases** with **glucose** and **hydrocarbon** **oxidation**. **Adri C. T. van Duin** is a senior author.
 
 ## Methods
 
-Three-stage ReaxFF fitting; custom TS search algorithms; surface reactive MD for C/H/O on Cu and CuO.
+**1 — MD application.** **LAMMPS** **reactive** **MD** on **Cu(100)**, **(111)**, **(211)** and related **cells** (**Section 3**; **SI** for **supercell** **sizes**). **NVT** with **Berendsen** **thermostat** (**0.1** **ps** **damping** as on **`[[2020wenbo-zhu-j-phys-chem-jp0c02573-2]]`**). **Temperature** **setpoints** include **600 K**, **1000 K**, **1400 K**, **1600 K**, and other **values** in **600–1600 K** depending on **case**; **0.25** **fs** time step where stated; **e.g.** **400** **ps** **gas**-phase **sampling** for **glucose** **+** **Cu** at **1600 K**. **N/A** — **NPT** **production** **stated** in the **short** **summary**—confirm **PDF**; **N/A** — **metadynamics**; **N/A** — **electric** **field**. **PBC** **slab** **models** as in **Figures** **8–14**. **Barostat** **N/A** for **NVT** **bracket** **as** **written** on the **companion** **slug**.
+
+**2 — Force-field training.** **Parent** **Reaxff** **Cu** **subset** + **C/H/O** **library**; **reoptimize** **Cu**; **merge**; **fit** **cross-terms** to **DFT** **data** on **adsorption** and **barriers** (**Section 2**). **QM** **reference** and **training** **targets** as in **Section 3** below. **Optimization** by **Reaxff** **least-squares**-style **updates** in the **Reaxff** **optimizer** **as** **described**; **TS**-aware **sampling** **using** **custom** **Reaxff** **path** **tools**.
+
+**3 — Static QM (DFT reference).** **DMol3**; **GGA** **rPBE**; **ECP**; **unrestricted** **spin**; **4×4×1** **k**-**mesh** **(periodic)**; **0.006** **Ha** **smearing**; **global** **4.5** **Å** **cutoff**; **SCF/geometry** **thresholds** in **Section 2.1**. **Binding** **energies** via the **adsorbate/surface** **partitioning**; **TS** **via** **LST/QST/CG** as **cited**. **N/A** — **hybrid** **functionals** **as** **mainline** in the **excerpt** **curated** **here**.
+
+**4 — Review or non-simulation.** **N/A**
 
 ## Findings
 
-Qualitative capture of expected elementary reactions on Cu; case-study chemical-looping trajectories illustrating fuel/oxidizer roles.
+**Outcomes and mechanisms.** The **merged** field **reproduces** **DFT** **trends** for **adsorption** and **elementary** **steps** in the **validation** **set**. **MD** **shows** **H** **shuttling** and **H₂** / **CHO**-type **events** on **Cu** **facets** **supporting** **network** **chemistry** at **interfaces**. **CLC** **case** **studies** **differentiate** **fuels** by **detailed** **reaction** **pathways** on **Cu**/**CuO** **as** the **abstract** **claims**.
+
+**Comparisons and sensitivity.** **DFT** **vs** **Reaxff**; **T**-dependent **MD** **cases** (**600–1600** **K** **range** on **illustrative** **systems**).
+
+**Authored limitations and outlook.** **Real** **catalysts** **with** **promoters**, **alloys**, and **coking** are **not** **fully** **captured**; see **## Limitations**.
+
+**Corpus honesty.** **Error** **tables** in **JPCC**/`pdf_path`.
 
 ## Limitations
 
-Surface models and coverages are idealized; industrial catalysts involve promoters, alloying, and long-timescale coking not covered.
+Industrial **catalysts** include **promoters**, **alloys**, and **long-timescale** **coking** not represented in idealized **surface** cells. **ReaxFF** accuracy remains tied to the **training** scope; extrapolation to **new** chemistries requires validation.
 
 ## Relevance to group
 
-Extends group ReaxFF portfolio into Cu catalysis and redox carriers—relevant to energy conversion and heterogeneous catalysis workflows.
+Extends the group’s **Reaxff** portfolio into **Cu** catalysis and **chemical looping**, combining **parameterization methodology** with **application** trajectories.
 
 ## Citations and evidence anchors
 
-`papers/Zhu_JPCC_CuCHO_2020.pdf` — abstract (fitting strategy, TS tools, chemical looping demonstrations). https://doi.org/10.1021/acs.jpcc.0c02573
+- `papers/Zhu_JPCC_CuCHO_2020.pdf`; https://doi.org/10.1021/acs.jpcc.0c02573
+- Extract alignment: `normalized/extracts/2020wenbo-zhu-j-phys-chem-jp0c02573_p1-2.txt`
 
 ## Related topics
 

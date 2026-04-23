@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023bertolini-j-phys-chem-unraveling-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/bertolini-delcorte-2023-unraveling-the-molecular-dynamics-of-glucose-oxidase-desorption-induced-by-argon-cluster.pdf",
+    "sha256": "6ab41f283c69193d2a086c26078d95c8e4edb24b0f5d1a63efc2a84831ba9a7b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Unraveling the Molecular Dynamics of Glucose Oxidase Desorption Induced by Argon Cluster Collision",
+    "year": 2023,
+    "authors": "Samuel Bertolini and Arnaud Delcorte",
+    "venue": "J. Phys. Chem. B 2023.127:9074-9081"
+  },
+  "pdf_path": "papers/ReaxFF_others/bertolini-delcorte-2023-unraveling-the-molecular-dynamics-of-glucose-oxidase-desorption-induced-by-argon-cluster.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023bertolini-j-phys-chem-unraveling-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023bertolini-j-phys-chem-unraveling-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

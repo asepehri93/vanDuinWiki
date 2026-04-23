@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022qiang-xu-acs-how-polytetrafluoroethylene",
+  "manifest": {
+    "source_path": "papers/Xu_PTFE_Iron_lubrication_RxFF_Tianbao_ACS_AMI_2022_online.pdf",
+    "sha256": "8633fa837f463cedfd56d6dab9ece09cdd4e163dce27c328e3ab4e7d2659fed6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.1c23950",
+    "title": "How Polytetrafluoroethylene Lubricates Iron: An Atomistic View by Reactive Molecular Dynamics",
+    "year": 2022,
+    "authors": "Qiang Xu, Jie Zhang, Xin Li, Diana M. van Duin, Yuanzhong Hu, Adri C. T. van Duin, and Tianbao Ma",
+    "venue": "ACS Appl. Mater. Interfaces 0.0:null-null"
+  },
+  "pdf_path": "papers/Xu_PTFE_Iron_lubrication_RxFF_Tianbao_ACS_AMI_2022_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022qiang-xu-acs-how-polytetrafluoroethylene_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022qiang-xu-acs-how-polytetrafluoroethylene.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

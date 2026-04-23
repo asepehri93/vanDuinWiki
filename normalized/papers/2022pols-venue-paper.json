@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022pols-venue-paper",
+  "manifest": {
+    "source_path": "papers/Pols_ACS_AMI_CsPbI3_2022_SI.pdf",
+    "sha256": "9e2bd28be80275a40bde00aa82f738ea15564d55a7774ebd9bd582a0097c89e9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2022,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Pols_ACS_AMI_CsPbI3_2022_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022pols-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2027
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022pols-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

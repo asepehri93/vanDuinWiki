@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014sxc033-venue-microsoft-word",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Coleman_Spearot_PhysReviewB_Al2O3_Surfaces.pdf",
+    "sha256": "dacb76dc440a8ac0acaa94a1fcec80ac86d78f9111b8795f149a6d35558da57b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Microsoft Word - Coleman_Spearot_PhysReviewB_Surfaces_SPC10_DES4.docx",
+    "year": 2014,
+    "authors": "sxc033",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Coleman_Spearot_PhysReviewB_Al2O3_Surfaces.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014sxc033-venue-microsoft-word_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3968
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014sxc033-venue-microsoft-word.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

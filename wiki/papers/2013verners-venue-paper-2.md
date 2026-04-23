@@ -3,7 +3,7 @@ id: paper:2013verners-venue-paper-2
 type: paper
 title: "Molecular dynamics simulation of Al grain mixing in Fe/Ni matrices and its influence on oxidation"
 updated: "2026-04-20"
-confidence: med
+confidence: high
 canonical_tags:
   - domain:alloys-metallurgy
   - domain:oxides-ceramics
@@ -38,23 +38,35 @@ group_affiliation: true
 
 ## Summary
 
-Published J. Appl. Phys. article (114, 023501; 8 July 2013 online) presenting the same ReaxFF study as `paper:2013verners-venue-paper`: Al grain mixing in Ni and Fe matrices under staged heating, comparative alloy stability, grain-size-dependent mixing favorability, cooling-induced disorder, and preliminary oxidation trends where elemental Al/Ni remain more reactive than alloyed or Fe-rich regions (abstract; introduction, extract pages 1–2).
+Aluminum-bearing nickel and iron alloys are candidate structural materials for high-temperature oxidizing environments because they can develop protective oxide skins whose kinetics depend on how aluminum reservoirs mix into the metallic matrix. Verners, Shin, and van Duin use ReaxFF molecular dynamics to study aluminum grain embedding in pure nickel and pure iron hosts at roughly one-to-three grain-to-matrix atom ratios, with heating ramps from 300 K to 3000 K at constant pressure followed by cooling back to 300 K. The study is duplicated in corpus coverage with `paper:2013verners-venue-paper` (same science, alternate manifest row) for PDF hash tracking.
 
 ## Methods
 
-Constant-pressure ReaxFF MD with 300–3000 K ramps and 3000–300 K cooling; oxidation slabs noted abstractly (extract).
+**1 — MD application (atomistic dynamics).** **ReaxFF** **molecular dynamics** at **constant pressure** with **stepwise** heating from **300 K** to **3000 K** and subsequent **cooling** to **300 K** studies **Al** grains embedded in **pure Ni** or **pure Fe** matrices at ~**1:3** grain:matrix **atom** ratio, varying **Al** grain size (`papers/Verners_J_App_Phys_2013.pdf`; `normalized/extracts/2013verners-venue-paper-2_p1-2.txt` reproduces the **J. Appl. Phys.** abstract header). **Supplementary slab oxidation** exposes **O\(_2\)** to compare **unmixed**, **partially mixed**, and **alloyed** regions. **Engine / code, timestep, thermostat, duration, PBC, and full oxidation protocol:** **N/A —** not in the **p1–2** extract; read **Section II**/**Computational methods** in the PDF. **Barostat / pressure / ensemble:** **constant-pressure** **NPT**-class **MD** is stated in the abstract block; see **`pdf_path`** for thermostat/barostat parameters. **Electric field / enhanced sampling:** **N/A —** not stated in the excerpt.
+
+**2 — Force-field training.** **N/A —** application paper using **ReaxFF** (not a new fit documented on this wiki layer).
+
+**3 — Static QM / DFT-only.** **N/A —** reactive **MD** is central.
 
 ## Findings
 
-Matches galley abstract: Ni matrix mixes at lower temperature; Al–Ni more stable than Al–Fe; differing optimal Al grain sizes; Fe solidifies at lower T on the simulated cooling rate; oxidation reactivity hierarchy as stated above.
+**Outcomes & mechanisms.** **Ni** hosts yield **lower chemical strain energy** for dissolved **Al** and **complete mixing** at **lower temperature** than **Fe** hosts, consistent with **Al–Ni** being more stable than **Al–Fe** in the model and with experimental trends cited in the abstract. **Grain-size** trends invert between matrices: **larger Al** favors **Fe**, **smaller Al** favors **Ni**, linked to **formation energies** and **metal–metal distances**. **Cooling** produces **chemically disordered crystalline** solids, with **Fe** solidifying at **lower T** than **Ni** for the quoted cooling window and the **Ni** product **less ordered** than **Fe**. **Oxidation slabs:** **unmixed Al** and **unmixed Ni** are most reactive to **oxygen**; **Al/Ni alloy** and **pure Fe** oxidize more slowly under the **preliminary** protocol.
+
+**Comparisons.** Abstract-level alignment with experiment for **Al–Ni** vs **Al–Fe** stability.
+
+**Sensitivity & design levers.** **Host** (**Ni** vs **Fe**), **Al grain size**, and the **thermal cycling** window.
+
+**Limitations & outlook.** Oxidation work is explicitly **preliminary** in the abstract; engineering-scale oxide growth is not claimed resolved.
+
+**Corpus honesty.** Duplicate ingest row vs **`paper:2013verners-venue-paper`** tracks alternate PDFs; this slug uses the **journal article** PDF path rather than the **proof** PDF on the sibling page.
 
 ## Limitations
 
-Companion duplicate PDF in corpus; detailed figures beyond page 2 not captured in extract.
+Automated extract coverage spans two pages; figures beyond page two require the full PDF. Duplicate ingest rows exist for workflow hash tracking across PDF variants.
 
 ## Relevance to group
 
-Same authorship line (Verners, Shin, van Duin) tying alloy oxidation to ReaxFF applications.
+Same authorship line (Verners, Shin, van Duin) tying alloy oxidation to ReaxFF applications. The duplicate manifest entry exists only to track alternate PDF hashes for the same scientific content.
 
 ## Citations and evidence anchors
 

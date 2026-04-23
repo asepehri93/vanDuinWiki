@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018sangiovanni-physical-che-ab-initio",
+  "manifest": {
+    "source_path": "papers/Others/PCCP-20-17751-AIMD AlN-on-graphene.pdf",
+    "sha256": "eff62eaf2d722eba49c4f3e8e39bf24edcc117eea0e3bc83dba034b535aa7d78",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Ab initio molecular dynamics of atomic-scale surface reactions: insights into metal organic chemical vapor deposition of AlN on graphene",
+    "year": 2018,
+    "authors": "D. G. Sangiovanni",
+    "venue": "Physical Chemistry Chemical Physics (2018), 20, 17751-17761, doi:10.1039/C8CP02786B"
+  },
+  "pdf_path": "papers/Others/PCCP-20-17751-AIMD AlN-on-graphene.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018sangiovanni-physical-che-ab-initio_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018sangiovanni-physical-che-ab-initio.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

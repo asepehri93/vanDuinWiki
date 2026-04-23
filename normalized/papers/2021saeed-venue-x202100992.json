@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021saeed-venue-x202100992",
+  "manifest": {
+    "source_path": "papers/Saeed_Ganeshan_ChemElectroChem_Birnessite_2021_galley.pdf",
+    "sha256": "debd30d6e52954d1e99744e2be98787ea3b7d9cbed18b8156233f01d70b1fc6d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "X202100992_227185 1..10",
+    "year": 2021,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Saeed_Ganeshan_ChemElectroChem_Birnessite_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021saeed-venue-x202100992_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021saeed-venue-x202100992.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

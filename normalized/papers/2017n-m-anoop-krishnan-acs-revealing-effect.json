@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017n-m-anoop-krishnan-acs-revealing-effect",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Krishnan_Bauchy_ACS_irradiation_CSH.pdf",
+    "sha256": "73ecc8e83710e03e0b76f82f988b9ee7d8d3ee15e261d1c4f04148f9838f9b5a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Revealing the Effect of Irradiation on Cement Hydrates: Evidence of a Topological Self-Organization",
+    "year": 2017,
+    "authors": "N. M. Anoop Krishnan, Bu Wang, Gaurav Sant, James C. Phillips, and Mathieu Bauchy",
+    "venue": "ACS Appl. Mater. Interfaces 2017.9:32377-32385"
+  },
+  "pdf_path": "papers/ReaxFF_others/Krishnan_Bauchy_ACS_irradiation_CSH.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017n-m-anoop-krishnan-acs-revealing-effect_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017n-m-anoop-krishnan-acs-revealing-effect.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

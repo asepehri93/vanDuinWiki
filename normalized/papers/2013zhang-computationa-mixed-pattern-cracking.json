@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013zhang-computationa-mixed-pattern-cracking",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zhang 2014 _ ReaxFF MD of stress corrosion.pdf",
+    "sha256": "2cc0f252c4139a91ca048f06c73eb9a85e851952cbb875d9cc99e570c1dcdc68",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mixed-pattern cracking in silica during stress corrosion: A reactive molecular dynamics simulation",
+    "year": 2013,
+    "authors": "Yun-An Zhang",
+    "venue": "Computational Materials Science, 82 (2014) 237-243. doi:10.1016/j.commatsci.2013.09.045"
+  },
+  "pdf_path": "papers/ReaxFF_others/Zhang 2014 _ ReaxFF MD of stress corrosion.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013zhang-computationa-mixed-pattern-cracking_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013zhang-computationa-mixed-pattern-cracking.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

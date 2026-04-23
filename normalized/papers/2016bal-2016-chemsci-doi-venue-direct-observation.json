@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016bal-2016-chemsci-doi-venue-direct-observation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bal-2016-ChemSci-DOIversion.pdf",
+    "sha256": "87df50386504fa357c5c4d41e74641e8656a29fafb83301bedc4c23c42852429",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Direct observation of realistic-tempera...on mechanisms in atomistic simulations",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Bal-2016-ChemSci-DOIversion.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016bal-2016-chemsci-doi-venue-direct-observation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016bal-2016-chemsci-doi-venue-direct-observation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

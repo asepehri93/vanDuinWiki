@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022clares-at-ah-at-at-tx-abs-2",
+  "manifest": {
+    "source_path": "papers/Clares_Bimodal_Binder_Jetting_MSAM_2022_online.pdf",
+    "sha256": "50f737ca5a52bc6578caf4f0ebdba7ca277113c8155f4698ead558a015a46749",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.18063/msam.v1i3.20",
+    "title": "TX_1~ABS:AT/TX_2~ABS:AT",
+    "year": 2022,
+    "authors": null,
+    "venue": "AT:AH,AT:AT,AU:AT,AFF:AT,ABSH:ABS,ABS:ABS,KWD:ABS,ADD:ADD,HIS:ADD,HTC:ADD"
+  },
+  "pdf_path": "papers/Clares_Bimodal_Binder_Jetting_MSAM_2022_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022clares-at-ah-at-at-tx-abs-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022clares-at-ah-at-at-tx-abs-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

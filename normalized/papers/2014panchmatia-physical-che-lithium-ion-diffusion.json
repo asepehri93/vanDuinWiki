@@ -1,0 +1,31 @@
+{
+ "paper_id": "paper:2014panchmatia-physical-che-lithium-ion-diffusion",
+ "manifest": {
+  "source_path": "papers/Others/LiVO2_PCCP_diffusion_sept14.pdf",
+  "sha256": "f82292950a0461da930c19c10dafbf2721e24ea29476285b31df93729336440f",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1039/C4CP01640H",
+  "title": "Lithium-ion diffusion mechanisms in the battery anode material Li1+xV1−xO2",
+  "year": 2014,
+  "authors": [
+   "Pooja M. Panchmatia",
+   "A. Robert Armstrong",
+   "Peter G. Bruce",
+   "M. Saiful Islam"
+  ],
+  "venue": "Physical Chemistry Chemical Physics"
+ },
+ "pdf_path": "papers/Others/LiVO2_PCCP_diffusion_sept14.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014panchmatia-physical-che-lithium-ion-diffusion_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014panchmatia-physical-che-lithium-ion-diffusion.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018bauchy-computationa-deciphering-atomic",
+  "manifest": {
+    "source_path": "papers/Others/Topology-glass-review2018.pdf",
+    "sha256": "a3eac7e396b8bfd0d23ff9ea3b7ebb5fd8ce8d6df108d02c6d662f3433e734c8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Deciphering the atomic genome of glasses by topological constraint theory and molecular dynamics_ A review",
+    "year": 2018,
+    "authors": "Mathieu Bauchy",
+    "venue": "Computational Materials Science, 159 (2018) 95-102. doi:10.1016/j.commatsci.2018.12.004"
+  },
+  "pdf_path": "papers/Others/Topology-glass-review2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018bauchy-computationa-deciphering-atomic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018bauchy-computationa-deciphering-atomic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

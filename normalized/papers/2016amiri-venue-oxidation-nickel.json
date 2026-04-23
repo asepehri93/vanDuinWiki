@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016amiri-venue-oxidation-nickel",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Amiri_NiO_impact_JCP_2016.pdf",
+    "sha256": "5d47b4e229adf596dbec91b8599b3a027ea3094bd25849dbd0b422ca780bd93c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4945421",
+    "title": "Oxidation of nickel surfaces through the energetic impacts of oxygen molecules: Reactive molecular dynamics simulations",
+    "year": 2016,
+    "authors": "Negar Amiri",
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Amiri_NiO_impact_JCP_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016amiri-venue-oxidation-nickel_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6999
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016amiri-venue-oxidation-nickel.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

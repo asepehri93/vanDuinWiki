@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021sharma-carbon-180-2-coalescence-incipient",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Sharma et al._soot_growth_2021_Carbon.pdf",
+    "sha256": "9c64c9b046d96656f4881d5b640ec9d6f216e2b111fc267001ec666955617348",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "The coalescence of incipient soot clusters",
+    "year": 2021,
+    "authors": "Akaash Sharma",
+    "venue": "Carbon, 180 (2021) 215-225. doi:10.1016/j.carbon.2021.04.065"
+  },
+  "pdf_path": "papers/ReaxFF_others/Sharma et al._soot_growth_2021_Carbon.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021sharma-carbon-180-2-coalescence-incipient_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021sharma-carbon-180-2-coalescence-incipient.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

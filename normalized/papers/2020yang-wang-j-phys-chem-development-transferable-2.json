@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020yang-wang-j-phys-chem-development-transferable-2",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/wang-et-al-2020-development-of-a-transferable-reaxff-parameter-set-for-carbon-and-silicon-based-solid-systems.pdf",
+    "sha256": "db641d0683f93a210a5ed606b562f04126dcb868115d9c6fea99cf9ae6ca7cda",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Development of a Transferable ReaxFF Parameter Set for Carbon- and Silicon-Based Solid Systems",
+    "year": 2020,
+    "authors": "Yang Wang, Yuqing Shi, Qiang Sun, Kang Lu, Momoji Kubo, and Jingxiang Xu",
+    "venue": "J. Phys. Chem. C 2020.124:10007-10015"
+  },
+  "pdf_path": "papers/ReaxFF_others/wang-et-al-2020-development-of-a-transferable-reaxff-parameter-set-for-carbon-and-silicon-based-solid-systems.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020yang-wang-j-phys-chem-development-transferable-2_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020yang-wang-j-phys-chem-development-transferable-2.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

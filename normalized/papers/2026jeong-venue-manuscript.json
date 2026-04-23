@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2026jeong-venue-manuscript",
+  "manifest": {
+    "source_path": "papers/Jeong_JPCC_BiSe_2026_galley.pdf",
+    "sha256": "de50132381c1d97ce00bf166a059b8862b14861c4cbfb748c8056dab26d79960",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.5c07042",
+    "title": "manuscript 1..9",
+    "year": 2026,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Jeong_JPCC_BiSe_2026_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2026jeong-venue-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2026jeong-venue-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

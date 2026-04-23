@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Page proof- TOC.pdf",
     "sha256": "d171f64cbd21c0aaf21b7e610a9f0f753ed9f74963636452e5c8de41df05d4d2",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2016page-venue-paper_p1-2.txt",
     "quality": "partial",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 101
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2016page-venue-paper.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

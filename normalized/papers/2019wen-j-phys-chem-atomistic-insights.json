@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019wen-j-phys-chem-atomistic-insights",
+  "manifest": {
+    "source_path": "papers/Wen_JPCB_2019_Cu_polishing.pdf",
+    "sha256": "742e9dd1ca3c5587384c37bee900e70830d1080b98d803f136499c9d819dc169",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic Insights into Cu Chemical Mechanical Polishing Mechanism in Aqueous Hydrogen Peroxide and Glycine: ReaxFF Reactive Molecular Dynamics Simulations",
+    "year": 2019,
+    "authors": "Jialin Wen; Tianbao Ma; Weiwei Zhang; Adri C. T. van Duin; Diana M. van Duin; Yuanzhong Hu; Xinchun Lu",
+    "venue": "J. Phys. Chem. C 2019.123:26467-26474"
+  },
+  "pdf_path": "papers/Wen_JPCB_2019_Cu_polishing.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019wen-j-phys-chem-atomistic-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019wen-j-phys-chem-atomistic-insights.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

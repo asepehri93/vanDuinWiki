@@ -1,0 +1,37 @@
+{
+  "paper_id": "paper:2013sabrina-blackwell-venue-modelling-growth",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Blackwell_Smith_SanzNavarro_etal_JoP_CondMat_ZnOgrowth_2013.pdf",
+    "sha256": "f71b466a6691aaf66b906eacb2513fc88c3b5ce44f52a64828a7709fa5a45249",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/0953-8984/25/13/135002",
+    "title": "Modelling the growth of ZnO thin films by PVD methods and the effects of post-annealing",
+    "year": 2013,
+    "authors": [
+      "Sabrina Blackwell",
+      "Roger Smith",
+      "Steven D. Kenny",
+      "John M. Walls",
+      "Carlos F. Sanz-Navarro"
+    ],
+    "venue": "Journal of Physics: Condensed Matter"
+  },
+  "pdf_path": "papers/ReaxFF_others/Blackwell_Smith_SanzNavarro_etal_JoP_CondMat_ZnOgrowth_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013sabrina-blackwell-venue-modelling-growth_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ZnO", "molecular dynamics", "kinetic Monte Carlo", "sputtering", "evaporation"],
+  "claims": [
+    {
+      "text": "MD combined with on-the-fly KMC simulates ZnxOy deposition on O-terminated ZnO(000-1); sputtering yields denser films than evaporation; annealing 770–920 K changes stacking fault and wurtzite vs zinc-blende content.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013sabrina-blackwell-venue-modelling-growth", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013sabrina-blackwell-venue-modelling-growth.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

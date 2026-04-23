@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013monti-venue-la-2013-01746d",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Monti_Langmuir_Cu_glycine_2013.pdf",
+    "sha256": "b67e4408e7d60cb634fab820eb602544f3eb37368617df8ec2aa899461d085cf",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "la-2013-01746d 1..11",
+    "year": 2013,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Monti_Langmuir_Cu_glycine_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013monti-venue-la-2013-01746d_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013monti-venue-la-2013-01746d.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

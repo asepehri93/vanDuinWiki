@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015dumpala-venue-paper",
+  "manifest": {
+    "source_path": "papers/Dumpala_SiO_APT_ReaxFF_APL_2015.pdf",
+    "sha256": "e90d08f7f0462f386d84b02c6c05367e073608155b7d73218ff241363c34d0c1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4905442",
+    "title": null,
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Dumpala_SiO_APT_ReaxFF_APL_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015dumpala-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7326
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015dumpala-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

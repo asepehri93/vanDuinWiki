@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021arnaud-ndayishimiye-nano-lett-20-dynamics-chemically",
+  "manifest": {
+    "source_path": "papers/Ndayishimiye_NanoLetters_2021_sintering.pdf",
+    "sha256": "cabe176723dae945cb3b70d32cde281f96995630e02d9aab085cf053863ad158",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Dynamics of the Chemically Driven Densification of Barium Titanate Using Molten Hydroxides",
+    "year": 2021,
+    "authors": "Arnaud Ndayishimiye, Mert Y. Sengul, Dooman Akbarian, Zhongming Fan, Kosuke Tsuji, Sun Hwi Bang, Adri C. T. van Duin, and Clive A. Randall",
+    "venue": "Nano Lett. 2021.21:3451-3457"
+  },
+  "pdf_path": "papers/Ndayishimiye_NanoLetters_2021_sintering.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021arnaud-ndayishimiye-nano-lett-20-dynamics-chemically_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6610
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021arnaud-ndayishimiye-nano-lett-20-dynamics-chemically.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

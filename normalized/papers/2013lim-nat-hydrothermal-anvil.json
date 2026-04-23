@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2013lim-nat-hydrothermal-anvil",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Lim_Sorkin_Nature_Comm_Diamond_water_2013.pdf",
+    "sha256": "3deb485cdc2eb98a3e44f103a3833ef30d815fbd2c20a2d397dc2166069ecaca",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/ncomms2579",
+    "title": "A hydrothermal anvil made of graphene nanobubbles on diamond",
+    "year": 2013,
+    "authors": "Candy Haley Yi Xuan Lim",
+    "venue": "Nature Communications 4, 1556 (2013). doi:10.1038/ncomms2579"
+  },
+  "pdf_path": "papers/ReaxFF_others/Lim_Sorkin_Nature_Comm_Diamond_water_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013lim-nat-hydrothermal-anvil_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7020
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013lim-nat-hydrothermal-anvil.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

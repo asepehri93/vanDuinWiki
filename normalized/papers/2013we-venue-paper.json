@@ -1,0 +1,31 @@
+{
+  "paper_id": "paper:2013we-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/We_Moon_Martini_Cellulose_Tribol_Letter_2013.pdf",
+    "sha256": "fc46c266fe9ecd128507b52549614c15374c93e18635c7ffbc1a7877df6f00a4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1007/s11249-013-0223-x",
+    "title": "Atomistic simulation of frictional sliding between cellulose Iβ nanocrystals",
+    "year": 2013,
+    "authors": ["Xiawa Wu", "Robert J. Moon", "Ashlie Martini"],
+    "venue": "Tribology Letters"
+  },
+  "pdf_path": "papers/ReaxFF_others/We_Moon_Martini_Cellulose_Tribol_Letter_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013we-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["cellulose", "nanocrystal", "friction", "hydrogen bond", "classical MD"],
+  "claims": [
+    {
+      "text": "Classical MD sliding of cellulose Iβ nanocrystals shows friction trends not fully explained by hydrogen bond counts alone.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013we-venue-paper", "section": "Abstract" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013we-venue-paper.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

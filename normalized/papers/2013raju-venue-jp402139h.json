@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Raju_TiO2_water_JPC_C_2013.pdf",
     "sha256": "d83481ec63778cddf80bfd11c3468c8738525b0d04cf43387d57ffd59383f8f9",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013raju-venue-jp402139h_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013raju-venue-jp402139h.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

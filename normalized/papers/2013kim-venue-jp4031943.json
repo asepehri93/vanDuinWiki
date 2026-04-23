@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Kim_JPCA_TiO2_etching_2013.pdf",
     "sha256": "f90088a76a2b3dddc774f28bec6647404399b00a1a8470fb9426aedf2f7d0ae1",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2013kim-venue-jp4031943_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 7713
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2013kim-venue-jp4031943.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

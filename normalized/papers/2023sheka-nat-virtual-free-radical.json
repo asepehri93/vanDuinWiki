@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023sheka-nat-virtual-free-radical",
+  "manifest": {
+    "source_path": "papers/Others/Sheka_MDPI Polymers 2023.pdf",
+    "sha256": "30bfdd37a1c60c8a015e98861fd0e444eafbb0cda718302a939b60053e32ddc9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.3390/polym15142999",
+    "title": "Virtual Free-Radical Polymerization of Vinyl Monomers in View of Digital Twins",
+    "year": 2023,
+    "authors": "Elena F. Sheka",
+    "venue": "The first case of virtual polymerization based on the concept of digital twins (DTs) is presented. The free-radical polymerization of vinyl monomers is considered to be a chain reaction consisting of a set of elementary ones. Those three types, related to the polymerization initiation and propagation as well as to the termination of polymer chain growth, are discussed. Special sets of DTs, whose total number approaches 60, distinguish each reaction type. The calculations are carried out using a semi-empirical version of the unrestricted Hartree–Fock approximation. The main energy and spin-density parameters of the ground state of the DTs are determined. The barrier profiles of two pairs of DTs are calculated, based on which two Evans–Polanyi–Semenov relations, attributed to elementary reactions of type (1) and (2), are constructed. These provide a quite reliable evaluation of the activation energy for the initiation and propagation of the free-radical polymerization of vinyl monomers in all the cases. The decisive role of spins in the formation of the elementary reaction transition states is established."
+  },
+  "pdf_path": "papers/Others/Sheka_MDPI Polymers 2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023sheka-nat-virtual-free-radical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023sheka-nat-virtual-free-radical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

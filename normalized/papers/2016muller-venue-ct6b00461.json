@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016muller-venue-ct6b00461",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Muller_Hartke_JCTC_disulfide_2016.pdf",
+    "sha256": "2839d4ce2e7b7e50cb12a6164fbb7b4fe24f3a887bc5ca866884e0808d432d38",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ct6b00461 1..13",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Muller_Hartke_JCTC_disulfide_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016muller-venue-ct6b00461_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016muller-venue-ct6b00461.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

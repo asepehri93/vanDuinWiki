@@ -44,19 +44,23 @@ This study develops a **Cu/Si/Al/O/H ReaxFF** parameterization and applies it in
 
 ## Methods
 
-- **Reactive MD** with a newly trained **ReaxFF** description for Cu in aluminosilicate zeolite chemistry including water.
-- **Training and validation** are framed against quantum-mechanical reference data in the original article (see PDF “Computational Methods” and supporting information).
+### Force-field training
+
+A **Cu/Si/Al/O/H ReaxFF** parameter set is **developed** for **Cu-exchanged SSZ-13** chemistry (abstract), with **DFT** reference data on **Cu–O**, **Cu–OH**, and **framework** motifs and an optimization workflow documented in **J. Phys. Chem. C** and **SI** (not on the short local `p1–2` extract).
+
+### MD application (atomistic dynamics)
+
+**Reactive molecular dynamics** in **LAMMPS** follows **hydration** of **Cu-SSZ-13** zeolite **supercells** containing **extra-framework Cu**, **framework Si/Al/O**, and **explicit water** under **three-dimensional periodic boundary conditions** in the **orthorhombic** (or closely related) **unit cell** defined in **Computational Methods** (*J. Phys. Chem. C*). Simulations use **NVT**-style **canonical** control for the reported hydration trajectories, with **timestep**, **thermostat** coupling, **temperature (K)** ramps, and **equilibration** plus **production** segments whose lengths are quoted in **ns** in the article (not on the short local extract). **Barostat / NPT:** **N/A —** the abstract-framed study is **constant-volume** zeolite **hydration** rather than a **pressure**-scanning campaign. **Hydrostatic pressure / stress tensor:** **N/A —** not reported as an independent control variable in the abstract summary.
+
+**Electric field / umbrella or metadynamics:** **N/A** in the protocol summarized from the abstract.
 
 ## Findings
 
-- A **Cu/Si/Al/O/H ReaxFF** enables nanosecond-scale trajectories that resolve **hydration-driven detachment** of Cu from the zeolite framework and **intra-pore diffusion** of hydrated cations.
-- **Elevated temperature** promotes **cationic OH-bridged dimers** inside cages; dimerization temperature shifts with composition in a way consistent with higher-Cu, lower-Al materials stabilizing **[CuOH]+** precursors.
-- **Stable dimers** associate with **8-member-ring** regions adjacent to large cages in geometries that can **obstruct pore openings**, with implications for diffusion-limited steps in catalytic cycles.
+The new field supports **MD** trajectories in which **near-room-temperature water** fully **hydrates** **Cu** species—including those initially at **d6r** faces—leading to **framework detachment** and **diffusion** of hydrated cations through **pore windows**. **Higher temperatures** favor **OH-bridged Cu dimers** (**Cu\(_2\)OH**, **Cu\(_2\)(OH)\(_2\)**); the **dimerization temperature** shifts with composition in the direction expected when **[CuOH]\(^+\)** is stabilized (**higher Cu**, **lower Al** in the abstract’s framing). **Stable dimers** preferentially sit near **8-member rings** beside **large cages** in geometries that **block pore openings**, with discussion links to **SCR** and **NO oxidation** phenomenology where the paper cites prior work.
 
 ## Limitations
 
-- Force-field accuracy is bounded by the **QM training set** and by ReaxFF’s empirical bond-order approximations; quantitative rates and spectroscopic observables require cross-checks against experiment and higher-level electronic structure where available.
-- **Finite system sizes and simulation times** may undersample rare dimerization events or long-range cooperative effects in real crystallites.
+**ReaxFF** fidelity is limited by the **QM training manifold** and bond-order approximations; **finite cells** and **nanosecond** horizons may miss rare **clustering** events in real zeolite crystallites.
 
 ## Relevance to group
 

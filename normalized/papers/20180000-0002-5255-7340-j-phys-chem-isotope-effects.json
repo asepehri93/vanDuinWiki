@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20180000-0002-5255-7340-j-phys-chem-isotope-effects",
+  "manifest": {
+    "source_path": "papers/Zhang_HeavyWater_JPC_Letters_2018.pdf",
+    "sha256": "25bae5ddb5b60e1c70e897fab2755592c002e85a0b91018ce308942cef0b5014",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Isotope Effects in Water: Differences of Structure, Dynamics, Spectrum, and Proton Transport between Heavy and Light Water from ReaxFF Reactive Force Field Simulations",
+    "year": 2018,
+    "authors": "Weiwei Zhang (ORCID: 0000-0002-5255-7340); Xing Chen; Adri C. T. van Duin (ORCID: 0000-0002-3478-4945)",
+    "venue": "J. Phys. Chem. Lett. 0.0:5445-5452"
+  },
+  "pdf_path": "papers/Zhang_HeavyWater_JPC_Letters_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20180000-0002-5255-7340-j-phys-chem-isotope-effects_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20180000-0002-5255-7340-j-phys-chem-isotope-effects.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

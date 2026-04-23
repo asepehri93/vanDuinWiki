@@ -2,7 +2,7 @@
 id: paper:2022mike-pols-acs-what-happens
 type: paper
 title: "What Happens at Surfaces and Grain Boundaries of Halide Perovskites: Insights from Reactive Molecular Dynamics Simulations of CsPbI3"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: med
 canonical_tags:
   - domain:reactive-md
@@ -46,15 +46,31 @@ group_affiliation: true
 
 ## Methods
 
-ReaxFF parameterization appropriate to Cs–Pb–I (per study)/halide perovskite chemistry; reactive trajectories comparing multiple surface terminations and grain-boundary constructs; stability ordering analysis aligned with experimental surface occurrence where discussed.
+### 1 — MD application (atomistic dynamics)
 
+- **Engine / code:** **LAMMPS** with the authors’ **CsPbI\(_3\)** **ReaxFF** (prior **ref** **33** in the article) using **dynamical** **bond** **order** for **bond** **making/breaking**.
+- **System size & composition:** **Orthorhombic** **CsPbI\(_3\)** **slab** **models** for **(110)**, **(020)**, and **(202)** **faces** with **stoichiometric**, **Pb-poor**, and **Pb-rich** **terminations**; **(110)** **slabs** with **4–10** **octahedral** **layer** **thicknesses** for **phase** **core–shell** **analysis**; **cubic**-phase **Σ** **grain** **boundaries** **3Σ(112)(0.4,0)**, **5Σ(210)(0.4,0)**, **3Σ(111)(0,0)** (see **SI** for **lattice** **vectors** and **build** **recipes**).
+- **Boundaries / periodicity:** 3D **PBC** **slabs**; **GB** **cells** as **bicrystals** in the **cubic** **description** in **SI**.
+- **Ensemble / barostat / pressure / field / enhanced sampling:** **NVT**-style **constant-**T **thermal** **ramping** and **holds** for the **degradation** **studies**; **N/A** — no **NPT** **stress**-control **focus**; **N/A** — no **external** **electric** **field**; **N/A** — no **metadynamics** (standard **ReaxFF** **MD**).
+- **Timestep: N/A** in the **first** **main-text** **pages** **parsed** here; **use** **SI** **section** **1** for **integration** **settings** when **reproducing** (typical **ReaxFF** **0.25** **fs** is **not** **asserted** in the **excerpted** **text**).
+- **Temperature / duration:** **Surface** **onset** **scans** from **300** **K** to **700** **K** in **50** **K** **steps**; some **(110)** **surfaces** **run** up to **5** **ns** at **700** **K** in the **narrative**; **degradation** **dynamics** at **600** **K** **illustrated** in **Figures 3**–**4**; **GB** **snapshots** at **600** **K** after **200** **ps** (**Figure** **6**) and **twin** **3Σ(111)** **trajectories** for **2** **ns** without **degradation**; **thermostat** **details** in **SI**.
+
+### 2 — Force-field training (context)
+
+- **N/A** as a **new** **fit** in this **article** — the **paper** **uses** the **parametrization** **from** **ref** **33**; **validation** **tables** in **this** **SI** /**main** **text** **compare** **ReaxFF** to **DFT** **where** **cited** (e.g. **valence** **angles** in **§2.2**).
+
+### 3 — Static QM and experiments
+
+- **DFT:** **Single-point** **or** **cluster** **DFT** **angles** **(148°/180°)** used to **label** **orthorhombic** **vs** **cubic** **character** **(Figure** **2** **caption** **text)**; **not** a **PES** **study** of **reaction** **barriers** here.
+- **Experiments (literature):** **XRD** **facet** **prevalence** and **TEM** **degradation** at **GBs** from **cited** **work** for **qualitative** **agreement** with the **simulated** **stability** **trend** — **no** new **lab** **data** in this **MD** **paper**.
 ## Findings
 
-Established **stability ordering** across several **surface types** consistent with experimental observations in the framing of the paper; degradation proceeds through staged **Pb–I connectivity** motifs; some **GB configurations** stabilize relative to pristine surfaces due to **local steric blocking** of reactive iodine species, while defect clustering generally harms stability.
+**Surfaces:** A **stability** **ranking** **(110) > (020) > (202)** for **orthorhombic** **slabs** under **300**–**700** **K** **thermal** **loading** **matches** the **relative** **XRD** **occurrence** **trend** the **authors** **quote**. **Degradation** proceeds by **rearranging** **PbI\(_x\)** **octahedra** **corner** **→** **edge** **→** **face** **sharing**; **Frenkel**-like **I** **defects** **precede** **PbxI\(_y\)** **clustering** and **RDF** **changes** (**e.g.** **Pb**–**Pb** **peaks** at **~4.2** **Å** on **Pb-rich** **(110)** at **600** **K**). **Pb** **dangling** **bonds** and **low** **I** **steric** **hindrance** are **argued** to **promote** **failure**; **Pb-poor** **(110)** can be **very** **stable** (**up** to **700** **K** in the **5** **ns** **case** **described** for that **termination**).
 
+**Grain boundaries:** Some **GBs** **degrade** **(amorphous** **PbxI\(_y\)** **patches** after **hundreds** of **ps**); the **3Σ(111)** **twin** **remains** **intact** over **2** **ns** at **600** **K** because **Cs** **in** **cavities** **sterically** **blocks** **octahedral** **motion** — the **mechanistic** **theme** is **defect/GB** **geometry** **gating** **I** **mobility** and **Pb** **clustering**. **Comparisons** to **laboratory** work are **indirect** **—** the **(110)>(020)>(202)** **trend** **is** said to **agree** with **which** **facets** are **prevalent** in **XRD** **(Methods**+**body**+**citations**+**[37]–[40]**, **in** the **VOR** **PDF**)**. **Temperature** is **a** **major** **sensitivity** **(300**–**700** **K** **scans,** **600** **K** **GBs**+**2** **ns** **/ **5** **ns** **(110)** **holds**)**. **Limitations** **(authors**+**ReaxFF**+**KB):** **Classical** **RMD** **(no** **carriers,** **no** **humidity**+**optics** **in** the **base** **model**)**; **extract**+**VOR**+**[[2022pols-venue-paper]]** **SI** **for** **lattice** **replicas**+**RDFs**+**tolerances.**
 ## Limitations
 
-Classical reactive model for complex electronic-structure-sensitive photophysical systems; long-time annealing and photogenerated carriers are outside the classical ReaxFF scope unless augmented by higher-level calibration.
+Classical reactive model for complex electronic-structure-sensitive photophysical systems; long-time annealing and photogenerated carriers are outside the classical ReaxFF scope unless augmented by higher-level calibration. **Device** **humidity**, **halide** **migration**, and **organic** **cation** **loss** are **multiphysics** concerns that typically require **complementary** **continuum** or **electronic-structure** studies beyond the **inorganic** **surface** focus summarized here. **Grain** **boundary** **structures** in the simulations are **idealized**; **experimental** **films** contain **tilt** **boundaries** and **impurity** **segregation** that can dominate **long-term** **degradation**.
 
 ## Relevance to group
 

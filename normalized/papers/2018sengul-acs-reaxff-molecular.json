@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018sengul-acs-reaxff-molecular",
+  "manifest": {
+    "source_path": "papers/Sengul_ZnO_AceticAcid_ACS_AMI_2018.pdf",
+    "sha256": "e545b8040902a5da8a944d6d2bcb4df0b211bfdda3aa5fc967f0413689c20746",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "ReaxFF Molecular Dynamics Study on the Influence of Temperature on Adsorption, Desorption, and Decomposition at the Acetic Acid/Water/ZnO(101̅0) Interface Enabling Cold Sintering",
+    "year": 2018,
+    "authors": "Mert Y. Sengul; Clive A. Randall; Adri C. T. van Duin",
+    "venue": "ACS Appl. Mater. Interfaces 2018.10:37717-37724"
+  },
+  "pdf_path": "papers/Sengul_ZnO_AceticAcid_ACS_AMI_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018sengul-acs-reaxff-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018sengul-acs-reaxff-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

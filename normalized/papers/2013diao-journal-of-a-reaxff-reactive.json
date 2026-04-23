@@ -1,0 +1,32 @@
+{
+  "paper_id": "paper:2013diao-journal-of-a-reaxff-reactive",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Diao_epoxides_JAAP_2013.pdf",
+    "sha256": "6ff5c21f6d0610abd531d5d3504c63950e29958e3fb6100f2a98485a091e8c58",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.jaap.2013.05.005",
+    "title": "ReaxFF reactive force field for molecular dynamics simulations of epoxy resin thermal decomposition with model compound",
+    "year": 2013,
+    "authors": [
+      "Diao, Zhijun",
+      "Zhao, Yuemin",
+      "Chen, Bo",
+      "Duan, Chenlong",
+      "Song, Sun"
+    ],
+    "venue": "Journal of Analytical and Applied Pyrolysis"
+  },
+  "pdf_path": "papers/ReaxFF_others/Diao_epoxides_JAAP_2013.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013diao-journal-of-a-reaxff-reactive_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2013diao-journal-of-a-reaxff-reactive.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

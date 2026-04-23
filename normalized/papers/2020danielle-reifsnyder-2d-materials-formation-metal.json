@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020danielle-reifsnyder-2d-materials-formation-metal",
+  "manifest": {
+    "source_path": "papers/Reifsnyder_Hickey_2021_2D_Mater._8_011003_WS2_Al2O3.pdf",
+    "sha256": "7317146d6c7a14a2b718245482b40f7682069f245e7616212293dd312c0e6319",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1088/2053-1583/abc905",
+    "title": "Formation of metal vacancy arrays in coalesced WS2 monolayer films",
+    "year": 2020,
+    "authors": "Danielle Reifsnyder Hickey ,Dundar E Yilmaz ,Mikhail Chubarov ,Saiphaneendra Bachu ,Tanushree H Choudhury ,Leixin Miao ,Chenhao Qian ,Joan M Redwing ,Adri C T van Duin ,Nasim Alem",
+    "venue": "2D Materials, 8 (2021) 011003 doi: 10.1088/2053-1583/abc905"
+  },
+  "pdf_path": "papers/Reifsnyder_Hickey_2021_2D_Mater._8_011003_WS2_Al2O3.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020danielle-reifsnyder-2d-materials-formation-metal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4249
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020danielle-reifsnyder-2d-materials-formation-metal.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

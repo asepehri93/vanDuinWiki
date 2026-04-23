@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020thi-d-ta-acs-an0c00042",
+  "manifest": {
+    "source_path": "papers/Ta_AppliedNanoMat_2020_Tribo_Lubricant.pdf",
+    "sha256": "c65fc28af4c6a882314fd134c0e62d4ae2a0e77e2df6b2822ee6717c4d359b32",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "an0c00042 1..18",
+    "year": 2020,
+    "authors": "Thi D. Ta, Ha M. Le, A. Kiet Tieu, Hongtao Zhu, Huong T. T. Ta, Nam V. Tran, Shanhong Wan, and Adri van Duin",
+    "venue": "ACS Appl. Nano Mater. 2020.3:2687-2704"
+  },
+  "pdf_path": "papers/Ta_AppliedNanoMat_2020_Tribo_Lubricant.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020thi-d-ta-acs-an0c00042_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020thi-d-ta-acs-an0c00042.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

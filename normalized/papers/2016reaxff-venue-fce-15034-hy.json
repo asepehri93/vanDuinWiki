@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016reaxff-venue-fce-15034-hy",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/ReaxFF_review_FCE-0016-15034-HY-offprint.pdf",
+    "sha256": "191bbd81515714657052e30fd8f9cd99006c670f585e910a59589150112a9526",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "FCE-15034-HY 16..38",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/ReaxFF_review_FCE-0016-15034-HY-offprint.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016reaxff-venue-fce-15034-hy_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016reaxff-venue-fce-15034-hy.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

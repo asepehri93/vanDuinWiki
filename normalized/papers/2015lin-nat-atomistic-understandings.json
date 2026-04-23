@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015lin-nat-atomistic-understandings",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Lin_Grossman_Graphene_separation_Nature_Comm_2015.pdf",
+    "sha256": "109fe6abffb8112f1b1a06f6b4ef006d9bafc069816717be48cc71f5b0f34f17",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/ncomms9335",
+    "title": "Atomistic understandings of reduced graphene oxide as an ultrathin-film nanoporous membrane for separations",
+    "year": 2015,
+    "authors": "Li-Chiang Lin",
+    "venue": "Nature Communications 6,  (2015). doi:10.1038/ncomms9335"
+  },
+  "pdf_path": "papers/ReaxFF_others/Lin_Grossman_Graphene_separation_Nature_Comm_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015lin-nat-atomistic-understandings_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015lin-nat-atomistic-understandings.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

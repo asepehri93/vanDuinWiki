@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022anushka-bansal-acs-toward-mechanistic",
+  "manifest": {
+    "source_path": "papers/Bansal_GaNx_ASCNano_2022_galley.pdf",
+    "sha256": "20a515452f5a1baf43762e98aa2aeb951998c468dfbd751dd700d9e35d496992",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.2c07091",
+    "title": "Toward a Mechanistic Understanding of the Formation of 2D-GaNx in Epitaxial Graphene",
+    "year": 2022,
+    "authors": "Anushka Bansal, Nadire Nayir, Ke Wang, Patrick Rondomanski, Shruti Subramanian, Shalini Kumari, Joshua A. Robinson, Adri C. T. van Duin, and Joan M. Redwing",
+    "venue": "ACS Nano 0.0"
+  },
+  "pdf_path": "papers/Bansal_GaNx_ASCNano_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022anushka-bansal-acs-toward-mechanistic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022anushka-bansal-acs-toward-mechanistic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

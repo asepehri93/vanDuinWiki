@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016susanna-monti-j-phys-chem-jz5b02769",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Monti_Cystein_Gold_JPC_Letter_2016.pdf",
+    "sha256": "56c17d9b374105dd6174e0c16ef85eb46978f226c489bfa5a9043c47fc03ca81",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jz5b02769 1..5",
+    "year": 2016,
+    "authors": "Susanna Monti, Vincenzo Carravetta, and Hans Ågren",
+    "venue": "J. Phys. Chem. Lett. 2016.7:272-276"
+  },
+  "pdf_path": "papers/ReaxFF_others/Monti_Cystein_Gold_JPC_Letter_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016susanna-monti-j-phys-chem-jz5b02769_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016susanna-monti-j-phys-chem-jz5b02769.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

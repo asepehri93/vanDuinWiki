@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017zheng-venue-research",
+  "manifest": {
+    "source_path": "papers/Zheng_Hong_ACS_AMI_ALD_2017_ASAP.pdf",
+    "sha256": "5de920e9d6f7025391f4d2fc7d063bd4a0ae4aaeb06f858b969e2229cece7f3f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..9",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Zheng_Hong_ACS_AMI_ALD_2017_ASAP.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017zheng-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017zheng-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

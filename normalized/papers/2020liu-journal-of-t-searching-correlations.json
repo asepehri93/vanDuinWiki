@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020liu-journal-of-t-searching-correlations",
+  "manifest": {
+    "source_path": "papers/Liu_JAmCerSoc_2020_vibrations_glass.pdf",
+    "sha256": "be643f7929610043a80514e4a376c036ade42a2332802548e8f51f66a0b0319c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1111/jace.17036",
+    "title": "Searching for correlations between vibrational spectral features and structural parameters of silicate glass network",
+    "year": 2020,
+    "authors": null,
+    "venue": "Journal of the American Ceramic Society 2020.103:3575-3589"
+  },
+  "pdf_path": "papers/Liu_JAmCerSoc_2020_vibrations_glass.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020liu-journal-of-t-searching-correlations_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020liu-journal-of-t-searching-correlations.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

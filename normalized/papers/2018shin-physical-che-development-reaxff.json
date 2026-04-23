@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Shin_LATP_PCCP_2018.pdf",
     "sha256": "e47d269e33285c1672fcf036ef261b0edd073f92b178a2cdc5cf93678e7f86bb",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": "10.1039/c8cp03586e",
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018shin-physical-che-development-reaxff_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018shin-physical-che-development-reaxff.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

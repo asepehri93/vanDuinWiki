@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Lotfi_Materials_A_2018.pdf",
     "sha256": "914c69bf385f9349479f617b3409bba40406584d3f462e790f2b071848e7bf8d",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2018lotfi-journal-of-m-comparative-study_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2018lotfi-journal-of-m-comparative-study.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

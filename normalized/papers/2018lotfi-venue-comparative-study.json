@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018lotfi-venue-comparative-study",
+  "manifest": {
+    "source_path": "papers/Lotfi_Materials_A_2018_proof.pdf",
+    "sha256": "f326f23a2a7f30201a3bab664287f5da9e86fc15dca79bfff17031c00e24a832",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A comparative study on the oxidation of two-dimensional Ti3C2 MXene structures in different environments",
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Lotfi_Materials_A_2018_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018lotfi-venue-comparative-study_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5098
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018lotfi-venue-comparative-study.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

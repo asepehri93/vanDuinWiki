@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018jessica-m-rimsza-journal-of-g-chemical-effects",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Rimsza-JGR-2018.pdf",
+    "sha256": "0b1a255e269e6ba071a819293482dfe5f114d57962093d0c257d75dd093be8be",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Chemical Effects on Subcritical Fracture in Silica From Molecular Dynamics Simulations",
+    "year": 2018,
+    "authors": "Jessica M. Rimsza, Reese E. Jones, Louise J. Criscenti",
+    "venue": "Journal of Geophysical Research: Solid Earth 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/Rimsza-JGR-2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018jessica-m-rimsza-journal-of-g-chemical-effects_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018jessica-m-rimsza-journal-of-g-chemical-effects.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

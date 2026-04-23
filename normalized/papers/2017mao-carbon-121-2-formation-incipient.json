@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Mao_Qian_Carbon_soot_2017.pdf",
     "sha256": "1bf68ef7c2957ddd76e3481b5fe47b538a692d6f0eb1e425397e67cd97a574d7",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2017mao-carbon-121-2-formation-incipient_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2017mao-carbon-121-2-formation-incipient.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

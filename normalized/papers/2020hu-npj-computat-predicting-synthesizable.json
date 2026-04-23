@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020hu-npj-computat-predicting-synthesizable",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Hu_Unocic_Ganesh_npj_CompMat_2020_galley.pdf",
+    "sha256": "dd1e9462b1be4c96f17e64bd749c6390f9050da95def5afa449bbc45f4b5225b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41524-020-0327-4",
+    "title": "Predicting synthesizable multi-functional edge reconstructions in two-dimensional transition metal dichalcogenides",
+    "year": 2020,
+    "authors": "Guoxiang Hu",
+    "venue": "npj Computational Materials, doi:10.1038/s41524-020-0327-4"
+  },
+  "pdf_path": "papers/ReaxFF_others/Hu_Unocic_Ganesh_npj_CompMat_2020_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020hu-npj-computat-predicting-synthesizable_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7790
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020hu-npj-computat-predicting-synthesizable.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

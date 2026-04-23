@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016osti-venue-paper",
+  "manifest": {
+    "source_path": "papers/Osti_ACS_AMI_Water_MXene_2016_online.pdf",
+    "sha256": "77bd205d74d7972f9a2241a73acffcbf8b6bc6a3eb167902a8aa92f9c520e4ee",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.6b01490",
+    "title": null,
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Osti_ACS_AMI_Water_MXene_2016_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016osti-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3496
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016osti-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

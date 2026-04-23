@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20220000-0002-1068-9599-x-manuscript",
+  "manifest": {
+    "source_path": "papers/Pols_ACS_AMI_CsPbI3_2022_galley.pdf",
+    "sha256": "16d2ae1c709d2a4be11a0b5fdfc1c319aaec1be829a985eb264c7aa9255fb37f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.2c09239",
+    "title": "manuscript 1..10",
+    "year": 2022,
+    "authors": "Mike Pols (ORCID: 0000-0002-1068-9599)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Pols_ACS_AMI_CsPbI3_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20220000-0002-1068-9599-x-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20220000-0002-1068-9599-x-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

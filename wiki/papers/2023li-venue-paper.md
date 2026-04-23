@@ -2,7 +2,7 @@
 id: paper:2023li-venue-paper
 type: paper
 title: "Accurate Surface and Finite Temperature Bulk Properties of Lithium Metal at Large Scales using Machine Learning Interaction Potentials"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: med
 canonical_tags:
   - domain:batteries-electrochemistry
@@ -42,15 +42,43 @@ group_affiliation: false
 
 ## Summary
 
-This manuscript trains **machine learning interatomic potentials (MLIPs)** for **elemental lithium** on **DFT** labels and uses them to reach **large-scale** MD covering **thermodynamics**, **phonons**, **temperature-dependent elastic constants**, and **surface** properties argued to be cumbersome for direct **AIMD** at comparable cost. A highlighted empirical observation in the abstract is a **Bell–Evans–Polanyi-style relation** linking **self-adsorption energies** to **minimum surface diffusion barriers** on **high Miller-index** facets—motivated by **lithium metal anode** morphology and dendrite debates where **surface transport** coefficients matter.
+**Lithium metal anodes** demand **accurate** **surface** **energetics** and **diffusion** **coefficients** across **facets** that **plating** and **stripping** expose, yet **ab initio molecular dynamics** is **expensive** for **large** **disordered** **grains**. This **arXiv:2305.06925v2** manuscript (**Phuthi**, **Yao**, **Batzner**, **Musaelian**, **Kozinsky**, **Cubuk**, **Viswanathan**) trains **machine learning interatomic potentials (MLIPs)** for **elemental Li** on **DFT** **labels**, then runs **large-cell** **MD** to extract **phonons**, **temperature-dependent elastic constants**, **bulk** **thermodynamics**, and **surface** **properties** such as **step** **energies** and **diffusion barriers** on **high-index** **facets**. The **abstract** highlights an **empirical Bell–Evans–Polanyi-style correlation** between **self-adsorption energies** and **minimum** **surface** **diffusion** **barriers**, linking **atomistic** **descriptors** to **morphology** debates in **Li** **metal** **batteries**.
 
 ## Methods
 
-DFT dataset construction; MLIP training; large-cell MD for bulk and surface observables; comparison to DFT/Experiment where cited in the paper.
+### Training data (C)
+
+**DFT** snapshots for **bulk** distortions, **vacancies**, and **surface** slabs (**PBE**-class details in **arXiv** PDF).
+
+### MLIP fitting (A)
+
+**Equivariant neural** potentials fit to **energies/forces** (architecture in paper).
+
+### Large-scale MD benchmarks (B)
+
+**Phonons**, **elastic constants** (**finite displacement** / **stress–strain**); **surface** **adatom** diffusion sampled on **high-index** facets for **barrier distributions**.
+
+The **arXiv** manuscript emphasizes **scalability**: once the **MLIP** matches **DFT** on **training** **manifolds**, **large** **disordered** **grain** **morphologies** become accessible for **finite-temperature** **sampling** of **facet-specific** **kinetics** that would be **prohibitively expensive** with **on-the-fly** **AIMD** at comparable **system** sizes.
 
 ## Findings
 
-Reports **state-of-the-art fidelity** for multiple Li properties within the study’s benchmark set; emphasizes practical access to **surface** behaviors at scales beyond routine AIMD (per abstract framing).
+### Accuracy vs DFT
+
+**MLIP** matches **DFT** within stated **tolerances** and enables **dynamics** beyond long **AIMD** feasibility.
+
+### Descriptor trend
+
+**Bell–Evans–Polanyi**-style link between **self-adsorption** energies and **minimum diffusion barriers** across facets.
+
+### Scope limits
+
+No **electrolyte**/**SEI** chemistry—**elemental Li** only.
+
+### Corpus hygiene
+
+Legacy **`2023li-*`** slug; cite **Phuthi et al.** **arXiv:2305.06925**.
+
+**MAS note:** the **`doi`** field is empty in this stub because the corpus registers an **arXiv** preprint; if a **journal** **version** appears later, update **`doi`**, **`venue`**, and **`pdf_path`** in a controlled ingest without silently rewriting **`paper_id`**.
 
 ## Limitations
 

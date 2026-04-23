@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016sousa-rsc-advances-mechanical-structural",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/deSousa_RSC_Advances_C3N4_2016.pdf",
+    "sha256": "75bbc879688b84c30f1711a2ea848f7000bb5b1e90816b956ce7f1701c2f93c5",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Mechanical and structural properties of graphene-like carbon nitride sheets",
+    "year": 2016,
+    "authors": "J. M. de Sousa",
+    "venue": "RSC Advances (2016), 6, 76915-76921, doi:10.1039/C6RA14273G"
+  },
+  "pdf_path": "papers/ReaxFF_others/deSousa_RSC_Advances_C3N4_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016sousa-rsc-advances-mechanical-structural_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7493
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016sousa-rsc-advances-mechanical-structural.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

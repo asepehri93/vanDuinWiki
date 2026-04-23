@@ -30,32 +30,28 @@ group_affiliation: true
 
 <!-- id:paper:2014zou-acta-materia-molecular-dynamics -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-A Ni–O ReaxFF description is developed from QM training data spanning Ni and NiO equations of state, Ni vacancy formation and self-diffusion, and O insertion and diffusion barriers in Ni. MD validation shows agreement with published Ni self-diffusivity and O interstitial diffusivity/activation energy. The work then examines how vacancies alter O transport and internal oxidation: a **vacancy-pair** oxygen migration mechanism is proposed, and simulations suggest voids at grain boundaries can promote local O segregation via strong O–vacancy binding, nucleating NiO in voids—linking atomistic transport to early oxidation microstructures.
+A Ni–O ReaxFF description is developed from QM training data spanning Ni and NiO equations of state, Ni vacancy formation and self-diffusion, and O insertion and diffusion barriers in Ni. MD validation shows agreement with published Ni self-diffusivity and O interstitial diffusivity/activation energy. The work then examines how vacancies alter O transport and internal oxidation: a **vacancy-pair** oxygen migration mechanism is proposed, and simulations suggest voids at grain boundaries can promote local O segregation via strong O–vacancy binding, nucleating NiO in voids—linking atomistic transport to early oxidation microstructures. The study is framed as a **mechanistic** bridge between **bulk diffusion** coefficients and **microstructural** sites where oxide **nucleates** internally.
 
 ## Methods
 
-- **Parameterization:** ReaxFF fit to DFT-derived bulk, defect, and surface-related training data for Ni–O.
-- **MD:** Large-temperature MD for diffusivities; structural analysis of GB/vacancy environments.
+**Force-field training (Ni–O ReaxFF).** Parameters are fit to QM-derived data that include equations of state for several Ni crystal phases and for NiO, Ni vacancy formation energy, the vacancy-mediated Ni self-diffusion barrier in fcc Ni, and—because interstitial oxygen is central to oxidation kinetics—oxygen insertion energies and oxygen diffusion barriers used as additional training targets (abstract; full tables in `papers/Zou_ActaMater_2014.pdf`).
+
+**MD application (validation and oxidation scenarios in LAMMPS).** After parameterization, MD uses the **LAMMPS** ReaxFF package with a uniform **0.25 fs** timestep on **three-dimensional periodic boundary conditions (PBC)** supercells (bulk Ni, interstitial O models, and larger grain-boundary constructs as defined in the article). When temperature and pressure controls are active, the authors use a **Berendsen** thermostat (**100 fs** damping) together with a **Berendsen** barostat (**3000 fs** damping). Diffusion coefficients are extracted after switching to the **NVE** ensemble and accumulating mean-square displacements over **≥1 ns** trajectories as described in the article. Additional **NPT** segments (e.g., zero-pressure relaxation of GB models) and high-temperature **NVT** stages (e.g., **1500 K** for **200 ps** in the void/oxidation discussion) appear in the Results/Methods narrative for specific structural setups; supercell sizes, GB construction details, and stage-by-stage run lengths are tabulated in the PDF rather than duplicated here. **Pressure control:** **NPT** segments use the cited **Berendsen** barostat to relax cell volume toward **zero external pressure** where applicable, whereas **NVE** diffusion analysis is strictly constant-volume with **stress tensor**-derived diagnostics only as reported in the article.
+
+**Static QM / DFT-only:** **N/A —** the peer-reviewed contribution centers on ReaxFF training and ReaxFF MD; refer to cited QM references within the article for original DFT settings.
+
+**Electric field / shock / enhanced sampling:** **N/A —** not part of the reported Ni–O diffusion and internal-oxidation initiation studies.
 
 ## Findings
 
-- Quantitative agreement for tracer-like diffusivities and activation energies compared to literature.
-- New mechanistic insight: oxygen can diffuse in concert with vacancies (oxygen–vacancy pair picture).
-- GB voids as traps that enhance local O concentration and initiate oxide precipitation.
+The ReaxFF parametrization reproduces Ni self-diffusion and interstitial O diffusion benchmarks, including diffusivities and activation energies that the authors report in quantitative agreement with published values. Beyond dilute interstitial hopping, they propose an **oxygen–vacancy pair** migration mechanism for O transport when vacancies are present. In grain-boundary models containing void space, simulations suggest strong **O–vacancy binding** can drive local oxygen segregation and **NiO** nucleation **inside voids**, offering an atomistic picture for internal oxidation ahead of uniform bulk scale growth. Validation is staged explicitly against literature Ni and O diffusion data; GB/void results are interpreted relative to experimental hints that GB oxygen short circuits may promote oxide inside GB voids. Vacancy concentration and GB topology shift oxygen partitioning between bulk-like interstitial paths versus vacancy-assisted channels and void-trapped oxide precursors (quantitative trends in the article’s figures). ReaxFF inherits QM-training approximations; GB models are finite and high-temperature, so extrapolation to long-time engineering oxidation requires the same caveats stated in the discussion.
 
 ## Limitations
 
 - Complex real alloys (alloying elements, long-range stress) are not fully captured in a binary Ni–O model.
+- **Short** MD windows can miss rare **long-range** diffusion events; reported diffusivities should be interpreted as consistent with the sampling protocol in the article rather than as exhaustive high-temperature kinetics.
 
 ## Relevance to group
 
@@ -70,10 +66,9 @@ Foundational **metal oxidation + ReaxFF** paper from the group with clear valida
 
 - **Cluster:** [[theme-oxides-silica-ceramics]] (metal oxidation); compare catalytic Ni surfaces under [[theme-catalysis-surfaces]].  
 - **Frozen eval:** MET1 gold hit in [`V1_FROZEN`](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/benchmarks/V1_FROZEN.md).
+- Proof-PDF sibling for the same DOI/work (Elsevier author proof): [[2014zou-venue-paper]]. Maintainer catalog: [Non-primary article PDF slugs (GitHub)](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/corpus/NON_PRIMARY_ARTICLE_PAPER_SLUGS.md) (section **D**, `2014zou-venue-paper` ↔ this slug).
 
 ## Related topics
 
 - [[reaxff-family]]
 - [[theme-oxides-silica-ceramics]]
-- Nickel oxidation and short-circuit diffusion at grain boundaries
-- ReaxFF for metals and oxides (Ni–O)

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020muraleedharan-acta-materia-understanding-chemistry",
+  "manifest": {
+    "source_path": "papers/Muraleedharan_ActaMater_2020_Cation_Leaching.pdf",
+    "sha256": "d3ab6f32448c721a1fa4384838ccdc8332e4485b90da67c81ebf689acbccc34a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Understanding the chemistry of cation leaching in illite/water interfacial system using reactive molecular dynamics simulations and hydrothermal experiments",
+    "year": 2020,
+    "authors": "Murali Gopal Muraleedharan",
+    "venue": "Acta Materialia, 186 (2020) 564-574. doi:10.1016/j.actamat.2019.12.059"
+  },
+  "pdf_path": "papers/Muraleedharan_ActaMater_2020_Cation_Leaching.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020muraleedharan-acta-materia-understanding-chemistry_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020muraleedharan-acta-materia-understanding-chemistry.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018buchman-environmenta-using-environmentally-relevant",
+  "manifest": {
+    "source_path": "papers/Others/Buchman_Rahnamoun_EnvSciNano_2018.pdf",
+    "sha256": "2dbbca3857e67389c9fbc3daa306072cddb4f0e17a2cf79aa96d53d4ec388dcc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c7en00832e",
+    "title": "Using an environmentally-relevant panel of Gram-negative bacteria to assess the toxicity of polyallylamine hydrochloride-wrapped gold nanoparticles",
+    "year": 2018,
+    "authors": "Joseph T. Buchman",
+    "venue": "Environmental Science: Nano (2018), 5, 279-288, doi:10.1039/C7EN00832E"
+  },
+  "pdf_path": "papers/Others/Buchman_Rahnamoun_EnvSciNano_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018buchman-environmenta-using-environmentally-relevant_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018buchman-environmenta-using-environmentally-relevant.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016gupta-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Gupta_D_Loops_AdvMat_2016.pdf",
+    "sha256": "83556ece6335ef3428a50149939f2a1c23e3406f9f3f05ab883b823e65a2bf1c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Gupta_D_Loops_AdvMat_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016gupta-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016gupta-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

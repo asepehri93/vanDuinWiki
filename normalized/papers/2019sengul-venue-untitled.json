@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019sengul-venue-untitled",
+  "manifest": {
+    "source_path": "papers/Sengul_Angewandte_coldsintering_2019_proof.pdf",
+    "sha256": "3724d60336e21fabe320850e8be7bc36d28d2e7850272ec3a21a3fd4cc7afdc2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/ange.201904738Surface",
+    "title": "untitled",
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Sengul_Angewandte_coldsintering_2019_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019sengul-venue-untitled_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019sengul-venue-untitled.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

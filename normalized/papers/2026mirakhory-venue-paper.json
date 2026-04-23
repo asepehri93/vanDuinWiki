@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2026mirakhory-venue-paper",
+  "manifest": {
+    "source_path": "papers/Mirakhory_JCP_2026_Xe_I_II.pdf",
+    "sha256": "bd04b662332a7fcad59c87ff90f161709f011474c1187b97e709613c0112f9c6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0302862",
+    "title": null,
+    "year": 2026,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Mirakhory_JCP_2026_Xe_I_II.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2026mirakhory-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5545
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2026mirakhory-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

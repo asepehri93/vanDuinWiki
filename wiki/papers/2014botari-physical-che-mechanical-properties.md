@@ -43,25 +43,44 @@ group_affiliation: true
 
 Suspended single-layer silicene is studied with DFTB and ReaxFF reactive MD alongside higher-level DFT for equilibrium properties. The work reports elastic constants, fracture patterns, edge reconstructions, stress distributions, unbuckling under strain, temperature effects, and zigzag versus armchair edge differences, motivated by silicene’s buckled structure versus graphene (abstract; introduction, extract).
 
+Silicene’s mixed sp\(^2\)/sp\(^3\)-like buckling makes failure pathways richer than planar graphene: the paper uses multi-method MD to separate elastic response from bond rearrangements that create holes and linear-chain debris during fracture.
+
 ## Methods
 
-Equilibrium with DFT (Dmol3), DFTB+, and ReaxFF; dynamical fracture with DFTB+ and ReaxFF for large cells (methodology opening, extract page 2).
+### Static benchmarks (equilibrium properties)
 
-<!-- enrich-from-extract:v2 -->
+- **DFT:** **DMol³** calculations supply higher-level reference data for selected **equilibrium** properties used to anchor lower-cost models (methodology opening in extract).
+- **DFTB+:** tight-binding calculations provide intermediate-cost **equilibrium** benchmarks for **silicene** sheets.
+- **ReaxFF:** reactive force-field evaluations compare against the above for **equilibrium** diagnostics where reported in the article.
 
-- reactive molecular dynamics (using Re axFF), the mechanical properties of suspended single-layer silicene.
+### Dynamics (fracture and large cells)
 
+- **DFTB+ MD** enables **large-cell** simulations of **mechanical** response at lower cost than full **DFT** dynamics.
+- **ReaxFF MD** extends to **bond-breaking** regimes where **edge reconstructions** and **defect-mediated** failure occur; the abstract positions **DFTB+** and **ReaxFF** as complementary for **elastic** versus **reactive** stages.
+
+### Observables tracked (per abstract)
+
+- **Elastic constants**, **fracture patterns**, **edge reconstructions**, **stress distributions**, **unbuckling** under strain, **temperature** dependence, and **zigzag vs armchair** edge differences (abstract bullets echoed on this page).
+
+### Coverage note
+
+- **Supercell sizes, strain rates, and thermostats** are specified in the **PCCP** Methods section; the checked-in extract truncates mid-methodology.
+
+**1 — MD application (atomistic dynamics).** **Engine / code:** **DFTB+** for large-cell **molecular dynamics** and **ReaxFF** **reactive molecular dynamics** for bond-breaking regimes (`papers/Botari_Silicene_PCCP_2014.pdf`; extract `normalized/extracts/2014botari-physical-che-mechanical-properties_p1-2.txt` names **DFTB+** and **ReaxFF**). **System:** **suspended single-layer silicene** membranes, including **zigzag** vs **armchair** edges and varying sizes up to **~1600 atoms** in the **DFT** validation discussion (extract). **Boundaries:** **in-plane periodic** membrane supercells with vacuum padding (**N/A — exact PBC vectors and vacuum thickness not in the p1–2 extract**). **Ensemble / thermostat / timestep / duration / barostat:** **N/A — full production MD settings** (e.g., **NVT** coupling, **Δt**, **ps/ns** windows, strain-rate protocol) lie **after** the clipped extract—use **PCCP** Methods. **Temperature:** finite-**T** **MD** is part of the study design (abstract), but the numerical **K** schedule is **PDF-grounded**. **Pressure:** **N/A —** mechanical **strain**/`stress` tests rather than quoted **NPT** hydrostatic targets in this summary. **Electric field:** **N/A —** not used. **Replica / enhanced sampling:** **N/A —** not used.
+
+**2 — Force-field training:** **N/A —** applies existing **ReaxFF** and **DFTB+** models; the article uses **DFT (PBE, DNP, DMol³)** to **validate** equilibrium predictions (extract), not to fit new parameters on-page.
+
+**3 — Static QM / DFT-only.** **DMol³**, **PBE-GGA**, **DNP** basis, stated **convergence** criteria, and **full cell** relaxations for **equilibrium** benchmarks (extract, **Methodology**).
 
 ## Findings
 
-Introduction positions silicene as buckled group-IV cousin to graphene with lower in-plane stiffness and possible linear-chain formation during fracture; abstract promises systematic MD comparison across edges, sizes, and temperatures.
+**Outcomes and mechanisms.** **DFTB+** and **ReaxFF MD** on **suspended silicene** report **elastic** response, **fracture** morphologies, **edge reconstructions**, **stress** fields, **unbuckling** under strain, and **temperature**-dependent failure, with explicit comparison of **zigzag** vs **armchair** edges and membrane **size** effects (abstract; introduction in extract frames **buckling** and possible **linear-chain** debris versus graphene).
 
-### Additional results (article abstract)
+**Comparisons.** **DFT (PBE / DMol³)** and **SCC-DFTB+** are used to **benchmark** lower-cost models on **equilibrium** properties before large-scale rupture **MD** (extract); quantitative **moduli** and **critical stresses** are **table/figure** content in the **PCCP** PDF, not duplicated here.
 
-- We calculated the elastic constants, analyzed the fracture patterns and edge reconstructions.
-- We also addressed the stress distributions, unbuckling mechanisms and the fracture dependence on the temperature.
-- We analysed the diﬀerences dueto distinct edge morphologies, namely zigzag and armchair.
+**Sensitivity and design levers.** Trends depend on **edge termination**, **membrane size**, and **temperature** as independent variables called out in the abstract.
 
+**Limitations and outlook.** **DFT** dynamics are **precluded** at the largest sizes in the extract’s argument; **ReaxFF** accuracy for **Si** **mechanochemistry** should be judged against the paper’s own **DFT/DFTB** checks. **Corpus honesty:** `normalized/extracts/2014botari-physical-che-mechanical-properties_p1-2.txt` ends early in **Methodology**; this page does not invent **thermostat** constants or **strain rates** absent from the checked extract—consult `papers/Botari_Silicene_PCCP_2014.pdf` for full protocols.
 
 ## Limitations
 

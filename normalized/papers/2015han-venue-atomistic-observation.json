@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015han-venue-atomistic-observation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Han_LiSi_JPC_2015.pdf",
+    "sha256": "8b3356f302bcea85a4a6af7e5a08d0baa9e1f9815a33f6ab8eb0d6fa8f107108",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic Observation of the Lithiation and Delithiation Behaviors of Silicon Nanowires Using Reactive Molecular Dynamics Simulations",
+    "year": 2015,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Han_LiSi_JPC_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015han-venue-atomistic-observation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015han-venue-atomistic-observation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

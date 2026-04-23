@@ -36,57 +36,43 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    Prose below summarizes the publication identified by `doi` and `pdf_path`. Definitive protocol tables and numbers remain in the **PDF** / [[2015shin-venue-microsoft-word]] SI package.
 
 ## Summary
 
-A **Fe/Cr/O/S ReaxFF** is parameterized from **QM data** and applied to **high-temperature butane oxidation** on **Cr oxide** surfaces, including scenarios with **iron pyrite (FeS2)** as a **coal-derived impurity**. Reactive trajectories emphasize **surface oxygen species** that drive **dehydrogenation** to radicals and **C–O coupling** pathways, contrasting **partial oxygenates (e.g., CH2O on clean chromia)** with **accelerated deep oxidation to CO/CO2** when pyrite is present. The article also discusses **surface reconstruction / sulfur-containing intermediates (e.g., SOH release)** and **reoxidation** cycles involving water desorption and O2 adsorption at vacancies.
+Shin *et al.* develop a **ReaxFF** parametrization for **Fe/Cr/O/S** against **QM** data and apply it to **reactive MD** of **butane** oxidation on **Cr oxide** surfaces, comparing **clean chromia** with **pyrite (FeS₂)**-modified models motivated by **coal-derived fuels** and **slagging** mineralogy. At **1600 K** (abstract), simulations highlight **surface oxygen species** that drive **dehydrogenation** to **radicals** and subsequent **C–O** coupling, producing **CH₂O** as a major partial-oxidation product on **clean** surfaces while **FeS₂** accelerates **complete oxidation** to **CO** and **CO₂** with **surface reconstruction** and **SOH** release pathways.
 
 ## Methods
 
-- **ReaxFF development** with QM training on **Fe/Cr/O/S** chemistry.
-- **Reactive MD** at **1600 K** on model catalyst slabs with and without **FeS2** patches.
+**Force-field training.** **Scope:** new **Fe/Cr/O/S** cross-terms within **ReaxFF**, parametrized against **QM** energies/reaction data for **oxide**, **sulfide**, and **hydrocarbon** motifs relevant to **Cr–O**, **Fe–S**, and **S–O** chemistry (Computational Methods + SI). **QM reference level, training set composition, optimizer, and weighting:** **`pdf_path`** and SI tables.
 
-<!-- enrich-from-extract:v2 -->
+**MD application (surface oxidation).** **System chemistry:** **butane + O₂** reacting on **Cr₂O₃** slabs with optional **FeS₂** patches (initial layouts summarized in SI captions; main text defines slab stoichiometries). **Temperature:** headline oxidation trajectories at **1600 K** (abstract). **Engine**, **timestep**, **thermostat**, **duration** (**ps**/**ns**), **PBC**, and any **NPT** segments are specified in **Computational Methods** on `pdf_path` (not enumerated on this page from the short abstract excerpt). **Electric field / enhanced sampling:** **N/A** in the abstract framing. **Barostat:** **N/A** unless Methods explicitly add **NPT** for these combustion-style runs (see `pdf_path`).
 
-- We developed a ReaxFF force ﬁeld for Fe/Cr/O/S, which is parametrized against data from quantum mechanical (QM) calculations.
-- Using this force ﬁeld, we studied the Cr-oxide catalyzed oxidation reaction of butane at 1600 K.
-- Our simulation results demonstrate that the active oxygen species on the oxide surface play an important role in the conversion of butane.
-- The radical intermediates are associated with the oxygen atoms to form C−O bonds or make double bonds when neighboring carbon atoms are dehydrogenated, forming light alkenes.
-- On the clean Cr- oxide, the major oxidation product is CH 2O.
-
+**Static QM / DFT:** **QM** enters as **training/validation** for ReaxFF, not as standalone **AIMD production** for the headline **1600 K** catalytic trajectories.
 
 ## Findings
 
-- **Cr-oxide** catalyzes **dehydrogenation** and oxygen insertion, with **CH2O** emphasized as a major product on **clean** surfaces under the simulated conditions reported in the abstract.
-- **FeS2** on chromia **accelerates complete oxidation** to **CO2/CO** and is associated with **surface restructuring** and altered **oxygen speciation**.
-- **Reoxidation** pathways differ between **clean** and **pyrite-modified** surfaces; **SOH**-related desorption appears on the modified oxide.
+**Clean Cr oxide:** **Dehydrogenation** initiated by **surface oxygen** yields **butane radicals** and **surface OH**; radical intermediates form **C–O** bonds or **C=C** when neighboring carbons dehydrogenate, producing **light alkenes**; **CH₂O** is the major partial oxidation product on **clean** surfaces under the simulated conditions (abstract).
 
-### Additional results (article abstract)
+**Pyrite-modified oxide:** **FeS₂** accelerates **complete oxidation** to **CO₂** and **CO**; **surface reconstruction** by pyrite is proposed as the origin of the **selectivity** shift (abstract). **SOH** release appears on the **modified** surface whereas **clean** surfaces favor **reoxidation** via **H₂O** desorption and **O₂** adsorption at **vacancies** in the abstract’s mechanistic sketch.
 
-- Dehydrogenation of butane, which is found to be catalyzed by oxygen species on the oxide surface, initiates the reaction and generates butane radicals and surface OH groups.
-- On the other hand, on the modi ﬁed Cr-oxide, it is found that a considerable amount of SOH molecules are released from the surface.
-- The presence of iron pyrite (FeS 2), a common inorganic component in coal-derived fuels and a major slagging component, on Cr-oxide accelerates the complete oxidation of butane forming CO 2 and CO.
-- Surface reconstruction by iron pyrite is probably responsible for the change of the catalytic behavior.
-- Reoxidation of the reduced oxide surface can occur through removal of surface H 2O and adsorption of gaseous molecular oxygen at the vacancy sites on the clean Cr-oxide.
-- These results can provide the detailed mechanisms for the catalytic oxidation of alkane and product distributions in Cr-oxide catalyst and give, for the ﬁrst time, atomistic-scale insight in the complex surface chemistry of these catalysts under realistic operating conditions.
-
+**Sensitivity:** The abstract frames results at **1600 K** “combustion-like” conditions; lower-temperature **ODH** relevance is not claimed there.
 
 ## Limitations
 
-- **Single temperature window** (1600 K in the abstract framing) is far from industrial ODH conditions; extrapolation requires care.
-- **ReaxFF** cannot subsume all **electronic redox** subtleties of sulfide–oxide interfaces without extensive validation.
+**Single high-temperature window** in the abstract is far from many industrial **ODH** conditions. **ReaxFF** cannot subsume all **electronic redox** subtleties of **sulfide–oxide** interfaces without targeted validation.
 
 ## Relevance to group
 
-Illustrates **multi-element ReaxFF parameterization** for **sulfur-containing fossil-catalyst** chemistries—an important axis of the group’s **reactive catalysis** simulation work with Shin and industrial collaborators.
+Illustrates **multi-element ReaxFF parameterization** for **sulfur-bearing fossil-catalyst** chemistries central to Shin/van Duin collaborations.
 
 ## Citations and evidence anchors
 
-- Abstract and introduction in `papers/Shin_ACS_Catalysis_2015.pdf`; **DOI:** `10.1021/acscatal.5b01766`.
+- DOI `10.1021/acscatal.5b01766`; `papers/Shin_ACS_Catalysis_2015.pdf`.
+- `normalized/extracts/2015shin-venue-research_p1-2.txt`.
 
 ## Related topics
 
+- [[2015shin-venue-research-2]]
+- [[2015shin-venue-microsoft-word]]
 - [[reaxff-family]]

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021akbarian-physical-che-understanding-physical",
+  "manifest": {
+    "source_path": "papers/Akbarian_BaSrTiO3_PCCP_2021.pdf",
+    "sha256": "96078085da7d90e8a7beb1af7a0bb1b5e647210cd88482dede640b36da94efa6",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Understanding physical chemistry of BaxSr1&#x2212;xTiO3 using ReaxFF molecular dynamics simulations",
+    "year": 2021,
+    "authors": "Dooman Akbarian",
+    "venue": "Physical Chemistry Chemical Physics (2021), 23, 25056-25062, doi:10.1039/D1CP03353K"
+  },
+  "pdf_path": "papers/Akbarian_BaSrTiO3_PCCP_2021.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021akbarian-physical-che-understanding-physical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021akbarian-physical-che-understanding-physical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

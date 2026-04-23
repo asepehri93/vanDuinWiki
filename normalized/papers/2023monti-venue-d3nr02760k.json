@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023monti-venue-d3nr02760k",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Monti_MOF_Nanoscale_2023.pdf",
+    "sha256": "90741f48c62dab21b06febd2f440dcbf5c4b116bed15079be890420dc402d706",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/d3nr02760k",
+    "title": "D3NR02760K 1..9 ++",
+    "year": 2023,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Monti_MOF_Nanoscale_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023monti-venue-d3nr02760k_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023monti-venue-d3nr02760k.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024winetrout-nat-implementing-reactivity",
+  "manifest": {
+    "source_path": "papers/Winetrout_IFF_ReaxFF_NatureComm_2024.pdf",
+    "sha256": "010772d49769254d1fbe5664f7df9b9e7d9166839045b0a4b12b2bcced977ce2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41467-024-50793-0",
+    "title": "Implementing reactivity in molecular dynamics simulations with harmonic force fields",
+    "year": 2024,
+    "authors": "Jordan J. Winetrout",
+    "venue": "Nature Communications, doi:10.1038/s41467-024-50793-0"
+  },
+  "pdf_path": "papers/Winetrout_IFF_ReaxFF_NatureComm_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024winetrout-nat-implementing-reactivity_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024winetrout-nat-implementing-reactivity.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

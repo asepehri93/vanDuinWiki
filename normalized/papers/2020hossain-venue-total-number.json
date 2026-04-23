@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020hossain-venue-total-number",
+  "manifest": {
+    "source_path": "papers/Hossain_JCP_2020_EC_Li_galley.pdf",
+    "sha256": "e2f3dcf0d7357b70cfddc4d4308497bb9347faeb2b9ca9b8d5a121cd62078d56",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/5.0003333",
+    "title": "Total Number of pages:14",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Hossain_JCP_2020_EC_Li_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020hossain-venue-total-number_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6568
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020hossain-venue-total-number.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

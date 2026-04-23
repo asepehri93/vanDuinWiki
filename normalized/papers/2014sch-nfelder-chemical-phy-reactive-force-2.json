@@ -1,0 +1,33 @@
+{
+ "paper_id": "paper:2014sch-nfelder-chemical-phy-reactive-force-2",
+ "manifest": {
+  "source_path": "papers/ReaxFF_others/Schonfelder_ChemPhys2014_TwinPolymer.pdf",
+  "sha256": "6d6eecdee2bf1c112819321a13bff1a3e87561b84348448fe12b667ceb5b51bc",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1016/j.chemphys.2014.06.003",
+  "title": "Reactive force field for electrophilic substitution at an aromatic system in twin polymerization",
+  "year": 2014,
+  "authors": [
+   "Thomas Schönfelder",
+   "Joachim Friedrich",
+   "Janett Prehl",
+   "Steffen Seeger",
+   "Stefan Spange",
+   "Karl Heinz Hoffmann"
+  ],
+  "venue": "Chemical Physics"
+ },
+ "pdf_path": "papers/ReaxFF_others/Schonfelder_ChemPhys2014_TwinPolymer.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014sch-nfelder-chemical-phy-reactive-force-2_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014sch-nfelder-chemical-phy-reactive-force-2.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

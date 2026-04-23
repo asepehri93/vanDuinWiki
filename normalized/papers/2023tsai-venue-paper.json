@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023tsai-venue-paper",
+  "manifest": {
+    "source_path": "papers/Tsai_Ganeshan_Gao_ACS_AMI_2023_Birnessite_SI.pdf",
+    "sha256": "0a5175db788d3587357eb18f5fc9a0344cd3b0826c2982fb20859b9cd7c44c89",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2023,
+    "authors": "Wan-Yu Tsai",
+    "venue": null
+  },
+  "pdf_path": "papers/Tsai_Ganeshan_Gao_ACS_AMI_2023_Birnessite_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023tsai-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 1075
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023tsai-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

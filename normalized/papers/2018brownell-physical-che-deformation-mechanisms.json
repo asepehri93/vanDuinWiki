@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018brownell-physical-che-deformation-mechanisms",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/2018- Deformation mechanisms of polytetrafluoroethylene at the nano- and microscales.pdf",
+    "sha256": "2541109686a41ccc0e3ef66b94086e19a933582d19cd24cdbf9a5ad1871a3397",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Deformation mechanisms of polytetrafluoroethylene at the nano- and microscales",
+    "year": 2018,
+    "authors": "Matthew Brownell",
+    "venue": "Physical Chemistry Chemical Physics (2019), 21, 490-503, doi:10.1039/C8CP05111A"
+  },
+  "pdf_path": "papers/ReaxFF_others/2018- Deformation mechanisms of polytetrafluoroethylene at the nano- and microscales.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018brownell-physical-che-deformation-mechanisms_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018brownell-physical-che-deformation-mechanisms.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

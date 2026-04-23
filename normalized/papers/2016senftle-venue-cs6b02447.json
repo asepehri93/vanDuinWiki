@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016senftle-venue-cs6b02447",
+  "manifest": {
+    "source_path": "papers/Senftle_ACS_Catalysis_2017.pdf",
+    "sha256": "585dfc9ab3a0bbcb9394f04ae0d28019dee94f91ff2dddd0bae75bf454604b23",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "cs6b02447 1..6",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Senftle_ACS_Catalysis_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016senftle-venue-cs6b02447_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016senftle-venue-cs6b02447.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

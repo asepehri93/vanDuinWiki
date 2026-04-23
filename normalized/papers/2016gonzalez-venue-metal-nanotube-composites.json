@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016gonzalez-venue-metal-nanotube-composites",
+  "manifest": {
+    "source_path": "papers/Gonzalez_CNT-Ni-chimney_2016.pdf",
+    "sha256": "de1309f1c7d5b598ef58badb96378c41640d6a05832cca342ccf3dd90cc09731",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.4959246",
+    "title": "Metal-nanotube composites as radiation resistant materials",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Gonzalez_CNT-Ni-chimney_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016gonzalez-venue-metal-nanotube-composites_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7298
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016gonzalez-venue-metal-nanotube-composites.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

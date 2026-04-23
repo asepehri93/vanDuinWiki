@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021susanna-monti-acs-diverse-phases",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Monti_ACSNano_2021_carbon_formation.pdf",
+    "sha256": "bf99be1ba34fd41ba6886ddc2d4e29c246fdb8c341af1b19ad5c2f2ed76bbfee",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Diverse Phases of Carbonaceous Materials from Stochastic Simulations",
+    "year": 2021,
+    "authors": "Susanna Monti, Giovanni Barcaro, William A. Goddard III, and Alessandro Fortunelli",
+    "venue": "ACS Nano 2021.15:6369-6385"
+  },
+  "pdf_path": "papers/ReaxFF_others/Monti_ACSNano_2021_carbon_formation.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021susanna-monti-acs-diverse-phases_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021susanna-monti-acs-diverse-phases.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

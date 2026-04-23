@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019sharifian-physical-che-how-characterize",
+  "manifest": {
+    "source_path": "papers/Sharifian_PCCP_2019_Carbon_nanostructure.pdf",
+    "sha256": "6d01c0599fd412d27ae6f0dfbc59dfe05ddfabb0bd5bcc47a33879875d429295",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "How to characterize interfacial load transfer in spiral carbon-based nanostructure-reinforced nanocomposites: is this a geometry-dependent process?",
+    "year": 2019,
+    "authors": "Ali Sharifian",
+    "venue": "Physical Chemistry Chemical Physics (2019), 21, 23880-23892, doi:10.1039/C9cp04276h"
+  },
+  "pdf_path": "papers/Sharifian_PCCP_2019_Carbon_nanostructure.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019sharifian-physical-che-how-characterize_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019sharifian-physical-che-how-characterize.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

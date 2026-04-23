@@ -1,0 +1,33 @@
+{
+  "paper_id": "paper:2017kumar-venue-paper",
+  "manifest": {
+    "source_path": "papers/Kumar_thiol_Pd_Langmuir_2018_SI.pdf",
+    "sha256": "735bb59b65243e27e81b0e19a38cc5d455a14f174314039937851fcb638e017c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.langmuir.7b04351",
+    "title": "Supporting information: Thermodynamics of alkanethiol self-assembled monolayer assembly on Pd surfaces",
+    "year": 2018,
+    "authors": [
+      "Gaurav Kumar",
+      "Timothy Van Cleve",
+      "Jiyun Park",
+      "Adri van Duin",
+      "J. Will Medlin",
+      "Michael J. Janik"
+    ],
+    "venue": "Langmuir (Supporting Information)"
+  },
+  "pdf_path": "papers/Kumar_thiol_Pd_Langmuir_2018_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017kumar-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2767
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017kumar-venue-paper.md",
+  "updated": "2026-04-20T12:00:00Z"
+}

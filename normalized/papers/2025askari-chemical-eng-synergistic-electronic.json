@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025askari-chemical-eng-synergistic-electronic",
+  "manifest": {
+    "source_path": "papers/Askari_CoFe_metalair_batteries_ChemEngJournal_2025.pdf",
+    "sha256": "424d074d4d63892ad130b68b806f83efb2b50a07a4461c35f1deb7e76c0554f9",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Synergistic electronic interplay between CoFe single atom and nitrogen on 2D carbon boosts bifunctional oxygen redox in metal-air batteries",
+    "year": 2025,
+    "authors": "Saeed Askari",
+    "venue": "Chemical Engineering Journal, 522 (2025) 167663. doi:10.1016/j.cej.2025.167663"
+  },
+  "pdf_path": "papers/Askari_CoFe_metalair_batteries_ChemEngJournal_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025askari-chemical-eng-synergistic-electronic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025askari-chemical-eng-synergistic-electronic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

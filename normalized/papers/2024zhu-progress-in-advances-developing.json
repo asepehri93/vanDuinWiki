@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024zhu-progress-in-advances-developing",
+  "manifest": {
+    "source_path": "papers/Zhu_Mao_Progress_MatSci_Carbon_Fibers_2024.pdf",
+    "sha256": "df9c4ad6ad107124ec3eca0b5633e84ba68b116d6fbf795bf4640fab31cde248",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.pmatsci.2024.101329",
+    "title": "Advances in developing cost-effective carbon fibers by coupling multiscale modeling and experiments: A critical review",
+    "year": 2024,
+    "authors": "Jiadeng Zhu",
+    "venue": "Progress in Materials Science, 146 (2024) 101329. doi:10.1016/j.pmatsci.2024.101329"
+  },
+  "pdf_path": "papers/Zhu_Mao_Progress_MatSci_Carbon_Fibers_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024zhu-progress-in-advances-developing_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024zhu-progress-in-advances-developing.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

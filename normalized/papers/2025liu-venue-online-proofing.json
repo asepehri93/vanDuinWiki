@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025liu-venue-online-proofing",
+  "manifest": {
+    "source_path": "papers/Liu_Dinani_Sepehrinezhad_AlN_switching_AdvMat_2025_galley.pdf",
+    "sha256": "1265939bdf72c37ba1b10797ba92e96b78f99905ecf2fa9db96d41a6ac256bf4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/adma.202511001",
+    "title": "Online Proofing System",
+    "year": 2025,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Liu_Dinani_Sepehrinezhad_AlN_switching_AdvMat_2025_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025liu-venue-online-proofing_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6511
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025liu-venue-online-proofing.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2004nmat1051-venue-nmat1051-print",
+  "manifest": {
+    "source_path": "papers/Others/nmat1051_ferroelectric_electric_field.pdf",
+    "sha256": "6b7a902e96317be94b78e83ec53f6dc48e62027b7f6bba06dc57e59c5e095ec1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/nmat1051",
+    "title": "nmat1051-PRINT",
+    "year": 2004,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Others/nmat1051_ferroelectric_electric_field.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2004nmat1051-venue-nmat1051-print_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2004nmat1051-venue-nmat1051-print.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

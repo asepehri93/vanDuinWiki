@@ -1,0 +1,17 @@
+2021malgorzata-kowalik-molecular-in-atomistic-scale-simulations
+2021matsuura-x-perfect-defective
+2021mike-pols-j-phys-chem-atomistic-insights
+2021mojtabavi-acs-wafer-scale-lateral
+2021molaei-scientific-r-hypersonic-impact
+2021momeni-journal-of-m-computational-synthesis
+2021morrow-energy-fuels-evaluating-ability
+2021mosab-jaser-banisalm-acs-atomistic-insights
+2021murali-gopal-muralee-acs-interfacial-reactivity
+2021nadire-nayir-j-phys-chem-reaxff-force
+2021nayir-materials-sc-theoretical-modeling
+2021nayir-venue-paper
+2021penrod-j-chem-phys-using-c-dft
+2021penrod-venue-paper
+2021phuoc-h-h-duong-acs-molecular-interactions
+2021pols-venue-paper
+2021qian-apl-material-comprehensive-assessment

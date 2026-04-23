@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024yan-computationa-atomistic-insights",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Yan_CVD_SiC_CompMatSci_2024.pdf",
+    "sha256": "e59587f62d2145672c1627a939f209fd9c97ea1b55770f3e2c12bb493e38f39f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic insights into chemical vapor deposition process of preparing silicon carbide materials using ReaxFF-MD simulation",
+    "year": 2024,
+    "authors": "Zefan Yan",
+    "venue": "Computational Materials Science, 241 (2024) 113032. doi:10.1016/j.commatsci.2024.113032"
+  },
+  "pdf_path": "papers/ReaxFF_others/Yan_CVD_SiC_CompMatSci_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024yan-computationa-atomistic-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024yan-computationa-atomistic-insights.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023st-phane-b-olou-ou-g-j-phys-chem-development-validation",
+  "manifest": {
+    "source_path": "papers/Guifo_LiSiC_JPCC_2023_online.pdf",
+    "sha256": "9b18195b307c67706003d1dde128a868b273232319f944cbe27af4825ac17943",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.2c07773",
+    "title": "Development and Validation of a ReaxFF Reactive Force Field for Modeling Silicon–Carbon Composite Anode Materials in Lithium-Ion Batteries",
+    "year": 2023,
+    "authors": "Stéphane B. Olou’ou Guifo, Jonathan E. Mueller, Diana van Duin, Mahdi K. Talkhoncheh, Adri C. T. van Duin, David Henriques, and Torsten Markus",
+    "venue": "J. Phys. Chem. C 0.0"
+  },
+  "pdf_path": "papers/Guifo_LiSiC_JPCC_2023_online.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023st-phane-b-olou-ou-g-j-phys-chem-development-validation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023st-phane-b-olou-ou-g-j-phys-chem-development-validation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

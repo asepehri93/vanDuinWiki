@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014andres-jaramillo-bot-j-chem-theor-general-multiobjective",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Jaramillo_Garfield.pdf",
+    "sha256": "2df8a6b2afbb640e8f29c2afd52000b0a2e40365fda7b734429f3dc212622f73",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "General Multiobjective Force Field Optimization Framework, with Application to Reactive Force Fields for Silicon Carbide",
+    "year": 2014,
+    "authors": "Andres Jaramillo-Botero, Saber Naserifar, and William A. Goddard, III",
+    "venue": "J. Chem. Theory Comput. 2014.10:1426-1439"
+  },
+  "pdf_path": "papers/ReaxFF_others/Jaramillo_Garfield.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014andres-jaramillo-bot-j-chem-theor-general-multiobjective_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014andres-jaramillo-bot-j-chem-theor-general-multiobjective.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

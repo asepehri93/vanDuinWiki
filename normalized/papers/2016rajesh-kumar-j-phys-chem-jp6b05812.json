@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016rajesh-kumar-j-phys-chem-jp6b05812",
+  "manifest": {
+    "source_path": "papers/Others/Kumar_hBN_JPC_C_2016.pdf",
+    "sha256": "ec9dcba04a0841dc08a27edcefc011090c2aa4215cfbf87334a702e93e39465c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp6b05812 1..7",
+    "year": 2016,
+    "authors": "Rajesh Kumar, Pierre Mertiny, and Avinash Parashar",
+    "venue": "J. Phys. Chem. C 2016.120:21932-21938"
+  },
+  "pdf_path": "papers/Others/Kumar_hBN_JPC_C_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016rajesh-kumar-j-phys-chem-jp6b05812_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016rajesh-kumar-j-phys-chem-jp6b05812.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

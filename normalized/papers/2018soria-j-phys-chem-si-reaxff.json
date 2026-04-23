@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018soria-j-phys-chem-si-reaxff",
+  "manifest": {
+    "source_path": "papers/Soria_Si_organic_JPCC_2018.pdf",
+    "sha256": "01af12f1d84497b360274fe48645e3e178fe188744b0b43ac299a41434ce5745",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Si/C/H ReaxFF Reactive Potential for Silicon Surfaces Grafted with Organic Molecules",
+    "year": 2018,
+    "authors": "Federico A. Soria; Weiwei Zhang; Patricia A. Paredes-Olivera; Adri. C. T. van Duin; Eduardo M. Patrito",
+    "venue": "J. Phys. Chem. C 2018.122:23515-23527"
+  },
+  "pdf_path": "papers/Soria_Si_organic_JPCC_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018soria-j-phys-chem-si-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018soria-j-phys-chem-si-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

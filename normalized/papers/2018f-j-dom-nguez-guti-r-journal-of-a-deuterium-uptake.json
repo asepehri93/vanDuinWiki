@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018f-j-dom-nguez-guti-r-journal-of-a-deuterium-uptake",
+  "manifest": {
+    "source_path": "papers/Dominguez_Gutierrez_JAP_2018_deuterium.pdf",
+    "sha256": "b6b85e51855e6b971461fcc827ebe0b2db0b48ea345a404536133fbf8d2ac73c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1063/1.5026415",
+    "title": "Deuterium uptake and sputtering of simultaneous lithiated, boronized, and oxidized carbon surfaces irradiated by low-energy deuterium",
+    "year": 2018,
+    "authors": "F. J. Domínguez-Gutiérrez, P. S. Krstić, J. P. Allain, F. Bedoya, M. M. Islam, R. Lotfi, A. C. T. van Duin",
+    "venue": "Journal of Applied Physics 2018.123:195901"
+  },
+  "pdf_path": "papers/Dominguez_Gutierrez_JAP_2018_deuterium.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018f-j-dom-nguez-guti-r-journal-of-a-deuterium-uptake_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 5874
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018f-j-dom-nguez-guti-r-journal-of-a-deuterium-uptake.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024ml-sci-adv-2024-reforms-consensus-based",
+  "manifest": {
+    "source_path": "papers/Others/ML_review_sciadv.adk3452.pdf",
+    "sha256": "95c5a1d44453449cca7662f22800319ab0f7a59a91273d534ed93e4d634510f2",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "REFORMS: Consensus-based Recommendations for Machine-learning-based Science",
+    "year": 2024,
+    "authors": null,
+    "venue": "Sci. Adv. 2024.10:eadk3452"
+  },
+  "pdf_path": "papers/Others/ML_review_sciadv.adk3452.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024ml-sci-adv-2024-reforms-consensus-based_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024ml-sci-adv-2024-reforms-consensus-based.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

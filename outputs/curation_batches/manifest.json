@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-04-20T22:50:29Z",
+  "first_pass_pending_stub_pages": 0,
+  "first_pass_cleared_note": "2026-04-20: remaining 2017 mechanical stubs cleared (11 parallel agents); see outputs/curation_batches/_README.md",
+  "mode": "pending",
+  "batch_size": 200,
+  "total_slugs": 1080,
+  "n_batches": 6,
+  "approvals": {
+    "batch-001": {
+      "status": "approved",
+      "approved_at": "2026-04-21",
+      "policy": "paper_keywords + PDF/SI-grounded Methods + direct Findings; baseline frozen for regression checks"
+    },
+    "batch-002": {
+      "status": "approved",
+      "approved_at": "2026-04-22",
+      "policy": "paper_keywords + PDF/SI-grounded Methods + direct Findings; locked baseline like batch-001"
+    },
+    "batch-003": {
+      "status": "approved",
+      "approved_at": "2026-04-23",
+      "policy": "paper_keywords + PDF/SI-grounded Methods + direct Findings; locked baseline like batch-001/002"
+    },
+    "batch-004": {
+      "status": "approved",
+      "approved_at": "2026-04-24",
+      "policy": "paper_keywords + PDF/SI Methods + direct Findings; batch-004 slice-9 PDF pass + UTF-8 fixes completed"
+    },
+    "batch-005": {
+      "status": "approved",
+      "approved_at": "2026-04-25",
+      "policy": "paper_keywords + PDF/SI Methods + direct Findings; locked baseline like prior batches"
+    },
+    "batch-006": {
+      "status": "approved",
+      "approved_at": "2026-04-20",
+      "policy": "paper_keywords + PDF/SI Methods + direct Findings; ~80 slugs; 12 parallel agents; operator approved"
+    }
+  },
+  "batches": [
+    {
+      "file": "batch-001.txt",
+      "count": 200
+    },
+    {
+      "file": "batch-002.txt",
+      "count": 200
+    },
+    {
+      "file": "batch-003.txt",
+      "count": 200
+    },
+    {
+      "file": "batch-004.txt",
+      "count": 200
+    },
+    {
+      "file": "batch-005.txt",
+      "count": 200
+    },
+    {
+      "file": "batch-006.txt",
+      "count": 80
+    }
+  ]
+}

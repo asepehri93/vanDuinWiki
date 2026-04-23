@@ -1,0 +1,30 @@
+{
+ "paper_id": "paper:2014reaxff-venue-paper",
+ "manifest": {
+  "source_path": "papers/ReaxFF_others/ReaxFF_nanobomb.pdf",
+  "sha256": "818e6716f15feaa2be458e347da6382b28ea7697978da8953485be6e44139eeb",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1021/acs.jpclett.5b00120",
+  "title": "Buckybomb: reactive molecular dynamics simulation",
+  "year": 2015,
+  "authors": [
+   "Vitaly V. Chaban",
+   "Eudes Eterno Fileti",
+   "Oleg V. Prezhdo"
+  ],
+  "venue": "The Journal of Physical Chemistry Letters"
+ },
+ "pdf_path": "papers/ReaxFF_others/ReaxFF_nanobomb.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014reaxff-venue-paper_p1-2.txt",
+  "quality": "partial",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 1642
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014reaxff-venue-paper.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

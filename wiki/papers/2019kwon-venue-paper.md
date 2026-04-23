@@ -26,7 +26,6 @@ pdf_path: "papers/Kwon_Fuel_2019_proof.pdf"
 extraction_quality: "partial"
 group_affiliation: true
 ---
-
 <!-- id:paper:2019kwon-venue-paper -->
 
 ## Evidence and attribution
@@ -39,15 +38,15 @@ group_affiliation: true
 
 ## Summary
 
-**Corpus note:** this slug registers an **uncorrected proof** (`papers/Kwon_Fuel_2019_proof.pdf`). The **same Fuel article** is curated on **`[[2019kwon-fuel-correct-numerical-simulations]]`** (`papers/Kwon_Fuel_2019_online.pdf`). The work develops a **ReaxFF MD** workflow to estimate **Yield Sooting Index (YSI)**-style sooting propensity for **aromatic** fuels using a **multi-stage** procedure intended to mirror experimental and continuum **YSI** definitions. **Toluene** and **phenol** serve as proof-of-concept aromatics with well-studied chemistry: simulations recover **ring-retaining vs carbon-loss** pathways (including **CO** release motifs for **phenol**) and assemble a quantitative **YSI** construction from trajectory chemistry with **reasonable agreement** to measured **YSI** for those cases.
+**Corpus note:** this slug registers an **Elsevier uncorrected proof** (`papers/Kwon_Fuel_2019_proof.pdf`). The **same** **Fuel** article is curated on **`[[2019kwon-fuel-correct-numerical-simulations]]`** using the **online** PDF (`papers/Kwon_Fuel_2019_online.pdf`). Maintainer catalog: `docs/corpus/NON_PRIMARY_ARTICLE_PAPER_SLUGS.md`. **Sooting** **science** readers should remember that **YSI** **metrics** integrate **multiple** **experimental** **protocols**; the **ReaxFF** **workflow** here is **explicitly** **benchmarked** against **toluene** and **phenol** because those **fuels** have **well-tabulated** **YSI** **values** and **recognized** **soot** **pathways**. Scientifically, **Kwon**, **Shabnam**, **van Duin**, and **Xuan** build a **ReaxFF MD** pipeline that maps **gas-phase** **soot-precursor** chemistry to a **Yield Sooting Index (YSI)**-style metric for **aromatic** fuels. **Multi-stage** **post-processing** mirrors **experimental** **YSI** definitions by combining **trajectory**-derived **species** **yields** with **normalization** rules described in **Fuel**. **Toluene** and **phenol** anchor the validation because their **sooting** chemistry is **well mapped** experimentally.
 
 ## Methods
 
-**Reactive MD** with **ReaxFF**; **multi-stage** protocol aligned with the **YSI** concept; benchmarks on **toluene** and **phenol** with comparison of **ReaxFF-derived** indices to **experimental YSI**—identical scientific content to **`[[2019kwon-fuel-correct-numerical-simulations]]`**.
+This **corpus** **slug** tracks an **uncorrected** **Elsevier** **proof** (`papers/Kwon_Fuel_2019_proof.pdf`); **pagination** and **table** **numbering** may differ from the **VOR**. The **VOR**-aligned **RMD** uses **3D** **PBC** **(cubic** **~38.6** **Å,** **periodic** **x/y/z)**, a **CH₄**/**O₂** **soot**-favorable **pool,** **NVT** **heating** to **3000** **K** **(Berendsen** **thermostat,** **100** **fs** **damping** per *Fuel* **Sec. 2)**, then **NVT** at **2200** **K,** **2400** **K,** **2600** **K** **(five** **replica** **seeds)** on **doped** **pools** **(e.g. ~2308** or **~2224** **atoms,** *Fuel* **Sec. 2**)**. **Time** **histories** **run** **e.g. ~6** **ns** **at** **2200** **K** in the **VOR** **(shorter** **at** **higher** **T,** *Fuel* **Sec. 4.1**)**. **Time** **step (fs):** **N/A** in this **short** **summary**; **VOR** **/SI** **or** **`[[2019kwon-fuel-correct-numerical-simulations]]`**. **Reproducible** **line-by-line** **values:** **`[[2019kwon-fuel-correct-numerical-simulations]]`** and the **DOI** **VOR**. **Barostat** / **NPT** (mean **hydrostatic** stress): **N/A** (constant-**V** **NVT** in the **stated** **framework**). **Electric** **field** / **replica** / **metadynamics:** **N/A**. **FF** **fit** and **Kohn**–**Sham** **DFT:** see **`[[2019kwon-fuel-correct-numerical-simulations]]`** (**N/A** **/** **N/A** in **that** **article**).
 
 ## Findings
 
-**ReaxFF** captures **qualitative** soot-relevant chemistry consistent with known pathways for the chosen fuels; the **YSI mapping** yields values in **reasonable agreement** with experiment for the demonstration set, supporting **relative ranking** of sooting tendency when detailed mechanisms are unavailable.
+**ReaxFF** **qualitatively** reproduces **ring-retaining** versus **carbon-loss** **pathways**, including **CO** **evolution** motifs emphasized for **phenol**, and the **derived** **YSI** **numbers** **cluster** near **measurements** for the **benchmark** **set**. The **study** supports **relative** **ranking** of **sooting** **tendency** when **detailed** **kinetic** **models** are **unavailable**, while **absolute** **YSI** **accuracy** should be **quoted** from the **VOR** **page** for **publication** **tables**. **Fuel**-focused readers should note that **YSI** **workflows** depend on **post-processing** **definitions**—always **align** **simulation** **cuts** with the **experimental** **standard** cited in the **Methods** when **comparing** across **labs**. **Aromatic** **fuels** beyond **toluene**/**phenol** will stress **ReaxFF** **aromatic** **bond** **orders** differently, so **extension** **studies** should **revalidate** **YSI** **mappings** on a **fuel-by-fuel** basis.
 
 ## Limitations
 

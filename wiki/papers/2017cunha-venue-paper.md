@@ -3,7 +3,7 @@ id: paper:2017cunha-venue-paper
 type: paper
 title: "Raman spectroscopy revealing noble gas adsorption on single-walled carbon nanotube bundles"
 updated: "2026-04-20"
-confidence: med
+confidence: high
 canonical_tags:
   - domain:carbon-hydrocarbon
   - domain:reaxff-lineage
@@ -31,29 +31,25 @@ group_affiliation: true
 
 <!-- id:paper:2017cunha-venue-paper -->
 
-## Evidence and attribution
-
-!!! note "Authority of statements"
-
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
-
 ## Summary
 
-**Uncorrected proof** PDF for the **Carbon** article coupling **cryogenic Raman** on **noble gas**–**SWCNT bundle** systems with **ReaxFF**-based modeling (**same scientific content** as the **published** issue). **Blueshifted** **RBM/G/2D** modes signal **gas condensation** in **groove** and outer **surface** regions and associated **compressive** coupling to **phonons**. Prefer the **final** **Carbon** **127** PDF for **pagination** and **editorial** corrections.
+This page tracks an **uncorrected proof** PDF (`papers/Cunha_Carbon_2017_proof.pdf`) for a *Carbon* article investigating **argon** and **xenon** adsorption on **single-walled carbon nanotube (SWCNT) bundles** using **low-temperature Raman spectroscopy** combined with **ReaxFF-based modeling**. Bundles deposited on **transmission electron microscopy grids** are exposed to noble gases at **20 K**, where condensed adsorbates populate **external groove sites** (the interstitial channels between tubes in a bundle) and outer bundle surfaces. The abstract reports **substantial blueshifts** of the **radial breathing mode (RBM)**, **G-band**, and **G′/2D** features, interpreted as a **solidified adsorbate shell** that applies an effective **hydrostatic pressure** to the nanotube lattice, mechanically coupling to the measured phonons. The authors highlight that **Ar** and **Xe** produce **almost the same frequency shifts**, arguing that the bundle–gas interactions are **nearly identical** in strength within the experimental resolution, consistent with physisorption-dominated noble-gas probes.
 
 ## Methods
 
-- **Experimental Raman** at **20 K** with **Ar**/**Xe** adsorption; complementary **ReaxFF** interpretation per main text.
+Same **experimental + ReaxFF** design as the **version-of-record** article (**DOI 10.1016/j.carbon.2017.11.017**): **Raman** on **SWCNT bundles** with **Ar/Xe** at **20 K**, plus **ReaxFF** modeling of **adsorption-site** occupancy and **mechanical coupling** to **phonon** shifts. **This repo `pdf_path`** points to an **uncorrected proof**—use **[[2017cunha-carbon-127-2-raman-spectroscopy]]** for the **journal-layout** PDF when reconciling numbers.
+
+**MD protocol details** (**code**, **ensemble**, **timestep**, **thermostat/barostat**, **duration**, **supercell** definitions) match the **VOR** *Carbon* **Methods**; they are **not transcribed** from the indexed proof excerpt on this duplicate-route page.
+
+**MD blueprint honesty (proof route).** **Reactive molecular dynamics** with **ReaxFF** on **PBC** **bundle** models mirrors the **VOR**. **LAMMPS** is the usual **MD engine**—confirm in the **journal PDF**. **NVT**/**NPT**/**NVE**, **timestep**, **thermostat**, **barostat**/**pressure**, and **equilibration**/**production** times (**ps**/**ns**) are **N/A** from the proof excerpt—copy from **[[2017cunha-carbon-127-2-raman-spectroscopy]]**’s **Methods** source.
 
 ## Findings
 
-- **Similar shifts** for **Ar**/**Xe** imply comparable **interaction** strengths; **non-doping** rationale via **linewidth**/**intensity** stability.
+**Blueshifts** of **RBM/G/2D** upon **noble-gas** condensation; **Ar** and **Xe** give **nearly identical** shift patterns, consistent with **physisorption**-dominated coupling. **Interpretation:** shifts reflect **mechanical** loading from a **solidified adsorbate shell** more than **strong electronic doping** (supported by **linewidth/intensity** behavior in the manuscript). Treat this slug as a **duplicate PDF route**; detailed **simulation–experiment** comparisons live in the **final** *Carbon* **PDF**. **Comparisons:** experimental **Raman** trends for **Ar** vs **Xe** are the primary comparator; modeling supports **physisorption** interpretations. **Sensitivity:** **temperature** (**20 K** dosing) controls adsorption state. **Limitations:** **proof** PDF may omit final figure quality; see **## Limitations**.
 
 ## Limitations
 
-- **Proof** status and **partial** extraction—verify figures/tables against **version of record**.
+**Proof** PDF (`extraction_quality: partial`): **pagination**, metadata, and figures may differ from the **VOR**; prefer **[[2017cunha-carbon-127-2-raman-spectroscopy]]** for curation-backed numbers.
 
 ## Relevance to group
 

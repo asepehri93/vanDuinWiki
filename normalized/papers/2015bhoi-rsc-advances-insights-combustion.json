@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015bhoi-rsc-advances-insights-combustion",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bhoi_RSC_Advances_coal_2016.pdf",
+    "sha256": "153bd1a32766d0ab568539ce7d2099fa3540a5352fc80a54398eb8607a33535c",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Insights on the combustion and pyrolysis behavior of three different ranks of coals using reactive molecular dynamics simulation",
+    "year": 2015,
+    "authors": "Sanjukta Bhoi",
+    "venue": "RSC Advances (2016), 6, 2559-2570, doi:10.1039/C5RA23181G"
+  },
+  "pdf_path": "papers/ReaxFF_others/Bhoi_RSC_Advances_coal_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015bhoi-rsc-advances-insights-combustion_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015bhoi-rsc-advances-insights-combustion.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

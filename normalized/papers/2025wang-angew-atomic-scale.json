@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2025wang-angew-atomic-scale",
+  "manifest": {
+    "source_path": "papers/Wang_Angewandte_Sulfur_2025.pdf",
+    "sha256": "3389a15fc5e9eb9adb9885c7dd6c343ae0a7c210125ed3ded481b8a779139fe1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1002/anie.202511640",
+    "title": "Atomic-Scale Mechanistic Insights into the Ring-Opening Polymerization of Elemental Sulfur",
+    "year": 2025,
+    "authors": "Mengyi Wang, Saied Md Pratik, Nadire Nayir, Maliheh Shaban Tameh, Veaceslav Coropceanu, Jean-Luc Bredas, Jeffrey Pyun, Adri C. T. van Duin, Shamil Saiev",
+    "venue": "Angewandte Chemie International Edition"
+  },
+  "pdf_path": "papers/Wang_Angewandte_Sulfur_2025.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2025wang-angew-atomic-scale_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2025wang-angew-atomic-scale.md",
+  "updated": "2026-04-25T12:00:00Z"
+}

@@ -42,14 +42,39 @@ Senftle, van Duin, and Janik present a **hybrid grand-canonical Monte Carlo / mo
 
 ## Methods
 
-- **ReaxFF** energy expression (bond order, polarizable charge treatment) enabling **RMD** and GC ensembles.
-- **GC-MC/MD** in a \((T,V,N_{\mathrm{Pd}},\mu_{\mathrm{res}})\)-style ensemble with stochastic insertion/deletion/displacement of non-Pd atoms, **MD relaxation** after MC moves, and specialized volume accounting to reduce bias (as referenced to prior work).
-- Pd/O and Pd/H parameters from earlier publications; Pd/C/H parameters fit to a training set of **adsorption energies** on Pd sites.
+### ReaxFF formalism and parameter lineage
+
+- **ReaxFF** provides **bond-order**-dependent energetics and **polarizable charge** treatment suitable for **reactive MD** and **open** ensembles (communication introduction).
+- **Pd/O** and **Pd/H** interaction subsets come from earlier **ReaxFF** publications cited in the article; new **Pd/C/H** terms are fit to a **QM-derived** training set emphasizing **adsorption energies** on **Pd** sites (extract-level summary).
+
+### Grand-canonical hybrid sampling (GC-MC/MD)
+
+- **Hybrid GC-MC/MD** couples **grand-canonical Monte Carlo** moves (insertion/deletion/displacement of **non-Pd** species) with **MD relaxation** segments in a \((T,V,N_{\mathrm{Pd}},\mu_{\mathrm{res}})\)-style framework, including specialized **volume** bookkeeping to reduce bias (references to prior methodological papers in the communication).
+
+### Demonstration cases summarized in the abstract/intro
+
+- **Oxidation:** **O\(_2\)** uptake on a **~3 nm** **Pd** cluster vs **temperature** and **oxygen pressure**.
+- **Multi-component reservoir:** **GC-MC/MD** exchanging **C** and **H** with a **hydrocarbon/hydrogen** reservoir to probe competition between **carbide-like** and **hydride-like** nanoparticle states.
+
+### Coverage note
+
+- Full **MC** move sets, **chemical potential** definitions, and **convergence** diagnostics appear in the **Catalysis Communications** PDF beyond the short extract.
+
+### 1 — Grand-canonical sampling + MD segments (GC-MC/MD)
+
+The communication couples **grand-canonical Monte Carlo** moves on **non-Pd** species with **molecular dynamics** relaxation segments—**open ensemble** sampling at specified **\(T,V\)** with reservoir **chemical potentials** (see cited methodological references in the article). **System / composition:** demonstration **oxidation** tracks a **~3 nm** **Pd** cluster with **O\(_2\)** exchange; the multi-species case exchanges **C** and **H** against a **hydrocarbon/hydrogen** reservoir (abstract)—exact **atom** totals per snapshot are **N/A —** confirm in **`pdf_path`**. **Periodic** supercells for the **nanoparticle** models are implied by the GC ensemble setup, but explicit **PBC** vectors are **N/A —** not on the two-page extract. **Temperature and gas-phase pressure:** Case 1 varies **temperature** together with **oxygen pressure** (abstract). **Ensemble:** **NVT**-style **thermal** control is typical for the **MD** segments between **GCMC** moves, but explicit thermostat labels are **N/A —** confirm in **`pdf_path`**. **Timestep (fs) and total ps/ns segment lengths:** **N/A —** not on the indexed extract. **Barostat:** **constant-volume** **\(T,V,N_{\mathrm{Pd}},\mu\)** framing; **NPT** — **N/A —** not highlighted in the abstract-level summary. **Engine:** **N/A —** software name not on indexed pages. **Electric field / enhanced sampling:** **N/A —** not part of the described **GC-MC/MD** workflow.
+
+### 2 — Force-field training
+
+**Pd/O** and **Pd/H** subsets are imported from earlier **ReaxFF** publications; new **Pd/C/H** terms are fit to **QM-derived** **training** statistics quoted in the extract. **Optimization** details and full **reference** **energy** tables are **N/A —** deferred to the forthcoming publications noted in the communication—consult **`pdf_path`**.
 
 ## Findings
 
-- The approach is positioned as a practical bridge between costly **DFT/ab initio thermodynamics** and nanoparticle-scale **environment-dependent** catalyst structure prediction.
-- Two highlighted applications: **oxygen uptake / oxidation** in a 3 nm Pd cluster across \(P,T\); and **hydrogen/hydrocarbon-ratio** dependent **carbide vs hydride** formation in GC-MC/MD.
+- The authors position **GC-MC/MD + ReaxFF** as a tractable alternative to exhaustive **ab initio thermodynamics** for **environment-dependent** **nanoparticle** speciation.
+- **Case 1:** maps **oxidation** of a **~3 nm** **Pd** cluster across **\(P,T\)** space.
+- **Case 2:** explores **hydrogen/hydrocarbon** ratio effects on **carbide vs hydride** competition in **open** ensemble sampling.
+
+**Comparisons / limitations.** Quantitative agreement with **experiment** and any detailed **benchmark** plots are only recoverable from the **full PDF** and cited follow-on papers; this wiki page is **extract**-anchored and should not be treated as a numeric substitute.
 
 ## Limitations
 
@@ -63,6 +88,10 @@ Co-authored by **Adri C. T. van Duin**; demonstrates **ReaxFF + GC-MC/MD** as a 
 ## Citations and evidence anchors
 
 - DOI: [https://doi.org/10.1016/j.catcom.2013.12.001](https://doi.org/10.1016/j.catcom.2013.12.001)
+
+## Reader notes (navigation)
+
+These sections summarize what the checked-in extraction and abstracts support; they are not a substitute for the full PDF. For theme-level retrieval, see [[paper-index-by-domain]] and hubs linked from `canonical_tags` in the front matter above. Operators updating chunks should reconcile numbers with `normalized/extracts/` and the version-of-record PDF when available.
 
 ## Related topics
 

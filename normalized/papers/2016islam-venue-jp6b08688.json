@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016islam-venue-jp6b08688",
+  "manifest": {
+    "source_path": "papers/Islam_eReaxFF_LiEC_JPC_C_2016.pdf",
+    "sha256": "66c90077f9dcaaeeea43959d07f796c667bd829872c6b85388eac88f3a8235eb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.jpcc.6b08688",
+    "title": "jp6b08688 1..7",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Islam_eReaxFF_LiEC_JPC_C_2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016islam-venue-jp6b08688_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016islam-venue-jp6b08688.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022yanping-li-acs-revealing-chemical",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Li_SiClH_ACS_Omega_2022.pdf",
+    "sha256": "8d0681e1d24179a0af4ff7035fae94027f429ba678f0ae7cbdb5fa616c929116",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Revealing the Chemical Reaction Properties of a SiHCl3 Pyrolysis System by the ReaxFF Molecular Dynamics Method",
+    "year": 2022,
+    "authors": "Yanping Li, Dazhou Yan, Tao Yang, Guosheng Wen, and Xin Yao",
+    "venue": "ACS Omega 2022.7:3900-3916"
+  },
+  "pdf_path": "papers/ReaxFF_others/Li_SiClH_ACS_Omega_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022yanping-li-acs-revealing-chemical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022yanping-li-acs-revealing-chemical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

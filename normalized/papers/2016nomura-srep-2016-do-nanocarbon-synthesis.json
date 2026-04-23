@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016nomura-srep-2016-do-nanocarbon-synthesis",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Nomura_SiC_oxidation_SciRep2016.pdf",
+    "sha256": "17651b3deee7b5f00a6ecb02b4db1dc7a54fc9513cb9f287403ed69ad13c9138",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/srep24109",
+    "title": "Nanocarbon synthesis by high-temperature oxidation of nanoparticles",
+    "year": 2016,
+    "authors": "Ken-ichi Nomura",
+    "venue": "srep ,  (2016). doi:10.1038/srep24109"
+  },
+  "pdf_path": "papers/ReaxFF_others/Nomura_SiC_oxidation_SciRep2016.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016nomura-srep-2016-do-nanocarbon-synthesis_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016nomura-srep-2016-do-nanocarbon-synthesis.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

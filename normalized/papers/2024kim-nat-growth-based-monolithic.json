@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2024kim-nat-growth-based-monolithic",
+  "manifest": {
+    "source_path": "papers/Others/Kim_Kim_single_crystal_2D_Nature_2024.pdf",
+    "sha256": "51de7d3a2413bd30dc1520fa11304b8cfa1f045a64312bbefe5b2e13ccfbc71f",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Growth-based monolithic 3D integration of single-crystal 2D semiconductors",
+    "year": 2024,
+    "authors": "Ki Seok Kim",
+    "venue": "Nature, doi:10.1038/s41586-024-08236-9"
+  },
+  "pdf_path": "papers/Others/Kim_Kim_single_crystal_2D_Nature_2024.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2024kim-nat-growth-based-monolithic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2024kim-nat-growth-based-monolithic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

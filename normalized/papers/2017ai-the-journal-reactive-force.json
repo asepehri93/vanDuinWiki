@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017ai-the-journal-reactive-force",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/2018_LiqiangAi_A reactive force field molecular dynamic simulation of nickel oxidation in supercritical water.pdf",
+    "sha256": "ca44a74ae4eb4b9d567f75e4d972d753c37ab67e52e4a3934dc164d84b3c251a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.sup",
+    "title": "A reactive force field molecular dynamics simulation of nickel oxidation in supercritical water",
+    "year": 2017,
+    "authors": "Liqiang Ai",
+    "venue": "The Journal of Supercritical Fluids, 133 (2017) 421-428. doi:10.1016/j.supflu.2017.10.025"
+  },
+  "pdf_path": "papers/ReaxFF_others/2018_LiqiangAi_A reactive force field molecular dynamic simulation of nickel oxidation in supercritical water.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017ai-the-journal-reactive-force_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017ai-the-journal-reactive-force.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

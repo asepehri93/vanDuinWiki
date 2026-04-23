@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020mojtabavi-x-wafer-scale-lateral",
+  "manifest": {
+    "source_path": "papers/Mojtabavi_Ganeshan_ACS_Nano_2021_galley.pdf",
+    "sha256": "376b52bef453167f8f59812ac250ceb5097c1f41a33a648aa4bc44ddb606accd",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsnano.0c06393",
+    "title": "Wafer-Scale Lateral Self-Assembly of Mosaic Ti3C2Tx MXene Monolayer Films",
+    "year": 2020,
+    "authors": "Mehrnaz Mojtabavi",
+    "venue": " "
+  },
+  "pdf_path": "papers/Mojtabavi_Ganeshan_ACS_Nano_2021_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020mojtabavi-x-wafer-scale-lateral_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020mojtabavi-x-wafer-scale-lateral.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

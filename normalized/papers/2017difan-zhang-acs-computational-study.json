@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017difan-zhang-acs-computational-study",
+  "manifest": {
+    "source_path": "papers/Zhang_Difan_MXene_friction_ACI_AMI_2017.pdf",
+    "sha256": "e0e583c9cc54c4772559b8df5cd61a167887d27eb75150fbe14e08337d47a6fc",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Computational Study of Low Interlayer Friction in Tin+1Cn (n = 1, 2, and 3) MXene",
+    "year": 2017,
+    "authors": "Difan Zhang, Michael Ashton, Alireza Ostadhossein, Adri C. T. van Duin, Richard G. Hennig, and Susan B. Sinnott",
+    "venue": "ACS Appl. Mater. Interfaces 2017.9:34467-34479"
+  },
+  "pdf_path": "papers/Zhang_Difan_MXene_friction_ACI_AMI_2017.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017difan-zhang-acs-computational-study_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017difan-zhang-acs-computational-study.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

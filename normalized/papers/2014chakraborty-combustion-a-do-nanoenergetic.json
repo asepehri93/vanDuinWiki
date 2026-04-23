@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014chakraborty-combustion-a-do-nanoenergetic",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Chakraborthy_Zachariah_Alumina_CombFlame_2014.pdf",
+    "sha256": "47045d0bda42fdf77db7f1f99f2ae3b4bd25580528896467098ed24f2b67ea96",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Do nanoenergetic particles remain nano-sized during combustion?",
+    "year": 2014,
+    "authors": "Purnendu Chakraborty",
+    "venue": "Combustion and Flame, 161 (2014) 1408-1416. doi:10.1016/j.combustflame.2013.10.017"
+  },
+  "pdf_path": "papers/ReaxFF_others/Chakraborthy_Zachariah_Alumina_CombFlame_2014.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014chakraborty-combustion-a-do-nanoenergetic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014chakraborty-combustion-a-do-nanoenergetic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

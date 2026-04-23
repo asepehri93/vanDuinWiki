@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2020gao-venue-stable-metal",
+  "manifest": {
+    "source_path": "papers/Gao_Shin_Hossain_PNAS_2020_SEI_design.pdf",
+    "sha256": "bde1e1148c09c22326907f8fa879721a409c16612a308b4730bf93abaf7c5b70",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Stable metal anodes enabled by a labile organic molecule bonded to a reduced graphene oxide aerogel",
+    "year": 2020,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Gao_Shin_Hossain_PNAS_2020_SEI_design.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2020gao-venue-stable-metal_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2020gao-venue-stable-metal.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

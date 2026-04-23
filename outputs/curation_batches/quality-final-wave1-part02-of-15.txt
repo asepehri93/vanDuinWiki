@@ -1,0 +1,17 @@
+2008nymeyer-j-chem-theor-how-efficient
+2008palaria-venue-paper
+2009auger-venue-paper
+2009borodin-venue-paper
+2009liang-venue-paper
+2009vanduin-venue-reactive-force
+2010martin-venue-paper
+2010medhekar-venue-paper
+2010quenneville-venue-paper
+2010two-phase-thermodyna-venue-paper
+2011cranford-venue-paper
+2011garcia-venue-paper
+2011garcia-venue-superductile-wavy
+2011harikumar-nat-directed-long-range
+2011huang-venue-paper
+2011pettifor-venue-new-many-body
+2011physrevb-84-075460-venue-paper

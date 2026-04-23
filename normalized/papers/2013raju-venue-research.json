@@ -1,0 +1,36 @@
+{
+  "paper_id": "paper:2013raju-venue-research",
+  "manifest": {
+    "source_path": "papers/Raju_TiO2_water_JPC_C_2013_galley.pdf",
+    "sha256": "0e482ee89dbfdb2c02f08b6494f20452974372e3a89eb86fcd6c9090834ad8ad",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/jp402139h",
+    "title": "ReaxFF reactive force field study of the dissociation of water on titania surfaces",
+    "year": 2013,
+    "authors": [
+      "Muralikrishna Raju",
+      "Sung-Yup Kim",
+      "Adri C. T. van Duin",
+      "Kristen A. Fichthorn"
+    ],
+    "venue": "The Journal of Physical Chemistry C"
+  },
+  "pdf_path": "papers/Raju_TiO2_water_JPC_C_2013_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2013raju-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z"
+  },
+  "entities_mentioned": ["ReaxFF", "TiO2", "water"],
+  "claims": [
+    {
+      "text": "Galley PDF for DOI 10.1021/jp402139h; same work as paper:2013raju-venue-jp402139h-2.",
+      "confidence": "high",
+      "source_refs": [{ "paper_id": "paper:2013raju-venue-research", "section": "Corpus note" }]
+    }
+  ],
+  "wiki_path": "wiki/papers/2013raju-venue-research.md",
+  "updated": "2026-04-20T23:00:00Z"
+}

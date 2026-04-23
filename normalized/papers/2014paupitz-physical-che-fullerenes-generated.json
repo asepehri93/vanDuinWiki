@@ -1,0 +1,31 @@
+{
+ "paper_id": "paper:2014paupitz-physical-che-fullerenes-generated",
+ "manifest": {
+  "source_path": "papers/Paupitz_PCCP_2014_Fullerenes.pdf",
+  "sha256": "67912cb9b7b9fe6c3de40766b84e347c4b1b01bbe9261188c5ed6380bd7a3d31",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1039/C4CP03529A",
+  "title": "Fullerenes generated from porous structures",
+  "year": 2014,
+  "authors": [
+   "Ricardo Paupitz",
+   "Chad E. Junkermeier",
+   "Adri C. T. van Duin",
+   "Paulo S. Branicio"
+  ],
+  "venue": "Physical Chemistry Chemical Physics"
+ },
+ "pdf_path": "papers/Paupitz_PCCP_2014_Fullerenes.pdf",
+ "extraction": {
+  "text_path": "normalized/extracts/2014paupitz-physical-che-fullerenes-generated_p1-2.txt",
+  "quality": "good",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 8000
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014paupitz-physical-che-fullerenes-generated.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

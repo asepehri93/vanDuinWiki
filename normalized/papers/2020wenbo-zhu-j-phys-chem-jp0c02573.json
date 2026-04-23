@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Zhu_JPCC_CuCHO_2020.pdf",
     "sha256": "3d54d6d748d38086a04d431078447f5f8f50aef3dc77d262844c333c58c83afd",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2020wenbo-zhu-j-phys-chem-jp0c02573_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2020wenbo-zhu-j-phys-chem-jp0c02573.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

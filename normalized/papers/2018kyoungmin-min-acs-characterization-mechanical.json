@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018kyoungmin-min-acs-characterization-mechanical",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/eunseog_durability of PFPE.pdf",
+    "sha256": "027166f709181f5f34e12010a7744b66390084c4cc940152eae6fe416ec32cb1",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.8b13159",
+    "title": "Characterization of mechanical degradation in perfluoropolyether film for its application to anti-fingerprint coatings",
+    "year": 2018,
+    "authors": "Kyoungmin Min, Jungim Han, Byungha Park, and Eunseog Cho",
+    "venue": "ACS Appl. Mater. Interfaces 0.0:null-null"
+  },
+  "pdf_path": "papers/ReaxFF_others/eunseog_durability of PFPE.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018kyoungmin-min-acs-characterization-mechanical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 4275
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018kyoungmin-min-acs-characterization-mechanical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

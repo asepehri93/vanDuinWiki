@@ -38,20 +38,40 @@ group_affiliation: true
 
 ## Summary
 
-This corpus entry points at an **Elsevier/Nature-style proof PDF** for the same **Nature Communications** study as `paper:2014sen-nat-oxidation-assisted-ductility` (DOI **10.1038/ncomms4959**). The extract matches the published narrative: **ReaxFF** reactive MD on **oxidized aluminium nanowires**, predicting **enhanced ductility**, an **amorphous oxide shell** that modifies **dislocation nucleation** in the core, and **superplastic-like** oxide flow when **oxygen diffusion** heals Al–O bond breaking below a critical strain rate, with explicit discussion of how accelerated MD oxidation rates are chosen to preserve oxidation-rate versus strain-rate ratios relevant to experiment.
+This corpus entry points at an **author proof PDF** for the same **Nature Communications** study as **`[[2014sen-nat-oxidation-assisted-ductility]]`** (DOI **10.1038/ncomms4959**). The scientific content matches the published narrative: **ReaxFF** reactive MD on **oxidized aluminium nanowires** under **tensile** loading, addressing how a **thin amorphous oxide shell** couples to **plasticity** in the **metallic core**. The work argues for **oxidation-assisted ductility** relative to bare **Al**, with mechanisms tied to **dislocation nucleation** statistics in the core and **time-dependent** **oxygen** transport that can **heal** **Al–O** bond rupture in the shell when **strain rate** and **oxidation rate** remain in a compatible regime—motivated by **TEM**-informed **core–shell** morphologies from **hot-formed** debris. Maintainer mapping of **proof vs VOR** PDFs: [NON_PRIMARY_ARTICLE_PAPER_SLUGS.md](https://github.com/asepehri93/vanDuinWiki/blob/main/docs/corpus/NON_PRIMARY_ARTICLE_PAPER_SLUGS.md).
 
 ## Methods
 
-Same methodology family as the published article: **ReaxFF** simulations of oxidized Al NWs with tensile deformation in vacuum and oxygen, motivated by **TEM**-informed core–shell morphology from hot-forming debris.
+This slug’s **proof** PDF duplicates **`[[2014sen-nat-oxidation-assisted-ductility]]`** (DOI **10.1038/ncomms4959**); Methods mirror the published article—use the **version-of-record** PDF for pagination.
+
+### Reactive MD (Al/O ReaxFF)
+
+- **ReaxFF** simulations model **oxidized** **Al** **nanowires** under **tensile** loading in **vacuum** versus **oxygen**-containing environments, capturing **bond rearrangement** and **oxygen transport** in an **amorphous oxide shell** around a **metallic core** (**Summary**).
+
+### Structural inspiration from experiment
+
+- **Core–shell** morphologies are motivated by **TEM** observations of **nanowire debris** from **hot forming** (**Summary**).
+
+### Timescale / rate scaling
+
+- **Oxidation** is **accelerated** relative to laboratory conditions to fit **MD** accessible times; the article discusses how **oxidation rate** vs **mechanical strain rate** are scaled to preserve **physically meaningful competition** (**Summary**).
+
+### Numerical settings
+
+- **Timestep, thermostat, system sizes:** follow **Nat. Commun.** Methods/SI—not duplicated on this proof-oriented wiki page.
+
+### 1 — MD application (proof PDF; same article as VOR)
+
+**ReaxFF** **reactive molecular dynamics** duplicates the protocol narrative on **`[[2014sen-nat-oxidation-assisted-ductility]]`**. **Engine, atom counts, PBC, timestep (fs), thermostat, ns-scale equilibration/production, barostat:** **N/A —** not retyped from **`papers/Sen_Nature_Comm_2014_proof.pdf`** on this manifest-only page—use the **version-of-record** sibling for integrated Methods text. **Ensemble:** **NVT** staging is typical for the cited **ReaxFF** tensile/oxidation workflow but **N/A —** confirm per-stage labels in the **published** PDF. **Pressure / stress:** **stress–strain** metrics appear in the article; **hydrostatic pressure** servo details — **N/A —** confirm in **`pdf_path`**. **Electric field / enhanced sampling:** **N/A —** not used in the summarized protocol class.
 
 ## Findings
 
-Aligned with the published abstract visible in the proof extract: oxidation-assisted ductility, nucleation-stress reduction via activation volume and site multiplicity, and strain-rate versus oxidation-rate interplay for oxide-shell flow.
+The study reports **oxidation-assisted** **ductility** for **oxidized** **Al** **nanowires** versus expectations for more **brittle** oxide-covered metals in some regimes. **Nucleation** of **plasticity** shifts to **lower** **flow stress** when **oxide** chemistry provides **additional** **defect** sources and **activation** volumes differ from bulk **Al**. **Oxide** **shell** behavior can become **superplastic-like** when **oxygen** **diffusion** **repairs** **bond** breaking during **deformation** below a **critical** **strain rate**, whereas faster straining can outpace **healing** and change the **failure** mode. These trends are summarized from the **published** abstract and main text; prefer the **VOR** PDF for **pagination** and **figure** numbering.
 
 ## Limitations
 
-- This file is tied to a **proof** PDF; typography and some text fragments in the extract differ slightly from the final Nature Communications layout.
-- Page-level anchoring and any proof-specific queries should be checked against the **version-of-record PDF** where possible.
+- This file is tied to a **proof** PDF; typography and some text fragments in the extract differ slightly from the final **Nature Communications** layout.
+- Page-level anchoring and any proof-specific queries should be checked against the **version-of-record PDF** where possible; canonical sibling wiki page: **`[[2014sen-nat-oxidation-assisted-ductility]]`**.
 
 ## Relevance to group
 

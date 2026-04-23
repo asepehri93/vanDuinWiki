@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2015bogaerts-nat-atomic-scale",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Khalilov_NatCommun_2015.pdf",
+    "sha256": "611abb741f2b128c29763c016988ee05f7dec6f360ac4f70ebedcafddf99c644",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/ncomms10306",
+    "title": "Atomic scale simulation of carbon nanotube nucleation from hydrocarbon precursors",
+    "year": 2015,
+    "authors": "Annemie Bogaerts",
+    "venue": "Nature Communications 6,  (2015). doi:10.1038/ncomms10306"
+  },
+  "pdf_path": "papers/ReaxFF_others/Khalilov_NatCommun_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2015bogaerts-nat-atomic-scale_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2390
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2015bogaerts-nat-atomic-scale.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

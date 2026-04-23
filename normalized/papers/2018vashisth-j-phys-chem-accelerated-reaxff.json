@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018vashisth-j-phys-chem-accelerated-reaxff",
+  "manifest": {
+    "source_path": "papers/Vashisth_JPC_bondboost_2018.pdf",
+    "sha256": "97d5875229a299b446770f6ea0c0fa1c1729d1296b82016f7736d14140a43259",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Accelerated ReaxFF Simulations for Describing the Reactive Cross-Linking of Polymers",
+    "year": 2018,
+    "authors": "Aniruddh Vashisth; Chowdhury Ashraf; Weiwei Zhang; Charles E. Bakis; Adri C. T. van Duin",
+    "venue": "J. Phys. Chem. A 2018.122:6633-6642"
+  },
+  "pdf_path": "papers/Vashisth_JPC_bondboost_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018vashisth-j-phys-chem-accelerated-reaxff_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018vashisth-j-phys-chem-accelerated-reaxff.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

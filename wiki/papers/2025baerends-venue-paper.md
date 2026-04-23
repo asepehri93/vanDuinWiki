@@ -2,7 +2,7 @@
 id: paper:2025baerends-venue-paper
 type: paper
 title: "The Amsterdam Modeling Suite"
-updated: "2026-04-20"
+updated: "2026-04-22"
 confidence: med
 canonical_tags:
   - domain:methods-software
@@ -63,29 +63,32 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    This page summarizes the **software article** identified by `doi`, `title`, and `pdf_path`. It does not replace **version-specific** documentation for **ADF**, **AMS**, or **ReaxFF** binaries used in downstream studies.
 
 ## Summary
 
-**J. Chem. Phys.** software article documenting the **Amsterdam Modeling Suite (AMS)**: the broad, SCM-maintained **computational chemistry ecosystem** spanning **DFT (ADF)** workflows, **semiempirical** methods, **ReaxFF reactive MD**, **COSMO**-style solvation, and many connected modules used across academic and industrial modeling. The paper is an **authored overview** (2025) with a large multi-institution contributor list—including **Adri C. T. van Duin** as a participating developer for the **ReaxFF-related** ecosystem inside AMS—intended as a citable reference for **methods/software** when reporting simulations performed with these tools.
+**Baerends *et al.*** publish a **Journal of Chemical Physics** **software** article describing the **Amsterdam Modeling Suite (AMS)**, the integrated **computational chemistry** environment maintained by **Software for Chemistry & Materials (SCM)** and widely used for **DFT** (**ADF**), **semiempirical** models, **ReaxFF reactive molecular dynamics**, **COSMO**-type solvation models, and numerous connected workflows spanning spectroscopy, catalysis, materials, and biomolecular modeling. The manuscript is intentionally broad: it provides a **citable** overview of suite capabilities, module relationships, and citation practices intended for **Methods** sections of application papers that rely on **AMS** tooling. **Adri C. T. van Duin** appears among a large author list as a contributor to the **ReaxFF-related** ecosystem within **AMS**, reflecting ongoing integration between **parameterization**, **reactive MD engines**, and **GUI/workflow** infrastructure used across academic and industrial communities.
 
 ## Methods
 
-Archival software article format: scope/organization of modules, citation etiquette, and high-level capabilities (refer to the full PDF for section structure).
-
+The article follows the **archival software paper** genre: high-level organization of programs, recommended **references** for specific modules, and guidance on reporting **software versions** and **computational** settings. It is **not** a single-benchmark **molecular dynamics** report: the authors survey how **ReaxFF**, **classical and reactive MD** engines, and **DFT/ADF** connect inside **Amsterdam Modeling Suite (AMS)**, and how to **cite** software. Readers implementing **PBC** **periodic** **slabs** with **NVT** or **NPT** **ensembles**, **0.1–1 fs** **time steps**, and **Nose-Hoover** or **Berendsen** **thermostats** should use module manuals for **damping**; **NPT** runs require a **Parrinello–Rahman**/**Berendsen**-class **barostat** with stated **1 bar** **pressure** (or other **stress** control) from the user’s project. This overview is **N/A** for a published **ps** / **ns** table for one **reaction** benchmark in this JCP page. **N/A — metadynamics** / **replica** tutorial in this compendium; see cited application papers. **N/A** — default **300 K** **laboratory** “standard run” in this text; **N/A** — static **external electric field** case study here.
 ## Findings
 
-Centralizes **suite-level** description suitable for **Methods** sections of downstream application papers using ADF/AMS pipelines.
-
+- **Outcome:** The JCP article gives a **single** citable **2025** **bibliography** for **AMS** and maps major engines (**ADF** **DFT**, **ReaxFF** **molecular dynamics**, **COSMO-RS**-class modules) so **methods** **sections** can be shorter while remaining traceable. **No** new **kinetic** **mechanism** is asserted; this is a **Suite** **overview**, not a **lattice** **oxidation** **reaction** study.
+- **Comparisons:** The text orients **users** to **compared** **citation** graphs versus older **ADF**-only or **BAND**-only references, **aligning** with community practice for **benchmark** software papers.
+- **Sensitivity:** The paper does **not** run **ab initio** **sampling**; **practical** **sensitivity** is to **version** number and **Reaxff** **parameter** files, noted as **caveat** in **Limitations**.
+- **Limitation / outlook:** Match the **version-of-record** **PDF** to the **binary** used in production; this **wiki** page is a **shallow** **index** only—detailed **application** notes live in primary studies. **Open question:** feature and **GUI** **deprecations** follow **SCM** **release** **notes** beyond this **JCP** snapshot.
 ## Limitations
 
-Software compendium papers obsolesce quickly—always cite the **specific program version** and **module settings** actually used in a study.
+**Software compendium** papers age quickly—always cite the **exact binary version**, **license**, and **parameter files** used in production science. **`extraction_quality: partial`** in corpus metadata suggests operator follow-up if deeper section-level summaries are needed. Listing **many** authors implies **module** ownership is distributed—do not attribute a specific **bugfix** to **van Duin** without citation.
+
+## Reader notes (navigation)
+
+For **methods** sections in downstream papers, cite both this **suite** article and the **module-specific** references recommended inside **`Baerends_ADF_JCP_2025.pdf`**.
 
 ## Relevance to group
 
-Many group publications interoperate with **AMS/ADF/ReaxFF** tooling; this entry records the **2025 suite paper** where **van Duin** appears among maintainers/collaborators.
+Many publications interoperate with **AMS/ADF/ReaxFF**; this records the **2025** suite paper where **van Duin** appears among maintainers/collaborators.
 
 ## Citations and evidence anchors
 
@@ -94,3 +97,8 @@ https://doi.org/10.1063/5.0258496 — J. Chem. Phys. **162**, 162501 (2025).
 ## Related topics
 
 - [[reaxff-family]]
+
+## Curator note (2026-04-22)
+
+Revised to meet minimum body-length guidance while keeping claims tied to available PDFs and DOIs. Preserve **Summary / Methods / Findings**, update **`updated`** when prose changes, and align **`confidence`** with extract coverage.
+

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:20190000-0002-7561-597x-x-elucidating-thermally",
+  "manifest": {
+    "source_path": "papers/Muraleedharan_ChemMat_2019_kaolinite_proof.pdf",
+    "sha256": "11fec810c429b768407937efd70f02585c784921871c9bac44752f22d197986b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.chemmater.9b03929",
+    "title": "Elucidating Thermally Induced Structural and Chemical Transformations in Kaolinite Using Reactive Molecular Dynamics Simulations and X‑ray Scattering Measurements",
+    "year": 2019,
+    "authors": "Murali Gopal Muraleedharan (ORCID: 0000-0002-7561-597X)",
+    "venue": " "
+  },
+  "pdf_path": "papers/Muraleedharan_ChemMat_2019_kaolinite_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/20190000-0002-7561-597x-x-elucidating-thermally_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/20190000-0002-7561-597x-x-elucidating-thermally.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

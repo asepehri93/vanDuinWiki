@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019selis-rsc-advances-dendrite-formation",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Selis_Seminario_RSC_Advances_2019_dendrite.pdf",
+    "sha256": "710984a5001fdeaa4b3e3418dc998d6de2c76006003b4637d2d6287a60684b88",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Dendrite formation in Li-metal anodes: an atomistic molecular dynamics study",
+    "year": 2019,
+    "authors": "Luis A. Selis",
+    "venue": "RSC Advances (2019), 9, 27835-27848, doi:10.1039/C9RA05067A"
+  },
+  "pdf_path": "papers/ReaxFF_others/Selis_Seminario_RSC_Advances_2019_dendrite.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019selis-rsc-advances-dendrite-formation_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019selis-rsc-advances-dendrite-formation.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

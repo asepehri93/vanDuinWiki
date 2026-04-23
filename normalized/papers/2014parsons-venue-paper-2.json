@@ -1,0 +1,31 @@
+{
+ "paper_id": "paper:2014parsons-venue-paper-2",
+ "manifest": {
+  "source_path": "papers/Parsons_N2_N2_JCP_2014_proof.PDF",
+  "sha256": "5f1aa8bac026da5b6095980b1b2d5e0dd2891401a957f08a093da4523fc601ab",
+  "ingested_at": "2026-04-20T22:08:36Z"
+ },
+ "bibliography": {
+  "doi": "10.1063/1.4903782",
+  "title": "Modeling of molecular nitrogen collisions and dissociation processes for direct simulation Monte Carlo",
+  "year": 2014,
+  "authors": [
+   "Neal Parsons",
+   "Deborah A. Levin",
+   "Adri C. T. van Duin",
+   "Tong Zhu"
+  ],
+  "venue": "The Journal of Chemical Physics"
+ },
+ "pdf_path": "papers/Parsons_N2_N2_JCP_2014_proof.PDF",
+ "extraction": {
+  "text_path": "normalized/extracts/2014parsons-venue-paper-2_p1-2.txt",
+  "quality": "partial",
+  "extracted_at": "2026-04-20T22:08:36Z",
+  "text_preview_chars": 7355
+ },
+ "entities_mentioned": [],
+ "claims": [],
+ "wiki_path": "wiki/papers/2014parsons-venue-paper-2.md",
+ "updated": "2026-04-20T12:00:00Z"
+}

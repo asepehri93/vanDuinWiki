@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018yilmaz-j-phys-chem-defect-design",
+  "manifest": {
+    "source_path": "papers/Yilmaz_potato_stamp_JPC_2018.pdf",
+    "sha256": "98adfafba934f328ed741549bb588d09090d2dea0d48bf8e9817d28c3be83187",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Defect Design of Two-Dimensional MoS2 Structures by Using a Graphene Layer and Potato Stamp Concept",
+    "year": 2018,
+    "authors": "Dundar E. Yilmaz; Roghayyeh Lotfi; Chowdhury Ashraf; Sungwook Hong; Adri C. T. van Duin",
+    "venue": "J. Phys. Chem. C 2018.122:11911-11917"
+  },
+  "pdf_path": "papers/Yilmaz_potato_stamp_JPC_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018yilmaz-j-phys-chem-defect-design_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018yilmaz-j-phys-chem-defect-design.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

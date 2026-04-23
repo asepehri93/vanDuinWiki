@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022jacobson-jcis-open-8-effect-nanoconfinement",
+  "manifest": {
+    "source_path": "papers/Jacobsen_Chen_silica_PoZ_JCIS_open_2022.pdf",
+    "sha256": "8c435d56c6f4a7bff6d4ce92b6583fe8af54dac238fca704d30f98e9d644d39a",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Effect of nanoconfinement and pore geometry on point of zero charge in synthesized mesoporous siliceous materials",
+    "year": 2022,
+    "authors": "Andrew T. Jacobson",
+    "venue": "JCIS Open, 8 (2022) 100069. doi:10.1016/j.jciso.2022.100069"
+  },
+  "pdf_path": "papers/Jacobsen_Chen_silica_PoZ_JCIS_open_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022jacobson-jcis-open-8-effect-nanoconfinement_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022jacobson-jcis-open-8-effect-nanoconfinement.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2014islam-venue-paper-3",
+  "manifest": {
+    "source_path": "papers/Islam_PCCP_LiS_JustAccepted.pdf",
+    "sha256": "bc69d058e11c175d5ddfdd3b1b485a5af8746a67ad2ab176d835fb2e97272f8d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1039/c4cp04532g",
+    "title": "ReaxFF molecular dynamics simulations on lithiated sulfur cathode materials",
+    "year": 2014,
+    "authors": ["Islam, Md Mahbubul", "Ostadhossein, Alireza", "Borodin, Oleg", "Yeates, A. Todd", "Tipton, William W.", "Hennig, Richard G.", "Kumar, Nitin", "van Duin, Adri C. T."],
+    "venue": "Physical Chemistry Chemical Physics"
+  },
+  "pdf_path": "papers/Islam_PCCP_LiS_JustAccepted.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2014islam-venue-paper-3_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7094
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2014islam-venue-paper-3.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

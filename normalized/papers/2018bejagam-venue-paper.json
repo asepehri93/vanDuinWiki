@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018bejagam-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Bejagam_Carbon_nanoscroll_2018_SI.pdf",
+    "sha256": "240337af7234a5af8a2b7232744cc3b1a31f25813ce99489be3cf799274882af",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": null,
+    "year": 2018,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/Bejagam_Carbon_nanoscroll_2018_SI.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018bejagam-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 6332
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018bejagam-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

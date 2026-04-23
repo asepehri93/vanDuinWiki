@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022xu-x-manuscript",
+  "manifest": {
+    "source_path": "papers/Xu_PTFE_Iron_lubrication_RxFF_Tianbao_ACS_AMI_2022_galley.pdf",
+    "sha256": "b600bd9f5f70ff9153e803b4e72f2cb4bf84e05c4c043a29472806ff8f46188b",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acsami.1c23950",
+    "title": "manuscript 1..12",
+    "year": 2022,
+    "authors": "Qiang Xu",
+    "venue": " "
+  },
+  "pdf_path": "papers/Xu_PTFE_Iron_lubrication_RxFF_Tianbao_ACS_AMI_2022_galley.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022xu-x-manuscript_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022xu-x-manuscript.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019martin-doi-10-1103-topology-disordered",
+  "manifest": {
+    "source_path": "papers/Others/PhysRevLett.123.116105.pdf",
+    "sha256": "4eb6692c680de31a3ea711c58709660be9f024903434280468131bc7742c372d",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1103/PhysRevLett.123.116105",
+    "title": "Topology of Disordered 3D Graphene Networks",
+    "year": 2019,
+    "authors": "Jacob W. Martin",
+    "venue": "doi:10.1103/PhysRevLett.123.116105 url:https://doi.org/10.1103/PhysRevLett.123.116105"
+  },
+  "pdf_path": "papers/Others/PhysRevLett.123.116105.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019martin-doi-10-1103-topology-disordered_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019martin-doi-10-1103-topology-disordered.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

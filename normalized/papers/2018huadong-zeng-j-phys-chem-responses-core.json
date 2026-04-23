@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2018huadong-zeng-j-phys-chem-responses-core",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Zeng_AlO_JPCC_2018.pdf",
+    "sha256": "741c3b04ef5ab41b8d8c20ea85a7c97b7642bb45524ae76dba4d3fa1b3c02b55",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Responses of Core–Shell Al/Al2O3 Nanoparticles to Heating: ReaxFF Molecular Dynamics Simulations",
+    "year": 2018,
+    "authors": "HuaDong Zeng, XinLu Cheng, ChaoYang Zhang, and ZhiPeng Lu",
+    "venue": "J. Phys. Chem. C 2018.122:9191-9197"
+  },
+  "pdf_path": "papers/ReaxFF_others/Zeng_AlO_JPCC_2018.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2018huadong-zeng-j-phys-chem-responses-core_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2018huadong-zeng-j-phys-chem-responses-core.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

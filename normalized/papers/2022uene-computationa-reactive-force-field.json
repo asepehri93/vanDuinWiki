@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2022uene-computationa-reactive-force-field",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Uene_SiH_Si_CompMatSci_2022.pdf",
+    "sha256": "aa3623229e83410153e3113a5aed0b7644ad4363a527efccf9b931997341f9cd",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Reactive force-field molecular dynamics simulation for the surface reaction of SiH x ( x  = 2–4) species on Si(1 0 0)-(2 × 1):H surfaces in chemical vapor deposition processes",
+    "year": 2022,
+    "authors": "Naoya Uene",
+    "venue": "Computational Materials Science, 204 (2022) 111193. doi:10.1016/j.commatsci.2022.111193"
+  },
+  "pdf_path": "papers/ReaxFF_others/Uene_SiH_Si_CompMatSci_2022.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2022uene-computationa-reactive-force-field_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2022uene-computationa-reactive-force-field.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

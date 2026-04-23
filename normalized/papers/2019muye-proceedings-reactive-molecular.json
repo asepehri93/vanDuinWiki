@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019muye-proceedings-reactive-molecular",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Feng_Luo_ProcCombInst_Methane_Pt_2019.pdf",
+    "sha256": "88e5f49b73eca69fae481add25410eb4aea25e35ff830d45029a091ba52f1cd5",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.proci.2018.05.109",
+    "title": "A reactive molecular dynamics simulation study of methane oxidation assisted by platinum/graphene-based catalysts",
+    "year": 2019,
+    "authors": "Feng Muye",
+    "venue": "Proceedings of the Combustion Institute, 37 (2019) 5473-5480. doi:10.1016/j.proci.2018.05.109"
+  },
+  "pdf_path": "papers/ReaxFF_others/Feng_Luo_ProcCombInst_Methane_Pt_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019muye-proceedings-reactive-molecular_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019muye-proceedings-reactive-molecular.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2016yeon-venue-jp5b09784",
+  "manifest": {
+    "source_path": "papers/Yeon_Silica_hydrolysis_JPCC_2015.pdf",
+    "sha256": "6f15c7d3e39ac8f9fb34da373fdffe68ab4f923215321322845a5a7b143a3e58",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "jp5b09784 1..13",
+    "year": 2016,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Yeon_Silica_hydrolysis_JPCC_2015.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2016yeon-venue-jp5b09784_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7599
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2016yeon-venue-jp5b09784.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

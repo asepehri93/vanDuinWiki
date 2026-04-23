@@ -3,7 +3,7 @@
   "manifest": {
     "source_path": "papers/Prenger_ACS_AEM_2022.pdf",
     "sha256": "4c7e81c6d9802463873bd712737f8b35d8721d953930d8f1450c77f002ec3c77",
-    "ingested_at": "2026-04-20T21:46:34Z"
+    "ingested_at": "2026-04-20T22:08:36Z"
   },
   "bibliography": {
     "doi": null,
@@ -16,11 +16,11 @@
   "extraction": {
     "text_path": "normalized/extracts/2022kaitlyn-prenger-acs-metal-cation_p1-2.txt",
     "quality": "good",
-    "extracted_at": "2026-04-20T21:46:34Z",
+    "extracted_at": "2026-04-20T22:08:36Z",
     "text_preview_chars": 8000
   },
   "entities_mentioned": [],
   "claims": [],
   "wiki_path": "wiki/papers/2022kaitlyn-prenger-acs-metal-cation.md",
-  "updated": "2026-04-20T21:46:34Z"
+  "updated": "2026-04-20T22:08:36Z"
 }

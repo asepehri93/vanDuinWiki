@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023ahmad-nat-aqueous-phase",
+  "manifest": {
+    "source_path": "papers/Ahmad_Swarit_Yun-CO2_MIL_88B_2023-Nature_Communications.pdf",
+    "sha256": "d56c366a6d82ed8a2ba0c8280e2ac05c81fa3b1b260b52c907ea16ad7af9d4af",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1038/s41467-023-38506-5",
+    "title": "Aqueous phase conversion of CO2 into acetic acid over thermally transformed MIL-88B catalyst",
+    "year": 2023,
+    "authors": "Waqar Ahmad",
+    "venue": "Nature Communications, doi:10.1038/s41467-023-38506-5"
+  },
+  "pdf_path": "papers/Ahmad_Swarit_Yun-CO2_MIL_88B_2023-Nature_Communications.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023ahmad-nat-aqueous-phase_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023ahmad-nat-aqueous-phase.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

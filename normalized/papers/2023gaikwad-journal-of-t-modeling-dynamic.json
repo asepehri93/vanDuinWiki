@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023gaikwad-journal-of-t-modeling-dynamic",
+  "manifest": {
+    "source_path": "papers/Gaikwad_J_Electrochem_2023_O_vacancies.pdf",
+    "sha256": "9a3ab57dc08b79affc36a117cbbd1a0970ab5cd5fb1d1823adffc2e69702426e",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Modeling Dynamic Evolution of Oxygen Vacancies in Solid Oxide Materials",
+    "year": 2023,
+    "authors": "Prashik S. Gaikwad",
+    "venue": "Journal of The Electrochemical Society, 170(2023) 113501. doi:10.1149/1945-7111/ad0722"
+  },
+  "pdf_path": "papers/Gaikwad_J_Electrochem_2023_O_vacancies.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023gaikwad-journal-of-t-modeling-dynamic_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 7993
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023gaikwad-journal-of-t-modeling-dynamic.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

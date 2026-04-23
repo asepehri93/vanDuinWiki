@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2023dhakane-carbon-trend-graph-dynamical",
+  "manifest": {
+    "source_path": "papers/Dhakane_Ganesh_CarbonTrends_GraphNN_BaTiO3_2023.pdf",
+    "sha256": "9e969644e3faf7e6d30c071e07317e5dde146dcc4f9c745f7a3ea8788c12edb8",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "A Graph Dynamical neural network approach for decoding dynamical states in ferroelectrics.",
+    "year": 2023,
+    "authors": "Abhijeet Dhakane",
+    "venue": "Carbon Trends, 11 (2023) 100264. doi:10.1016/j.cartre.2023.100264"
+  },
+  "pdf_path": "papers/Dhakane_Ganesh_CarbonTrends_GraphNN_BaTiO3_2023.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2023dhakane-carbon-trend-graph-dynamical_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2023dhakane-carbon-trend-graph-dynamical.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

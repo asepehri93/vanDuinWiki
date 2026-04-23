@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019zhang-carbon-159-2-converting-pbo",
+  "manifest": {
+    "source_path": "papers/Zhang_Liwen_Carbon_PBO_2020.pdf",
+    "sha256": "f21143b13cc611d2002a495e9796767f099827e7f4ff18cb6e36e63f47a56be4",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Converting PBO fibers into carbon fibers by ultrafast carbonization",
+    "year": 2019,
+    "authors": "Liwen Zhang",
+    "venue": "Carbon, 159 (2020) 432-442. doi:10.1016/j.carbon.2019.12.067"
+  },
+  "pdf_path": "papers/Zhang_Liwen_Carbon_PBO_2020.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019zhang-carbon-159-2-converting-pbo_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019zhang-carbon-159-2-converting-pbo.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

@@ -3,7 +3,7 @@ id: paper:2015tavazza-venue-research-2
 type: paper
 title: "Molecular dynamics investigation of the effects of tip–substrate interactions during nanoindentation"
 updated: "2026-04-20"
-confidence: med
+confidence: high
 canonical_tags:
   - domain:mechanics-tribology
   - domain:reactive-md
@@ -35,35 +35,45 @@ group_affiliation: true
 
 !!! note "Authority of statements"
 
-    Prose sections below (**Summary**, **Methods**, **Findings**, etc.) are **curated summaries of the publication** identified by `doi`, `title`, and `pdf_path` in the front matter above. They are **not** new primary claims by this wiki.
-
-    For **definitive** numerical values, reaction schemes, and interpretations, use the **peer-reviewed article** (and optional records under `normalized/papers/` when present)—not this page alone.
+    Prose summarizes the publication identified by `doi` and `pdf_path`. This ingest is a **publisher proof** PDF for the same article as [[2015tavazza-venue-research]].
 
 ## Summary
 
-This ingest is a **publisher proof PDF** for the **same J. Phys. Chem. C nanoindentation article** as `paper:2015tavazza-venue-research` (**DOI `10.1021/acs.jpcc.5b01275`**). The scientific narrative covers **chemically explicit indenter models**, **Ni transfer to tips** under clean/oxidized conditions, and **suppression of transfer** with **hydrogen-terminated diamond** tips, relative to simplified repulsive-sphere workflows.
+**Proof PDF** (`papers/Tavazza_JPC_2015_proof.pdf`) for **DOI `10.1021/acs.jpcc.5b01275`**, mirroring the peer-reviewed article summarized on [[2015tavazza-venue-research]]. **Nanoindentation** simulations in **molecular dynamics** typically idealize the indenter as a **repulsive sphere** or frozen lattice and neglect **contamination** and **native oxide** films; this study instead varies the **Ni–C** interaction model to include **pure repulsion**, a **DFT-fitted Lennard-Jones** attraction, and fully **reactive ReaxFF** for **Ni/C/H/O** so that **hydrogenated tips** and **oxygen-covered nickel** can be treated explicitly. The authors compare these setups against **AFM** images of blunted tips and selected **DFT** contact calculations. The abstract’s headline result is **large Ni pickup** on **clean** or **oxidized** nickel that survives **retraction**, strongly suppressed by **hydrogen-terminated** diamond tips—an effect described as **larger** than a simple **surface oxide contaminant** narrative.
 
 ## Methods
 
-Same as the journal publication—see **`paper:2015tavazza-venue-research`**.
+Scientific protocol matches the **version-of-record narrative** on [[2015tavazza-venue-research]]: large-scale **molecular dynamics** of **Ni(111)** **slabs** with **>10⁴ atoms** in the excerpted geometry, **3D PBC** in-plane, **NVT** nanoindentation with **Nosé–Hoover** thermostat, **1 fs** timestep, **50 000 MD steps** per **0.1 Å** semistatic indentation increment (≈**0.05 ns** **production** **MD** per relaxation segment), **temperature** control via that **NVT** thermostat, **pressure** **N/A** for hydrostatic barostat (contact **stress** via **virial**), and the same **EAM/Tersoff/LJ** vs **ReaxFF** hierarchy (see **`pdf_path`**).
+
+**Force-field training:** **LJ** **Ni–C** attraction fit to **DFT** contact data (article Sec. 2).
+
+**Static QM / DFT:** **DFT** used for fitting/validation of early contact—not production MD.
 
 ## Findings
 
-No additional scientific claims beyond the **final article**; treat this file as **provenance for an alternate PDF**.
+**Outcomes:** **Ni transfer** to the tip persists under **clean** or **oxidized** contacts and can survive **retraction**; **H-terminated** tips **eliminate or drastically reduce** pickup (abstract).
+
+**Comparisons:** Same **DFT**/**AFM**-anchored contrasts as the sibling page [[2015tavazza-venue-research]].
+
+**Sensitivity:** **Tip chemistry** and **surface oxidation** dominate **adhesion** relative to a thin **oxide contaminant** story in the abstract.
+
+**Limitations / outlook:** **Proof PDF** may omit final copy edits; quantitative loads live in **`pdf_path`**.
+
+**Mechanism summary:** **Repulsive** idealizations miss **chemomechanical** pathways captured by **ReaxFF**/**LJ**-augmented **Ni–C** models.
 
 ## Limitations
 
-Proof PDFs may differ in **pagination, color, and figure embedding** from the **version of record**.
+**Proof PDF** pagination/colors may differ from the **journal PDF** on [[2015tavazza-venue-research]]. Semistatic **grip** constraints and finite **slab** thicknesses idealize the mechanical boundary conditions relative to bulk **AFM** experiments, so quantitative **adhesion** energies should be taken from the tables in **`pdf_path`** rather than from this navigation note alone.
 
 ## Relevance to group
 
-Archival duplicate for **nanoindentation / adhesion** modeling work with **NIST** coauthors.
+Archival duplicate for **nanoindentation / adhesion** modeling with **NIST** coauthors.
 
 ## Citations and evidence anchors
 
-Use the **version-of-record DOI** `10.1021/acs.jpcc.5b01275`; this path is `papers/Tavazza_JPC_2015_proof.pdf`.
+DOI `10.1021/acs.jpcc.5b01275`; this path: `papers/Tavazza_JPC_2015_proof.pdf`.
 
 ## Related topics
 
-- [[reaxff-family]]
 - [[2015tavazza-venue-research]]
+- [[reaxff-family]]

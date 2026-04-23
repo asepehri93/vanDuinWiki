@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2021mike-pols-j-phys-chem-atomistic-insights",
+  "manifest": {
+    "source_path": "papers/Pols_JPC_Letters_CsPbI3_perovskites.pdf",
+    "sha256": "4856dc1329e7a8639a8aeb602283448879d41f8e1519979d40977ba7b482ffde",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "Atomistic Insights Into the Degradation of Inorganic Halide Perovskite CsPbI3: A Reactive Force Field Molecular Dynamics Study",
+    "year": 2021,
+    "authors": "Mike Pols, José Manuel Vicent-Luna, Ivo Filot, Adri C. T. van Duin, and Shuxia Tao",
+    "venue": "J. Phys. Chem. Lett. 2021.12:5519-5525"
+  },
+  "pdf_path": "papers/Pols_JPC_Letters_CsPbI3_perovskites.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2021mike-pols-j-phys-chem-atomistic-insights_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2021mike-pols-j-phys-chem-atomistic-insights.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

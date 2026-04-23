@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019tingsi-venue-paper",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/TingSi_CaO_cellulose_acs.energyfuels_2019.pdf",
+    "sha256": "9ca42ed0a339e9a41c2130eab1d3acf34fb70b3c2d87e65637d2093ec8260c79",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1021/acs.energyfuels.9b02583",
+    "title": null,
+    "year": 2019,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/ReaxFF_others/TingSi_CaO_cellulose_acs.energyfuels_2019.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019tingsi-venue-paper_p1-2.txt",
+    "quality": "partial",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 3512
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019tingsi-venue-paper.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

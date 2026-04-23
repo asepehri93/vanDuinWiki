@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2017motevalian-venue-research",
+  "manifest": {
+    "source_path": "papers/Motevalian_Si_H_I&EC_2017_proof.pdf",
+    "sha256": "dc3c0d636716df99a877e9e96de1af7b43b6e12577d79fe5b7faeecc17b844c0",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": null,
+    "title": "research 1..6",
+    "year": 2017,
+    "authors": null,
+    "venue": null
+  },
+  "pdf_path": "papers/Motevalian_Si_H_I&EC_2017_proof.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2017motevalian-venue-research_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 8000
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2017motevalian-venue-research.md",
+  "updated": "2026-04-20T22:08:36Z"
+}

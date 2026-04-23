@@ -1,0 +1,26 @@
+{
+  "paper_id": "paper:2019jensen-carbon-journ-toward-ultralight",
+  "manifest": {
+    "source_path": "papers/ReaxFF_others/Jensen_Carbon_2019_CNT_pressure_preprint.pdf",
+    "sha256": "4649d2e23a813eacb17d316f1b8ba69c9017699b7d4423d69216ce751aaa73eb",
+    "ingested_at": "2026-04-20T22:08:36Z"
+  },
+  "bibliography": {
+    "doi": "10.1016/j.carbon.2019.09.090",
+    "title": "Toward Ultralight High Strength Structural Materials via Collapsed Carbon Nanotube Bonding",
+    "year": 2019,
+    "authors": "Benjamin D. Jensen",
+    "venue": "Carbon, Journal Pre-proof. 10.1016/j.carbon.2019.09.090"
+  },
+  "pdf_path": "papers/ReaxFF_others/Jensen_Carbon_2019_CNT_pressure_preprint.pdf",
+  "extraction": {
+    "text_path": "normalized/extracts/2019jensen-carbon-journ-toward-ultralight_p1-2.txt",
+    "quality": "good",
+    "extracted_at": "2026-04-20T22:08:36Z",
+    "text_preview_chars": 2120
+  },
+  "entities_mentioned": [],
+  "claims": [],
+  "wiki_path": "wiki/papers/2019jensen-carbon-journ-toward-ultralight.md",
+  "updated": "2026-04-20T22:08:36Z"
+}
