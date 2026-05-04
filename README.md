@@ -1,4 +1,4 @@
-# vanDuinWiki — Computational chemistry knowledge base
+# vanDuinWiki — Computational chemistry knowledge base.
 
 Private-first research memory and future MAS retrieval substrate, built from a PDF corpus under `papers/` and compiled into structured records and markdown wiki pages.
 
